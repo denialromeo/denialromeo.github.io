@@ -291,6 +291,10 @@ a { color: #222; text-decoration: none; -webkit-transition: color .4s; transitio
 
 a:hover { color: #b1b1b1; text-decoration: underline; }
 
+a.reverse { color: #999; text-decoration: none; -webkit-transition: color .4s; transition: color .4s; }
+
+a.reverse:hover { color: #222; text-decoration: underline; }
+
 /* Buttons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .button.button-primary, button.button-primary, input[type="submit"].button-primary, input[type="reset"].button-primary, input[type="button"].button-primary { color: #FFF; background-color: #33C3F0; border-color: #33C3F0; }
