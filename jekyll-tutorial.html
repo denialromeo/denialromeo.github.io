@@ -25,9 +25,9 @@
   <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css'>
   <!-- <meta property="og:image" content="/favicon.png" /> -->
 
-  <!-- Begin Jekyll SEO tag v2.6.1 -->
+  <!-- Begin Jekyll SEO tag v2.7.1 -->
 <title>Jekyll and Github Pages | Daniel Moore</title>
-<meta name="generator" content="Jekyll v4.0.0" />
+<meta name="generator" content="Jekyll v4.1.1" />
 <meta property="og:title" content="Jekyll and Github Pages" />
 <meta name="author" content="Daniel Moore" />
 <meta property="og:locale" content="en_US" />
@@ -38,8 +38,10 @@
 <meta property="og:site_name" content="Daniel Moore" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2017-10-21T00:00:00-07:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Jekyll and Github Pages" />
 <script type="application/ld+json">
-{"@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http://danielmoore.us/jekyll-tutorial"},"datePublished":"2017-10-21T00:00:00-07:00","url":"http://danielmoore.us/jekyll-tutorial","author":{"@type":"Person","name":"Daniel Moore"},"headline":"Jekyll and Github Pages","dateModified":"2017-10-21T00:00:00-07:00","description":"Build and host your own website for free with no ads!","@context":"https://schema.org"}</script>
+{"headline":"Jekyll and Github Pages","dateModified":"2017-10-21T00:00:00-07:00","datePublished":"2017-10-21T00:00:00-07:00","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http://danielmoore.us/jekyll-tutorial"},"url":"http://danielmoore.us/jekyll-tutorial","author":{"@type":"Person","name":"Daniel Moore"},"description":"Build and host your own website for free with no ads!","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head>
@@ -116,7 +118,7 @@
 
 <ol>
   <li>
-    <p>Open your command prompt (<code class="highlighter-rouge">Windows key</code>, type <code class="highlighter-rouge">cmd</code>, <code class="highlighter-rouge">Enter</code>) and install <a href="http://scoop.sh">Scoop</a> –</p>
+    <p>Open your command prompt (<code class="language-plaintext highlighter-rouge">Windows key</code>, type <code class="language-plaintext highlighter-rouge">cmd</code>, <code class="language-plaintext highlighter-rouge">Enter</code>) and install <a href="http://scoop.sh">Scoop</a> –</p>
 
     <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code> powershell Set-ExecutionPolicy RemoteSigned <span class="nt">-scope</span> CurrentUser
  powershell iex <span class="o">(</span>new-object net.webclient<span class="o">)</span>.downloadstring<span class="o">(</span><span class="s1">'https://get.scoop.sh'</span><span class="o">)</span>
@@ -160,8 +162,8 @@
     <p>When placed in the directory containing your website, this will enable two commands –</p>
 
     <ul>
-      <li><code class="highlighter-rouge">make g</code> will push your website to Github Pages for public view.</li>
-      <li><code class="highlighter-rouge">make l</code> will run your website on your own computer at <a href="http://localhost:8000">http://localhost:8000</a>.</li>
+      <li><code class="language-plaintext highlighter-rouge">make g</code> will push your website to Github Pages for public view.</li>
+      <li><code class="language-plaintext highlighter-rouge">make l</code> will run your website on your own computer at <a href="http://localhost:8000">http://localhost:8000</a>.</li>
     </ul>
   </li>
 </ol>
@@ -180,17 +182,17 @@ make l
 
 <p>Now visit <a href="http://localhost:8000">http://localhost:8000</a>. Voila!</p>
 
-<p>If <code class="highlighter-rouge">make l</code> failed, here’s a few trouble-shooting tips.</p>
+<p>If <code class="language-plaintext highlighter-rouge">make l</code> failed, here’s a few trouble-shooting tips.</p>
 
 <ol>
   <li>
-    <p>Google the error message and install any missing gems with <code class="highlighter-rouge">gem install &lt;gem&gt;</code>.</p>
+    <p>Google the error message and install any missing gems with <code class="language-plaintext highlighter-rouge">gem install &lt;gem&gt;</code>.</p>
   </li>
   <li>
-    <p>Some Jekyll themes use <a href="https://bundler.io/">Bundler</a>, so if needed, run <code class="highlighter-rouge">gem install bundler</code>, then <code class="highlighter-rouge">notepad makefile</code> and edit to <code class="highlighter-rouge">bundle exec jekyll serve --incremental --port 8000</code>.</p>
+    <p>Some Jekyll themes use <a href="https://bundler.io/">Bundler</a>, so if needed, run <code class="language-plaintext highlighter-rouge">gem install bundler</code>, then <code class="language-plaintext highlighter-rouge">notepad makefile</code> and edit to <code class="language-plaintext highlighter-rouge">bundle exec jekyll serve --incremental --port 8000</code>.</p>
   </li>
   <li>
-    <p>Run <code class="highlighter-rouge">notepad _config.yml</code> and add the line <code class="highlighter-rouge">exclude: [vendor]</code>.</p>
+    <p>Run <code class="language-plaintext highlighter-rouge">notepad _config.yml</code> and add the line <code class="language-plaintext highlighter-rouge">exclude: [vendor]</code>.</p>
   </li>
 </ol>
 
@@ -198,7 +200,7 @@ make l
 
 <p>Create and sign into a <a href="https://github.com">Github</a> account.</p>
 
-<p>Create new repository <code class="highlighter-rouge">&lt;your username&gt;.github.io</code>, then return to your command prompt.</p>
+<p>Create new repository <code class="language-plaintext highlighter-rouge">&lt;your username&gt;.github.io</code>, then return to your command prompt.</p>
 
 <p>Remove the existing local repository, start a new one, point it to Github, and push to remote.</p>
 
@@ -208,7 +210,7 @@ git remote add origin <span class="s2">"https://github.com/&lt;username&gt;/&lt;
 make g
 </code></pre></div></div>
 
-<p>Wait a minute, then visit <code class="highlighter-rouge">&lt;your username&gt;.github.io</code> in a browser. Your website should be live! From now on, to update your public website, just run <code class="highlighter-rouge">make g</code>.</p>
+<p>Wait a minute, then visit <code class="language-plaintext highlighter-rouge">&lt;your username&gt;.github.io</code> in a browser. Your website should be live! From now on, to update your public website, just run <code class="language-plaintext highlighter-rouge">make g</code>.</p>
 
 <p>(You can get Git to remember your Github credentials by running one of the commands <a href="https://help.github.com/articles/caching-your-github-password-in-git/">here</a>.)</p>
 
@@ -223,7 +225,7 @@ make g
 
 <ul>
   <li>
-    <p>You should develop for yourself locally by running <code class="highlighter-rouge">make l</code> and reserve <code class="highlighter-rouge">make g</code> for when you want to make changes public.</p>
+    <p>You should develop for yourself locally by running <code class="language-plaintext highlighter-rouge">make l</code> and reserve <code class="language-plaintext highlighter-rouge">make g</code> for when you want to make changes public.</p>
   </li>
   <li>
     <p>Jekyll uses <a href="https://shopify.github.io/liquid/">Liquid</a> and <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown</a>. Be familiar with both and read Jekyll’s <a href="https://jekyllrb.com/docs/home/">documentation</a>.</p>
