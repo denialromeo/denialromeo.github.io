@@ -41,7 +41,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Jekyll and Github Pages" />
 <script type="application/ld+json">
-{"@type":"BlogPosting","headline":"Jekyll and Github Pages","dateModified":"2017-10-21T00:00:00-07:00","datePublished":"2017-10-21T00:00:00-07:00","url":"http://danielmoore.us/jekyll-tutorial","author":{"@type":"Person","name":"Daniel Moore"},"mainEntityOfPage":{"@type":"WebPage","@id":"http://danielmoore.us/jekyll-tutorial"},"description":"Build and host your own website for free with no ads!","@context":"https://schema.org"}</script>
+{"headline":"Jekyll and Github Pages","dateModified":"2017-10-21T00:00:00-07:00","datePublished":"2017-10-21T00:00:00-07:00","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http://danielmoore.us/jekyll-tutorial"},"url":"http://danielmoore.us/jekyll-tutorial","author":{"@type":"Person","name":"Daniel Moore"},"description":"Build and host your own website for free with no ads!","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head>
@@ -125,9 +125,9 @@
 </code></pre></div>    </div>
   </li>
   <li>
-    <p>Use Scoop to install Git, Make, Ruby, and Wget, then configure your name and e-mail for Git.</p>
+    <p>Use Scoop to install Git, Make, MSYS2, Ruby, and Wget, then configure your name and e-mail for Git.</p>
 
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code> scoop <span class="nb">install </span>git make ruby wget
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code> scoop <span class="nb">install </span>git make msys2 ruby wget
  git config <span class="nt">--global</span> user.name <span class="s2">"Your Name"</span>
  git config <span class="nt">--global</span> user.email <span class="s2">"Your E-mail"</span>
 </code></pre></div>    </div>
@@ -135,6 +135,7 @@
     <ul>
       <li><a href="https://git-scm.com/">Git</a> is how you’ll push your website to Github Pages.</li>
       <li><a href="https://www.gnu.org/software/make/">Make</a> lets you run makefiles, which simplify commands.</li>
+      <li><a href="https://www.msys2.org/">MSYS2</a> helps with installing Ruby gems on Windows.</li>
       <li><a href="https://www.ruby-lang.org/en/">Ruby</a> is the language Jekyll is written in. You’ll use <a href="https://rubygems.org/">RubyGems</a> to install Jekyll.</li>
       <li><a href="https://www.gnu.org/software/wget/">Wget</a> lets you download files from the Internet through the command prompt.
  <span style="display:block;margin-bottom:15px;"></span></li>
