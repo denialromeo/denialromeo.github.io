@@ -41,7 +41,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Random Acclaimed Album" />
 <script type="application/ld+json">
-{"headline":"Random Acclaimed Album","dateModified":"2021-01-12T00:00:00-08:00","datePublished":"2021-01-12T00:00:00-08:00","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http://danielmoore.us/random-acclaimed-album"},"url":"http://danielmoore.us/random-acclaimed-album","author":{"@type":"Person","name":"Daniel Moore"},"description":"Listen to 3,000 top-rated albums!","@context":"https://schema.org"}</script>
+{"@type":"BlogPosting","headline":"Random Acclaimed Album","dateModified":"2021-01-12T00:00:00-08:00","datePublished":"2021-01-12T00:00:00-08:00","url":"http://danielmoore.us/random-acclaimed-album","author":{"@type":"Person","name":"Daniel Moore"},"mainEntityOfPage":{"@type":"WebPage","@id":"http://danielmoore.us/random-acclaimed-album"},"description":"Listen to 3,000 top-rated albums!","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head>
@@ -124,7 +124,7 @@
             <a target="_self" href="?artist=Bob+Marley|The.Wailers">Albums by Bob Marley.</a>
         </li>
         <li>
-            <a target="_self" href="?song=love">Albums whose titles contain the word "love".</a>
+            <a target="_self" href="?album=love">Albums whose titles contain the word "love".</a>
         </li>
     </ul>
    <p>Also note that each album's name is a link to its Wikipedia page.</p>
@@ -157,8 +157,8 @@
     if ("artist" in params) {
         pool = pool.filter(s => new RegExp(params.artist, "i").exec(s.split("|")[0]) !== null)
     }
-    if ("song" in params) {
-        pool = pool.filter(s => new RegExp(params.song, "i").exec(s.split("|")[1]) !== null)
+    if ("album" in params) {
+        pool = pool.filter(s => new RegExp(params.album, "i").exec(s.split("|")[1]) !== null)
     }
     if ("year" in params) {
         pool = pool.filter(s => new RegExp(params.year, "i").exec(s.split("|")[2]) !== null)
