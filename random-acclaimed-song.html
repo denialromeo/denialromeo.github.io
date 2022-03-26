@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="canonical" href="http://danielmoore.us/random-acclaimed-song" />
+
+  <title>Random Acclaimed Song</title>
+  <meta name="description" content="">
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.png">
+  <link rel="stylesheet" href="/css/main.css">
+
+  <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css'>
+  <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css'>
+  <!-- <meta property="og:image" content="/favicon.png" /> -->
+
+</head>
+
+  <body>
+
+    <div class="page-content">
+      <div class="container">
+        <div class="three columns">
+          <header class="site-header">
+
+  <h2 class="logo"><a target="_self" href="/">Daniel Moore</a></h2>
+
+  <div class="nav">
+    
+    <label for="menu-toggle" class="menu-icon">
+        <!--div data-icon="ei-navicon"></div-->
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"></path>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"></path>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"></path>
+        </svg>
+    </label>
+
+    <input type="checkbox" id="menu-toggle">
+
+    <div class="site-nav">
+      <nav>
+        <ul class="page-link">
+          
+          <li><a target="_self" href="/">Home</a></li>
+          
+          
+          <li><a target="_self" href="/about">About Me</a></li>
+          
+          
+          <li><a target="_self" href="/contact">Contact</a></li>
+          
+          
+          <li>
+            <a title="Steam" href="http://steamcommunity.com/id/denialromeo/"><img src="https://i.imgur.com/cezrtZO.png" height="20" width="20" /></a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+
+  </div>
+</header>
+
+        </div>
+
+        <div class="nine columns" style="z-index:100;">
+          <div class="wrapper" id="content">
+            <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="article_header">
+    <h1 class="article_title" itemprop="name headline">Random Acclaimed Song</h1>
+  </header>
+
+  <div class="article-content" itemprop="articleBody">
+    <h3 id="song-title"></h3>
+
+<center><div style="width:80%;margin-right:0%;display:inline-block"><div class="video-container">
+<iframe id="song" frameborder="0" allowfullscreen=""></iframe>
+</div></div></center>
+<p><span style="display:block;margin-bottom:15px;"></span></p>
+
+<p id="description">Since 2001, statistician Henrik Franzon has maintained <a href="http://acclaimedmusic.net">acclaimedmusic.net</a>, his ranking of the top&#8209;rated songs of all time. This song was randomly chosen from his <a href="http://www.acclaimedmusic.net/history_songs.htm">list</a> of 10,873 songs.</p>
+
+<p id="next-song"></p>
+
+<p><a href="javascript:;" id="dropdown" target="_self">More Fun</a></p>
+<div id="instructions" style="display:none;">
+    <p>You can filter the song selection! Examples &ndash;</p>
+    <ul>
+        <li>
+            <a target="_self" href="?year=19[6-7][0-9]">Songs released in the 1960's and 1970's.</a>
+        </li>
+        <li>
+            <a target="_self" href="?artist=Bob+Marley|The.Wailers">Songs by Bob Marley.</a>
+        </li>
+        <li>
+            <a target="_self" href="?song=love">Songs whose titles contain the word "love".</a>
+        </li>
+        <li>
+            <a target="_self" href="?genre=disco&amp;year=197.">Disco songs from the 1970's.</a>
+        </li>
+    </ul>
+   <p>Also note that each artist's name is a link to their Wikipedia page.</p>
+</div>
+
+<script src="/js/URI.js"></script>
+
+<script src="/js/songs.js"></script>
+
+<script>
+    const is_firefox = typeof(InstallTrigger) !== "undefined"
+    const next_song = document.querySelector("#next-song")
+    next_song.innerHTML = is_firefox ? `Click <a href='${window.location.href}' target='_self'>here</a> for another!` : "Refresh the page for another!"
+
+    function random(x) { return Math.floor(x * Math.random()) }
+    function choice(a) { return a[random(a.length)] }
+    function wiki_link(title) {
+        if (title.startsWith("http")) {
+            return title
+        }
+        const escaped = title.replace(/ /g, "_").replace(/'/g, "&#39;")
+        return `https://en.wikipedia.org/wiki/${escaped}`
+    }
+    const iframe = document.querySelector("#song");
+    const title = document.querySelector("#song-title");
+    const params = new URI(window.location.href).search(true)
+    var pool = songs
+    var regex = ""
+    try {
+    if ("artist" in params) {
+        pool = pool.filter(s => new RegExp(params.artist, "i").exec(s.split("|")[0]) !== null)
+    }
+    if ("song" in params) {
+        pool = pool.filter(s => new RegExp(params.song, "i").exec(s.split("|")[1]) !== null)
+    }
+    if ("year" in params) {
+        pool = pool.filter(s => new RegExp(params.year, "i").exec(s.split("|")[2]) !== null)
+    }
+    if ("genre" in params) {
+        pool = pool.filter(s => new RegExp(params.genre, "i").exec(s.split("|")[6]) !== null)
+    }
+    } catch (e) { }
+    if (pool.length === 0) { pool = songs }
+    if (pool.length !== songs.length) {
+        pool.sort()
+        console.log(pool.map(s => s.split("|").slice(0,3).concat(s.split("|").slice(6,7))))
+    }
+    const info = choice(pool).split("|")
+    console.log(info.slice(0,3).concat(info.slice(6,7)))
+    iframe.src = info[3].startsWith("http") ? info[3] : `https://youtube.com/embed/${info[3]}`
+    const wikiLink = `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[4])}>${info[0]}</a>`
+    const songLink = `<a style='text-decoration:none;border-bottom:none;' href='http://acclaimedmusic.net/song/${info[5]}.htm'>${info[1]}</a>`
+    title.innerHTML = `${wikiLink} - ${songLink} (${info[2]})`
+    document.title  = `${info[0]} - ${info[1]} (${info[2]})`
+</script>
+
+<p><br />
+<br />
+<br /></p>
+
+  </div>
+
+
+  
+  <footer class="article-footer">
+    <section class="author">
+  <div id="author"></div>
+	<script type="text/javascript">
+
+      const alberic = '"A sable cloak is just a sable cloak and a poulet po&ecirc;le &agrave; l\'estragon is really just &nbsp;another roast chicken."'
+      const allen = '"Everybody knows how awful the world is and what a terrible situation it is and &nbsp;each&nbsp;person distorts it in a certain way that enables him to get through."'
+      const bloch = '"The more things you learn and the younger you learn them, the better off you are."<br>'
+      const christof = '"We accept the reality of the world with which we\'re presented."<br>'
+      const einstein = '"Of all the communities available to us there is not one that I would devote myself to, &nbsp;except for the society of true searchers, which has few living members at any time."'
+      const crows = '"How much can a crown be worth, when a crow can dine upon a king?"<br>'
+      const istambulova = '"When I was working, my days were running one by one."<br>'
+      const leanne = '"Kitchen skill, not budget, is the key to great food."<br>'
+      const musashi = '"Strategy is different from other things in that if you mistake the Way even a little you &nbsp;will become bewildered and fall into bad ways."'
+      const plumm = '"Silver’s sweet and gold’s our mother, but once you’re dead they’re worth less than &nbsp;that last shit you take as you lie dying."'
+      const robert = '"I ask you, Ned, what good is it to wear a crown? The gods mock the prayers of &nbsp;kings and cowherds alike."'
+      const sagan = '"Every saint and sinner in the history of our species lived there &ndash; on a mote of dust &nbsp;suspended in a sunbeam."'
+      const xaro = '"The justice of your cause means naught to the common men of Qarth. Why should &nbsp;my sailors care who sits on the throne of some kingdom at the edge of the world?”'
+      const walk = '"Even when you\'re walking with no warnings, there\'s only two minutes between you &nbsp;and the inside of a cemetery fence. That\'s not much time."'
+      const yakko = '"United States, Canada, Mexico, Panama, Haiti, Jamaica, Peru! &nbsp;Republic&nbsp;Dominican, Cuba, Caribbean, Greenland, El Salvador too!"'
+      const haldane = '"India may of course break up, but it is a wonderful experiment. So, I want to be &nbsp;labeled as a citizen of India."'
+      const orwell = '"Theoretically &mdash; and secretly, of course &mdash; I was all for the Burmese and all against &nbsp;their oppressors, the British."'
+      const catelyn = '"We\'re all just songs in the end. If we are lucky."<br>'
+      const aegon = '"Send the lords home to their own keeps and give the food to the hungry. Full bellies &nbsp;and dancing bears shall be my policy."'
+      const ilyrio = '"The world is one great web, and a man dare not touch a single strand lest all the &nbsp;others tremble."'
+      const tyrion = '"We are puppets dancing on the strings of those who came before us, and one day &nbsp;our own children will take up our strings and dance on in our steads."'
+      const cioran = '"Only false values prevail, because everyone can assimilate them, counterfeit them. &nbsp;An idea that succeeds is necessarily a pseudo-idea."'
+      const tolstoy = '"What does it mean that thirty thousand rather weak and ordinary people have &nbsp;enslaved two hundred millions of vigorous, clever, capable, freedom-loving people?"'
+      const asimov = '"Democracy cannot survive overpopulation. Human dignity cannot survive it. &nbsp;Convenience and decency cannot survive it."'
+      const holodomor = '"What do you do if there\'s nothing to eat? We collected birch leaves and toasted &nbsp;them and ate them. What else could we do?"'
+      const kiss = '"There was a 10- to 15-year period in the \'60s and \'70s that gave birth to almost &nbsp;every artist we now call iconic or classic."'
+      const dylan = '"They had to dismantle it, starting with payola scandals. The black element was &nbsp;turned into soul music, and the white element was turned into English pop."'
+      const immortal = '"Anderssen\'s achievement in that game, sacrificing queen and rooks to force mate, &nbsp;is perhaps unparalleled in chess literature."'
+      const kubrick = '"Nor is the treaty between Grady and Jack any less dishonest. For Jack will get no &nbsp;reward for doing Grady\'s bidding, but rather will reap insanity and death."'
+      const covid = '"Around 90 million children who would normally receive school meals are no longer &nbsp;able to do so following the education shutdown across India."'
+      const clarence = '"They certainly don\'t see themselves as being like the bigots in the South. Well, I\'ve &nbsp;lived both experiences. And I really don\'t see that they\'re any different from them."'
+      const dawkins = '"If there is ever a time of plenty, this very fact will automatically lead to an increase in &nbsp;population until the natural state of starvation and misery is restored."'
+      const patnaik = '"In rural India, the proportion of the poor increased from 58 percent in 1993-94 to &nbsp;68&nbsp;percent in 2011-12."'
+      const mckinsey = '"India could become one of the first places in the world to experience heat waves &nbsp;that cross the survivability limit for a healthy human being resting in the shade."'
+      const knuth = '"The whole thing that makes a mathematician\'s life worthwhile is that he gets the &nbsp;grudging admiration of three or four colleagues."'
+      const rao = '"Winning would be worthless if holding on to winnings took as much ongoing effort &nbsp;as gaining them."'
+      const sematary = '"I\'m never going to get married or do sex and have babies!" Ellie declared, crying &nbsp;harder than ever. "Then maybe it\'ll never happen to me! It\'s awful! It\'s m-m-mean!"'
+      const hackers = '"Chinese hackers, officials suggested, had trained their sights on bringing down &nbsp;Mumbai\'s electric grid-and they had succeeded."'
+      const braid = '"But all these moments he\'s contemplated - something has occurred. The moments &nbsp;feel substantial in his mind, like stones."'
+      const braid2 = '"It\'s a sign of ceaseless devotion: even if he will never find the Princess, he will &nbsp;always be trying. He still will wear the ring."'
+      const braid3 = '"She pleaded: "Look at me!" But he would not see her; he only knew how to look at &nbsp;the outsides of things."'
+      const braid4 = '"To build a castle of appropriate size, he will need a great many stones. But what &nbsp;he\'s got, now, feels like an acceptable start."'
+      const houellebecq = '"It may well be impossible for people who have lived and prospered under a given &nbsp;social system to imagine the point of view of those who feel it offers them nothing."'
+      const kafka = '"I couldn\'t find a food which I enjoyed. If I had, I would not have made a spectacle of &nbsp;myself and would have eaten to my heart\'s content, like you and everyone else."'
+      const schwartz = '"In short, a great human being is the greatest being in the known universe, and a &nbsp;mediocre one is just . . . a mediocre animal."'
+      const shadow = '"I take a Zen approach to collecting. Rather than scramble around, trying to compete &nbsp;with everyone for the same 500 records, I try to take what the world gives me."';
+      const mcduffie = '"He\'s a hero who could be you, which suggests the converse, don\'t you think?"<br>'
+      const balram = '"What a miserable	life, hiding his religion and name just to get a job as a servant."<br>'
+      const leekuanyew = '"Not all will be rich; quite a few will find a vein of gold; but all who pursue that &nbsp;rainbow will have a joyous and exhilarating ride and some profit."'
+      const bhadrakumar = '"Curiously, the Indian opposition too constantly taunts the government for not being &nbsp;aggressive enough toward China, a superpower manifold stronger than India."'
+      const crockford = '"Programmers are capable of completely misunderstanding the world in exactly the &nbsp;same way everybody else does. I was really sad to figure that out."'
+      const takumi = '"If you don\'t put everything you\'ve got into what you\'re working on, the product won\'t &nbsp;turn out well. Besides, why think about the future when you might die tomorrow?"'
+      const sunyatsen = '"The reason why we suffer from foreign oppression is our ignorance. We are born in &nbsp;a stupor and die in a dream."'
+      const houellebecq2 = '"Writing brings scant relief. What a contrast with the miraculous power of reading! &nbsp;The texture of the world is painful, inadequate; unalterable, or so it seems to me."'
+      const ender = '"The power to cause pain is the only one that matters. If you can\'t kill then you are &nbsp;always subject to those who can, and nothing and no one will ever save you."'
+      const zhou = '"Zhou offered, with the approval of Chairman Mao, that China would accept India\'s &nbsp;control over Arunachal Pradesh if India accepted China\'s control over Aksai Chin."'
+
+      const imagesAndVideos = [
+                                 
+                                 ["https://i.imgur.com/f8placi.jpg", "https://thefindmag.com/features/stories-articles/dj-shadow-sample-rocket-fuel-story/", shadow, 'DJ Shadow'],
+                                 ["https://i.imgur.com/wyJwnBa.jpg", "https://www.esquire.com/entertainment/music/interviews/a26330/gene-simmons-future-of-rock/", kiss, 'Gene Simmons'],
+                                 ["https://i.imgur.com/OFoEt3E.jpg", "https://medium.com/cuepoint/like-it-is-bob-dylan-explains-what-really-killed-rock-n-roll-f6a4b6587a1a", dylan, 'Bob Dylan'],
+                                 
+                              ]
+
+      imgVid = imagesAndVideos[Math.floor(Math.random() * imagesAndVideos.length)]
+      function wiki_link(title) {
+        if (title.startsWith("http")) {
+          return title
+        }
+        const escaped = title.replace(/ /g, "_").replace(/'/g, "&#39;")
+        return `https://en.wikipedia.org/wiki/${escaped}`
+      }
+      document.querySelector("#author").innerHTML = `<a href='${imgVid[3] ? wiki_link(imgVid[3]) : imgVid[1]}'><div class="authorimage box"><img title="Click me!" src='${imgVid[0]}'/></div></a>
+                                                     <div class="authorinfo box">
+                                                     <p>Author | Daniel Moore</p>
+                                                     <p class="bio"><a title="Click Me!" class='reverse' style='text-decoration:none;border-bottom:none;' href='${imgVid[1]}'>${imgVid[2]}</a><br/></p></div>`
+  </script>
+</section>
+
+  </footer>
+  
+
+</article>
+
+          </div>
+        </div>
+
+      </div>
+      <span style="display:block;margin-bottom:35px;"></span>
+      <footer class="site-footer">
+  <div class="container">
+    <div class="footer left column one-half">
+      <section class="small-font">
+        <a href="#top">Back to Top</a>
+        <br/>
+        Powered by theme <a target="_blank" href="http://github.com/wild-flame/jekyll-simple#readme">jekyll-simple</a>. Hosted on <a target="_blank" href="https://pages.github.com/">Github Pages</a>.
+        <br/>
+        This website is released under the <a href="https://opensource.org/licenses/MIT#content-wrapper">MIT License</a>.
+        <br/>
+      </section>
+    </div>
+
+  </div>
+</footer>
+
+    </div>
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element, as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. PhotoSwipe keeps only 3 slides in DOM to save memory. -->
+        <!-- don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" ></button>
+
+                <button class="pswp__button pswp__button--fs" ></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" >
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" >
+            </button>
+            
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+          </div>
+
+        </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js'></script>
+<script src="/js/photoswipe.js"></script>
+
+<script>
+  if ($(document).width() <= 760) {
+    $(".photoswipe-caption").each(function() {
+      this.innerHTML = "<i>Tap the pictures!</i>"
+    })
+    $(".photoswipe-caption-comic").each(function() {
+      this.innerHTML = "<i>Tap the pictures!</i>"
+    })
+  }
+</script>
+
+<script>
+  // Opens all links in new tab unless tagged "self" or pointing to id on same page.
+  $("a").each(function() {
+    if ($(this).attr("target") !== "_self" && $(this).attr("href").charAt(0) !== "#" && $(this).attr("itemprop") !== "contentUrl") {
+      $(this).attr("target", "_blank")
+    }
+  })
+</script>
+<script>
+  document.querySelectorAll("a").forEach(function(a) {
+    if (a.href.includes("#")) { return }
+    if (a.href.includes("wikipedia")) { a.href += "#firstHeading" }
+    else if (a.href.includes("amazon")) { a.href += "#productTitle" }
+    else if (a.href.includes("discogs")) { a.href += "#page_content" }
+  })
+</script>
+
+
+
+
+
+
+<script type="text/javascript">
+    $("#dropdown").click(() => $( "#instructions" ).slideToggle( "slow"))
+    if ($(document).width() <= 760) {
+      document.querySelector("#description").innerHTML = `This song was randomly chosen from statistician Henrik Franzon's <a href="http://www.acclaimedmusic.net/history_songs.htm">2018 list</a> of 10,873 top songs.`
+    }
+</script>
+
+
+
+
+</body>
+</html>
