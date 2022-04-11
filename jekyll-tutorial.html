@@ -98,7 +98,9 @@
   <li>
     <p>Use Scoop to install Git, Make, MSYS2, Ruby, and Wget, then configure Git.</p>
 
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code> scoop <span class="nb">install </span>git make msys2 ruby wget
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code> scoop <span class="nb">install </span>git
+ scoop bucket add versions extras
+ scoop <span class="nb">install </span>make msys2 ruby27 wget
  git config <span class="nt">--global</span> user.name <span class="s2">"Your Name"</span>
  git config <span class="nt">--global</span> user.email <span class="s2">"Your E-mail"</span>
 </code></pre></div>    </div>
