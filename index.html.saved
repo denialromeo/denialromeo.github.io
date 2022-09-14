@@ -146,32 +146,7 @@
       
 
       
-
       
-
-      <!-- If category contains tildes, remove them! -->
-      
-      <div class="category-name">
-        <h2>history</h2>
-      </div>
-
-      
-
-          <div class="post_title">
-            <a target="_self" href="http://danielmoore.us/race">Race</a>
-            <span class="date">Aug 17, 2017</span>
-          </div>
-
-      
-
-          <div class="post_title">
-            <a target="_self" href="http://danielmoore.us/india">India</a>
-            <span class="date">Sep 26, 2017</span>
-          </div>
-
-      
-    
-    
 
   </section>
 
@@ -251,7 +226,16 @@
 
       const imagesAndVideos = [
                                  
-                                 ["/assets/img/imgur/dF31gyi.jpg", "https://www.goodreads.com/notes/30238165-coders-at-work/71655209-daniel-moore", crockford, 'Douglas Crockford'],
+                                 // ["/assets/img/imgur/Sq64l3n.jpg", "https://www.goodreads.com/notes/18581676-be-slightly-evil/71655209-daniel-moore", rao],
+                                 // ["/assets/img/imgur/hp2MdWL.png", "https://www.goodreads.com/notes/30238165-coders-at-work/71655209-daniel-moore", bloch],
+                                 // ["/assets/img/imgur/oKGhUXQ.jpg", "https://braid.fandom.com/wiki/Storyline#World_2", braid, 'https://en.wikipedia.org/wiki/Braid_(video_game)#Development'],
+                                 ["/assets/img/imgur/oKGhUXQ.jpg", "https://braid.fandom.com/wiki/Storyline#World_2", braid2, 'https://en.wikipedia.org/wiki/Braid_(video_game)#Development'],
+                                 // ["/assets/img/imgur/oKGhUXQ.jpg", "https://braid.fandom.com/wiki/Storyline#World_2", braid4, 'https://en.wikipedia.org/wiki/Braid_(video_game)#Development'],
+                                 // ["/assets/img/imgur/oKGhUXQ.jpg", "https://braid.fandom.com/wiki/Storyline#World_2", braid3, 'https://en.wikipedia.org/wiki/Braid_(video_game)#Development'],
+                                 ["/assets/img/imgur/pu1hHqA.jpg", "https://dcanimated.com/WF/staticshock/backstage/interviews/mcduffiewf.php", mcduffie, 'Dwayne McDuffie'],
+                                 ["/assets/img/imgur/white-tiger.jpg", "https://www.goodreads.com/notes/32574786-the-white-tiger/71655209-daniel-moore", balram2],
+                                 ["/assets/img/imgur/white-tiger.jpg", "https://www.netflix.com/title/80202877", balram3],
+                                 ["/assets/img/imgur/0o2Pqi0.jpg", "http://shmuplations.com/justiceforall/", takumi, 'Shu Takumi'],
                                  
                               ]
 
