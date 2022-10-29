@@ -226,11 +226,10 @@
       const balram5 = '"My whole life, I have been treated like a donkey. All I want is that one son of mine&ndash;&nbsp;at least one&ndash;should live like a man."'
       const charlotte = '"A spider\'s life can\'t help being something of a mess, with all this trapping and eating &nbsp;flies. By helping you, perhaps I was trying to lift up my own life a trifle."'
       const foyle = '"Foyle, the stereotype Common Man, was no more. The key turned in the lock of his &nbsp;soul and the door was opened. What emerged expunged the Common Man forever."'
-      const livermore = '"People who look for easy money invariably pay for the privilege of proving conclusively that it cannot be found on this sordid earth."'
+      const livermore = '"People who look for easy money invariably pay for the privilege of proving &nbsp;conclusively that it cannot be found on this sordid earth."'
 
       const imagesAndVideos = [
                                  
-                                 ["/assets/img/imgur/livermore.jpg", "https://beleggersblueprint.nl/jesse-livermore-quotes/", livermore, "Jesse Livermore"],
                                  // ["/assets/img/imgur/Sq64l3n.jpg", "https://www.goodreads.com/notes/18581676-be-slightly-evil/71655209-daniel-moore", rao],
                                  // ["/assets/img/imgur/hp2MdWL.png", "https://www.goodreads.com/notes/30238165-coders-at-work/71655209-daniel-moore", bloch],
                                  // ["/assets/img/imgur/oKGhUXQ.jpg", "https://braid.fandom.com/wiki/Storyline#World_2", braid, 'https://en.wikipedia.org/wiki/Braid_(video_game)#Development'],
