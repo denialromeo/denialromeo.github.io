@@ -296,6 +296,7 @@
 <script type="text/javascript">
     $("#dropdown").click(() => $( "#instructions" ).slideToggle( "slow"))
     $("#dropdown2").click(() => $( "#instructions2" ).slideToggle( "slow"))
+    $("#dropdown3").click(() => $( "#instructions3" ).slideToggle( "slow"))
 </script>
 
 
