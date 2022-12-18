@@ -111,6 +111,13 @@
           </div>
 
       
+
+          <div class="post_title">
+            <a target="_self" href="http://danielmoore.us/random-hits-archive-song">Random Hits Archive Song</a>
+            <span class="date">Dec 18, 2022</span>
+          </div>
+
+      
     
     
 
@@ -382,6 +389,7 @@
     else if (a.href.includes("discogs")) { a.href += "#page_content" }
   })
 </script>
+
 
 
 

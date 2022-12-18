@@ -4,9 +4,9 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="canonical" href="http://danielmoore.us/contact" />
+  <link rel="canonical" href="http://danielmoore.us/random-hits-archive-song" />
 
-  <title>Contact</title>
+  <title>Random Hits Archive Song</title>
   <meta name="description" content="">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.png">
   <link rel="stylesheet" href="/css/main.css">
@@ -49,6 +49,8 @@
           <li><a target="_self" href="/about">About Me</a></li>
           
           
+          <li><a target="_self" href="/contact">Contact</a></li>
+          
           
           <li>
             <a title="Steam" href="http://steamcommunity.com/id/denialromeo/"><img src="/assets/img/imgur/cezrtZO.png" height="20" width="20" /></a>
@@ -64,44 +66,88 @@
 
         <div class="nine columns" style="z-index:100;">
           <div class="wrapper" id="content">
-            <article class="post">
+            <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
-    <h1 class="post-title">Contact</h1>
+  <header class="article_header">
+    <h1 class="article_title" itemprop="name headline">Random Hits Archive Song</h1>
   </header>
 
-  <div class="article-content">
-    <div class="form">
-    <form id="contact" action="https://formspree.io/f/hi@danielmoore.us" method="POST">
-        <div class="form-field">
-            <input name="name" type="text" placeholder="Name" required="" />
-        </div>
-        <div class="form-field">
-            <input name="email" type="email" placeholder="Email Address" required="" />
-        </div>
-        <div class="form-field">
-            <textarea name="message" placeholder="Message" required=""></textarea>
-        </div>
-        <input data-callback="onSubmit" type="submit" class="btn" value="Send" />
-    </form>
-</div>
+  <div class="article-content" itemprop="articleBody">
+    <h3 id="song-title"></h3>
+
+<center><div style="width:80%;margin-right:0%;display:inline-block"><div class="video-container">
+<iframe id="song" frameborder="0" allowfullscreen=""></iframe>
+</div></div></center>
 <p><span style="display:block;margin-bottom:15px;"></span></p>
 
-<p>Some suggestions –</p>
+<p id="description">Since 2019, Bob Moke has maintained Hits Archive, a set of YouTube channels dedicated to major U.S. hits released between 1925 and 1971. This song was randomly chosen from his channels.</p>
 
-<ul>
-  <li>
-    <p>Video recommendations for “Random Acclaimed Song” are very welcome.</p>
-  </li>
-  <li>
-    <p>Thank you notes and compliments are always appreciated!</p>
-  </li>
-</ul>
+<p id="next-song"></p>
 
-<p><span style="display:block;margin-bottom:25px;"></span></p>
+<p><a href="javascript:;" id="dropdown" target="_self">Advanced Usage Instructions</a></p>
+<div id="instructions" style="display:none;">
+    <p>You can filter the song selection! Examples &ndash;</p>
+    <ul>
+        <li>
+            <a target="_self" href="?year=19[2-3][0-9]">Songs released in the 1920's and 1930's.</a>
+        </li>
+        <li>
+            <a target="_self" href="?artist=Glenn Miller">Songs by Glenn Miller.</a>
+        </li>
+    </ul>
+</div>
 
-    
+<script src="/js/URI.js"></script>
+
+<script src="/js/hits-archive.js"></script>
+
+<script>
+    const is_firefox = typeof(InstallTrigger) !== "undefined"
+    const next_song = document.querySelector("#next-song")
+    next_song.innerHTML = is_firefox ? `Click <a href='${window.location.href}' target='_self'>here</a> for another!` : "Refresh the page for another!"
+
+    function random(x) { return Math.floor(x * Math.random()) }
+    function choice(a) { return a[random(a.length)] }
+    function wiki_link(title) {
+        if (title.startsWith("http")) {
+            return title
+        }
+        const escaped = title.replace(/ /g, "_").replace(/'/g, "&#39;")
+        return `https://en.wikipedia.org/wiki/${escaped}`
+    }
+    const iframe = document.querySelector("#song");
+    const title = document.querySelector("#song-title");
+    const params = new URI(window.location.href).search(true)
+    var pool = songs
+    var regex = ""
+    try {
+    if ("artist" in params) {
+        pool = pool.filter(s => new RegExp(params.artist, "i").exec(s.split("|")[2]) !== null)
+    }
+    if ("song" in params) {
+        pool = pool.filter(s => new RegExp(params.song, "i").exec(s.split("|")[2]) !== null)
+    }
+    if ("year" in params) {
+        pool = pool.filter(s => new RegExp(params.year, "i").exec(s.split("|")[1]) !== null)
+    }
+    } catch (e) { }
+    if (pool.length === 0) { pool = songs }
+    if (pool.length !== songs.length) {
+        pool.sort()
+        console.log(pool.map(s => s.split("|").slice(0,3).concat(s.split("|").slice(6,7))))
+    }
+    const info = choice(pool).split("|")
+    iframe.src = `https://youtube.com/embed/${info[0]}`
+    title.innerHTML = `${info[2]} (${info[1]})`
+    document.title  = `${info[2]} (${info[1]})`
+</script>
+
+<p><br />
+<br />
+<br /></p>
+
   </div>
+
 
   
   <footer class="article-footer">
@@ -189,9 +235,8 @@
 
       const imagesAndVideos = [
                                  
-                                 ["/assets/img/imgur/gwXE0Ed.jpg", "https://en.wikiquote.org/wiki/Donald_Knuth#firstHeading", knuth, 'Donald Knuth'],
-                                 ["/assets/img/imgur/charlotte.jpg", "https://www.youtube.com/watch?v=z7MAiU2E4ls", charlotte],
-                                 // ["/assets/img/imgur/dF31gyi.jpg", "https://www.goodreads.com/notes/30238165-coders-at-work/71655209-daniel-moore", crockford, 'Douglas Crockford'],
+                                 ["/assets/img/imgur/f8placi.jpg", "https://thefindmag.com/features/stories-articles/dj-shadow-sample-rocket-fuel-story/", shadow, 'DJ Shadow'],
+                                 ["/assets/img/imgur/OFoEt3E.jpg", "https://medium.com/cuepoint/like-it-is-bob-dylan-explains-what-really-killed-rock-n-roll-f6a4b6587a1a", dylan, 'Bob Dylan'],
                                  
                               ]
 
@@ -214,6 +259,7 @@
   
 
 </article>
+
           </div>
         </div>
 
@@ -338,6 +384,13 @@
 
 
 
+
+<script type="text/javascript">
+    $("#dropdown").click(() => $( "#instructions" ).slideToggle( "slow"))
+    if ($(document).width() <= 760) {
+      document.querySelector("#description").innerHTML = `This song was randomly chosen from Bob Moke's archive of U.S. hits released between 1925 and 1971.`
+    }
+</script>
 
 
 
