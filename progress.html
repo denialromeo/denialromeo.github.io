@@ -76,11 +76,27 @@
   <div class="article-content">
     <center><img src="https://www.fundraisingbrick.com/thermometer/thermgenerate.php?goal=1000000&amp;current=576000&amp;color=green&amp;label=3" width="400" height="600" /></center>
 
-<p><br /></p>
+<p><br />
+<br /></p>
 <center><div style="width:77%;margin-right:0%;display:inline-block"><div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yURRmWtbTbo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
 </div></div></center>
 <p><span style="display:block;margin-bottom:15px;"></span></p>
+<p><br /></p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">function</span> <span class="nx">yearsUntilDepletion</span><span class="p">(</span><span class="nx">principal</span><span class="p">,</span> <span class="nx">returnRate</span><span class="p">,</span> <span class="nx">expenses</span><span class="p">)</span> <span class="p">{</span>
+  <span class="nx">returnRate</span> <span class="o">/=</span> <span class="mi">100</span><span class="p">;</span>
+  <span class="kd">let</span> <span class="nx">years</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+  <span class="k">while</span> <span class="p">(</span><span class="nx">principal</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+    <span class="nx">principal</span> <span class="o">+=</span> <span class="nx">principal</span> <span class="o">*</span> <span class="nx">returnRate</span> <span class="o">-</span> <span class="nx">expenses</span><span class="p">;</span>
+    <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">years</span> <span class="o">+</span> <span class="mi">1</span> <span class="o">+</span> <span class="dl">"</span><span class="s2">, </span><span class="dl">"</span> <span class="o">+</span> <span class="nx">principal</span><span class="p">);</span>
+    <span class="nx">years</span><span class="o">++</span><span class="p">;</span> <span class="k">if</span> <span class="p">(</span><span class="nx">years</span> <span class="o">&gt;</span> <span class="mi">33</span><span class="p">)</span> <span class="p">{</span> <span class="k">return</span> <span class="nx">years</span><span class="p">;</span> <span class="p">}</span>
+  <span class="p">}</span>
+  <span class="k">return</span> <span class="nx">years</span><span class="p">;</span>
+<span class="p">}</span>
+<span class="c1">// Sample use: yearsUntilDepletion(500000, 5, 30000);</span>
+<span class="c1">// Remember, no point remaining in U.S. past age 60. Healthcare mafia.</span>
+</code></pre></div></div>
 
     
     <div id="clear"></div>
