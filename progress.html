@@ -78,14 +78,15 @@
 
 <p><br />
 <br /></p>
+
 <center><div style="width:77%;margin-right:0%;display:inline-block"><div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yURRmWtbTbo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
 </div></div></center>
 <p><span style="display:block;margin-bottom:15px;"></span></p>
 <p><br /></p>
 
-<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">function</span> <span class="nx">yearsUntilDepletion</span><span class="p">(</span><span class="nx">principal</span><span class="p">,</span> <span class="nx">returnRate</span><span class="p">,</span> <span class="nx">expenses</span><span class="p">)</span> <span class="p">{</span>
-  <span class="nx">returnRate</span> <span class="o">/=</span> <span class="mi">100</span><span class="p">;</span>
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">function</span> <span class="nx">yearsLeft</span><span class="p">(</span><span class="nx">principal</span><span class="p">,</span> <span class="nx">returnRate</span><span class="p">,</span> <span class="nx">expenses</span><span class="p">)</span> <span class="p">{</span>
+  <span class="k">if</span> <span class="p">(</span><span class="nx">returnRate</span> <span class="o">&gt;</span> <span class="mi">1</span><span class="p">)</span> <span class="p">{</span> <span class="nx">returnRate</span> <span class="o">/=</span> <span class="mi">100</span> <span class="p">};</span>
   <span class="kd">let</span> <span class="nx">years</span> <span class="o">=</span> <span class="mi">1</span><span class="p">;</span>
   <span class="k">while</span> <span class="p">(</span><span class="nx">principal</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
     <span class="nx">principal</span> <span class="o">+=</span> <span class="nx">principal</span> <span class="o">*</span> <span class="nx">returnRate</span> <span class="o">-</span> <span class="nx">expenses</span><span class="p">;</span>
