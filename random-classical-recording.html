@@ -4,9 +4,9 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="canonical" href="http://danielmoore.us/random-hits-archive-song" />
+  <link rel="canonical" href="http://danielmoore.us/random-classical-recording" />
 
-  <title>Random Hits Archive Song</title>
+  <title>Random Classical Recording</title>
   <meta name="description" content="">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.png">
   <link rel="stylesheet" href="/css/main.css">
@@ -70,7 +70,7 @@
             <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="article_header">
-    <h1 class="article_title" itemprop="name headline">Random Hits Archive Song</h1>
+    <h1 class="article_title" itemprop="name headline">Random Classical Recording</h1>
   </header>
 
   <div class="article-content" itemprop="articleBody">
@@ -81,29 +81,27 @@
 </div></div></center>
 <p><span style="display:block;margin-bottom:15px;"></span></p>
 
-<p id="description">Since 2019, Bob Moke has maintained Hits Archive, a set of YouTube channels featuring 18,098 U.S. hits released between 1905 and 1975. This song was randomly chosen from his channels.</p>
+<p id="description">In 2007, music critic Matthew Rye wrote <a href=""><i>1001 Classical Recordings You Must Hear Before You Die</i></a>. This recording was randomly chosen from his book.</p>
 
 <p id="next-song"></p>
 
 <p><a href="javascript:;" id="dropdown" target="_self">Advanced Usage Instructions</a></p>
 <div id="instructions" style="display:none;">
-    <p>You can filter the song selection! Examples &ndash;</p>
+    <p>You can filter the recording selection! Examples &ndash;</p>
     <ul>
         <li>
-            <a target="_self" href="?year=19[2-3][0-9]">Songs released in the 1920's and 1930's.</a>
+            <a target="_self" href="?artist=Mozart">Recordings by Mozart.</a>
         </li>
         <li>
-            <a target="_self" href="?artist=Louis+Armstrong">Songs by Louis Armstrong.</a>
-        </li>
-        <li>
-            <a target="_self" href="?song=christmas">Songs with "Christmas" in the title.</a>
+            <a target="_self" href="?year=17..">Recordings from the 1700's.</a>
         </li>
     </ul>
+   <!-- <p>Also note that each artist's name is a link to their Wikipedia page.</p> -->
 </div>
 
 <script src="/js/URI.js"></script>
 
-<script src="/js/hits-archive.js"></script>
+<script src="/js/classical.js"></script>
 
 <script>
     const is_firefox = typeof(InstallTrigger) !== "undefined"
@@ -122,28 +120,37 @@
     const iframe = document.querySelector("#song");
     const title = document.querySelector("#song-title");
     const params = new URI(window.location.href).search(true)
-    var pool = songs
+    var pool = classical
     var regex = ""
     try {
     if ("artist" in params) {
-        pool = pool.filter(s => new RegExp(params.artist, "i").exec(s.split("|")[2]) !== null)
+        pool = pool.filter(s => new RegExp(params.artist, "i").exec(s.split("|")[0]) !== null)
     }
     if ("song" in params) {
-        pool = pool.filter(s => new RegExp(params.song, "i").exec(s.split("|")[2]) !== null)
+        pool = pool.filter(s => new RegExp(params.song, "i").exec(s.split("|")[1]) !== null)
     }
     if ("year" in params) {
-        pool = pool.filter(s => new RegExp(params.year, "i").exec(s.split("|")[1]) !== null)
+        pool = pool.filter(s => new RegExp(params.year, "i").exec(s.split("|")[2]) !== null)
+    }
+    if ("genre" in params) {
+        pool = pool.filter(s => new RegExp(params.genre, "i").exec(s.split("|")[6]) !== null)
     }
     } catch (e) { }
-    if (pool.length === 0) { pool = songs }
-    if (pool.length !== songs.length) {
+    if (pool.length === 0) { pool = classical }
+    if (pool.length !== classical.length) {
         pool.sort()
         console.log(pool.map(s => s.split("|").slice(0,3).concat(s.split("|").slice(6,7))))
     }
     const info = choice(pool).split("|")
-    iframe.src = `https://youtube.com/embed/${info[0]}`
-    title.innerHTML = `${info[2]} (${info[1]})`
-    document.title  = `${info[2]} (${info[1]})`
+    const infoLog = info.slice(0,3).concat(info.slice(6,7))
+    for (let i = 0; i < infoLog.length; i++) { console.log(infoLog[i]) }
+    iframe.src = info[3].startsWith("http") ? info[3] : `https://youtube.com/embed/${info[3]}`
+    // const wikiLink = `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[4])}>${info[0]}</a>`
+    wikiLink = info[0]
+    // const songLink = `${info[1]}<a style='text-decoration:none;border-bottom:none;' href='http://acclaimedmusic.net/song/${info[5]}.htm'></a>`
+    const songLink = info[1]
+    title.innerHTML = `${wikiLink} - ${songLink} (${info[2]})`
+    document.title  = `${info[0]} - ${info[1]} (${info[2]})`
 </script>
 
 <p><br />
@@ -254,8 +261,10 @@
 
       const imagesAndVideos = [
                                  
+                                 ["/assets/img/imgur/hendrix.jpg", "https://blogs.scientificamerican.com/observations/is-pop-music-evolving-or-is-it-just-getting-louder/", music],
                                  ["/assets/img/imgur/bangs.jpg", "https://www.villagevoice.com/2018/08/20/where-were-you-when-the-king-died/#:~:text=How", bangs, 'Lester Bangs'],
                                  ["/assets/img/imgur/f8placi.jpg", "https://thefindmag.com/features/stories-articles/dj-shadow-sample-rocket-fuel-story/", shadow, 'DJ Shadow'],
+                                 ["/assets/img/imgur/wyJwnBa.jpg", "https://www.esquire.com/entertainment/music/interviews/a26330/gene-simmons-future-of-rock/", kiss, 'Gene Simmons'],
                                  ["/assets/img/imgur/OFoEt3E.jpg", "https://medium.com/cuepoint/like-it-is-bob-dylan-explains-what-really-killed-rock-n-roll-f6a4b6587a1a", dylan, 'Bob Dylan'],
                                  
                               ]
@@ -405,13 +414,13 @@
 
 
 
+
 <script type="text/javascript">
     $("#dropdown").click(() => $( "#instructions" ).slideToggle( "slow"))
     if ($(document).width() <= 760) {
       document.querySelector("#description").innerHTML = `This song was randomly chosen from Bob Moke's archive of U.S. hits released between 1925 and 1971.`
     }
 </script>
-
 
 
 
