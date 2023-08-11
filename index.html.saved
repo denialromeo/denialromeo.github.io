@@ -293,6 +293,9 @@
 
       const imagesAndVideos = [
                                  
+                                 // ["/assets/img/imgur/7HaNtrz.jpg", "http://members.optusnet.com.au/exponentialist/Asimov.htm", asimov],
+                                 ["/assets/img/imgur/YzqRXJI.jpg", "https://www.goodreads.com/notes/19196310-river-out-of-eden/71655209-daniel-moore", dawkins, 'Richard Dawkins'],
+                                 ["/assets/img/imgur/cVRaEKD.jpg", "https://www.kafka-online.info/a-hunger-artist.html", kafka, 'Franz Kafka'],
                                  ["/assets/img/imgur/invincible.jpg", "https://bleedingcool.com/comics/recent-updates/robert-kirkman-brings-invincible-to-an-end/", kirkman],
                                  ["/assets/img/imgur/brer-rabbit.jpg", "https://www.abelard.org/brer_fox_brer_rabbit_briar_patch.php", brer],
                                  ["/assets/img/imgur/jigo.jpg", "https://play.max.com/movie/e31c2dc2-cb8b-416e-9eda-769be3bb3a6b", jigo],
@@ -301,14 +304,6 @@
                                  ["/assets/img/imgur/schopenhauer.jpg", "https://www.goodreads.com/notes/29997711-the-collected-works-of-arthur-schopenhauer/71655209-daniel-moore", schopenhauer],
                                  ["/assets/img/imgur/eboshi.jpg", "https://play.max.com/movie/e31c2dc2-cb8b-416e-9eda-769be3bb3a6b", eboshi],
                                  ["/assets/img/imgur/Sq64l3n.jpg", "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content", rao],
-                                 // ["/assets/img/imgur/Sq64l3n.jpg", "https://www.goodreads.com/notes/18581676-be-slightly-evil/71655209-daniel-moore", rao],
-                                 // ["/assets/img/imgur/hp2MdWL.png", "https://www.goodreads.com/notes/30238165-coders-at-work/71655209-daniel-moore", bloch],
-                                 // ["/assets/img/imgur/oKGhUXQ.jpg", "https://braid.fandom.com/wiki/Storyline#content", braid, 'https://en.wikipedia.org/wiki/Braid_(video_game)#Development'],
-                                 // ["/assets/img/imgur/oKGhUXQ.jpg", "https://en.wikipedia.org/wiki/Braid_(video_game)#Development", braid2, 'https://twitter.com/Jonathan_Blow'],
-                                 // ["/assets/img/imgur/oKGhUXQ.jpg", "https://en.wikipedia.org/wiki/Braid_(video_game)#Development", braid, 'https://twitter.com/Jonathan_Blow'],
-                                 // ["/assets/img/imgur/oKGhUXQ.jpg", "https://en.wikipedia.org/wiki/Braid_(video_game)#Development", braid5, 'https://twitter.com/Jonathan_Blow'],
-                                 // ["/assets/img/imgur/oKGhUXQ.jpg", "https://braid.fandom.com/wiki/Storyline#content", braid4, 'https://en.wikipedia.org/wiki/Braid_(video_game)#Development'],
-                                 // ["/assets/img/imgur/oKGhUXQ.jpg", "https://braid.fandom.com/wiki/Storyline#content", braid3, 'https://en.wikipedia.org/wiki/Braid_(video_game)#Development'],
                                  ["/assets/img/imgur/dwayne.jpg", "https://dcanimated.com/WF/staticshock/backstage/interviews/mcduffiewf.php", mcduffie, 'Dwayne McDuffie'],
                                  ["/assets/img/imgur/white-tiger.jpg", "https://www.goodreads.com/notes/32574786-the-white-tiger/71655209-daniel-moore", balram2],
                                  ["/assets/img/imgur/white-tiger.jpg", "https://www.netflix.com/title/80202877", balram3],
