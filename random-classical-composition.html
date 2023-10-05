@@ -90,10 +90,10 @@
     <p>You can filter the composition selection! Examples &ndash;</p>
     <ul>
         <li>
-            <a target="_self" href="?artist=tchaikovsky">Compositions by Tchaikovsky.</a>
+            <a target="_self" href="?artist=mozart">Compositions by Mozart.</a>
         </li>
         <li>
-            <a target="_self" href="?composition=requiem&amp;artist=mozart"><i>Requiem</i> by Mozart.</a>
+            <a target="_self" href="?composition=swan+lake"><i>Swan Lake</i> by Tchaikovsky.</a>
         </li>
         <li>
             <a target="_self" href="?year=^1[1-6]..">Compositions from the 1600's and earlier.</a>
@@ -149,7 +149,6 @@
     }
     const info = choice(pool).split("|")
     const infoLog = info.slice(0,3).concat(info.slice(6,7))
-    for (let i = 0; i < infoLog.length; i++) { console.log(infoLog[i]) }
     iframe.src = info[3].startsWith("http") ? info[3] : `https://youtube.com/embed/${info[3]}`
     const wikiLink = `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[4])}>${info[0]}</a>`
     const songLink = info[5] == '' ? `<span>${info[1]}</span>` : `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[5])}>${info[1]}</a>`
@@ -272,6 +271,7 @@
       const black = '"Ain\'t no whites. Ain\'t no people of color. Ain\'t none of that. At the deep bottom of the &nbsp;mine where the gold is, there\'s just the pure ore. That forever thing."'
       const cioran8 = '"With sufficient perspective, nothing is good or bad. The historian who ventures to &nbsp;judge the past is writing journalism in another century."'
       const rao3 = '"Human life is like walking into a movie halfway through, and having to walk out &nbsp;again two minutes later."'
+      const rao4 = '"Eventually, as value hits diminishing returns, both the Sociopaths and Losers make &nbsp;their exits, and the Clueless start to dominate."'
       const romeo = '"The world is not thy friend nor the world\'s law; The world affords no law to make &nbsp;thee rich; Then be not poor, but break it, and take this."'
       const wonka = '"Pygmies they are! Imported direct from Africa! They belong to a tribe of tiny &nbsp;miniature pygmies known as the Oompa-Loompas."'
       const things = '"There is no story that is not true. The world has no end, and what is good among &nbsp;one people is an abomination with others."'
@@ -281,7 +281,7 @@
       const imagesAndVideos = [
                                  
                                  ["/assets/img/imgur/nietzsche.jpg", "https://www.themarginalian.org/2015/09/18/nietzsche-on-music/", nietzsche, "Friedrich Nietzsche"],
-                                 // ["/assets/img/imgur/kubrick.jpg", "http://www.visual-memory.co.uk/amk/doc/interview.aco.html", hitler, "Stanley Kubrick"],
+                                 ["/assets/img/imgur/kubrick.jpg", "http://www.visual-memory.co.uk/amk/doc/interview.aco.html", hitler, "Stanley Kubrick"],
                                  
                               ]
 
