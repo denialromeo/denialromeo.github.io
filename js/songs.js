@@ -764,7 +764,7 @@ const songs = [
 "Elvis Costello|Watching the Detectives|1977|k1Qnt5bx1OI|Elvis Costello|S636|New Wave;Rock|Watching the Detectives (song)",
 "Everything But the Girl|Missing (Todd Terry Remix)|1995|IAkY5m00rpY|Everything but the Girl|S75|Dance-Pop;Deep House;Garage House;Dance;Electronic;Electronic Dance Music;House;Pop|Missing (Everything but the Girl song)",
 "Smokey Robinson and the Miracles|The Tears of a Clown|1967|tcd9N62nOLg|The Miracles|S847|Motown Sound;Pop;Pop Soul;R&B;Soul|The Tears of a Clown",
-"Bruce Springsteen|Atlantic City|1982|s-LIEr43_wk|Bruce Springsteen|S4455|Contemporary Folk;Singer/Songwriter;Folk|Atlantic City (song)",
+"Bruce Springsteen|Atlantic City|1982|M3eu1gW-bQ8|Bruce Springsteen|S4455|Contemporary Folk;Singer/Songwriter;Folk|Atlantic City (song)",
 "Tom Petty|Free Fallin'|1989|1lWJXDG2i0A|Tom Petty|S263|Heartland Rock;Pop Rock;Pop;Rock|Free Fallin'",
 "Joni Mitchell|A Case of You|1971|2U8t0by4tfw|Joni Mitchell|S3627|Contemporary Folk;Singer/Songwriter;Folk|A Case of You (song)",
 "Sonny and Cher|I Got You Babe|1965|r5fFlI7MFeM|Sonny & Cher|S1452|Baroque Pop;Sunshine Pop;Pop|I Got You Babe",
