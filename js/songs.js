@@ -7921,7 +7921,7 @@ const songs = [
 "College feat. Electric Youth|A Real Hero|2009|-DSVDcw6iW8|David Grellier|S10449|Synthpop;Synthwave;Electronic;Pop|",
 "AC/DC|Jailbreak|1976|WHtWs4wiFCs|AC/DC|S9915|Hard Rock;Rock|Jailbreak (AC/DC song)",
 "Metallica|...And Justice For All|1988|QnXOSUQ5HJY|Metallica|S15700|Progressive Metal;Thrash Metal;Metal;Rock|",
-"Lulu|To Sir with Love|1967|yTapoA5RQyo|Lulu (singer)|S3577|Baroque Pop;Pop|To Sir with Love (song)",
+"Lulu|To Sir with Love|1967|JOVQ4vAmM7Y|Lulu (singer)|S3577|Baroque Pop;Pop|To Sir with Love (song)",
 "Bob Seger & The Silver Bullet Band|Hollywood Nights|1978|l85SmjhBQz0|Bob Seger|S10255|Heartland Rock;Pop Rock;Pop;Rock|",
 "Little Boots|Stuck on Repeat|2008|B0mQBMI8HGk|Little Boots|S4729|Dance-Pop;Electropop;Dance;Electronic;Pop|Stuck on Repeat",
 "Destiny's Child|Lose My Breath|2004|AqeIiF0DlTg|Destiny's Child|S6050|Contemporary R&B;Dance-Pop;Dance;Pop;R&B|Lose My Breath",
