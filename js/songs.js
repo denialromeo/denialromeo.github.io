@@ -3842,7 +3842,7 @@ const songs = [
 "The Band|I Shall Be Released|1968|MjtPBjEz-BA|The Band|S2524|Roots Rock;Rock|I Shall Be Released",
 "Young Fathers|In My View|2018|qQFPikYSalg|Young Fathers|S16553|Alternative R&B;Indietronica;Contemporary R&B;Electronic;R&B|",
 "Gang of Four|To Hell with Poverty!|1981|QRjjVFC-oG4|Gang of Four (band)|S3435|Dance-Punk;Post-Punk;Rock|",
-"Cannonball Adderley|Mercy, Mercy, Mercy|1966|s4rXEKtC8iY|Cannonball Adderley|S3137|Soul Jazz;Jazz|",
+"Cannonball Adderley|Mercy, Mercy, Mercy|1966|y7FFLYXEOqA|Cannonball Adderley|S3137|Soul Jazz;Jazz|",
 "Anne Briggs|Blackwater Side|1971|FsLv1C3TbWE|Anne Briggs|S5206|English Folk Music;European Folk Music;Folk;Regional Music;Traditional Folk Music|Down by Blackwaterside",
 "Charlie Rich|Behind Closed Doors|1973|Rf_baiRNUYU|Charlie Rich|S2317|Nashville Sound;Country;Country Pop;Pop|Behind Closed Doors (Charlie Rich song)",
 "Beyoncé|Partition|2013|pZ12_E5R3qc|Beyoncé|S9651|Contemporary R&B;Pop Rap;Hip Hop;R&B|Partition (song)",
