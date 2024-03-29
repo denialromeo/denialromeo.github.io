@@ -6626,7 +6626,7 @@ const songs = [
 "Redbone|Come and Get Your Love|1973|HtCte-99Sfo|Redbone (band)|S3747|Pop Rock;Pop Soul;Pop;R&B;Rock;Soul|Come and Get Your Love",
 "Héroes del Silencio|La chispa adecuada|1995|jnDjEHyhFpU|Héroes del Silencio|S13103|Rock|",
 "The Presidents of the United States of America|Peaches|1995|3GCrzjVdmSg|The Presidents of the United States of America (band)|S7999|Indie Rock;Alternative Rock;Rock|Peaches (The Presidents of the United States of America song)",
-"Haddaway|What is Love?|1992|HEXWRTEbj1I|Haddaway|S9238|Eurodance;Dance;Dance-Pop;Electronic;Electronic Dance Music;Pop|What Is Love",
+"Haddaway|What is Love|1992|HEXWRTEbj1I|Haddaway|S9238|Eurodance;Dance;Dance-Pop;Electronic;Electronic Dance Music;Pop|What Is Love",
 "Kanye West feat. 070 Shake|Ghost Town|2018|qatEUlouf0o|Kanye West|S16564|Neo-Soul;Psychedelic Soul;R&B;Soul|Ghost Town (Kanye West song)",
 "Taylor Swift|I Knew You Were Trouble|2012|vNoKguSdy4Y|Taylor Swift|S12398|Dance-Pop;Electropop;Dance;Electronic;Pop|I Knew You Were Trouble",
 "Ce Ce Peniston|Finally|1991|xk8mm1Qmt-Y|CeCe Peniston|S3693|Dance-Pop;Garage House;Dance;Electronic;Electronic Dance Music;House;Pop|Finally (CeCe Peniston song)",
