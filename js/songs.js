@@ -8476,7 +8476,7 @@ const songs = [
 "LL Cool J|Jingling Baby (Remixed and Still Jingling)|1990|fH2-wWPcwAQ|LL Cool J|S2024|East Coast Hip Hop;Hip Hop|Jingling Baby",
 "Charly García|Cerca de la revolución|1984|VDEsZfpXWQs|Charly García|S10385|New Wave;Pop Rock;Pop;Rock|",
 "Mitch Miller|The Yellow Rose of Texas|1955|2Xe6TrWp0kc|Mitch Miller|S7575|Classical March;Classical Music;Western Classical Music|The Yellow Rose of Texas (song)",
-"Jungle Brothers|Straight out the Jungle|1988|K0wVNPWWZIw|Jungle Brothers|S11281|East Coast Hip Hop;Hip Hop|",
+"Jungle Brothers|Straight out the Jungle|1988|K0wVNPWWZIw|Jungle Brothers|S11281|East Coast Hip Hop;Hip Hop|Straight out the Jungle",
 "Miranda Lambert|The House That Built Me|2009|DQYNM6SjD_o|Miranda Lambert|S11655|Contemporary Country;Country|The House That Built Me",
 "The Impressions|We're a Winner|1967|uLMRzDFMvEo|The Impressions|S11071|Chicago Soul;R&B;Soul|",
 "Pulp|The Trees|2001|nArZkellNyk|Pulp (band)|S3764|Chamber Pop;Baroque Pop;Indie Pop;Pop|The Trees (Pulp song)",
