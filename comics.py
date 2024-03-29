@@ -3,9 +3,9 @@ import os
 
 from PIL import Image
 
-DIR = 'assets/img/comics/sandman-loki'
-TITLE = 'The Sandman'
-AUTHOR = 'Neil Gaiman'
+DIR = 'assets/img/comics/killing-joke'
+TITLE = 'The Killing Joke'
+AUTHOR = 'Alan Moore'
 
 def get_dim(img):
     im = Image.open(img);
