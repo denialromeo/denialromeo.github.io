@@ -8907,7 +8907,7 @@ const songs = [
 "Port O'Brien|I Woke Up Today|2008|uw3Y84zXLwg|Port O'Brien|S7990|Indie Folk;Indie Rock;Alternative Rock;Contemporary Folk;Folk;Rock|",
 "Wallace Collection|Daydream|1969|60ejKrj38j8|Wallace Collection (band)|S8914|Baroque Pop;Pop Rock;Psychedelic Pop;Pop;Rock|Daydream (Wallace Collection song)",
 "Darlene Love|A Fine Fine Boy|1963|oXUjsMMNMts|Darlene Love|S2408|Brill Building;Girl Group;Pop|",
-"Pépé Bradock|Burning|1999|QTvFzBS6e68|https://fr.wikipedia.org/wiki/P%C3%A9p%C3%A9_Bradock|S11875|Deep House;French House;Dance;Electronic;Electronic Dance Music;House|",
+"Pépé Bradock|Burning|1999|lWV-iEthnbI|https://fr.wikipedia.org/wiki/P%C3%A9p%C3%A9_Bradock|S11875|Deep House;French House;Dance;Electronic;Electronic Dance Music;House|",
 "London Grammar|Strong|2013|6drfp_3823I|London Grammar|S11464|Art Pop;Dream Pop;Indie Pop;Alternative Rock;Pop;Rock|Strong (London Grammar song)",
 "Toni Braxton|You're Makin' Me High|1996|wIgOL21S98o|Toni Braxton|S9380|Contemporary R&B;R&B|You're Makin' Me High",
 "Moby|We Are All Made of Stars|2002|x1rFAaAKpVc|Moby|S7578|Pop Rock;Pop;Rock|We Are All Made of Stars",
