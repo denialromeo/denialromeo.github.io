@@ -3190,7 +3190,7 @@ const songs = [
 "The Beatles|Sgt. Pepper's Lonely Hearts Club Band|1967|VtXl8xAPAtA|The Beatles|S2519|Pop Rock;Psychedelic Rock;Pop;Rock|",
 "Muddy Waters|I Can't Be Satisfied|1948|LG95MseHfgA|Muddy Waters|S3941|Chicago Blues;Blues;Electric Blues|Rollin' Stone (Muddy Waters song)",
 "M83|Graveyard Girl|2008|gY8iy8S0S4w|M83 (band)|S4731|Dream Pop;Synthpop;Alternative Rock;Electronic;Pop;Rock|Graveyard Girl",
-"Frank Sinatra|In the Wee Small Hours of the Morning|1955|MiPUv4kXzvw|Frank Sinatra|S6441|Vocal Jazz;Jazz|",
+"Frank Sinatra|In the Wee Small Hours of the Morning|1955|j7Jfs9MY0hg|Frank Sinatra|S6441|Vocal Jazz;Jazz|",
 "Wanda|Bologna|2014|xREl_68O-mw|Wanda (band)|S9673|Indie Rock;Pop Rock;Alternative Rock;Pop;Rock|",
 "Steely Dan|Peg|1977|LI7NDDQLvbo|Steely Dan|S8556|Jazz-Rock;Yacht Rock;Pop;Pop Rock;Rock|Peg (song)",
 "DJ Jazzy Jeff & The Fresh Prince|Summertime|1991|Kr0tTbTbmVA|DJ Jazzy Jeff & The Fresh Prince|S3340|East Coast Hip Hop;Pop Rap;Hip Hop|Summertime (DJ Jazzy Jeff & The Fresh Prince song)",
