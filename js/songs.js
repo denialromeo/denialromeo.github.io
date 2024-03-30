@@ -9780,7 +9780,7 @@ const songs = [
 "Al Green|Here I Am (Come and Take Me)|1973|xU4UNv13S58|Al Green|S9949|Southern Soul;R&B;Soul|Here I Am (Come and Take Me)",
 "Syndicate of Sound|Little Girl|1966|d0nNPV8-tiA|Syndicate of Sound|S12389|Garage Rock;Rock|Little Girl (Syndicate of Sound song)",
 "Generation X|Your Generation|1977|_baHdLc3tV4|Generation X|S3442|Punk Rock;Rock|",
-"The Paragons|On the Beach|1967|2tKRUFybfas|The Paragons|S16287|Rocksteady;Caribbean Music;Jamaican Music;Regional Music|",
+"The Paragons|On the Beach|1967|OZWZNJaKw8E|The Paragons|S16287|Rocksteady;Caribbean Music;Jamaican Music;Regional Music|",
 "Porter Wagoner|Green, Green Grass of Home|1965|jLnhghhwSm4|Porter Wagoner|S7991|Country|",
 "Neil Sedaka|Oh! Carol|1959|VmF-I9T2Aus|Neil Sedaka|S7679|Brill Building;Pop|Oh! Carol",
 "Paul Simon|Peace Like a River|1972|0_xzzvw9ptA|Paul Simon|S3806|Folk Rock;Singer/Songwriter;Rock|Paul Simon (album)",
