@@ -5897,7 +5897,7 @@ const songs = [
 "Tessela|Hackney Parrot|2013|ZiVe8qePd3Y|https://www.discogs.com/artist/1885041-Tessela|S9528|UK Bass;Dance;Electronic;Electronic Dance Music;UK Garage|",
 "Ray Charles|I Believe to My Soul|1959|tAo8JNNW5cw|Ray Charles|S1192|Rhythm & Blues;R&B|",
 "Love|My Little Red Book|1966|f-SuGfLhqo4|Love (band)|S7336|Garage Rock;Pop Rock;Pop;Rock|My Little Red Book",
-"Edie Brickell|What I Am|1988|tDl3bdE3YQA|Edie Brickell & New Bohemians|S3239|Alternative Rock;Rock|Edie Brickell",
+"Edie Brickell|What I Am|1988|tDl3bdE3YQA|Edie Brickell & New Bohemians|S3239|Alternative Rock;Rock|What I Am",
 "Rancid|Salvation|1994|jkdZn34AsXo|Rancid (band)|S4222|Punk Rock;Rock|Salvation (Rancid song)",
 "Animal Collective|For Reverend Green|2007|Vc2Av1dY1p4|Animal Collective|S5199|Art Pop;Neo-Psychedelia;Pop;Psychedelic Rock;Rock|",
 "The Vines|Highly Evolved|2002|ppJAAC69uE8|The Vines (band)|S1527|Garage Rock Revival;Grunge;Alternative Rock;Garage Rock;Rock|",
