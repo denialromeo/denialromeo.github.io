@@ -3116,7 +3116,7 @@ const songs = [
 "Marianne Faithfull|As Tears Go By|1964|lcBSCvbMmN8|Marianne Faithfull|S3400|Baroque Pop;Folk Pop;Contemporary Folk;Folk;Pop|As Tears Go By (song)",
 "Yeasayer|O.N.E.|2010|IX_RD7DT-8k|Yeasayer|S4937|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|O.N.E. (song)",
 "Moloko|The Time Is Now|2000|-GY9DWIfpwc|Moloko|S2193|Dance-Pop;Dance;Pop|The Time Is Now (Moloko song)",
-"Lou Reed|Coney Island Baby|1976|yOoXjYppyMM?start=6440|Lou Reed|S7323|Pop Rock;Singer/Songwriter;Pop;Rock|",
+"Lou Reed|Coney Island Baby|1976|t0dsDJFJ1jk|Lou Reed|S7323|Pop Rock;Singer/Songwriter;Pop;Rock|",
 "Neil Young|A Man Needs a Maid|1972|JOuQywiRUJo|Neil Young|S4547|Baroque Pop;Singer/Songwriter;Pop|A Man Needs a Maid (song)",
 "Can|Vitamin C|1972|9a1NhRbNJ_Y|Can (band)|S5703|Krautrock;Experimental Rock;Progressive Rock;Rock|Vitamin C (song)",
 "Steve Earle|John Walker Blues|2002|ISFNTRaXRiI|Steve Earle|S4675|Alt-Country;Americana;Country Rock;Country;Rock|",
