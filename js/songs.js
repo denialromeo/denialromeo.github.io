@@ -2527,7 +2527,7 @@ const songs = [
 "Gang of Four|At Home He's a Tourist|1979|ElhAysq3O6c|Gang of Four (band)|S1821|Dance-Punk;Post-Punk;Rock|",
 "Kelela|LMK|2017|ePi5BLJogyA|Kelela|S16410|Alternative R&B;Contemporary R&B;R&B|LMK",
 "Sleater-Kinney|I Wanna Be Your Joey Ramone|1996|JRsZ5ZwMNGE|Sleater-Kinney|S3814|Indie Rock;Riot Grrrl;Alternative Rock;Punk Rock;Rock|",
-"Visage|Fade to Grey|1980|vMPR6Ujop4k|Visage (band)|S9048|New Romantic;Synthpop;Electronic;New Wave;Pop;Rock|Fade to Grey (Visage song)",
+"Visage|Fade to Grey|1980|DDetfpEmGNM|Visage (band)|S9048|New Romantic;Synthpop;Electronic;New Wave;Pop;Rock|Fade to Grey (Visage song)",
 "Louis Jordan|Let the Good Times Roll|1946|NiVnLYK48X4|Louis Jordan|S4360|Jump-Blues;Rhythm & Blues;Blues;R&B|Let the Good Times Roll (Louis Jordan song)",
 "Duffy|Mercy|2008|y7ZEVA5dy-Y|Duffy (singer)|S4714|Blue Eyed Soul;Pop Soul;Pop;R&B;Soul|Mercy (Duffy song)",
 "Nirvana|Drain You|1991|XIFUHzCUHrg|Kurt Cobain|S9308|Grunge;Alternative Rock;Rock|Drain You",
