@@ -1764,7 +1764,7 @@ const songs = [
 "Spoon|The Way We Get By|2002|3ngjkPAAZBU|Spoon (band)|S2228|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|",
 "Pink Floyd|Interstellar Overdrive|1967|EJ2xIGTbtwE|Pink Floyd|S3703|Experimental Rock;Space Rock;Psychedelic Rock;Rock|Interstellar Overdrive",
 "Bessie Smith|Downhearted Blues|1923|4Ob_sW2_2Zw|Bessie Smith|S2742|Piano Blues;Vaudeville Blues;Blues;Musical Theatre and Entertainment;Vaudeville|",
-"Charlie Christian|Solo Flight|1941|AeDRtF0tUSg|Charlie Christian|S2662|Big Band;Swing;Jazz|",
+"Charlie Christian|Solo Flight|1941|7Ec-UYq_yiI|Charlie Christian|S2662|Big Band;Swing;Jazz|",
 "Bruce Springsteen|Backstreets|1975|eGDFavEBn0Q|Bruce Springsteen|S5641|Heartland Rock;Singer/Songwriter;Rock|Backstreets",
 "En Vogue|My Lovin' (You're Never Gonna Get It)|1992|JIuYQ_4TcXg|En Vogue|S159|Contemporary R&B;R&B|My Lovin' (You're Never Gonna Get It)",
 "Patsy Montana|I Want to Be a Cowboy's Sweetheart|1935|Bic7HEF5zE4|Patsy Montana|S2724|Country Yodeling;Cowboy;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music;Yodeling|I Want to Be a Cowboy's Sweetheart",
