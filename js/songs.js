@@ -8832,7 +8832,7 @@ const songs = [
 "Serge Reggiani|Il suffirait de presque rien|1968|l9KiGZqnvRk?start=3|Serge Reggiani|S12183|Chanson;Regional Music|",
 "Money Mark|Cry|1995|doqnU2c99xc|Money Mark|S7596|Lo-Fi / Slacker Rock;Alternative Rock;Indie Rock;Rock|",
 "Eric Clapton|Let It Grow|1974|YpDlmop0uYU|Eric Clapton|S10748|Blues Rock;Rock|461 Ocean Boulevard",
-"Morrissey|You Have Killed Me|2006|ChoEbSbeCU8|Morrissey|S7607|Alternative Rock;Pop Rock;Pop;Rock|",
+"Morrissey|You Have Killed Me|2006|ChoEbSbeCU8|Morrissey|S7607|Alternative Rock;Pop Rock;Pop;Rock|You Have Killed Me",
 "Ida Maria|I Like You So Much Better When You're Naked|2008|VkVy2FeqIyc|Ida Maria|S6771|Indie Rock;Pop Rock;Alternative Rock;Pop;Rock|",
 "Sonny and Cher|Baby Don't Go|1965|QLMxhe8yt90|Sonny & Cher|S13356|Pop Rock;Sunshine Pop;Pop;Rock|",
 "The Rolling Stones|Winter|1973|frt_f0eP_Hs|The Rolling Stones|S12104|Rock|Winter (Rolling Stones song)",
