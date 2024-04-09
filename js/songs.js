@@ -2439,7 +2439,7 @@ const songs = [
 "Stevie Ray Vaughan|Pride and Joy|1983|kfjXp4KTTY8|Stevie Ray Vaughan|S8582|Blues Rock;Rock|Pride and Joy (Stevie Ray Vaughan song)",
 "FKA twigs|Sad Day|2019|IxGDNRE-2c0|FKA Twigs|S16774|Art Pop;Glitch Pop;Electronic;Pop|Sad Day (FKA Twigs song)",
 "A Tribe Called Quest|Can I Kick It?|1990|O3pyCGnZzYA|A Tribe Called Quest|S2021|Boom Bap;East Coast Hip Hop;Hip Hop|Can I Kick It%3F",
-"Herbie Hancock|Watermelon Man|1962|RzPZvKSdN7g|Herbie Hancock|S4082|Hard Bop;Soul Jazz;Bebop;Jazz|",
+"Herbie Hancock|Watermelon Man|1962|s7PNQ_oIYyM|Herbie Hancock|S4082|Hard Bop;Soul Jazz;Bebop;Jazz|",
 "Jenny Hval|Ashes to Ashes|2019|7Bq5s2oRp24|Jenny Hval|S16803|Art Pop;Synthpop;Electronic;Pop|",
 "Loretta Lynn|The Pill|1975|E2pd1l0i0A8|Loretta Lynn|S1775|Honky Tonk;Country|The Pill (song)",
 "The Doobie Brothers|Long Train Runnin'|1973|eIi_GbFa_nw|The Doobie Brothers|S3349|Yacht Rock;Pop;Pop Rock;Rock|Long Train Runnin'",
