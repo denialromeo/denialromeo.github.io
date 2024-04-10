@@ -377,7 +377,7 @@ const songs = [
 "Cab Calloway|Minnie the Moocher|1931|8suquDgg0dw|Cab Calloway|S2655|Swing;Jazz|Minnie the Moocher",
 "Rihanna feat. Drake|Work|2016|HL1UzIK-flA|Rihanna|S16178|Contemporary R&B;R&B|Work (Rihanna song)",
 "Alanis Morissette|You Oughta Know|1995|NPcyTyilmYY|Alanis Morissette|S67|Pop Rock;Post-Grunge;Singer/Songwriter;Alternative Rock;Pop;Rock|You Oughta Know",
-"Nick Drake|Pink Moon|1972|aXnfhnCoOyo|Nick Drake|S2575|Contemporary Folk;Singer/Songwriter;Folk|",
+"Nick Drake|Pink Moon|1972|xqe6TF2y8i4|Nick Drake|S2575|Contemporary Folk;Singer/Songwriter;Folk|",
 "Don McLean|American Pie|1971|RciM7P9K3FA|Don McLean|S827|Folk Rock;Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|American Pie (song)",
 "Radiohead|Fake Plastic Trees|1995|n5h0qHwNrHk|Radiohead|S72|Alternative Rock;Rock|Fake Plastic Trees",
 "Otis Redding|I've Been Loving You Too Long (To Stop Now)|1965|qZ6OrrkeVFo|Otis Redding|S1421|Deep Soul;R&B;Soul;Southern Soul|",
