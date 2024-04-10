@@ -4126,7 +4126,7 @@ const songs = [
 "Paul Simon|Diamonds on the Soles of Her Shoes|1986|-I_T3XvzPaM|Paul Simon|S7895|Folk Pop;Pop Rock;Singer/Songwriter;Contemporary Folk;Folk;Pop;Rock|Diamonds on the Soles of Her Shoes",
 "Madness|It Must Be Love|1981|vmezIIrFQmY|Madness (band)|S1875|2 Tone;Pop;Ska|It Must Be Love (Labi Siffre song)",
 "Benny Goodman|Good Enough to Keep/Air Mail Special|1941|8qZwvYienBg|Benny Goodman|S9141|Swing;Jazz|",
-"Billy Lee Riley|Red Hot|1957|f6P28bCPjAA|Billy Lee Riley|S1229|Rockabilly;Rock;Rock & Roll|",
+"Billy Lee Riley|Red Hot|1957|f6P28bCPjAA|Billy Lee Riley|S1229|Rockabilly;Rock;Rock & Roll|Red Hot (song)",
 "The Libertines|Up the Bracket|2002|0u_g6zNuP_I|The Libertines|S2974|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|",
 "ABBA|Mamma Mia|1975|unfzfe8f9NI|ABBA|S5083|Europop;Pop|Mamma Mia (ABBA song)",
 "The Decemberists|The Engine Driver|2005|6L7tep8HqKk|The Decemberists|S6008|Chamber Pop;Indie Folk;Baroque Pop;Contemporary Folk;Folk;Indie Pop;Pop|",
