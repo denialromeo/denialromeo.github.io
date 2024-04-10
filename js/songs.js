@@ -678,7 +678,7 @@ const songs = [
 "Beyoncé|Single Ladies (Put a Ring on It)|2008|4m1EFMoRFvY|Beyoncé|S4702|Dance-Pop;Dance;Pop|Single Ladies (Put a Ring on It)",
 "Bob Dylan|Just Like a Woman|1966|dRLXZVojdhQ|Bob Dylan|S1443|Folk Rock;Singer/Songwriter;Rock|Just Like a Woman",
 "Don Henley|The Boys of Summer|1984|6RUIeX6UCT8|Don Henley|S450|Pop Rock;Pop;Rock|The Boys of Summer (song)",
-"Sparks|This Town Ain't Big Enough for Both of Us|1974|QAzESJ62irI|Sparks (band)|S734|Art Rock;Glam Rock;Rock|This Town Ain't Big Enough for Both of Us",
+"Sparks|This Town Ain't Big Enough for Both of Us|1974|-IVTSdF-YzI|Sparks (band)|S734|Art Rock;Glam Rock;Rock|This Town Ain't Big Enough for Both of Us",
 "James Carr|The Dark End of the Street|1967|HC3AXQ8dPJM|James Carr (musician)|S989|Deep Soul;R&B;Soul;Southern Soul|The Dark End of the Street",
 "Pearl Jam|Alive|1991|qM0zINtulhM|Pearl Jam|S167|Grunge;Alternative Rock;Rock|",
 "New York Dolls|Personality Crisis|1973|nrdqX_auyPc|New York Dolls|S780|Glam Punk;Glam Rock;Proto-Punk;Punk Rock;Rock|Personality Crisis (song)",
