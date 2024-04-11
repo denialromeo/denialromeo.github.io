@@ -125,7 +125,7 @@ const songs = [
 "Creedence Clearwater Revival|Proud Mary|1969|7F_ILRVJdes|Creedence Clearwater Revival|S874|Country Rock;Swamp Rock;Rock;Roots Rock|Lodi (Creedence Clearwater Revival song)",
 "The Police|Every Breath You Take|1983|OMOGaugKpzs|The Police|S452|New Wave;Pop Rock;Pop;Rock|Every Breath You Take",
 "Chuck Berry|Maybellene|1955|v124f0i0Xh4|Chuck Berry|S1301|Rock & Roll;Rock|Maybellene",
-"Procol Harum|A Whiter Shade of Pale|1967|Mb3iPP-tHdA|Procol Harum|S935|Baroque Pop;Blue Eyed Soul;Psychedelic Pop;Pop|A Whiter Shade of Pale",
+"Procol Harum|A Whiter Shade of Pale|1967|xM_N2O-gzP4|Procol Harum|S935|Baroque Pop;Blue Eyed Soul;Psychedelic Pop;Pop|A Whiter Shade of Pale",
 "M83|Midnight City|2011|dX3k_QDnzHE|M83 (band)|S4976|Synthpop;Synthwave;Electronic;Pop|Midnight City",
 "LCD Soundsystem|Losing My Edge|2002|HmrOHxS_cK0|LCD Soundsystem|S1509|Dance-Punk;Indietronica;Electronic;Post-Punk;Rock|",
 "Hank Williams|I'm So Lonesome I Could Cry|1949|4WXYjm74WFI|Hank Williams|S1347|Traditional Country;American Folk Music;Country;Folk;Regional Music;Traditional Folk Music|I'm So Lonesome I Could Cry",
