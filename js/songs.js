@@ -3752,7 +3752,7 @@ const songs = [
 "Charli XCX|Boom Clap|2014|AOPMlIIg_38|Charli XCX|S9576|Electropop;Synthpop;Electronic;Pop|Boom Clap",
 "Wiley|Wearing My Rolex|2008|Bxjdg_D5YQY|Wiley (musician)|S4763|Hip House;Pop Rap;UK Hip Hop;Dance;Electronic;Electronic Dance Music;Hip Hop;House|Wearing My Rolex",
 "Edgar Winter Group|Frankenstein|1972|KzCn8rQvyOo|Edgar Winter|S1753|Hard Rock;Progressive Rock;Psychedelic Rock;Rock|Frankenstein (instrumental)",
-"The Flaming Lips|Yoshimi Battles the Pink Robots (Pt. 1)|2002|AzlMeTxVdH8|The Flaming Lips|S4620|Indie Pop;Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|",
+"The Flaming Lips|Yoshimi Battles the Pink Robots (Pt. 1)|2002|ZdDHi5SSIlM|The Flaming Lips|S4620|Indie Pop;Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|",
 "The Killers|Somebody Told Me|2004|Y5fBdpreJiU|The Killers|S2453|Pop Rock;Post-Punk Revival;Alternative Rock;Indie Rock;Pop;Post-Punk;Rock|Somebody Told Me",
 "Teenage Fanclub|The Concept|1991|Er_JOsnwzcI|Teenage Fanclub|S2027|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|The Concept (song)",
 "Iron Maiden|The Trooper|1983|X4bgXH3sJ2Q|Iron Maiden|S6801|NWOBHM;Heavy Metal;Metal;Rock|The Trooper",
