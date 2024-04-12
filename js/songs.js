@@ -1812,7 +1812,7 @@ const songs = [
 "Primal Scream|Come Together|1990|8dFKWpJKDwo|Primal Scream|S237|Alternative Dance;Baggy / Madchester;Alternative Rock;Dance;Rock|Come Together (Primal Scream song)",
 "Dire Straits|Money for Nothing|1985|JRDgihVDEko|Dire Straits|S1927|Pop Rock;Pop;Rock|Money for Nothing (song)",
 "The White Stripes|Dead Leaves and the Dirty Ground|2001|7OyytKqYjkE|The White Stripes|S4617|Alternative Rock;Blues Rock;Garage Rock Revival;Garage Rock;Rock|Dead Leaves and the Dirty Ground",
-"The Beatles|Love Me Do|1962|0pGOFX1D_jg|The Beatles|S1110|British Rhythm & Blues;Merseybeat;Beat Music;Pop;Pop Rock;R&B;Rhythm & Blues;Rock|",
+"The Beatles|Love Me Do|1962|0pGOFX1D_jg|The Beatles|S1110|British Rhythm & Blues;Merseybeat;Beat Music;Pop;Pop Rock;R&B;Rhythm & Blues;Rock|Love Me Do",
 "Björk|Joga|1997|oFV4QCq9SEU|Björk|S4520|Art Pop;Electronic;Pop|Jóga",
 "The Doors|People Are Strange|1967|uCoCNCJFS7A?start=25|The Doors|S3350|Psychedelic Rock;Rock|People Are Strange",
 "Yves Montand|Les Feuilles mortes|1949|JWfsp8kwJto|Yves Montand|S9105|Chanson;Regional Music|",
