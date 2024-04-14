@@ -713,7 +713,7 @@ const songs = [
 "Bob Dylan|Hurricane|1975|pm6xCwNKtnQ|Bob Dylan|S706|Folk Rock;Singer/Songwriter;Rock|Hurricane (Bob Dylan song)",
 "Oasis|Don't Look Back in Anger|1995|cmpRLQZkTb8|Oasis (band)|S41|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Don't Look Back in Anger",
 "Whitney Houston|I Wanna Dance with Somebody (Who Loves Me)|1987|eH3giaIzONA|Whitney Houston|S3481|Dance-Pop;Dance;Pop|I Wanna Dance with Somebody (Who Loves Me)",
-"James Brown|Say It Loud - I'm Black and I'm Proud|1968|9bJA6W9CqvE|James Brown|S2416|Funk;R&B|Say It Loud – I'm Black and I'm Proud",
+"James Brown|Say It Loud - I'm Black and I'm Proud|1968|7SQPbWGra6s|James Brown|S2416|Funk;R&B|Say It Loud – I'm Black and I'm Proud",
 "Snoop Dogg|Drop It Like It's Hot|2004|RaCodgL9cvk|Snoop Dogg|S2481|Pop Rap;West Coast Hip Hop;Hip Hop|Drop It Like It's Hot",
 "Santigold|L.E.S. Artistes|2008|cz0Qb5ws98k|Santigold|S4745|Indie Pop;Indietronica;Electronic;Pop|",
 "The Libertines|Can't Stand Me Now|2004|CqM11bt9QvI|The Libertines|S2439|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|Can't Stand Me Now",
