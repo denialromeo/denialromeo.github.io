@@ -3761,7 +3761,7 @@ const songs = [
 "Yazoo|Only You|1982|w67Uspp_PsQ|Yazoo (band)|S1882|Synthpop;Electronic;Pop|Only You (Yazoo song)",
 "The Temper Trap|Sweet Disposition|2008|vN7HQrgakZU|The Temper Trap|S8713|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|Sweet Disposition",
 "Jaydee|Plastic Dreams|1993|OJ2tHzhfUOg|Jaydee|S2062|Progressive House;Dance;Electronic;Electronic Dance Music;House|",
-"Tocotronic|Jackpot|1999|Cg8uPahgjjY|Tocotronic|S9375|Hamburger Schule;Noise Pop;Alternative Rock;Indie Rock;Rock|Jackpot",
+"Tocotronic|Jackpot|1999|ab0YECk3frA|Tocotronic|S9375|Hamburger Schule;Noise Pop;Alternative Rock;Indie Rock;Rock|",
 "Marc Cohn|Walking in Memphis|1991|PgRafRp-P-o|Marc Cohn|S7417|Adult Contemporary;Blue Eyed Soul;Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|Walking in Memphis",
 "Nilüfer Yanya|In Your Head|2019|fsxf541UI-8|Nilüfer Yanya|S16839|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|",
 "Foo Fighters|I'll Stick Around|1995|X_rTTsZZ9KE|Foo Fighters|S3413|Grunge;Alternative Rock;Rock|I'll Stick Around",
