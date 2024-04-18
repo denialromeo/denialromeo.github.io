@@ -690,7 +690,7 @@ const classical = [
 "Edgard Varèse|Offrandes|1921|1L7VquPejbw|Edgard Varèse|",
 "Igor Stravinsky|Three Movements from \"Petrushka\"|1921|4Y3n2oJG7q0|Igor Stravinsky|Trois mouvements de Petrouchka",
 "Arthur Bliss|A Colour Symphony|1922-1932|zi6FdphM7CA|Arthur Bliss|",
-"Maurice Ravel|Sonata for Violin and Cello|1922|szPF0KhxYIs|Maurice Ravel|",
+"Maurice Ravel|Sonata for Violin and Cello|1922|szPF0KhxYIs|Maurice Ravel|Sonata for Violin and Cello (Ravel)",
 "William Walton|Façade|1922-1951|79ahguBURn4|William Walton|Façade (entertainment)",
 "Peter Warlock|The Curlew|1922|2JqOm9dnwdU|Peter Warlock|The Curlew",
 "Jacques Ibert|Escales|1922|VQm0bfVQtsg?start=3|Jacques Ibert|",
