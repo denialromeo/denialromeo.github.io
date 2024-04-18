@@ -9040,7 +9040,7 @@ const songs = [
 "Ice Cube feat. Das EFX|Check Yo Self|1992|teUnSb3O58w|Ice Cube|S11059|Boom Bap;Disco Rap;Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "Squeeze|Take Me I'm Yours|1978|Lt8etY7C4z0|Squeeze (band)|S13630|New Wave;Synthpop;Electronic;Pop;Rock|",
 "Radiohead|Like Spinning Plates|2001|IGWSy1YnhNI|Radiohead|S13603|Art Pop;Electronic;Pop|",
-"Steve Arrington|Feel So Real|1985|128qqShzEvE|Steve Arrington|S8565|Boogie;Dance-Pop;Dance;Disco;Pop;R&B|Feel So Real",
+"Steve Arrington|Feel So Real|1985|mxWvvQWVM9M|Steve Arrington|S8565|Boogie;Dance-Pop;Dance;Disco;Pop;R&B|Feel So Real",
 "Sleigh Bells|Comeback Kid|2012|YiwcUdX7XMw|Sleigh Bells (band)|S8451|Noise Pop;Alternative Rock;Rock|Comeback Kid (Sleigh Bells song)",
 "John Stewart|Gold|1979|B3KGpIoE5CY|John Stewart (musician)|S6961|Soft Rock;Pop;Pop Rock;Rock|Gold (John Stewart song)",
 "Guns N' Roses|Chinese Democracy|2008|FfIZr38DLSg|Guns N' Roses|S6664|Hard Rock;Industrial Rock;Industrial Music;Rock|",
