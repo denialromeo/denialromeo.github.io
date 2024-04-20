@@ -5689,7 +5689,7 @@ const songs = [
 "Blink-182|Dammit|1997|sT0g16_LQaQ|Blink-182|S15309|Pop Punk;Skate Punk;Punk Rock;Rock|Dammit",
 "ABBA|Fernando|1976|dQsjAbZDx-4|ABBA|S5084|Europop;Pop|Fernando (song)",
 "Stevie Ray Vaughan|Texas Flood|1983|evjMjpd4PNM|Stevie Ray Vaughan|S8581|Electric Texas Blues;Blues;Electric Blues|Pride and Joy (Stevie Ray Vaughan song)",
-"Tavares|It Only Takes a Minute|1975|BxtPbCYk-38|Tavares (group)|S8692|Disco;Pop Soul;Dance;Pop;R&B;Soul|It Only Takes a Minute",
+"Tavares|It Only Takes a Minute|1975|7i6n2ePXlao|Tavares (group)|S8692|Disco;Pop Soul;Dance;Pop;R&B;Soul|It Only Takes a Minute",
 "Bob Dylan|Man in the Long Black Coat|1989|8JuLKtz_EH8|Bob Dylan|S5554|Folk Rock;Gothic Country;Singer/Songwriter;Alt-Country;Country;Rock|Man in the Long Black Coat",
 "Klaxons|Atlantis to Interzone|2006|XX3w_PlGReU|Klaxons|S7136|Alternative Dance;Dance-Punk;Alternative Rock;Dance;Post-Punk;Rock|Atlantis to Interzone",
 "Doris Troy|Just One Look|1963|GI3OYR_XM0w|Doris Troy|S3910|Soul;R&B|Just One Look (song)",
