@@ -986,7 +986,7 @@ const songs = [
 "Yardbirds|For Your Love|1965|HU5zqidlxMQ|The Yardbirds|S1541|Beat Music;British Rhythm & Blues;Mod;Pop;Pop Rock;R&B;Rhythm & Blues;Rock|For Your Love",
 "Faces|Stay with Me|1971|JtqF0qBqzZo|Faces (band)|S1740|Blues Rock;Rock|Stay with Me (Faces song)",
 "Al Green|Take Me to the River|1974|9FBUgdhxe9M|Al Green|S2584|Southern Soul;R&B;Soul|Take Me to the River",
-"The Beatles|Please Please Me|1963|czw8eqepir8|The Beatles|S1065|Merseybeat;Beat Music;Pop;Pop Rock;Rock|",
+"The Beatles|Please Please Me|1963|czw8eqepir8|The Beatles|S1065|Merseybeat;Beat Music;Pop;Pop Rock;Rock|Please Please Me (song)",
 "Blind Willie Johnson|Dark Was the Night, Cold Was the Ground|1927|BNj2BXW852g|Blind Willie Johnson|S2704|Acoustic Texas Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|Dark Was the Night, Cold Was the Ground",
 "Daryl Hall & John Oates|She's Gone|1973|bnVXIUyshng|Hall & Oates|S670|Blue Eyed Soul;Pop Rock;Smooth Soul;Pop;R&B;Rock;Soul|She's Gone (Hall & Oates song)",
 "The Beatles|Rain|1966|cK5G8fPmWeA|The Beatles|S2505|Freakbeat;Psychedelic Rock;Beat Music;Pop;Pop Rock;Rock|Rain (Beatles song)",
