@@ -7660,7 +7660,7 @@ const songs = [
 "XTC|The Ballad of Peter Pumpkinhead|1992|pYupSHWEJxA|XTC|S3979|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|The Ballad of Peter Pumpkinhead",
 "Eels|Climbing to the Moon|1998|hy-2JM4QY0A|Eels (band)|S13750|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop|",
 "The Pioneers|Long Shot Kick the Bucket|1969|XhAec0h4lds|The Pioneers (band)|S7965|Reggae;Caribbean Music;Jamaican Music;Regional Music|",
-"Monaco|What Do You Want from Me?|1997|ZRhIAQAiTtY|Monaco (band)|S7595|Alternative Dance;Alternative Rock;Dance;Rock|What Do You Want from Me%3F (Monaco song)",
+"Monaco|What Do You Want from Me?|1997|F4oyzy2tPAI|Monaco (band)|S7595|Alternative Dance;Alternative Rock;Dance;Rock|What Do You Want from Me%3F (Monaco song)",
 "IDLES|Samaritans|2018|si2pZRifgIo|Idles|S16582|Art Punk;Post-Punk;Punk Rock;Rock|",
 "Crusaders|Street Life|1979|2e7OHLqEyAA|The Crusaders|S5912|Disco;Funk;Smooth Soul;Dance;R&B;Soul|Street Life (The Crusaders song)",
 "Talking Heads|Wild Wild Life|1986|616-QGQyx-I|Talking Heads|S3883|New Wave;Pop Rock;Pop;Rock|Wild Wild Life",
