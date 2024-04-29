@@ -6019,7 +6019,7 @@ const songs = [
 "John Lennon|Power to the People|1971|4Epue9X8bpc|Plastic Ono Band|S6953|Pop Rock;Pop;Rock|Power to the People (song)",
 "Swan Silvertones|Oh Mary Don't You Weep|1958|caUJt_XZr3k|Swan Silvertones|S12383|Traditional Black Gospel;American Folk Music;Folk;Gospel;Regional Music;Traditional Folk Music|",
 "Deerhunter|Snakeskin|2015|CG6jk5Q90DA|Deerhunter|S9734|Indie Rock;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock|",
-"Waylon Jennings|Luckenbach, Texas (Back to the Basics of Love)|1977|vCG01LFUcK4|Waylon Jennings|S1788|Outlaw Country;Country;Progressive Country|",
+"Waylon Jennings|Luckenbach, Texas (Back to the Basics of Love)|1977|n6GlvLlSq04|Waylon Jennings|S1788|Outlaw Country;Country;Progressive Country|",
 "Queen|Bicycle Race|1978|GugsCdLHm-Q|Queen (band)|S11970|Pop Rock;Pop;Rock|Bicycle Race",
 "The Soul Survivors|Expressway to Your Heart|1967|4EBYMl-f-wo|Soul Survivors (band)|S3832|Blue Eyed Soul;Pop Soul;Pop;R&B;Soul|Expressway to Your Heart",
 "Roxy Music|Avalon|1982|bpA_5a0miWk|Roxy Music|S12114|Art Pop;New Romantic;Sophisti-Pop;New Wave;Pop;Rock|Avalon (Roxy Music song)",
