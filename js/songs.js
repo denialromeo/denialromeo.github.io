@@ -4542,7 +4542,7 @@ const songs = [
 "Alain Bashung|Vertige de l'amour|1980|mUWIHnobpx0|Alain Bashung|S4444|Heartland Rock;Rock|",
 "James & Bobby Purify|I'm Your Puppet|1966|Tyvn3QR7BRk|James & Bobby Purify|S2503|Pop Soul;Southern Soul;Pop;R&B;Soul|I'm Your Puppet",
 "Oasis|Stand by Me|1997|maTP315XZCQ|Oasis (band)|S7782|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Stand by Me (Oasis song)",
-"EPMD|Strictly Business|1988|WE2vEtsc2io|EPMD|S3393|Boom Bap;East Coast Hip Hop;Hip Hop|Strictly Business (EPMD song)",
+"EPMD|Strictly Business|1988|5aCYQ1fRQc8|EPMD|S3393|Boom Bap;East Coast Hip Hop;Hip Hop|Strictly Business (EPMD song)",
 "Tears for Fears|Sowing the Seeds of Love|1989|VAtGOESO7W8|Tears for Fears|S8696|Art Pop;Pop Rock;Progressive Pop;Psychedelic Pop;Pop;Rock|Sowing the Seeds of Love",
 "Thelonious Monk|Brilliant Corners|1957|0TLEPQZIVOg|Thelonious Monk|S12419|Hard Bop;Bebop;Jazz|",
 "The Rolling Stones|Stray Cat Blues|1968|oOSYB38y2xA|The Rolling Stones|S3779|Roots Rock;Rock|Stray Cat Blues",
