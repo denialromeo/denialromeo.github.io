@@ -1500,7 +1500,7 @@ const songs = [
 "Björk|Venus As a Boy|1993|iSNz1BYANnM|Björk|S131|Art Pop;Pop|Venus as a Boy",
 "Santana|Oye Como Va|1970|J7ATTjg7tpE|Carlos Santana|S1732|Latin Rock;Psychedelic Rock;Hispanic Music;Latin American Music;Regional Music;Rock|Oye Como Va",
 "Junior Senior|Move Your Feet|2002|SPlQpGeTbIE|Junior Senior|S2250|Dance-Pop;Funky House;Dance;Electronic;Electronic Dance Music;House;Pop|Move Your Feet",
-"Earth, Wind & Fire|Shining Star|1975|rl-WSmryfSY|Earth, Wind & Fire|S1768|Funk;Soul;R&B|Shining Star (Earth, Wind & Fire song)",
+"Earth, Wind & Fire|Shining Star|1975|Yjiz9K42sjk|Earth, Wind & Fire|S1768|Funk;Soul;R&B|Shining Star (Earth, Wind & Fire song)",
 "Shannon|Let the Music Play|1983|_-0sUuGufmw|Shannon (American singer)|S474|Electro-Disco;Freestyle;Dance;Dance-Pop;Disco;Electronic;Electronic Dance Music;Pop|Let the Music Play (Shannon song)",
 "Foals|Spanish Sahara|2010|eYoINidnLRQ|Foals (band)|S4901|Art Rock;Indie Rock;Post-Rock;Alternative Rock;Rock|Spanish Sahara (song)",
 "Richard Harris|Macarthur Park|1968|tRwYQgk05DY|Richard Harris|S3464|Baroque Pop;Pop|MacArthur Park (song)",
