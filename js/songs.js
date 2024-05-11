@@ -44,7 +44,7 @@ const songs = [
 "Jimi Hendrix|Purple Haze|1967|cJunCsrhJjg|Jimi Hendrix|S933|Acid Rock;Hard Rock;Psychedelic Rock;Rock|Purple Haze",
 "The Kingsmen|Louie Louie|1963|1RZJ4ESU52U|The Kingsmen|S1051|Garage Rock;Proto-Punk;Rhythm & Blues;R&B;Rock|Louie Louie",
 "The Jackson 5|I Want You Back|1969|s3Q80mk7bxE|The Jackson 5|S872|Bubblegum;Motown Sound;Pop;Pop Soul;R&B;Soul|",
-"Gnarls Barkley|Crazy|2006|-N4jf6rtyuw|Gnarls Barkley|S3054|Neo-Soul;R&B;Soul|",
+"Gnarls Barkley|Crazy|2006|-N4jf6rtyuw|Gnarls Barkley|S3054|Neo-Soul;R&B;Soul|Crazy (Gnarls Barkley song)",
 "The Righteous Brothers|You've Lost That Lovin' Feelin'|1964|uOnYY9Mw2Fg|The Righteous Brothers|S1022|Blue Eyed Soul;Brill Building;Pop|You've Lost That Lovin' Feelin'",
 "The Beatles|Hey Jude|1968|A_MjCqQoLLA?start=53|The Beatles|S903|Piano Rock;Pop;Pop Rock;Rock|Hey Jude",
 "The Kinks|Waterloo Sunset|1967|N_MqfF0WBsU|The Kinks|S949|Pop Rock;Pop;Rock|Waterloo Sunset",
