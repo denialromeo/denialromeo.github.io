@@ -7350,7 +7350,7 @@ const songs = [
 "Felt|Primitive Painters|1985|K5XgLshyN8w|Felt (band)|S10800|Jangle Pop;Post-Punk;Alternative Rock;Pop;Pop Rock;Rock|",
 "Ella Fitzgerald|Baby, It's Cold Outside|1949|o8Uid4yRtg4|Ella Fitzgerald|S4873|Vocal Jazz;Jazz|Baby, It's Cold Outside",
 "Weezer|My Name Is Jonas|1994|yk0_i8u_bgs|Weezer|S15971|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|My Name Is Jonas",
-"KRS-One|Sound of da Police|1993|xt7hoHBcY9k|KRS-One|S11351|Boom Bap;East Coast Hip Hop;Political Hip Hop;Hip Hop|Sound of da Police",
+"KRS-One|Sound of da Police|1993|9ZrAYxWPN6c|KRS-One|S11351|Boom Bap;East Coast Hip Hop;Political Hip Hop;Hip Hop|Sound of da Police",
 "Christophe|Les paradis perdus|1973|TkJccK8jiIY|Christophe (singer)|S10407|French Pop;Pop Rock;Pop;Rock|Les Paradis perdus",
 "Mantronix|Needle to the Groove|1985|98asYXFI57s|Mantronix|S11538|East Coast Hip Hop;Electro;Dance;Electronic;Electronic Dance Music;Hip Hop|",
 "Bob Dylan|Señor (Tales of Yankee Power)|1978|qf5MxsMa9NE|Bob Dylan|S10242|Folk Rock;Singer/Songwriter;Rock|Señor (Tales of Yankee Power)",
