@@ -10312,7 +10312,7 @@ const songs = [
 "Michel Legrand|Les Moulins de mon cœur|1968|fy5jsvF7H3E|Michel Legrand|S11630|Film Score;Jazz Pop;Descriptor;Film Soundtrack;Pop;Soundtracks|The Windmills of Your Mind",
 "Embrace|Fireworks|1997|FHV4QEdQpYc|Embrace (English band)|S6269|Britpop;Alternative Rock;Pop;Pop Rock;Rock|",
 "Cat Stevens|Where Do the Children Play|1970|NXxcMw5PTDg|Cat Stevens|S9181|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Where Do the Children Play%3F",
-"The Doors|Five to One|1968|oOzpncIHCLs|The Doors|S10637|Blues Rock;Psychedelic Rock;Rock|Five to One",
+"The Doors|Five to One|1968|ABsBCEfNero|The Doors|S10637|Blues Rock;Psychedelic Rock;Rock|Five to One",
 "The Magnetic Fields|The Book of Love|1999|XoAydx7Anuc|The Magnetic Fields|S9285|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk|The Book of Love (The Magnetic Fields song)",
 "Underworld|I Exhale|2016|4izZYfo58-E|Underworld (band)|S16210|Progressive House;Tech House;Dance;Electronic;Electronic Dance Music;House;Techno|Exhale (Shoop Shoop)",
 "Blur|Ong Ong|2015|A0qA38h9w3o|Blur (band)|S13696|Britpop;Alternative Rock;Pop;Pop Rock;Rock|The Magic Whip",
