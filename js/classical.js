@@ -485,7 +485,7 @@ const classical = [
 "Jean Sibelius|En saga|1892-1902|SMlxb5rWLEY|Jean Sibelius|En saga",
 "Sergei Rachmaninoff|Twenty-Four Preludes|1892-1910|eKzZ2x_KPxc|Sergei Rachmaninoff|",
 "Pyotr Ilyich Tchaikovsky|The Nutcracker|1892|CtRLa92bINc?start=4983|Pyotr Ilyich Tchaikovsky|The Nutcracker",
-"Johannes Brahms|Klavierstücke, opp. 116-19|1892-1893|-doSRJepT1s|Johannes Brahms|",
+"Johannes Brahms|Klavierstücke, opp. 116-19|1892-1893||Johannes Brahms|",
 "Jean Sibelius|Kullervo|1892|hDzor0VXy0M|Jean Sibelius|Kullervo (Sibelius)",
 "Claude Debussy|String Quartet|1893|5VMQuHMq8QQ|Claude Debussy|String Quartet (Debussy)",
 "Engelburt Humperdinck|Hänsel und Gretel|1893|JnMEI4aoUfo|Engelbert Humperdinck (composer)|",
