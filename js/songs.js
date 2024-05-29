@@ -7706,7 +7706,7 @@ const songs = [
 "Rollins Band|Liar|1994|awY1MRlMKMc|Rollins Band|S12105|Alternative Metal;Alternative Rock;Metal;Rock|Liar (Rollins Band song)",
 "Ghost|Dance Macabre|2018|7Gr63DiEUxw|Ghost (Swedish band)|S16913|AOR;Hard Rock;Rock|Dance Macabre (song)",
 "The Cramps|Can Your Pussy Do the Dog?|1985|tqw5ykoDF7U|The Cramps|S5882|Psychobilly;Punk Rock;Rock;Rock & Roll;Rockabilly|",
-"Billy Ward & The Dominoes|The Bells|1952|Yn-6xxyreD4|Billy Ward and his Dominoes|S1328|Blues;Doo-Wop;Rhythm & Blues;Descriptor;R&B;Vocal Group|",
+"Billy Ward & The Dominoes|The Bells|1952|B8e_nuDFaq0|Billy Ward and his Dominoes|S1328|Blues;Doo-Wop;Rhythm & Blues;Descriptor;R&B;Vocal Group|",
 "Bourvil|Ballade irlandaise (un oranger)|1958|UF1WNxsjZcM|Bourvil|S10280|Chanson;Regional Music|",
 "The Hollies|Carrie-Anne|1967|sgA4-bLcoN8|The Hollies|S4105|Sunshine Pop;Pop|Carrie Anne",
 "The Doors|Touch Me|1968|RrDsSPtZOu4|The Doors|S10642|Pop Rock;Psychedelic Pop;Psychedelic Rock;Pop;Rock|Touch Me (The Doors song)",
