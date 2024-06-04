@@ -5962,7 +5962,7 @@ const songs = [
 "Merle Haggard|Hungry Eyes|1969|hXlEKFansk0|Merle Haggard|S1713|Bakersfield Sound;Country;Honky Tonk|Hungry Eyes (Merle Haggard song)",
 "Grandaddy|He's Simple, He's Dumb, He's the Pilot|2000|T6XcI384y8k|Grandaddy|S6628|Indie Rock;Progressive Pop;Space Rock;Alternative Rock;Pop;Psychedelic Rock;Rock|He's Simple, He's Dumb, He's the Pilot.",
 "Tame Impala|Solitude Is Bliss|2010|-F2e9fmYL7Y|Kevin Parker (musician)|S8678|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|Solitude Is Bliss",
-"Bob Dylan|Love Sick|1997|D_XPK9eU2BU|Bob Dylan|S10232|Blues Rock;Singer/Songwriter;Rock|Love Sick (Bob Dylan song)",
+"Bob Dylan|Love Sick|1997|5y_VTtGujPI|Bob Dylan|S10232|Blues Rock;Singer/Songwriter;Rock|Love Sick (Bob Dylan song)",
 "The Beatles|Yer Blues|1968|HEQQ-1rd4A0|The Beatles|S5379|Blues Rock;Rock|Yer Blues",
 "Arctic Monkeys|Crying Lightning|2009|fLsBJPlGIDU|Arctic Monkeys|S5229|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|Crying Lightning",
 "Badly Drawn Boy|Silent Sigh|2002|a87kwCYMf3o|Badly Drawn Boy|S2229|Indie Pop;Singer/Songwriter;Pop|",
