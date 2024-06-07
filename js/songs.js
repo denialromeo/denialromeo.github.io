@@ -9095,7 +9095,7 @@ const songs = [
 "Eugenio Finardi|Musica ribelle|1976|mAI_spKLTNk|Eugenio Finardi|S12939|Pop Rock;Singer/Songwriter;Pop;Rock|",
 "Lucy Dacus|I Don't Wanna Be Funny Anymore|2015|88hQgxgqdo4|Lucy Dacus|S16136|Indie Rock;Alternative Rock;Rock|",
 "Onyx|Slam|1993|7ADgCeYJMN4|Onyx (hip hop group)|S7812|Boom Bap;East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|Slam (Onyx song)",
-"The Monkees|(I'm Not Your) Steppin' Stone|1966|CFUOnT0ZnUc|The Monkees|S11674|Pop Rock;Pop;Rock|(I'm Not Your) Steppin' Stone",
+"The Monkees|(I'm Not Your) Steppin' Stone|1966|ehWbMmFm6G0|The Monkees|S11674|Pop Rock;Pop;Rock|(I'm Not Your) Steppin' Stone",
 "The Replacements|Here Comes a Regular|1985|_n1E8EgnkIo|The Replacements (band)|S4575|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|",
 "Juan Carlos Baglietto|Mirta, de regreso|1982|uyGpk6LXZuE|Juan Carlos Baglietto|S11264|Folk Rock;Singer/Songwriter;Rock|",
 "Johnnie Ray|Just Walkin' in the Rain|1956|8uCsvWgmjwg|Johnnie Ray|S11237|Traditional Pop;Pop|Just Walkin' in the Rain",
