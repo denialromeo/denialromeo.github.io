@@ -1104,7 +1104,7 @@ const songs = [
 "Eels|Novocaine for the Soul|1996|V2yy141q8HQ|Eels (band)|S47|Alternative Rock;Indie Pop;Pop;Rock|Novocaine for the Soul",
 "Al Green|Love and Happiness|1972|aVMijYHnbGw|Al Green|S2316|Southern Soul;R&B;Soul|Love and Happiness",
 "Beach House|Myth|2012|FuvWc3ToDHg|Beach House|S5001|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock|Myth (song)",
-"ABBA|Waterloo|1974|Sj_9CiNkkn4|ABBA|S749|Europop;Pop|",
+"ABBA|Waterloo|1974|Sj_9CiNkkn4|ABBA|S749|Europop;Pop|Waterloo (song)",
 "Daft Punk|Harder, Better, Faster, Stronger|2001|gAjR4_CbPpQ|Daft Punk|S4606|French House;Funky House;Dance;Electronic;Electronic Dance Music;House|Harder, Better, Faster, Stronger",
 "The Streets|Weak Become Heroes|2002|GMAVR4AId1g|The Streets|S1523|UK Garage;UK Hip Hop;Dance;Electronic;Electronic Dance Music;Hip Hop|Weak Become Heroes",
 "The Edwin Hawkins Singers|Oh Happy Day|1969|KJohGa66FJM|Edwin Hawkins|S1709|Gospel;American Folk Music;Folk;Regional Music;Traditional Folk Music|",
