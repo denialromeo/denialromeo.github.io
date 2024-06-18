@@ -3582,7 +3582,7 @@ const songs = [
 "Dizzy Gillespie|Salt Peanuts|1945|QnF0YyPgJTE|Dizzy Gillespie|S10617|Bebop;Jazz|Salt Peanuts",
 "The Rolling Stones|Salt of the Earth|1968|eOiLH-2hTPQ|The Rolling Stones|S9341|Roots Rock;Rock|Salt of the Earth (song)",
 "Missy Elliott|Pass That Dutch|2003|4d5vtbVRT1c|Missy Elliott|S2393|Experimental Hip Hop;Pop Rap;Hip Hop|Pass That Dutch",
-"Yothu Yindi|Treaty|1991|Jf-jHCdafZY|Yothu Yindi|S9098|Tribal House;Dance;Electronic;Electronic Dance Music;House|",
+"Yothu Yindi|Treaty|1991|Jf-jHCdafZY|Yothu Yindi|S9098|Tribal House;Dance;Electronic;Electronic Dance Music;House|Treaty (song)",
 "Sex Pistols|My Way|1978|rDyb_alTkMQ|Sid Vicious|S1801|Film Soundtrack;Punk Rock;Descriptor;Rock;Soundtracks|My Way",
 "Paul Weller|Wild Wood|1993|EgIw51zmiy8|Paul Weller|S4497|Singer/Songwriter|Wild Wood (Paul Weller song)",
 "Eagles|Lyin' Eyes|1975|2PTEqZURh4o|Eagles (band)|S3381|Country Rock;Soft Rock;Pop;Pop Rock;Rock|Lyin' Eyes",
