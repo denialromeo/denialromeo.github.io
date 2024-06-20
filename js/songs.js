@@ -10068,7 +10068,7 @@ const songs = [
 "Barry Manilow|Copacabana|1978|CrTBRQiQKRw?start=73|Barry Manilow|S12667|Pop|Copacabana (song)",
 "M.I.A.|Come Walk with Me|2013|_11uQVI21mQ|M.I.A. (rapper)|S9485|Art Pop;Electropop;Kuduro;African Music;Central African Music;Dance;Electronic;Electronic Dance Music;Pop;Regional Music|Come Walk with Me (song)",
 "Van Halen|Dreams|1986|YLYEWMOTETo|Van Halen|S3934|AOR;Rock|Dreams (Van Halen song)",
-"Lindstrøm|Closing Shot|2016|cOIibxEtebg|Hans-Peter Lindstrøm|S16134|Nu-Disco;Space Disco;Dance;Disco;Electro-Disco;Electronic;Electronic Dance Music;House|",
+"Lindstrøm|Closing Shot|2016|4tAQTckYi1Q|Hans-Peter Lindstrøm|S16134|Nu-Disco;Space Disco;Dance;Disco;Electro-Disco;Electronic;Electronic Dance Music;House|",
 "Queens of the Stone Age|Make It Wit Chu|2007|0wTxqHbJOzg|Queens of the Stone Age|S11984|Alternative Rock;Rock|Make It wit Chu",
 "The Weeknd|What You Need|2011|PGCVhhUxnp8|The Weeknd|S12562|Alternative R&B;Contemporary R&B;R&B|House of Balloons",
 "The xx|VCR|2009|gI2eO_mNM88|The xx|S9399|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock|VCR (song)",
