@@ -569,7 +569,7 @@ const classical = [
 "Arnold Schoenberg|Chamber Symphony No. 1|1906|m_hMVzPT9f4|Arnold Schoenberg|Chamber Symphony No. 1 (Schoenberg)",
 "Josef Suk|Asrael Symphony|1906|wFoFxa7Hc04|Josef Suk|",
 "Frederick Delius|Brigg Fair|1907|PMh2R4kRcFI|Frederick Delius|Brigg Fair",
-"Gustav Mahler|Symphony No. 8|1907|nxf3xtH31jA|Gustav Mahler|Symphony No. 8 (Mahler)",
+"Gustav Mahler|Symphony No. 8|1907|qRKPABo9jfc|Gustav Mahler|Symphony No. 8 (Mahler)",
 "Sergei Rachmaninoff|Symphony No. 2|1907|SvuitFzDxDg|Sergei Rachmaninoff|Symphony No. 2 (Rachmaninoff)",
 "Nicolai Rimsky-Korsakov|The Golden Cockerel Suite|1907|ke5GjKYkAU0?start=25|Nikolai Rimsky-Korsakov|The Golden Cockerel",
 "Edward Elgar|Symphony No. 1|1908|6SX9m2V9mbM|Edward Elgar|Symphony No. 1 (Elgar)",
