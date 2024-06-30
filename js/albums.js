@@ -1708,7 +1708,7 @@ const albums = [
 "Death in Vegas|The Contino Sessions|1999|OLAK5uy_kbisxYKsxKb3PzW_Nk7S7EKS67fTRYicA|A1053|The Contino Sessions|Death in Vegas|Psychedelic Rock;Trip Hop;Downtempo;Electronic;Rock",
 "Throbbing Gristle|Second Annual Report|1977|OLAK5uy_m9P4zY4aVNSHesdXLoxbex-mMnrTzpewI|A2742|D.o.A: The Third and Final Report of Throbbing Gristle|Throbbing Gristle|Industrial;Experimental;Industrial Music",
 "Miles Davis|Miles Davis at Plugged Nickel, Chicago|1976|OLAK5uy_lwAKg1viWJaJo8QZ4g7DXOge6NeMa9Jp4|A2023|The Complete Live at the Plugged Nickel 1965|Miles Davis|Jazz",
-"Shelby Lynne|I Am Shelby Lynne|1999|PLWJPjRaxsL58b4a8hlfBMzrTHkX_RJgND|A1079|I Am Shelby Lynne|Shelby Lynne|Country Pop;Country;Pop",
+"Shelby Lynne|I Am Shelby Lynne|1999|PLVZ9ld786KzDrAX_Vt9sGl6Xe8rMVzu1v|A1079|I Am Shelby Lynne|Shelby Lynne|Country Pop;Country;Pop",
 "Mogwai|Come On Die Young|1999|OLAK5uy_ntUCDqHiMeA2ty5fFgrCRnYd3M9coXlXs|A1076|Come On Die Young|Mogwai|Post-Rock;Rock",
 "João Gilberto|Chega De Saudade|1959|OLAK5uy_lXH-TEp-RePn7tcnbPfr5BjCklUIiYP0I|A4435|Chega de Saudade (album)|João Gilberto|Bossa Nova;Brazilian Music;Regional Music",
 "Perfume Genius|Too Bright|2014|OLAK5uy_kLsoY4PMAuQJrjhZYe0kvBGZ1lrrdhvbs|A5399|Too Bright|Perfume Genius|Art Pop;Pop",
