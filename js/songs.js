@@ -4376,7 +4376,7 @@ const songs = [
 "Hot Chip|One Life Stand|2009|x0DZ4TGF3uE|Hot Chip|S6738|Electropop;Indietronica;Electronic;Pop|",
 "Lucio Dalla|Com'e profondo il mare|1977|ThA3luuqefg|Lucio Dalla|S7344|Canzone d'autore;Contemporary Folk;Folk;Singer/Songwriter|",
 "Eagles|Take It to the Limit|1975|tJkW0Clsvrk|Eagles (band)|S718|Country Rock;Soft Rock;Pop;Pop Rock;Rock|Take It to the Limit (Eagles song)",
-"The Cure|The Love Cats|1983|OylJq6L-Wd0|The Cure|S4457|New Wave;Pop Rock;Pop;Rock|The Love Cats (song)",
+"The Cure|The Love Cats|1983|mcUza_wWCfA|The Cure|S4457|New Wave;Pop Rock;Pop;Rock|The Love Cats (song)",
 "Azzido Da Bass|Dooms Night|1999|3cYwggM2UGk|Azzido Da Bass|S1376|Tech House;Dance;Electronic;Electronic Dance Music;House;Techno|Dooms Night",
 "Nina Simone|Don't Let Me Be Misunderstood|1964|EcKHuvkAEDM?start=28|Nina Simone|S7744|Pop Soul;Pop;R&B;Soul|Don't Let Me Be Misunderstood",
 "The Postal Service|The District Sleeps Alone Tonight|2003|xUIBnmdJJ50|The Postal Service|S7996|Indie Pop;Indietronica;Electronic;Pop|The District Sleeps Alone Tonight",
