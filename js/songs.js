@@ -5606,7 +5606,7 @@ const songs = [
 "Anderson .Paak feat. ScHoolboy Q|Am I Wrong|2015|vvPeJLcK2Lk|Anderson Paak|S16021|Neo-Soul;Nu-Disco;Synth Funk;Dance;Disco;Electronic;Electronic Dance Music;Funk;House;R&B;Soul|",
 "Japandroids|Younger Us|2010|SKf5NmhkitA|Japandroids|S6871|Indie Rock;Noise Pop;Alternative Rock;Rock|Younger Us",
 "Jesse Belvin|Goodnight My Love (Pleasant Dreams)|1956|24jpHhaQy4g|Jesse Belvin|S3208|Rhythm & Blues;R&B|",
-"Kim Wilde|Kids in America|1981|UqMcevcUmqg|Kim Wilde|S3960|New Wave;Pop Rock;Pop;Rock|Kids in America",
+"Kim Wilde|Kids in America|1981|8BYKpQ_6GbM|Kim Wilde|S3960|New Wave;Pop Rock;Pop;Rock|Kids in America",
 "Prince|Dirty Mind|1980|c3GPPnVz1fw|Prince (musician)|S11945|Synth Funk;Funk;R&B|Dirty Mind (Prince song)",
 "Neko Case|Hold On, Hold On|2006|a0vk5SGmw3w|Neko Case|S7693|Alt-Country;Singer/Songwriter;Country|",
 "Mahalia Jackson|His Eye Is on the Sparrow|1951|eM_JRAPSwVM|Mahalia Jackson|S4594|Gospel;American Folk Music;Folk;Regional Music;Traditional Folk Music|",
