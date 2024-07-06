@@ -10138,7 +10138,7 @@ const songs = [
 "The Subways|Rock & Roll Queen|2005|lLZvJ_rtZO8|The Subways|S8621|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|Rock & Roll Queen",
 "Wire|1 2 X U|1977|CGeypZc5Gg8|Wire (band)|S9042|Art Punk;Punk Rock;Rock|",
 "Roger Glover|Love Is All|1974|RW9OYsMn4ds|Roger Glover|S8204|Pop Rock;Pop;Rock|Love Is All (Roger Glover song)",
-"Beyoncé feat. Kendrick Lamar|Freedom|2016|yPMGCMoWrBc|Beyoncé|S16039|Contemporary R&B;Pop Rap;Hip Hop;R&B|Freedom (Beyoncé song)",
+"Beyoncé feat. Kendrick Lamar|Freedom|2016|bWtcsj6W_Vw|Beyoncé|S16039|Contemporary R&B;Pop Rap;Hip Hop;R&B|Freedom (Beyoncé song)",
 "Nancy Sinatra|Bang Bang (My Baby Shot Me Down)|1966|BkKDSFYvxKU|Nancy Sinatra|S11713|Pop Soul;Pop;R&B;Soul|",
 "Village People|Macho Man|1978|xzW3uNh91ak|Village People|S12601|Disco;Dance|Macho Man (song)",
 "The Sonics|Boss Hoss|1965|7hAT-Lz7M_g|The Sonics|S1674|Garage Rock;Proto-Punk;Rock & Roll;Rock|",
