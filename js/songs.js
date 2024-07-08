@@ -1853,7 +1853,7 @@ const songs = [
 "Wayne Smith|Under Me Sleng Teng|1985|H_STPoI_eoM|Wayne Smith (musician)|S418|Digital Dancehall;Caribbean Music;Dancehall;Jamaican Music;Reggae;Regional Music|Sleng Teng",
 "Heaven 17|(We Don't Need This) Fascist Groove Thang|1981|lV5dbcOmw6I|Heaven 17|S524|New Wave;Synthpop;Electronic;Pop;Rock|(We Don't Need This) Fascist Groove Thang",
 "Miles Davis|Shhh/Peaceful|1969|VlIyqiIJ98w|Miles Davis|S2854|Jazz Fusion;Modal Jazz;Jazz|",
-"The Associates|Party Fears Two|1982|KybfTKNl2NM|The Associates (band)|S502|Art Pop;New Wave;Synthpop;Electronic;Pop;Rock|Party Fears Two",
+"The Associates|Party Fears Two|1982|-NUzAeUa6nc|The Associates (band)|S502|Art Pop;New Wave;Synthpop;Electronic;Pop;Rock|Party Fears Two",
 "Blondie|Dreaming|1979|TU3-lS_Gryk|Debbie Harry|S1571|New Wave;Power Pop;Pop;Pop Rock;Rock|Dreaming (Blondie song)",
 "Kanye West|New Slaves|2013|-SoKFycTmVU?start=5|Kanye West|S9473|Hardcore Hip Hop;Industrial Hip Hop;Political Hip Hop;Experimental Hip Hop;Hip Hop;Industrial Music|New Slaves",
 "Pulp|Disco 2000|1995|qJS3xnD7Mus|Pulp (band)|S8037|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Disco 2000 (song)",
