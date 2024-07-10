@@ -3945,7 +3945,7 @@ const songs = [
 "ABBA|Take a Chance on Me|1978|-crgQGdpZR0|ABBA|S3128|Europop;Pop|Take a Chance on Me",
 "Eddy Grant|Electric Avenue|1982|vtPk5IUbdH0|Eddy Grant|S1905|Electro-Disco;Pop Reggae;Synthpop;Caribbean Music;Dance;Disco;Electronic;Electronic Dance Music;Jamaican Music;Pop;Reggae;Regional Music|Electric Avenue (song)",
 "Bob Seger|Against the Wind|1980|r5ZegCEmkN4|Bob Seger|S3798|Heartland Rock;Pop Rock;Pop;Rock|Against the Wind (Bob Seger song)",
-"The Doors|Roadhouse Blues|1970|n2_X4VTCoEo|The Doors|S6141|Blues Rock;Rock|Roadhouse Blues",
+"The Doors|Roadhouse Blues|1970|BgQg3J7xU1k|The Doors|S6141|Blues Rock;Rock|Roadhouse Blues",
 "Barry White|Can't Get Enough of Your Love, Babe|1974|LBf6RErcQM0|Barry White|S1764|Smooth Soul;R&B;Soul|Can't Get Enough of Your Love, Babe",
 "The Go-Betweens|Streets of Your Town|1988|g-TJd2RnWgQ|The Go-Betweens|S6597|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Streets of Your Town",
 "Kraftwerk|Showroom Dummies|1977|ei_oEC2EWK4|Kraftwerk|S7146|Synthpop;Electronic;Pop|Trans-Europe Express (album)",
