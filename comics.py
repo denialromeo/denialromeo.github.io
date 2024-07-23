@@ -3,9 +3,9 @@ import os
 
 from PIL import Image
 
-DIR = 'assets/img/comics/batman'
-TITLE = 'The Killing Joke'
-AUTHOR = 'Alan Moore'
+DIR = 'assets/img/comics/scream'
+TITLE = 'I Have No Mouth And I Must Scream'
+AUTHOR = 'Harlan Ellison'
 
 def get_dim(img):
     im = Image.open(img);
@@ -31,7 +31,7 @@ def slides(directory, title, author):
               f'<img src="{img_link}"/>'
               '</a>'
               '<figcaption itemprop="caption description">'
-              f'<p><i>{title}</i> by {author}</p>'
+            #   f'<p><i>{title}</i> by {author}</p>'
               '</figcaption>'
               '</figure>\n')
     s += '</div>'
