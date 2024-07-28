@@ -7875,7 +7875,7 @@ const songs = [
 "Cutting Crew|(I Just) Died in Your Arms|1986|6dOwHzCHfgA|Cutting Crew|S5931|AOR;Pop Rock;Pop;Rock|(I Just) Died in Your Arms",
 "Spinners|Then Came You|1974|uOViqvRsIgo|Dionne Warwick|S3837|Philly Soul;Pop Soul;Pop;R&B;Soul|Then Came You (Dionne Warwick and the Spinners song)",
 "LeVert|Casanova|1987|lrLurrxH5fk|LeVert|S2368|Freestyle;New Jack Swing;Pop Soul;Contemporary R&B;Dance;Dance-Pop;Electronic;Electronic Dance Music;Pop;R&B;Soul|",
-"Al Wilson|Show and Tell|1973|jXzX9zwlz-Q|Al Wilson (singer)|S12763|Smooth Soul;R&B;Soul|Show and Tell (song)",
+"Al Wilson|Show and Tell|1973|ddDgNqaERSE|Al Wilson (singer)|S12763|Smooth Soul;R&B;Soul|Show and Tell (song)",
 "Cher|Half-Breed|1973|Z6E98ZRaU1s|Cher|S13716|Pop|Half-Breed (song)",
 "Franco Battiato|La cura|1996|7KQeQOnBvZk|Franco Battiato|S13021|Italo Pop;Pop|",
 "The Mills Brothers|You Always Hurt the One You Love|1944|ONqAmDas9AY|The Mills Brothers|S14758|Traditional Pop;Vocal Group;Descriptor;Pop|",
