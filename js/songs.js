@@ -2357,7 +2357,7 @@ const songs = [
 "The Chemical Brothers|Galvanize|2005|Xu3FTEmN-eg|The Chemical Brothers|S3033|Big Beat;Breakbeat;Dance;Electronic;Electronic Dance Music|Galvanize (song)",
 "Lindstrøm|I Feel Space|2005|i7_edU9T2Ho|Hans-Peter Lindstrøm|S3018|Nu-Disco;Space Disco;Dance;Disco;Electro-Disco;Electronic;Electronic Dance Music;House|",
 "Prince Buster|Al Capone|1965|OaDx6_-WbLs|Prince Buster|S8017|Jamaican Ska;Caribbean Music;Jamaican Music;Regional Music;Ska|Al Capone (song)",
-"Candi Staton|Young Hearts Run Free|1976|1VAK3-CqbhA|Candi Staton|S673|Disco;Dance|Young Hearts Run Free",
+"Candi Staton|Young Hearts Run Free|1976|wddgskIRVeg|Candi Staton|S673|Disco;Dance|Young Hearts Run Free",
 "Gilbert Bécaud|Et maintenant|1961|TU6KBaUufks?start=44|Gilbert Bécaud|S6562|Chanson;Regional Music|",
 "The Beatles|Drive My Car|1965|kfSQkZuIx84|The Beatles|S3184|Pop Rock;Pop;Rock|Drive My Car (song)",
 "Seal|Crazy|1990|1A-hqZf7xQs|Seal (musician)|S2017|Downtempo;Pop Soul;Electronic;Pop;R&B;Soul|Crazy (Seal song)",
