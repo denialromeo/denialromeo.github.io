@@ -1456,7 +1456,7 @@ const songs = [
 "Santana|Smooth|1999|6Whgn_iE5uc|Carlos Santana|S1374|Latin Rock;Pop Rock;Hispanic Music;Latin American Music;Pop;Regional Music;Rock|Smooth (Santana song)",
 "Neu!|Hallogallo|1972|zndpi8tNZyQ|Neu!|S7701|Krautrock;Experimental Rock;Progressive Rock;Rock|",
 "Red Hot Chili Peppers|Scar Tissue|1999|mzJj5-lubeM|Red Hot Chili Peppers|S1369|Alternative Rock;Pop Rock;Pop;Rock|",
-"ABBA|S.O.S.|1975|cvChjHcABPA|ABBA|S715|Europop;Pop|SOS (ABBA song)",
+"ABBA|SOS|1975|cvChjHcABPA|ABBA|S715|Europop;Pop|SOS (ABBA song)",
 "Four Tops|Baby I Need Your Loving|1964|joqjBAJx4ZA|Four Tops|S1029|Motown Sound;Pop;Pop Soul;R&B;Soul|",
 "The Rolling Stones|She's a Rainbow|1967|6c1BThu95d8|The Rolling Stones|S3777|Baroque Pop;Psychedelic Pop;Pop|She's a Rainbow",
 "Bunny Berigan|I Can't Get Started|1936|D1ycvlgrKW4|Bunny Berigan|S2650|Big Band;Jazz|I Can't Get Started",
