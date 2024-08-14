@@ -848,7 +848,7 @@ const albums = [
 "Lil Wayne|Tha Carter III|2008|OLAK5uy_kTK5lkuQcbeHvki5IhYmVNYE0XNOKQte8|A4346|Tha Carter III|Lil Wayne|Hip Hop",
 "Ry Cooder|Paradise and Lunch|1974|OLAK5uy_l7BVY9DP7fNU0KhCbuSY-GDTNURidBUX8|A317|Paradise and Lunch|Ry Cooder|Americana;Roots Rock;Country;Rock",
 "Roxy Music|Stranded|1973|OLAK5uy_kHRfBZCPfsE3yB-8Pu-c5pixy0UGDS4DE|A280|Stranded (album)|Roxy Music|Art Rock;Glam Rock;Rock",
-"Free|Fire and Water|1970|OLAK5uy_lQCgoClQMXcA1dSSVPUhTDIdFh83M9zSk|A1131|Fire and Water (Free album)|Free (band)|Hard Rock;Rock",
+"Free|Fire and Water|1970|OLAK5uy_mmY2FT01H5_6-B9VFuDxEW7YW-nKaZFnI|A1131|Fire and Water (Free album)|Free (band)|Hard Rock;Rock",
 "Galaxie 500|On Fire|1989|OLAK5uy_l8dCJgxXdUpTyY1Uje-IQA5vLyo7Y1LbY|A3270|On Fire (Galaxie 500 album)|Galaxie 500|Dream Pop;Slowcore;Alternative Rock;Indie Rock;Rock",
 "ABBA|Arrival|1976|OLAK5uy_kOnW3BfzZ9ep4oHKxXVd-YXCwOLeRT4mU|A380|Arrival (ABBA album)|ABBA|Europop;Pop",
 "Traffic|Mr. Fantasy|1967|OLAK5uy_ns0kxtY7ze8a5Ey3b93WT7hSbqgYVA2u4|A109|Mr. Fantasy|Traffic (band)|Psychedelic Rock;Rock",
