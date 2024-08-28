@@ -2312,7 +2312,7 @@ const albums = [
 "Wynton Kelly Trio & Wes Montgomery|Smokin' at the Half Note|1965|PL8E993DD2138027F4|A2556|Smokin' at the Half Note|Wynton Kelly|Hard Bop;Bebop;Jazz",
 "Miles Davis|Tutu|1986|OLAK5uy_njc-QIHL0GBpvFsVaMZdYR-lb6OQQ85xU|A2045|Tutu (album)|Miles Davis|Jazz Fusion;Jazz-Funk;Funk;Jazz;R&B",
 "Hot Chip|Made in the Dark|2008|OLAK5uy_mamm5bNzwzwV1CATd72lspvoaOUqlFTFI|A4353|Made in the Dark|Hot Chip|Indietronica;Electronic",
-"Dixie Chicks|Wide Open Spaces|1998|OLAK5uy_kLjIlBIngB0zyO5Ypfx6udcfVyMCjgck0|A4863|Wide Open Spaces|Dixie Chicks|Contemporary Country;Country Pop;Country;Pop",
+"Dixie Chicks|Wide Open Spaces|1998|OLAK5uy_kLjIlBIngB0zyO5Ypfx6udcfVyMCjgck0|A4863|Wide Open Spaces (album)|Dixie Chicks|Contemporary Country;Country Pop;Country;Pop",
 "Joan Armatrading|Joan Armatrading|1976|OLAK5uy_lQp3mFP6GTv-b3vcSlQj-AvOoRUChJr-M|A379|Joan Armatrading (album)|Joan Armatrading|Folk Rock;Singer/Songwriter;Rock",
 "Tim Hardin|Tim Hardin 1|1966|OLAK5uy_lUPL5m0vDpkDwosSxH65qTnCx8TKgx9Lo|A73|Tim Hardin 1|Tim Hardin|Contemporary Folk;Singer/Songwriter;Folk",
 "Justin Timberlake|Justified|2002|OLAK5uy_nFMcTtzDBiHW95wMxaaxgLZYKasXoGjQE|A3972|Justified (album)|Justin Timberlake|Contemporary R&B;Pop;R&B",
