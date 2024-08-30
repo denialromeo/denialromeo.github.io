@@ -990,7 +990,7 @@ const songs = [
 "Blind Willie Johnson|Dark Was the Night, Cold Was the Ground|1927|BNj2BXW852g|Blind Willie Johnson|S2704|Acoustic Texas Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|Dark Was the Night, Cold Was the Ground",
 "Daryl Hall & John Oates|She's Gone|1973|bnVXIUyshng|Hall & Oates|S670|Blue Eyed Soul;Pop Rock;Smooth Soul;Pop;R&B;Rock;Soul|She's Gone (Hall & Oates song)",
 "The Beatles|Rain|1966|cK5G8fPmWeA|The Beatles|S2505|Freakbeat;Psychedelic Rock;Beat Music;Pop;Pop Rock;Rock|Rain (Beatles song)",
-"The Platters|The Great Pretender|1955|rwfmbXJEBtY|The Platters|S1300|Doo-Wop;Rhythm & Blues;Descriptor;R&B;Vocal Group|The Great Pretender",
+"The Platters|The Great Pretender|1955|RBj2HN2uuNA|The Platters|S1300|Doo-Wop;Rhythm & Blues;Descriptor;R&B;Vocal Group|The Great Pretender",
 "Kiss|Rock and Roll All Nite|1975|EFMD7Usflbg|Kiss (band)|S697|Glam Rock;Hard Rock;Rock|Rock and Roll All Nite",
 "Django Reinhardt|Nuages|1946|_18BhouzMao|Django Reinhardt|S2734|Jazz manouche;Jazz|Nuages",
 "Herbie Hancock|Rockit|1983|GHhD4PD75zY|Herbie Hancock|S1898|Electro;Turntablism;Dance;Electronic;Electronic Dance Music;Hip Hop|",
