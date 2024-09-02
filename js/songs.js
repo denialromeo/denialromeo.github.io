@@ -751,7 +751,7 @@ const songs = [
 "Pavement|Summer Babe|1991|JmGIpYZ12TE|Pavement (band)|S209|Lo-Fi / Slacker Rock;Alternative Rock;Indie Rock;Rock|Summer Babe",
 "XTC|Making Plans for Nigel|1979|5bCML4TXpbA|XTC|S1499|New Wave;Post-Punk;Rock|Making Plans for Nigel",
 "George Michael|Faith|1987|6Cs3Pvmmv0E|George Michael|S348|Pop|Faith (George Michael song)",
-"The Beach Boys|Surfin' U.S.A.|1963|fmrfA3uDKLU|The Beach Boys|S1064|Surf Rock;Vocal Surf;Pop;Pop Rock;Rock;Surf Music|Surfin' U.S.A.",
+"The Beach Boys|Surfin' U.S.A.|1963|KcZn05qxVgg|The Beach Boys|S1064|Surf Rock;Vocal Surf;Pop;Pop Rock;Rock;Surf Music|Surfin' U.S.A.",
 "Simon and Garfunkel|America|1968|Eo2ZsAOlvEM|Simon & Garfunkel|S3805|Folk Pop;Folk Rock;Contemporary Folk;Folk;Pop;Rock|America (Simon & Garfunkel song)",
 "The Beach Boys|Surf's Up|1971|S22a1CITgj0|The Beach Boys|S1729|Art Pop;Baroque Pop;Progressive Pop;Psychedelic Pop;Pop|Surf's Up (song)",
 "Althea and Donna|Uptown Top Ranking|1977|OMrNDnU6PPk|Althea & Donna|S1558|Reggae;Caribbean Music;Jamaican Music;Regional Music|Uptown Top Ranking",
