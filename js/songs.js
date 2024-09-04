@@ -1140,7 +1140,7 @@ const songs = [
 "The Jam|The Eton Rifles|1979|C7kUDkK70qQ|The Jam|S580|Mod Revival;New Wave;Power Pop;Mod;Pop;Pop Rock;Rock|The Eton Rifles",
 "Flamin' Groovies|Shake Some Action|1976|7cxM51kPdeQ|Flamin' Groovies|S680|Power Pop;Pop;Pop Rock;Rock|",
 "Lily Allen|Smile|2006|0WxDrVUrSvI|Lily Allen|S3057|Pop;Pop Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
-"The Trashmen|Surfin' Bird|1963|9Gc4QTqslN4|The Trashmen|S1651|Garage Rock;Surf Rock;Rock;Surf Music|Surfin' Bird",
+"The Trashmen|Surfin' Bird|1963|Qgmh0BjLKVM|The Trashmen|S1651|Garage Rock;Surf Rock;Rock;Surf Music|Surfin' Bird",
 "Go-Go's|Our Lips Are Sealed|1981|r3kQlzOi27M|The Go-Go's|S537|New Wave;Pop Rock;Pop;Rock|Our Lips Are Sealed",
 "Smashing Pumpkins|Tonight, Tonight|1995|NOG3eus4ZSo|The Smashing Pumpkins|S3818|Alternative Rock;Symphonic Rock;Rock|Tonight, Tonight (The Smashing Pumpkins song)",
 "Warren Zevon|Werewolves of London|1978|qae25976UgA|Warren Zevon|S618|Halloween Music;Piano Rock;Singer/Songwriter;Descriptor;Holiday Music;Pop;Pop Rock;Rock|Werewolves of London",
