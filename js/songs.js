@@ -2037,7 +2037,7 @@ const songs = [
 "Nolan Strong & The Diablos|The Wind|1954|bIVKaayaNaY|Nolan Strong & the Diablos|S1411|Doo-Wop;Descriptor;R&B;Vocal Group|The Wind (Nolan Strong & The Diablos song)",
 "Duke Ellington|Ko-Ko|1940|5CO8_Ktro-w|Duke Ellington|S6167|Big Band;Swing;Jazz|Ko-Ko",
 "Fred Astaire|Cheek to Cheek|1935|HLBIcyuXCDU|Fred Astaire|S4870|Standards;Pop;Traditional Pop|Cheek to Cheek",
-"Jan and Dean|Surf City|1963|ERrwjR4ZlfI|Jan and Dean|S1070|Surf Rock;Vocal Surf;Pop;Pop Rock;Rock;Surf Music|Surf City (song)",
+"Jan and Dean|Surf City|1963|i0YkeQbn1ao|Jan and Dean|S1070|Surf Rock;Vocal Surf;Pop;Pop Rock;Rock;Surf Music|Surf City (song)",
 "Joey Beltram|Energy Flash|1990|ALsHox5sYCk|Joey Beltram|S240|Techno;Dance;Electronic;Electronic Dance Music|",
 "Neil Young|On the Beach|1974|C9CkvAQkQLs|Neil Young|S7686|Blues Rock;Jazz-Rock;Singer/Songwriter;Rock|",
 "Stiff Little Fingers|Alternative Ulster|1978|PlGmYetiCjA|Stiff Little Fingers|S2334|Punk Rock;Rock|",
