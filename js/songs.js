@@ -10672,7 +10672,7 @@ const songs = [
 "Jackie DeShannon|Put a Little Love in Your Heart|1969|CZ8K1sRibCY|Jackie DeShannon|S11104|Blue Eyed Soul;Pop|Put a Little Love in Your Heart",
 "Jack Scott|What in the World's Come Over You|1959|iksyruTrYZc|Jack Scott (singer)|S11101|Rock & Roll;Teen Pop;Pop;Rock|What in the World's Come Over You",
 "Jacques Higelin|Champagne|1979|mD3bh3wWaSQ|Jacques Higelin|S11122|Art Pop;Art Rock;French Pop;Piano Rock;Pop;Pop Rock;Rock|",
-"Frank Sinatra|Only the Lonely|1958|bef_s1Bhn7o|Frank Sinatra|S13483|Vocal Jazz;Jazz|",
+"Frank Sinatra|Only the Lonely|1958|JLCU1jqdhy8|Frank Sinatra|S13483|Vocal Jazz;Jazz|",
 "Shura|What's It Gonna Be?|2016|nJ4uBdmnKds|Shura (English singer)|S16186|Dance-Pop;Synthpop;Dance;Electronic;Pop|",
 "KC and the Sunshine Band|(Shake, Shake, Shake) Shake Your Booty|1976|aqoDrWXnld0|KC and the Sunshine Band|S13853|Disco;Funk;Dance;R&B|(Shake, Shake, Shake) Shake Your Booty",
 "Yeasayer|Henrietta|2012|vo4rbhR_vsk|Yeasayer|S9088|Indietronica;Psychedelic Pop;Electronic;Pop|",
