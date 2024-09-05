@@ -2015,7 +2015,7 @@ const albums = [
 "Drive-By Truckers|The Dirty South|2004|OLAK5uy_lz2XGyuqUCfLC5piQCbqv3q-A_IQdygiA|A4069|The Dirty South (album)|Drive-By Truckers|Southern Rock;Rock",
 "Junior Boys|Last Exit|2004|OLAK5uy_mYoziW0bh4AKPf0YdldiL8RfD72di7DPA|A4056|Last Exit (Junior Boys album)|Junior Boys|Glitch Pop;Synthpop;Electronic;Pop",
 "Wild Beasts|Smother|2011|OLAK5uy_mOIIyomwyrVw_L0a4g6I3aFSSfQPHPET0|A5183|Smother (album)|Wild Beasts|Art Pop;Indie Pop;Pop",
-"Hawkwind|Doremi Fasol Latido|1972|OLAK5uy_k4siU6Hi2whcfaBRG2JgqV--vvC1UVs7U|A3283|Doremi Fasol Latido|Hawkwind|Space Rock;Psychedelic Rock;Rock",
+"Hawkwind|Doremi Fasol Latido|1972|ERROR: Suitable playlist not found|A3283|Doremi Fasol Latido|Hawkwind|Space Rock;Psychedelic Rock;Rock",
 "Roberta Flack|First Take|1969|OLAK5uy_khEQhG8qv_D5A3NIb-i1Vay4QE-JLNUYo|A2282|First Take (album)|Roberta Flack|Soul;R&B",
 "Kings of Leon|Only by the Night|2008|OLAK5uy_kil1pZKWRLBDxadB4Fi8PyiLym2nJkuX4|A4350|Only by the Night|Kings of Leon|Indie Rock;Alternative Rock;Rock",
 "Stan Getz|Focus|1961|PL6xLjp7yrKTZdUbGE8fciv9PuURt-2fTo|A1901|Focus (Stan Getz album)|Stan Getz|Avant-Garde Jazz;Cool Jazz;Jazz",
