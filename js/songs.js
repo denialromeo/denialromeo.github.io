@@ -1236,7 +1236,7 @@ const songs = [
 "Paul Simon|Graceland|1986|H9M4XJXnCcw|Paul Simon|S374|Pop Rock;Singer/Songwriter;Pop;Rock|Graceland (song)",
 "Kate Bush|Hounds of Love|1985|VerK4zwMRQw|Kate Bush|S2917|Art Pop;Pop|Hounds of Love (song)",
 "Leonard Cohen|Chelsea Hotel #2|1974|Xk7DOe5EGgM|Leonard Cohen|S4175|Contemporary Folk;Singer/Songwriter;Folk|Hotel Chelsea",
-"Fleetwood Mac|The Chain|1977|kBYHwH1Vb-c|Fleetwood Mac|S3408|Pop Rock;Pop;Rock|The Chain",
+"Fleetwood Mac|The Chain|1977|xwTPvcPYaOo|Fleetwood Mac|S3408|Pop Rock;Pop;Rock|The Chain",
 "The Smiths|Bigmouth Strikes Again|1986|RvvbCoE4g2E|The Smiths|S371|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Bigmouth Strikes Again",
 "Bryan Adams|Summer of '69|1984|eFjjO_lhf9c|Bryan Adams|S3136|Heartland Rock;Pop Rock;Pop;Rock|Summer of '69",
 "Joni Mitchell|Free Man in Paris|1974|wXBba77U1_Y|Joni Mitchell|S748|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Free Man in Paris",
