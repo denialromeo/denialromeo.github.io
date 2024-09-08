@@ -8701,7 +8701,7 @@ const songs = [
 "The Pied Pipers|Dream|1945|j8-l2VW6kGI|The Pied Pipers|S7958|Vocal Group;Descriptor|Dream (1944 song)",
 "Starbuck|Moonlight Feels Right|1975|HYnQsvtfEsQ|Starbuck (band)|S8546|Soft Rock;Pop;Pop Rock;Rock|Moonlight Feels Right",
 "The Go-Betweens|Right Here|1987|Q97CRX_vjcg|The Go-Betweens|S6596|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Right Here (The Go-Betweens song)",
-"Danny O'Keefe|Good Time Charlie's Got the Blues|1971|-YP3pIPp8P8|Danny O'Keefe|S5945|Country|Good Time Charlie's Got the Blues",
+"Danny O'Keefe|Good Time Charlie's Got the Blues|1971|ROXtgjasUQo|Danny O'Keefe|S5945|Country|Good Time Charlie's Got the Blues",
 "Tony Bennett|Stranger in Paradise|1953|WFrUsa5SUv0|Tony Bennett|S8816|Traditional Pop;Vocal Jazz;Jazz;Pop|Stranger in Paradise (song)",
 "Rihanna, Kanye West, Paul McCartney|FourFiveSeconds|2015|kt0g4dWxEBo|Paul McCartney|S9832|Pop Soul;Pop;R&B;Soul|FourFiveSeconds",
 "Marian Anderson|Ave Maria|1936|GksRp42s3S8|Marian Anderson|S15681|Lieder;Classical Music;Western Classical Music|",
