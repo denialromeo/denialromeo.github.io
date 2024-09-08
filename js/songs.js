@@ -8323,7 +8323,7 @@ const songs = [
 "Håkan Hellström|Känn ingen sorg för mig Göteborg|2000|-fusSPk4j0k|Håkan Hellström|S4602|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|",
 "Muddy Waters|You Need Love|1962|pM8_HuQ0b34|Muddy Waters|S14783|Chicago Blues;Blues;Electric Blues|You Need Love (Muddy Waters song)",
 "Juliette Gréco|Si tu t'imagines|1950|zcrujIHaNiU|Juliette Gréco|S11279|Chanson;Regional Music|",
-"Eric Weissberg and Steve Mandel|Dueling Banjos|1973|YchKLJGWJA4|Eric Weissberg|S14369|Bluegrass;Film Soundtrack;American Folk Music;Country;Descriptor;Folk;Regional Music;Soundtracks;Traditional Country;Traditional Folk Music|",
+"Eric Weissberg and Steve Mandel|Dueling Banjos|1973|J6UG1Jlwiow|Eric Weissberg|S14369|Bluegrass;Film Soundtrack;American Folk Music;Country;Descriptor;Folk;Regional Music;Soundtracks;Traditional Country;Traditional Folk Music|Dueling Banjos",
 "The Pretty Things|Rosalyn|1964|rHg8J4GjE94|Pretty Things|S8004|British Rhythm & Blues;Freakbeat;Garage Rock;Mod;Beat Music;Pop;Pop Rock;R&B;Rhythm & Blues;Rock|Rosalyn (song)",
 "The Rolling Stones|I Got the Blues|1971|FWWhX5BjVRw|The Rolling Stones|S12094|Blues Rock;Soul;R&B;Rock|",
 "Pulp|Mis-Shapes|1995|S0DRch3YLh0|Pulp (band)|S2633|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Mis-Shapes",
