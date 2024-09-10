@@ -6339,7 +6339,7 @@ const songs = [
 "Silver Convention|Fly, Robin, Fly|1975|wC_kCnm3GYQ|Silver Convention|S8410|Euro-Disco;Dance;Disco|Fly, Robin, Fly",
 "The Rascals|How Can I Be Sure|1967|jo2E439KPf8|The Rascals|S3745|Baroque Pop;Sunshine Pop;Pop|How Can I Be Sure",
 "Spoonie Gee|Spoonin Rap|1979|Rv7dmq1FePM|Spoonie Gee|S3441|Disco Rap;East Coast Hip Hop;Hip Hop|",
-"The Kinks|Autumn Almanac|1967|p_u0gn1I8xQ|The Kinks|S14628|Pop Rock;Pop;Rock|Autumn Almanac",
+"The Kinks|Autumn Almanac|1967|N3VDATV6dmY|The Kinks|S14628|Pop Rock;Pop;Rock|Autumn Almanac",
 "Charlie Parker|Billie's Bounce|1946|yPS5chv1mkg|Charlie Parker|S9186|Bebop;Jazz|",
 "Mark Ronson|Valerie|2007|bixuI_GV5I0|Mark Ronson|S7434|Jazz Pop;Pop Soul;Pop;R&B;Soul|",
 "Camille|Ta douleur|2005|OPGNWFQy_gg|Camille (French singer)|S10344|A cappella;Art Pop;French Pop;Nouvelle chanson française;Chanson;Descriptor;Pop;Regional Music|",
