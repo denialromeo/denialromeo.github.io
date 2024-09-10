@@ -3663,7 +3663,7 @@ const songs = [
 "Mott the Hoople|All the Way from Memphis|1973|zvFpX98EOPo|Mott the Hoople|S7618|Glam Rock;Rock|All the Way from Memphis",
 "Frank Zappa|Peaches En Regalia|1969|FoYdeEDdtK4|Frank Zappa|S3988|Jazz Fusion;Jazz-Rock;Jazz;Rock|",
 "Kanye West|Blood on the Leaves|2013|KEA0btSNkpw|Kanye West|S9474|Experimental Hip Hop;Trap [EDM];Dance;Electronic;Electronic Dance Music;Hip Hop|Blood on the Leaves",
-"Dick Dale|Let's Go Trippin'|1961|r6Gquc9ZliI|Dick Dale|S1124|Rock & Roll;Surf Rock;Rock;Surf Music|",
+"Dick Dale|Let's Go Trippin'|1961|r6Gquc9ZliI|Dick Dale|S1124|Rock & Roll;Surf Rock;Rock;Surf Music|Let's Go Trippin'",
 "Elvis Presley|Crying in the Chapel|1965|CYOUcV7nlN8|Elvis Presley|S1455|Gospel;Pop;American Folk Music;Folk;Regional Music;Traditional Folk Music|Crying in the Chapel",
 "Nas|The World Is Yours|1994|e5PnuIRnJW8|Nas|S4503|Boom Bap;East Coast Hip Hop;Jazz Rap;Hip Hop|The World Is Yours (Nas song)",
 "Tegan and Sara|Closer|2012|9e9NSMY8QiQ|Tegan and Sara|S9526|Electropop;Electronic;Pop|Closer (Tegan and Sara song)",
