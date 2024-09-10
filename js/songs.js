@@ -2117,7 +2117,7 @@ const songs = [
 "Gang of Four|(Love Like) Anthrax|1978|0SYBnkgko7M?start=80|Gang of Four (band)|S3434|Art Punk;Noise Rock;Post-Punk;Punk Rock;Rock|",
 "The Smiths|The Queen Is Dead|1986|k30XeJNAbt4|The Smiths|S2365|Indie Rock;Post-Punk;Alternative Rock;Rock|",
 "Fetty Wap|Trap Queen|2014|i_kF4zLNKio|Fetty Wap|S9875|Contemporary R&B;Pop Rap;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop;R&B|",
-"Kiss|Detroit Rock City|1976|_PiVTOLFdBA|Kiss (band)|S686|Hard Rock;Rock|Detroit Rock City",
+"Kiss|Detroit Rock City|1976|nkrzI2JRYxM?start=48|Kiss (band)|S686|Hard Rock;Rock|Detroit Rock City",
 "Jonathan Richman/The Modern Lovers|Pablo Picasso|1976|Kc2iLAubras|The Modern Lovers|S3636|Garage Rock;Proto-Punk;Rock|Pablo Picasso (song)",
 "Frank Ocean|Nikes|2016|diIFhc_Kzng|Frank Ocean|S16088|Alternative R&B;Contemporary R&B;R&B|Nikes (song)",
 "Aphex Twin|Come to Daddy|1997|TZ827lkktYs|Aphex Twin|S2139|Drill and Bass;Electronic;IDM|Come to Daddy (song)",
