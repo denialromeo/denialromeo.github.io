@@ -2200,7 +2200,7 @@ const songs = [
 "Shuggie Otis|Strawberry Letter 23|1971|0FX6tpjQboQ|Shuggie Otis|S3684|Psychedelic Soul;R&B;Soul|Strawberry Letter 23",
 "Arctic Monkeys|When the Sun Goes Down|2006|EqkBRVukQmE|Arctic Monkeys|S4031|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|When the Sun Goes Down (Arctic Monkeys song)",
 "Silver Apples|Oscillations|1968|7HTOmW-fJ_4|Silver Apples|S4119|Electronic;Experimental Rock;Psychedelic Rock;Rock|",
-"Eagles|Take It Easy|1972|4v8KEbQA8kw|Eagles (band)|S1318|Country Rock;Rock|",
+"Eagles|Take It Easy|1972|4v8KEbQA8kw|Eagles (band)|S1318|Country Rock;Rock|Take It Easy",
 "Youssou N'Dour|7 Seconds|1994|wqCpjFMvz-k|Youssou N'Dour|S1540|Trip Hop;Downtempo;Electronic|7 Seconds (song)",
 "Charlie Parker|Parker's Mood|1948|6Wa7El-k3jQ|Charlie Parker|S10383|Bebop;Jazz|",
 "David Bowie|I Can't Give Everything Away|2016|sE1Zcngd3VA|David Bowie|S16068|Alternative Dance;Art Rock;Alternative Rock;Dance;Rock|I Can't Give Everything Away",
