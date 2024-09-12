@@ -7550,7 +7550,7 @@ const songs = [
 "Arthur Collins|Alexander's Ragtime Band|1911|vx7bJx4NPLw|Arthur Collins (singer)|S9136|Ragtime;American Folk Music;Folk;Regional Music;Traditional Folk Music|Alexander's Ragtime Band",
 "Bobby Lewis|Tossin' and Turnin'|1961|gRe9WS2Ag_c|Bobby Lewis|S5575|Rhythm & Blues;Rock & Roll;R&B;Rock|Tossin' and Turnin'",
 "Bob Wills and His Texas Playboys|San Antonio Rose|1939|okNgLm4Ilt4|Bob Wills|S5566|Western Swing;Country|",
-"Wayne Shorter|Footprints|1967|3XvJFW0DHbU|Wayne Shorter|S12559|Post-Bop;Bebop;Jazz|",
+"Wayne Shorter|Footprints|1967|LgaIUqH0w6c|Wayne Shorter|S12559|Post-Bop;Bebop;Jazz|Footprints (composition)",
 "Neko Case|People Got a Lotta Nerve|2009|HjUu5XMPWBo|Neko Case|S4818|Alt-Country;Americana;Indie Pop;Singer/Songwriter;Country;Pop|",
 "Sting feat. Cheb Mami|Desert Rose|1999|C3lWwBslWqg|Sting (musician)|S12326|Adult Contemporary;Pop|Desert Rose (Sting song)",
 "Prince|Mountains|1986|_WmPeLOLDnA|Prince (musician)|S8012|Film Soundtrack;Funk;Pop Rock;Descriptor;Pop;R&B;Rock;Soundtracks|Mountains (Prince song)",
