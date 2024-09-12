@@ -5431,7 +5431,7 @@ const songs = [
 "The Rolling Stones|Dandelion|1967|Z9mlVhJQgTw|The Rolling Stones|S12090|Psychedelic Pop;Psychedelic Rock;Pop;Rock|Dandelion (Rolling Stones song)",
 "Gene Pitney|Twenty Four Hours from Tulsa|1963|zugy2rkSM7g?start=6|Gene Pitney|S4087|Brill Building;Pop|Twenty Four Hours from Tulsa",
 "Cold War Kids|Hang Me Up to Dry|2006|rsKGWbFpLv0|Cold War Kids|S5852|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|Hang Me Up to Dry",
-"Miles Davis|Footprints|1967|Pxb7pNXJvng|Miles Davis|S11647|Modal Jazz;Post-Bop;Bebop;Jazz|",
+"Miles Davis|Footprints|1967|Pxb7pNXJvng|Miles Davis|S11647|Modal Jazz;Post-Bop;Bebop;Jazz|Footprints (composition)",
 "Barbara|L'Aigle Noir|1970|tk6YruMrx2s?start=12|Barbara (singer)|S10074|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "Led Zeppelin|The Ocean|1973|H8bVaTW6UCU|Led Zeppelin|S7207|Hard Rock;Rock|The Ocean (Led Zeppelin song)",
 "America|Sister Golden Hair|1975|XIycEe59Auc|America (band)|S5186|Folk Pop;Soft Rock;Contemporary Folk;Folk;Pop;Pop Rock;Rock|Sister Golden Hair",
