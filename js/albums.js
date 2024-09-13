@@ -1551,7 +1551,7 @@ const albums = [
 "Nick Cave & The Bad Seeds|The Firstborn Is Dead|1985|OLAK5uy_k8hUSyCv44CTlaPF-tEZc8BD_cJqFmcg8|A636|The Firstborn Is Dead|Nick Cave and the Bad Seeds|Post-Punk;Punk Blues;Punk Rock;Rock",
 "Underworld|Second Toughest in the Infants|1996|OLAK5uy_n87_tujzscISac_VLcYLnR6-Ay-q05M_U|A967|Second Toughest in the Infants|Underworld (band)|Techno;Dance;Electronic;Electronic Dance Music",
 "David Sylvian|Brilliant Trees|1984|OLAK5uy_lZDgAzsShgBuySm0WMZ92dhQSCQuf4XRo|A628|Brilliant Trees|David Sylvian|Art Pop;Pop",
-"Nicolas Jaar|Space Is Only Noise|2011|OLAK5uy_kqJJ9F9FRfYOkYjjLLTVhvElnj-Uz7UAA|A5153|Space Is Only Noise|Nicolas Jaar|Microhouse;Dance;Electronic;Electronic Dance Music;House",
+"Nicolas Jaar|Space Is Only Noise|2011|OLAK5uy_lPZ0NSNkSoPRIgghc7Oejf8Bpo5aR2m_w|A5153|Space Is Only Noise|Nicolas Jaar|Microhouse;Dance;Electronic;Electronic Dance Music;House",
 "Stereolab|Transient Random-Noise Bursts with Announcements|1993|OLAK5uy_llO9oGMl2p5PPmILo1rugASoDvWrbTTxQ|A1716|Transient Random-Noise Bursts with Announcements|Stereolab|Experimental Rock;Noise Pop;Alternative Rock;Rock",
 "Bunny Wailer|Blackheart Man|1976|OLAK5uy_k2mQzaYdIjGL8Xjn4wZZEsmdUbDBuwP7Y|A365|Blackheart Man|Bunny Wailer|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Four Tops|Reach Out|1967|OLAK5uy_l_WLQNCsAkkJ5fO8GU1yXPQ4T3xXEcGdY|A1231|Reach Out (Four Tops album)|Four Tops|Soul;R&B",

@@ -552,7 +552,7 @@ const classical = [
 "Gustav Mahler|Kindertotenlieder|1904|wXZMbRgbUvk?start=25|Gustav Mahler|Kindertotenlieder",
 "Gustav Mahler|Symphony No. 6|1904|25tSq_dYL3c?start=3|Gustav Mahler|Symphony No. 6 (Mahler)",
 "Alexander Scriabin|Symphony No. 3|1904|E-CdtD1Otx4|Alexander Scriabin|Symphony No. 3 (Scriabin)",
-"Charles Villiers Stanford|Songs of the Sea|1904|bEljN59jR80|Charles Villiers Stanford|",
+"Charles Villiers Stanford|Songs of the Sea|1904|0YuGtOl267c|Charles Villiers Stanford|",
 "Giacomo Puccini|Madama Butterfly|1904|IYrbdiee9SU|Giacomo Puccini|Madama Butterfly",
 "Jean Sibelius|Violin Concerto|1905|J0w0t4Qn6LY|Jean Sibelius|Violin Concerto (Sibelius)",
 "Maurice Ravel|Introduction and Allegro|1905|rv5vXFaKkIg|Maurice Ravel|Introduction and Allegro (Ravel)",
