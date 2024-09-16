@@ -6080,7 +6080,7 @@ const songs = [
 "Barbara|Dis, quand reviendras-tu?|1964|nUE80DTNxK4|Barbara (singer)|S5316|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "Bon Jovi|Runaway|1984|s86K-p089R8|Bon Jovi|S5585|Glam Metal;Hard Rock;Rock|",
 "Jesus Jones|Right Here, Right Now|1991|MznHdJReoeo|Jesus Jones|S198|Grebo;Alternative Dance;Alternative Rock;Dance;Rock|Right Here, Right Now (Jesus Jones song)",
-"Sonny Boy Williamson (II)|Eyesight to the Blind|1951|NktV1GJ5GtY|Sonny Boy Williamson II|S8496|Chicago Blues;Blues;Electric Blues|",
+"Sonny Boy Williamson (II)|Eyesight to the Blind|1951|dBGWbaMkAQw|Sonny Boy Williamson II|S8496|Chicago Blues;Blues;Electric Blues|Eyesight to the Blind",
 "Jimmie Dale & The Flatlanders|Dallas|1972|Z1mQvHXRlZE|The Flatlanders|S11208|Country|",
 "Lou Christie|Lightnin' Strikes|1965|1YjSAMtSQ2Y?start=27|Lou Christie|S3276|Blue Eyed Soul;Pop Rock;Pop;Rock|Lightnin' Strikes",
 "Sui Generis|Canción para mi muerte|1972|-LKg9YNB1kw|Sui Generis|S12350|Folk Rock;Rock|",
