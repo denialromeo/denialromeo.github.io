@@ -3964,7 +3964,7 @@ const songs = [
 "Ratt|Round and Round|1984|0u8teXR8VE4|Ratt|S4203|Glam Metal;Hard Rock;Rock|Round and Round (Ratt song)",
 "Chuck Willis|C.C. Rider|1957|-7R-ck2LRWo|Chuck Willis|S1244|Jump-Blues;Rhythm & Blues;Blues;R&B|",
 "Placebo|Nancy Boy|1996|PBxuq_eWW94|Placebo (band)|S4517|Noise Pop;Alternative Rock;Rock|Nancy Boy",
-"Fuck Buttons|Surf Solar|2009|5hQXSsbQCMs|Fuck Buttons|S4799|Electronic;Neo-Psychedelia;Psychedelic Rock;Rock|",
+"Fuck Buttons|Surf Solar|2009|rKd7WQSk-1Y|Fuck Buttons|S4799|Electronic;Neo-Psychedelia;Psychedelic Rock;Rock|",
 "Rick Astley|Never Gonna Give You Up|1987|dQw4w9WgXcQ|Rick Astley|S8151|Dance-Pop;Dance;Pop|Never Gonna Give You Up",
 "Bran Van 3000|Astounded|2001|QUNWhKq80_s|Bran Van 3000|S1468|Neo-Soul;R&B;Soul|Astounded (Bran Van 3000 song)",
 "The Smiths|William, It Was Really Nothing|1984|M661HAkr_Dk|The Smiths|S435|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|William, It Was Really Nothing",
