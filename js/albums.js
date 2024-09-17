@@ -999,7 +999,7 @@ const albums = [
 "Arrested Development|3 Years, 5 Months and 2 Days in the Life of...|1992|OLAK5uy_mQ_CAMoudfTB12jZpY3hM8wRlI81PM4jc|A842|3 Years, 5 Months and 2 Days in the Life Of...|Arrested Development (group)|Hip Hop",
 "Tangerine Dream|Phaedra|1974|OLAK5uy_l3T7t42x3I32hhautRFyRSlYUp5GS3nVs|A1184|Phaedra (album)|Tangerine Dream|Berlin School;Electronic;Progressive Electronic",
 "Youssou N'Dour|Immigrés|1984|OLAK5uy_nr5a7XDeG8qON_gVhY3FLpL_gehy3kDEY|A2042|Immigrés|Youssou N'Dour|Mbalax;African Music;Regional Music;West African Music;Wolof Music",
-"Etta James|At Last!|1960|PLa3HlKFsnLvZ1vfFn34kcWJXsGevI_mPE|A1277|At Last!|Etta James|Rhythm & Blues;Soul;R&B",
+"Etta James|At Last!|1960|OLAK5uy_kAeiQzRbev8DbYhUVEM9Yi_GNsh8R9dwM|A1277|At Last!|Etta James|Rhythm & Blues;Soul;R&B",
 "Peter Frampton|Frampton Comes Alive!|1976|OLAK5uy_lkrhRgiTczPNnbopoxjsA4eBiiyW1FGAk|A1421|Frampton Comes Alive!|Peter Frampton|Pop Rock;Pop;Rock",
 "Elliott Smith|Figure 8|2000|OLAK5uy_nxBnU9afp3ep05jOle2-VILbRsAnc5TS4|A1101|Figure 8 (album)|Elliott Smith|Indie Folk;Indie Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop",
 "Swans|To Be Kind|2014|OLAK5uy_nqEDfB23AdNQTvOfzLxsPpjPqiT37aRo0|A5394|To Be Kind|Swans (band)|Experimental Rock;Post-Rock;Rock",
