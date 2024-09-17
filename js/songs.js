@@ -8335,7 +8335,7 @@ const songs = [
 "Liam Gallagher|Wall of Glass|2017|YdJc7-ZEuT0|Liam Gallagher|S16434|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Wall of Glass",
 "Sade|By Your Side|2000|C8QJmI_V3j4|Sade (band)|S4843|Smooth Soul;R&B;Soul|By Your Side (Sade song)",
 "Pavement|Major Leagues|1999|qWmXoHLF0LE|Pavement (band)|S7910|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|",
-"Idris Muhammad|Could Heaven Ever Be Like This|1977|0skigTyA4NE|Idris Muhammad|S12795|Disco;Funk;Dance;R&B|Alright (Jamiroquai song)",
+"Idris Muhammad|Could Heaven Ever Be Like This|1977|0skigTyA4NE|Idris Muhammad|S12795|Disco;Funk;Dance;R&B|",
 "Kylie Minogue|Come into My World|2001|63vqob-MljQ|Kylie Minogue|S11355|Dance-Pop;Dance;Pop|Come into My World",
 "Frank Zappa|Hungry Freaks, Daddy|1966|0rhRhSx_jbM|Frank Zappa|S6448|Psychedelic Rock;Satire;Comedy;Descriptor;Rock|",
 "The Rolling Stones|Time Waits for No One|1974|YsH2In5r2sM|The Rolling Stones|S8231|Rock|Time Waits for No One (Rolling Stones song)",
