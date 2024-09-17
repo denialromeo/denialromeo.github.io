@@ -2322,7 +2322,7 @@ const albums = [
 "Tortoise|Tortoise|1994|OLAK5uy_mFw2f9O1nL6Bs5YtaQ7jHh6kpw5HemHnY|A1602|Tortoise (album)|Tortoise (band)|Post-Rock;Rock",
 "Tom Zé|Estudando o samba|1976|OLAK5uy_l2YwOgTytXYXfwsXEWUVJ3KZFb4-eA3M4|A4591|Estudando o Samba|Tom Zé|MPB;Samba;Brazilian Music;Regional Music",
 "Charles Mingus|Let My Children Hear Music|1972|OLAK5uy_lJoQMoK7yRvgtmlJRCm0WZsXlLuQ2Tt4U|A2001|Let My Children Hear Music|Charles Mingus|Experimental Big Band;Third Stream;Avant-Garde Jazz;Big Band;Jazz",
-"Duke Ellington|Such Sweet Thunder|1957|PLmm-O67ELCXq-DVwBCUtPvV6o9CZ9Efoy|A1820|Such Sweet Thunder|Duke Ellington|Big Band;Jazz",
+"Duke Ellington|Such Sweet Thunder|1957|OLAK5uy_k0G3B5C3uDmOE2hh_SDQZQGQZD0Su0Ye4|A1820|Such Sweet Thunder|Duke Ellington|Big Band;Jazz",
 "Beck|Morning Phase|2014|OLAK5uy_mLGPyNfLTJrsZFGwV_vuS9YKEl4hB9Hjs|A5404|Morning Phase|Beck|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "Red Hot Chili Peppers|By the Way|2002|OLAK5uy_mIzb8byci429atL6GqqYKvYw-GVHPR5jo|A3904|The Getaway (Red Hot Chili Peppers album)|Red Hot Chili Peppers|Alternative Rock;Pop Rock;Pop;Rock",
 "WU LYF|Go Tell Fire to the Mountain|2011|OLAK5uy_n1uGnxi-_mY4DZajHWwZP5dLGz5XzawqQ|A5530|Go Tell Fire to the Mountain|WU LYF|Art Rock;Indie Rock;Alternative Rock;Rock",
