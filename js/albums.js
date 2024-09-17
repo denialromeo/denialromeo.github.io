@@ -2244,7 +2244,7 @@ const albums = [
 "Henry Mancini|The Music from Peter Gunn|1959|OLAK5uy_mIWbP1LwLcojsb2tsAfIFqRo-IUC7xTII|A1847|The Music from Peter Gunn|Henry Mancini|Jazz Pop;Television Music;Descriptor;Pop;Soundtracks",
 "Helmet|Meantime|1992|OLAK5uy_k7kO962xkSQ5o-lRopWDDFLHo493kSNdo|A3420|Meantime (album)|Helmet (band)|Alternative Metal;Metal;Rock",
 "Journey|Escape|1981|OLAK5uy_mzf2i1nQ-hTI4lNXUIMwMQCrbPccDzRUU|A538|Escape (Journey album)|Journey (band)|AOR;Pop Rock;Pop;Rock",
-"Gas|Pop|2000|PLzhtzupJ_gz9VGQT0pccsr42uFc1xPKxK|A4924|Pop (Gas album)|Pacific Gas & Electric (band)|Ambient",
+"Gas|Pop|2000|OLAK5uy_mRSgXfp14ktLDS_J7N-LYwgpJa-LKGi7I|A4924|Pop (Gas album)|Pacific Gas & Electric (band)|Ambient",
 "Bronski Beat|The Age of Consent|1984|OLAK5uy_ntHqQMQhKv-rKaXva2g-QMV3F_EWhwat8|A1489|The Age of Consent (album)|Bronski Beat|Hi-NRG;Synthpop;Dance;Disco;Electro-Disco;Electronic;Electronic Dance Music;Pop",
 "John Grant|Queen of Denmark|2010|OLAK5uy_mEqZAmSn6M8boTDlflcA5xJor2qXddouY|A5077|Queen of Denmark (album)|John Grant (musician)|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop",
 "Faust|IV|1973|OLAK5uy_nwPO8uVvYVTZ2v_5WbaNdtVghTdGzZ02A|A2489|Faust IV|Faust (band)|Krautrock;Experimental Rock;Progressive Rock;Rock",
