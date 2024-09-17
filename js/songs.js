@@ -7522,7 +7522,7 @@ const songs = [
 "Crosby & Nash|To the Last Whale / Wind on the Water|1975|R9AxqXBrSug|Crosby, Stills, Nash & Young|S15378|Folk Rock;Rock|",
 "Ronnie Hawkins|Who Do You Love|1963|IYPVyJwzerM|Ronnie Hawkins|S8241|Blues Rock;Rockabilly;Rock;Rock & Roll|Who Do You Love? (Bo Diddley song)",
 "Godspeed You! Black Emperor|Storm|2000|JMDmaUO4hno|Godspeed You! Black Emperor|S6601|Post-Rock;Rock|",
-"Lennie Tristano|Line Up|1956|leaVDv8GqIA|Lennie Tristano|S11409|Bebop;Cool Jazz;Jazz|",
+"Lennie Tristano|Line Up|1956|2311qzE0iE4|Lennie Tristano|S11409|Bebop;Cool Jazz;Jazz|",
 "Bone Thugs-N-Harmony|1st of tha Month|1995|4j_cOsgRY7w|Bone Thugs-n-Harmony|S5586|G-Funk;Gangsta Rap;Hardcore Hip Hop;Hip Hop|1st of tha Month",
 "Paul McCartney and Wings|Hi, Hi, Hi|1972|5HeEwPoDGnw|Paul McCartney and Wings|S11864|Pop Rock;Pop;Rock|Hi, Hi, Hi",
 "The Animals|Don't Bring Me Down|1966|7Nkr9ZLcL0E|The Animals|S9999|British Rhythm & Blues;Garage Rock;Mod;R&B;Rhythm & Blues;Rock|Don't Bring Me Down (The Animals song)",
