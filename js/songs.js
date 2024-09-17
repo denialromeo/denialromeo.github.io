@@ -7586,7 +7586,7 @@ const songs = [
 "Cosmo Vitelli|Party Day|2001|ZGcxC8fdSI8|https://fr.wikipedia.org/wiki/Cosmo_Vitelli|S5876|Electro House;Dance;Electronic;Electronic Dance Music;House|",
 "Patty Pravo|Pensiero stupendo|1978|1dMLBPPjzkE|Patty Pravo|S12961|Italo Pop;Pop|Pensiero stupendo",
 "The Beatles|Blue Jay Way|1967|Coz0TmK2ZIg|The Beatles|S10102|Art Rock;Psychedelic Rock;Rock|Blue Jay Way",
-"Vince Guaraldi|Linus and Lucy|1964|x6zypc_LhnM|Vince Guaraldi|S9039|Cool Jazz;Television Music;Descriptor;Jazz;Soundtracks|",
+"Vince Guaraldi|Linus and Lucy|1964|x6zypc_LhnM|Vince Guaraldi|S9039|Cool Jazz;Television Music;Descriptor;Jazz;Soundtracks|Linus and Lucy",
 "Shelly Manne|Abstract No 1|1955|pDUApw1Uom0|Shelly Manne|S13247|Avant-Garde Jazz;Cool Jazz;Jazz|",
 "Underworld|Cowgirl|1993|feWNvGpWHLM|Underworld (band)|S2374|Techno;Trance;Dance;Electronic;Electronic Dance Music|Cowgirl (song)",
 "Girls|Honey Bunny|2011|IxuDoYhQI2o|Girls (band)|S6571|Indie Pop;Pop|",
