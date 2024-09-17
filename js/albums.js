@@ -2653,7 +2653,7 @@ const albums = [
 "Julien Baker|Turn Out the Lights|2017|OLAK5uy_m3EizRF7yQybwcYbv_lnGpWVPOFUsUVXo|A5921|Turn Out the Lights (album)|Julien Baker|Singer/Songwriter",
 "Julia Holter|Ekstasis|2012|OLAK5uy_n598AQM6ENr1_3eoDsGl_4cuT477YPS7Q|A5221|Ekstasis (Julia Holter album)|Julia Holter|Art Pop;Baroque Pop;Progressive Pop;Pop",
 "Cluster|Zuckerzeit|1974|OLAK5uy_mRh8nCrVPeVew_HBgcMguA1G10oC0wgUc|A3286|Zuckerzeit|Cluster (band)|Electronic;Krautrock;Experimental Rock;Progressive Rock;Rock",
-"The dB's|Stands for Decibels|1981|PLIrxMbUXe4rRe-F7jr1Nal7OmI3tydw--|A2792|Stands for Decibels|The dB's|Jangle Pop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock",
+"The dB's|Stands for Decibels|1981|OLAK5uy_lxlHprYiR1hfM74_UO60Mxd6YxzShItYg|A2792|Stands for Decibels|The dB's|Jangle Pop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Prince & The New Power Generation|Love Symbol|1992|OLAK5uy_koF7WhEKlQ2bAZuEeN_no1ibiOcW3hrtU|A1711|Love Symbol|Prince (musician)|Contemporary R&B;Funk;Pop Rock;Pop Soul;Pop;R&B;Rock;Soul",
 "Rage Against the Machine|Evil Empire|1996|OLAK5uy_nz7sFlOrSkU6v1TANF3DuteE4FfepFKkM|A1615|Evil Empire (album)|Rage Against the Machine|Rap Metal;Alternative Metal;Metal;Rock",
 "Art Blakey & The Jazz Messengers|A Night in Tunisia|1961|PLUJ7V33M1wR05mAtI0RkzIqE68u7kOcat|A1875|A Night in Tunisia (1961 album)|Art Blakey|Hard Bop;Bebop;Jazz",
