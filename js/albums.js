@@ -1357,7 +1357,7 @@ const albums = [
 "Dexter Gordon|Our Man in Paris|1963|OLAK5uy_ncm49E9MiOaVGX-GRR5UI6j6DWDugrywU|A1931|Our Man in Paris|Dexter Gordon|Hard Bop;Bebop;Jazz",
 "The Jesus Lizard|Goat|1991|OLAK5uy_kYPUzvg0MItpQEjeK4rltDbfDVzjt1E9I|A3377|Goat (album)|The Jesus Lizard|Noise Rock;Rock",
 "Elvis Presley|Elvis (Original Soundtrack Recording From His NBC-TV Special)|1968|OLAK5uy_l-SBfZS63BtKknFgih0CNQi0j8NkKxxgI|A1240|Elvis (1968 album)|Elvis Presley|Pop Rock;Rock & Roll;Pop;Rock",
-"Art Blakey Quintet|A Night at Birdland Vol. 1|1954|PLBJenJIJrq0zWQeWaH_Mta8MyKwq_NvFY|A1771|A Night at Birdland Vol. 1|Art Blakey|Hard Bop;Bebop;Jazz",
+"Art Blakey Quintet|A Night at Birdland Vol. 1|1954|OLAK5uy_lQJ_wotnLzkzNAMKlxTf6WgYNsiTQqij4|A1771|A Night at Birdland Vol. 1|Art Blakey|Hard Bop;Bebop;Jazz",
 "Arcade Fire|Reflektor|2013|OLAK5uy_mlKh6oTkQAOx2YUy-XFGhkfb_rw4lJQJw|A5270|Reflektor|Arcade Fire|Alternative Dance;Indie Rock;Alternative Rock;Dance;Rock",
 "Ornette Coleman|Change of the Century|1960|OLAK5uy_mf3hYU4M57k519N1KZHIZOJ9FKN05qX7I|A1876|Change of the Century|Ornette Coleman|Avant-Garde Jazz;Jazz",
 "Eno|Taking Tiger Mountain (By Strategy)|1974|OLAK5uy_m-YPxbjojpRLYkx63hTKUM-_XVd5hoh7o|A1185|Taking Tiger Mountain (By Strategy)|Brian Eno|Art Pop;Art Rock;Pop;Rock",
