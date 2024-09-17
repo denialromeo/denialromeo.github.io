@@ -1380,7 +1380,7 @@ const albums = [
 "Temple of the Dog|Temple of the Dog|1991|OLAK5uy_kewRIMekHe5fzX33_0Y2wox49_RggmkHE|A3324|Temple of the Dog (album)|Temple of the Dog|Grunge;Alternative Rock;Rock",
 "Ben Folds Five|Whatever and Ever Amen|1997|OLAK5uy_ke9Q77XD2ybBbCBkfjEHdppVVy-Z-TiPY|A3660|Whatever and Ever Amen|Ben Folds Five|Piano Rock;Pop;Pop Rock;Rock",
 "Napalm Death|Scum|1987|OLAK5uy_lEg4EL0Atnp7or1-QwKWoS6Ix22XvIu0s|A1524|Scum (Napalm Death album)|Napalm Death|Grindcore;Hardcore Punk;Metal;Punk Rock;Rock",
-"The Modern Jazz Quartet|Fontessa|1956|PLNY48DUw4uPK45_rPg4H2rN28MskT5xb6|A1799|Fontessa|Modern Jazz Quartet|Cool Jazz;Jazz",
+"The Modern Jazz Quartet|Fontessa|1956|OLAK5uy_lYV0ex2zcNL8tee6mr7lbIozfSR3ZhLp8|A1799|Fontessa|Modern Jazz Quartet|Cool Jazz;Jazz",
 "Jeff Beck|Beck-Ola|1969|OLAK5uy_lNGPpBS-2nkuJO968C9ebiXF7WV4QPQuc|A1119|Beck-Ola|Jeff Beck|Blues Rock;Hard Rock;Rock",
 "Blur|Modern Life Is Rubbish|1993|OLAK5uy_l2_DBIh4d9AlVKYgp3-LgglUJYapOW-dg|A876|Modern Life Is Rubbish|Blur (band)|Britpop;Alternative Rock;Pop;Pop Rock;Rock",
 "Sufjan Stevens|Michigan|2003|OLAK5uy_llQ_EdghdVMuAQhPQqrAttQwSrn09tLWQ|A3913|Illinois (Sufjan Stevens album)|Sufjan Stevens|Chamber Folk;Indie Folk;Singer/Songwriter;Contemporary Folk;Folk",
