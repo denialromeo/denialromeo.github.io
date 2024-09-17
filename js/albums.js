@@ -1535,7 +1535,7 @@ const albums = [
 "Otis Redding|Live in Europe|1967|OLAK5uy_k0VjXw_6tgSLCAAPZyP3_pkQMPaxD9VNA|A110|Live in Europe (Otis Redding album)|Otis Redding|Southern Soul;R&B;Soul",
 "Luomo|Vocalcity|2000|OLAK5uy_lPmQZfUA6gFHSFg-1I7--xyqmZ0d9JWpE|A4926|Vocalcity|Vladislav Delay|Deep House;Microhouse;Dance;Electronic;Electronic Dance Music;House",
 "Shania Twain|Come On Over|1997|OLAK5uy_kPPGnzUd00XdI1Rfgrwb6WEqtAIWh6i2Q|A3666|Come On Over|Shania Twain|Country Pop;Country;Pop",
-"Various Artists|The Concert for Bangladesh|1971|PL0l960HMI5BCesojQ5OfQbKyeRrvaFFf1|A1354|The Concert for Bangladesh (album)|The Concert for Bangladesh|Folk Rock;Rock",
+"Various Artists|The Concert for Bangladesh|1971|OLAK5uy_no9bIS1cXkIyANgHbuL63yt6uhTCyB1hw|A1354|The Concert for Bangladesh (album)|The Concert for Bangladesh|Folk Rock;Rock",
 "Cassandra Wilson|Blue Light 'Til Dawn|1993|OLAK5uy_n6_LgDS1ugy6KUW8nkcQku4FmTVmnCx5A|A2202|Blue Light 'til Dawn|Cassandra Wilson|Vocal Jazz;Jazz",
 "Tindersticks|Tindersticks (II)|1995|OLAK5uy_m8Ci6bsim7PfqAF1JaLSPy87h1hSCq_4k|A944|Tindersticks (1995 album)|Tindersticks|Chamber Pop;Baroque Pop;Indie Pop;Pop",
 "The Cult|Electric|1987|OLAK5uy_mpXHDLaHc5MmxcnJAcAnxT_OwPMRNz6k8|A1525|Electric (The Cult album)|The Cult|Hard Rock;Rock",
