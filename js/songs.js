@@ -8616,7 +8616,7 @@ const songs = [
 "Zola Jesus|Night|2010|ah8QWamNXWk|Zola Jesus|S9110|Darkwave|",
 "Michel Polnareff|Sous quelle étoile suis-je né|1966|srm1T5IXk-Q|Michel Polnareff|S13574|Chanson;French Pop;Singer/Songwriter;Pop;Regional Music|",
 "Broder Daniel|Shoreline|2003|djLRO8wjdKw|Broder Daniel|S4630|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|",
-"Charlie Parker|Just Friends|1950|DmRkZeGFONg|Charlie Parker|S14228|Cool Jazz;Jazz|",
+"Charlie Parker|Just Friends|1950|aEFPJAjlnTo|Charlie Parker|S14228|Cool Jazz;Jazz|Just Friends (John Klenner and Sam M. Lewis song)",
 "ESG|You're No Good|1981|nmkVTqqzffY|ESG (band)|S2897|Dance-Punk;Post-Punk;Rock|",
 "The D.O.C.|It's Funky Enough|1989|UiPbeIXZpD4|The D.O.C.|S5937|Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "Stereophonics|Just Looking|1999|Xy3T8FmyeE8|Stereophonics|S12307|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Just Looking (song)",
