@@ -1151,7 +1151,7 @@ const albums = [
 "The Soft Machine|The Soft Machine|1968|OLAK5uy_mxKZLwzrLKjs-Wfar-Gpe7iidLc03uOiQ|A137|The Soft Machine (Soft Machine album)|Soft Machine|Canterbury Scene;Psychedelic Rock;Progressive Rock;Rock",
 "Nick Cave and The Bad Seeds|Let Love In|1994|OLAK5uy_naAb-4-gM6zXnSVrmxqM3B-v3cAZXNuDc|A919|Let Love In (Nick Cave and the Bad Seeds album)|Nick Cave and the Bad Seeds|Alternative Rock;Post-Punk;Rock",
 "Future|DS2|2015|OLAK5uy_n0UUwQ0J6b5pUhLbzGvGsowXv6i5EGJXA|A5572|DS2 (album)|Future (rapper)|Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
-"Diana Ross|Diana|1980|PLdB2qly-JTgCkKk4z6wHkcsCaTFn1j6qV|A2762|Diana (album)|Diana Ross|Disco;Dance",
+"Diana Ross|Diana|1980|OLAK5uy_ltfbOrpUUiXbNC6uQWSXUcSrArFdsnD6M|A2762|Diana (album)|Diana Ross|Disco;Dance",
 "Bonnie Raitt|Nick of Time|1989|OLAK5uy_mgUSMSLYFnMQ_F-B2P_B7A1SQ3d9PEFtU|A777|Nick of Time (album)|Bonnie Raitt|Blues Rock;Pop Rock;Pop;Rock",
 "Supergrass|I Should Coco|1995|OLAK5uy_kmQVW7HIS2DZHRvgbXwwtOZCTHaiqnWeA|A940|I Should Coco|Supergrass|Britpop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "N*E*R*D|In Search of...|2002|OLAK5uy_mNj_DZg6vc8xsg_jWet4EeV6VaJkNsKhs|A1208|In Search of... (N.E.R.D. album)|N.E.R.D.|Funk Rock;Rock",
