@@ -3974,7 +3974,7 @@ const songs = [
 "The Byrds|Goin' Back|1967|vHq6ZYpN23g|The Byrds|S1491|Folk Rock;Psychedelic Pop;Pop;Rock|",
 "Tom Petty|Breakdown|1976|Iv1ncpySOAY|Tom Petty|S1803|Blues Rock;Heartland Rock;Roots Rock;Rock|",
 "Kansas|Carry On Wayward Son|1976|P5ZJui3aPoQ|Kansas (band)|S7044|Hard Rock;Progressive Rock;Rock|Carry On Wayward Son",
-"Miles Davis|Boplicity|1949|HLzqjmoZZAc|Miles Davis|S11646|Cool Jazz;Jazz|",
+"Miles Davis|Boplicity|1949|lwW2uqK0p6s|Miles Davis|S11646|Cool Jazz;Jazz|",
 "Evelyn \"Champagne\" King|Shame|1978|5sYPg32rBzo|Evelyn \"Champagne\" King|S608|Disco;Dance|",
 "Ramones|Do You Remember Rock'n'Roll Radio|1980|Gi9a7IdRiBI|Ramones|S3741|Power Pop;Punk Rock;Pop;Pop Rock;Rock|Do You Remember Rock 'n' Roll Radio%3F",
 "Bobby Bland|Ain't No Love in the Heart of the City|1974|38OOUDTsqM0|Bobby Bland|S5568|Deep Soul;R&B;Soul;Southern Soul|Ain't No Love in the Heart of the City",
