@@ -4659,7 +4659,7 @@ const songs = [
 "Jimmy Buffett|Margaritaville|1977|mrF4nF8VUb4|Jimmy Buffett|S3254|Soft Rock;Yacht Rock;Pop;Pop Rock;Rock|Margaritaville",
 "Double Dee & Steinski|The Payoff Mix/Lesson 2/Lesson 3 (Promo EP)|1985|sO9Lh_11k5Y|Double Dee and Steinski|S399|Plunderphonics;Turntablism;Experimental;Hip Hop;Sound Collage;Tape Music|",
 "Wham!|Wake Me Up Before You Go-Go|1984|pIgZ7gMze7A|Wham!|S3949|Pop|Wake Me Up Before You Go-Go",
-"Ian Hunter|Once Bitten, Twice Shy|1975|NKgQO6sILug|Ian Hunter (singer)|S6767|Glam Rock;Rock|Once Bitten, Twice Shy",
+"Ian Hunter|Once Bitten, Twice Shy|1975|oz0EKpTn5gg|Ian Hunter (singer)|S6767|Glam Rock;Rock|Once Bitten, Twice Shy",
 "Los Del Río|Macarena|1993|UoUmyY6CQRo|Los del Río|S3571|Dance-Pop;Flamenco Pop;Dance;Hispanic Music;Pop;Regional Music;Spanish Music|Macarena",
 "Etta James|Tell Mama|1967|b34yqCI2tPU|Etta James|S3510|Soul Blues;Southern Soul;Blues;R&B;Soul|Tell Mama (song)",
 "King Sunny Adé|365 Is My Number/The Message|1982|DGxgUAkFl0k|King Sunny Adé|S7110|Jùjú;African Music;Regional Music;West African Music;Yoruba Music|",
