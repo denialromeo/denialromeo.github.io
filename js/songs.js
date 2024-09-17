@@ -6859,7 +6859,7 @@ const songs = [
 "Queens of the Stone Age|The Way You Used to Do|2017|GvyNyFXHj4k|Queens of the Stone Age|S16471|Alternative Rock;Boogie Rock;Garage Rock Revival;Blues Rock;Garage Rock;Rock|The Way You Used to Do",
 "The Andrea True Connection|More, More, More|1976|yZ_QUh0lmj4|Andrea True|S12764|Disco;Dance|More, More, More",
 "The Isley Brothers|Caravan of Love|1985|foFK6q7kF9Y|Isley-Jasper-Isley|S6873|Contemporary R&B;Pop Soul;Smooth Soul;Pop;R&B;Soul|",
-"Lee Konitz & Lennie Tristano|Subconscious-Lee|1949|RK4U0Q3LbWE|Lennie Tristano|S13222|Cool Jazz;Jazz|",
+"Lee Konitz & Lennie Tristano|Subconscious-Lee|1949|DQbfU9yLTzI|Lennie Tristano|S13222|Cool Jazz;Jazz|",
 "Andy Gibb|I Just Wanna Be Your Everything|1977|VkNeoTcGwrc|Andy Gibb|S5195|Pop|I Just Want to Be Your Everything",
 "Purple Mountains|That's Just the Way That I Feel|2019|6CtxkCmcsiw|Purple Mountains|S16850|Alt-Country;Indie Rock;Alternative Rock;Country;Rock|",
 "Renaud|Hexagone|1975|v9j7oWUuH18|Renaud|S8135|Chanson;Folk Rock;Regional Music;Rock|",
