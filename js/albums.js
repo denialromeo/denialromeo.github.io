@@ -2993,7 +2993,7 @@ const albums = [
 "Ulrich Schnauss|A Strangely Isolated Place|2003|PLH64JLgf6WP77Z_Vll5x2ghapJya86Z-h|A4966|A Strangely Isolated Place|Ulrich Schnauss|Downtempo;Electronic",
 "Nick Lowe|Labour of Lust|1979|OLAK5uy_nQcl3JFHwV2NqtyCer4YWPtZIBqwbz870|A478|Labour of Lust|Nick Lowe|Power Pop;Pub Rock;Pop;Pop Rock;Rock",
 "Steve Winwood|Arc of a Diver|1980|OLAK5uy_k375C_3H92nzbLJzcYnhECZ5OnFnFF3MU|A508|Arc of a Diver|Steve Winwood|Pop Rock;Pop;Rock",
-"Ladysmith Black Mambazo|Shaka Zulu|1987|PL1X3qTzT40VkvqQC3gQGb06Qvcu2-JxwU|A3176|Shaka Zulu (album)|Ladysmith Black Mambazo|Mbube;Nguni Folk Music;A cappella;African Folk Music;African Music;Descriptor;Folk;Regional Music;Southern African Folk Music;Southern African Music;Traditional Folk Music",
+"Ladysmith Black Mambazo|Shaka Zulu|1987|OLAK5uy_nUhANQ5rWQOw21qt_lYT8QOb1uBK5Rg-4|A3176|Shaka Zulu (album)|Ladysmith Black Mambazo|Mbube;Nguni Folk Music;A cappella;African Folk Music;African Music;Descriptor;Folk;Regional Music;Southern African Folk Music;Southern African Music;Traditional Folk Music",
 "John Cale|The Academy in Peril|1972|OLAK5uy_lJu6GQULIvhT3qMiYW1TgWhnND6nctUAM|A1375|The Academy in Peril|John Cale|Experimental;Modern Classical;Classical Music",
 "Gilberto Gil|Expresso 2222|1972|OLAK5uy_n30JMcB-fiI3PpiniqGMAKiHmle_uZU7s|A2450|Expresso 2222|Gilberto Gil|Tropicália;Brazilian Music;MPB;Regional Music",
 "Motorpsycho|Demon Box|1993|OLAK5uy_lig8vr6BBpH2Dol3saUDcnwj1Wlqhdbbg|A3482|Demon Box (album)|Motorpsycho|Alternative Rock;Rock",
