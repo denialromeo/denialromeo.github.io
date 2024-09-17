@@ -716,7 +716,7 @@ const albums = [
 "Purple Mountains|Purple Mountains|2019|OLAK5uy_nNuWG51fDK4emWjWBWhuuecTE9Tm_IKZo|A6318|Purple Mountains (album)|Purple Mountains|Alt-Country;Indie Rock;Singer/Songwriter;Alternative Rock;Country;Rock",
 "alt-J|An Awesome Wave|2012|OLAK5uy_nBHJOcm_3m37RgVj_BZ2mtwg9QTkbv-qA|A5190|An Awesome Wave|Alt-J|Art Pop;Indie Pop;Pop",
 "The National|Alligator|2005|OLAK5uy_n3c6cH4iSO1FR6Iqq7ZGDaWdP_Puzz0ic|A4167|Alligator (The National album)|The National (band)|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock",
-"John Hiatt|Bring the Family|1987|PLC0QnG9jDbgwydOQOhBCyla2ZOEYnBXfd|A698|Bring the Family|John Hiatt|Americana;Roots Rock;Singer/Songwriter;Country;Rock",
+"John Hiatt|Bring the Family|1987|OLAK5uy_n9oodU3G3Qm3iykCrpKlViY6jwzQ6SX0g|A698|Bring the Family|John Hiatt|Americana;Roots Rock;Singer/Songwriter;Country;Rock",
 "The Rolling Stones|Between the Buttons|1967|OLAK5uy_ntiTN-zbDblOg838P03r6ZsTDj20BIILY|A107|Between the Buttons|The Rolling Stones|Pop Rock;Pop;Rock",
 "Sleater-Kinney|The Woods|2005|OLAK5uy_nXXY42vT_IcZbP69YABypryjfCp-467xA|A4181|The Woods (album)|Sleater-Kinney|Indie Rock;Alternative Rock;Rock",
 "My Morning Jacket|Z|2005|OLAK5uy_lECFhsSRLb4t5AaxHxZ-HM6h28B0aRPQ8|A4192|Z (My Morning Jacket album)|My Morning Jacket|Indie Rock;Alternative Rock;Rock",
