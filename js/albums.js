@@ -2063,7 +2063,7 @@ const albums = [
 "The Original Broadway Cast|Hair|1968|PLTBMMTIWLi8589YX6VzdqkhZ-w_-1GHWb|A2783|Hair (Original Broadway Cast Recording)|Galt MacDermot|Psychedelic Pop;Show Tunes;Descriptor;Musical Theatre and Entertainment;Pop;Soundtracks",
 "Lightnin' Hopkins|Lightnin' Hopkins|1959|https://www.youtube.com/embed/_H9kVXetIxs|A1270|Lightnin' Hopkins (album)|Lightnin' Hopkins|Acoustic Texas Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music",
 "Kate Bush|Aerial|2005|OLAK5uy_k2Bj812v8W8Yzp0gmQM7Yst_M0pOhHnCQ|A4202|Aerial (album)|Kate Bush|Art Pop;Pop",
-"Ornette Coleman|At the \"Golden Circle\", Volume One|1966|PLBJenJIJrq0yl4iLmWEJ0tYHCzzvJdfdz|A1964|At the Golden Circle Stockholm|Ornette Coleman|Avant-Garde Jazz;Jazz",
+"Ornette Coleman|At the \"Golden Circle\", Volume One|1966|OLAK5uy_lh9pPAAtPNED7z3d5dJj5ZKv1RFeIRy44|A1964|At the Golden Circle Stockholm|Ornette Coleman|Avant-Garde Jazz;Jazz",
 "The New Pornographers|Electric Version|2003|OLAK5uy_nMCvZNZxLBqToe-asLtuX4yy3TFdWvUZA|A3934|Electric Version|The New Pornographers|Indie Pop;Power Pop;Pop;Pop Rock;Rock",
 "Sting|...Nothing Like the Sun|1987|OLAK5uy_nVQEXUTnWT6v9HIibLpoL2UnI7tuAn2dM|A1523|...Nothing Like the Sun|Sting (musician)|Jazz Pop;Pop Rock;Sophisti-Pop;Pop;Rock",
 "Stan Kenton|New Concepts of Artistry in Rhythm|1953|OLAK5uy_lM0L44Ai3LgFDFJm-bw_RfGPVvRdMZph8|A1767|New Concepts of Artistry in Rhythm|Stan Kenton|Big Band;Jazz",
