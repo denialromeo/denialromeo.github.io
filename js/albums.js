@@ -732,7 +732,7 @@ const albums = [
 "Count Basie|The Atomic Mr. Basie|1958|OLAK5uy_kYzmv7IbzRXb1Xyc7LoMaZ1gtFDNwigAc|A1812|The Atomic Mr. Basie|Count Basie|Big Band;Swing;Jazz",
 "Mos Def|Black on Both Sides|1999|OLAK5uy_k3xUIIipee7XWqLNWKxV6BepRDR9djZx4|A1067|Black on Both Sides|Mos Def|Conscious Hip Hop;Hip Hop",
 "My Bloody Valentine|m b v|2013|OLAK5uy_mIG9t06JPjv87pn1Ocq2BL9rClliTjWJ8|A5346|M b v (album)|My Bloody Valentine (band)|Dream Pop;Shoegaze;Alternative Rock;Rock",
-"Bill Evans|Waltz for Debby|1962|PLUA0n-uVUEwLu2aEtHit-4nhKAZjh0D4M|A1899|Waltz for Debby (1962 album)|Bill Evans|Cool Jazz;Jazz",
+"Bill Evans|Waltz for Debby|1962|OLAK5uy_kzaYPiGyCFx6cmUpbNK8r3kAATfHtyY2Q|A1899|Waltz for Debby (1962 album)|Bill Evans|Cool Jazz;Jazz",
 "Boards of Canada|Geogaddi|2002|OLAK5uy_lbgL-BgNt1VLeoJN1QDMPfBWwFn5zsccA|A1636|Geogaddi|Boards of Canada|IDM;Electronic",
 "Genius/GZA|Liquid Swords|1995|OLAK5uy_lc3DfmJHwd5x75Cmrh5IC8f0LB72eYjB4|A1608|Liquid Swords|GZA|Boom Bap;Hardcore Hip Hop;Hip Hop",
 "Art Blakey & The Jazz Messengers|Moanin'|1959|OLAK5uy_nmXv5bzBPXOZ3NKknqdRQZPS4OsFosUY8|A1835|Moanin'|Art Blakey|Hard Bop;Bebop;Jazz",
