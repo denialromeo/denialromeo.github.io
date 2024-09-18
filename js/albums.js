@@ -2308,7 +2308,7 @@ const albums = [
 "Spice Girls|Spice|1996|OLAK5uy_n-Gd6o2P91JBIqrGql6p_wK6nxvcPUTYw|A3624|Spice (album)|Spice Girls|Dance-Pop;Dance;Pop",
 "Parliament|The Clones of Dr. Funkenstein|1976|OLAK5uy_lFjBwU1RJrxajUmXqYt4dKwxK-iqUs-P8|A1422|The Clones of Dr. Funkenstein|Parliament (band)|P-Funk;Funk;R&B",
 "The Saints|Eternally Yours|1978|OLAK5uy_nhLqd7IQtVs6fyOl2t09Tf3Qvi1xOeiVc|A2732|Eternally Yours (album)|The Saints (Australian band)|Punk Rock;Rock",
-"Cannonball Adderley|Mercy, Mercy, Mercy! - Live at 'The Club'|1967|PLm4I8tP6UbWZetSNxj010KvgglpZXH91q|A1975|Mercy, Mercy, Mercy! Live at \"The Club\"|Cannonball Adderley|Hard Bop;Soul Jazz;Bebop;Jazz",
+"Cannonball Adderley|Mercy, Mercy, Mercy! - Live at 'The Club'|1967|OLAK5uy_l2R1JZd9PbZX5IgsdJDDqLpINPVzkgvos|A1975|Mercy, Mercy, Mercy! Live at \"The Club\"|Cannonball Adderley|Hard Bop;Soul Jazz;Bebop;Jazz",
 "Wynton Kelly Trio & Wes Montgomery|Smokin' at the Half Note|1965|PL8E993DD2138027F4|A2556|Smokin' at the Half Note|Wynton Kelly|Hard Bop;Bebop;Jazz",
 "Miles Davis|Tutu|1986|OLAK5uy_njc-QIHL0GBpvFsVaMZdYR-lb6OQQ85xU|A2045|Tutu (album)|Miles Davis|Jazz Fusion;Jazz-Funk;Funk;Jazz;R&B",
 "Hot Chip|Made in the Dark|2008|OLAK5uy_mamm5bNzwzwV1CATd72lspvoaOUqlFTFI|A4353|Made in the Dark|Hot Chip|Indietronica;Electronic",
