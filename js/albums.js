@@ -1665,7 +1665,7 @@ const albums = [
 "Roy Harper|Stormcock|1971|OLAK5uy_kDlJHYCqCWzN82YCsGJiAF6cd0yfOqmZk|A2395|Stormcock (album)|Roy Harper (singer)|Progressive Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "Cloud Nothings|Attack on Memory|2012|OLAK5uy_mCvp0nbk7gD062oIhtfH7wWPq9G_tAor4|A5198|Attack on Memory|Cloud Nothings|Indie Rock;Post-Hardcore;Alternative Rock;Punk Rock;Rock",
 "Suzanne Vega|Suzanne Vega|1985|OLAK5uy_ljMl2v67AqQTKne2TrrwoOa1Mh0KD6Rr4|A641|Suzanne Vega (album)|Suzanne Vega|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop",
-"Etta James|Tell Mama|1968|PLXm1ydwS49U0yaJwewb8lwuO5X2AsB1A9|A114|Tell Mama|Etta James|Southern Soul;R&B;Soul",
+"Etta James|Tell Mama|1968|OLAK5uy_mtxsS5b5kFnH3dT5ouY1brrdJQXa-4sr8|A114|Tell Mama|Etta James|Southern Soul;R&B;Soul",
 "Jon Hopkins|Singularity|2018|OLAK5uy_kKm_t0ZPM2gmTGQV8c-dIICvVgr2JxVoI|A6038|Singularity (Jon Hopkins album)|Jon Hopkins|Microhouse;Tech House;Dance;Electronic;Electronic Dance Music;House;Techno",
 "Belle and Sebastian|Dear Catastrophe Waitress|2003|OLAK5uy_mQ_MrmLLYwjA5OYdzD3rMbjLQIIsiBfiY|A3999|Dear Catastrophe Waitress|Belle and Sebastian|Chamber Pop;Twee Pop;Baroque Pop;Indie Pop;Pop",
 "Brittany Howard|Jaime|2019|OLAK5uy_nyZt3MnqFEqWl-dkegN5RvZBA99-a1-fw|A6229|Jaime (album)|Brittany Howard|Psychedelic Soul;Singer/Songwriter;R&B;Soul",
