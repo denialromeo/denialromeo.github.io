@@ -2154,7 +2154,7 @@ const albums = [
 "Ministry|The Land of Rape and Honey|1988|OLAK5uy_mnBmYMT81eN2DyqpfJuBSxusMXPZ9wMDE|A3219|The Land of Rape and Honey|Ministry (band)|Industrial;Industrial Metal;Industrial Rock;Experimental;Industrial Music;Metal;Rock",
 "Louis Prima|The Wildest!|1956|OLAK5uy_n4RhXBnM5Jc-zsOeUT-xuRNnlkUgOvbWI|A2236|The Wildest!|Louis Prima|Big Band;Swing;Traditional Pop;Jazz;Pop",
 "Bryan Adams|Reckless|1984|PLILCJF6YwPP8sOzT-_aeyHs5vg_cCGyjb|A3012|Reckless (Bryan Adams album)|Bryan Adams|Pop Rock;Pop;Rock",
-"The Everly Brothers|Songs Our Daddy Taught Us|1958|PLzGotn8LeP0dieprSO7fdX4W2AU9gPaQs|A28|Songs Our Daddy Taught Us|The Everly Brothers|Close Harmony;Country Pop;Folk Pop;American Folk Music;Contemporary Folk;Country;Folk;Pop;Regional Music;Traditional Country;Traditional Folk Music",
+"The Everly Brothers|Songs Our Daddy Taught Us|1958|OLAK5uy_l2gwaQM59qk-BDCsFu9jDAC59CfOp0Q9I|A28|Songs Our Daddy Taught Us|The Everly Brothers|Close Harmony;Country Pop;Folk Pop;American Folk Music;Contemporary Folk;Country;Folk;Pop;Regional Music;Traditional Country;Traditional Folk Music",
 "Harry Belafonte|Belafonte at Carnegie Hall|1959|OLAK5uy_n16sF0YHHJ83OaEFiJS_QXfUl-KB15bb4|A1856|Belafonte at Carnegie Hall|Harry Belafonte|Caribbean Folk Music;Caribbean Music;Folk;Regional Music;Traditional Folk Music",
 "Count Basie|Count Basie Swings, Joe Williams Sings|1955|OLAK5uy_kealVZhQ5oEX_eO_O4TZJ_BgVmKNbz-2k|A1780|Count Basie Swings, Joe Williams Sings|Count Basie|Big Band;Swing;Vocal Jazz;Jazz",
 "Duke Ellington|...And His Mother Called Him Bill|1968|OLAK5uy_mtVnrF5jPeXWaKqrxwEspA_AC3cNWnsbU|A1984|...And His Mother Called Him Bill|Duke Ellington|Big Band;Swing;Jazz",
