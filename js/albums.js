@@ -2208,7 +2208,7 @@ const albums = [
 "Judas Priest|Screaming for Vengeance|1982|OLAK5uy_kJz9DLLR75mdnIUqeNZO-1ut_6GOW9MZA|A2911|Screaming for Vengeance|Judas Priest|Heavy Metal;Metal;Rock",
 "Sarah McLachlan|Surfacing|1997|OLAK5uy_kbAnZUj-HAsuBqfKcTGdPbSm5nLNkzeqc|A4858|Surfacing (album)|Sarah McLachlan|Singer/Songwriter",
 "Elvis Presley|Loving You|1957|OLAK5uy_ndm3AsC2PFceGQaI-I2lrS_AeZgCWd6vA|A8|Loving You (soundtrack)|Elvis Presley|Rock & Roll;Rock",
-"Peter Gabriel|Peter Gabriel (I)|1977|PLI0qLsDIa0oucB3wK0mUEgVJREazgVU6Y|A1430|Peter Gabriel (1977 album)|Peter Gabriel|Art Rock;Rock",
+"Peter Gabriel|Peter Gabriel (I)|1977|OLAK5uy_nrehc5RJkV-x65iZnG3fi8YXtFCJXUNLk|A1430|Peter Gabriel (1977 album)|Peter Gabriel|Art Rock;Rock",
 "Neko Case|Middle Cyclone|2009|OLAK5uy_mSwmi90wjSbBJbttU9kZc93s2wxYaqu6g|A5006|Middle Cyclone|Neko Case|Alt-Country;Singer/Songwriter;Country",
 "Noir Désir|Des Visages des Figures|2001|OLAK5uy_nxFrQnAuElOEaAjIL4Q2Z2f0il8OZuhIE|A4891|Des Visages des Figures|Noir Désir|Alternative Rock;Rock",
 "The Cure|Kiss Me Kiss Me Kiss Me|1987|OLAK5uy_mo68fTFxuxToWC-7fHD6hds09tB-Vg6Pg|A714|Kiss Me, Kiss Me, Kiss Me|The Cure|Alternative Rock;Post-Punk;Rock",
