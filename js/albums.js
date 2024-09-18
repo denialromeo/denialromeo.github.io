@@ -2239,7 +2239,7 @@ const albums = [
 "James Carr|You Got My Mind Messed Up|1967|OLAK5uy_lHMqZKLtlZgyt6N4U89ejsGTvOujkICqo|A87|You Got My Mind Messed Up|James Carr (musician)|Deep Soul;R&B;Soul;Southern Soul",
 "Rufus Wainwright|Want Two|2004|OLAK5uy_mSEZIgEgXCfSMM-ycm1-wr2Q8a45yl4vA|A4105|Want Two|Rufus Wainwright|Art Pop;Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop",
 "Mogwai|Rock Action|2001|OLAK5uy_k5Xz2JOJgUd2cXifO1NIeoHbusXFLCIb8|A3857|Rock Action (album)|Mogwai|Post-Rock;Rock",
-"The Residents|The Third Reich 'n' Roll|1976|PLBD72906BEEDDB498|A2627|The Third Reich 'n Roll|The Residents|Experimental Rock;Musical Parody;Satire;Comedy;Descriptor;Musical Comedy;Rock",
+"The Residents|The Third Reich 'n' Roll|1976|OLAK5uy_lAeDUcxwBhxgGdtwBN9facWaXVbXiwMI4|A2627|The Third Reich 'n Roll|The Residents|Experimental Rock;Musical Parody;Satire;Comedy;Descriptor;Musical Comedy;Rock",
 "Eric Dolphy|At the Five Spot, Vol. 1|1961|OLAK5uy_khWhNL70qcVw0x4JJBqIaHp1RZwsNZ9a4|A1897|At the Five Spot|Eric Dolphy|Avant-Garde Jazz;Post-Bop;Bebop;Jazz",
 "Henry Mancini|The Music from Peter Gunn|1959|OLAK5uy_mIWbP1LwLcojsb2tsAfIFqRo-IUC7xTII|A1847|The Music from Peter Gunn|Henry Mancini|Jazz Pop;Television Music;Descriptor;Pop;Soundtracks",
 "Helmet|Meantime|1992|OLAK5uy_k7kO962xkSQ5o-lRopWDDFLHo493kSNdo|A3420|Meantime (album)|Helmet (band)|Alternative Metal;Metal;Rock",
