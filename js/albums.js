@@ -2128,7 +2128,7 @@ const albums = [
 "These New Puritans|Field of Reeds|2013|OLAK5uy_lVhJiA0xTSGv_RMCJ1OQw5tJIlcQ8RcLo|A5373|Field of Reeds|These New Puritans|Art Rock;Post-Rock;Rock",
 "Wes Montgomery|Full House|1962|OLAK5uy_kShytdy5ZXduvO47jH6qjlsGOE1BZvXlA|A1919|Full House (Wes Montgomery album)|Wes Montgomery|Hard Bop;Bebop;Jazz",
 "Bon Iver|i,i|2019|OLAK5uy_nkbzCsqlRDoDC4DFv-frWbokz6D-VOkmw|A6225|I, I|Bon Iver|Art Pop;Pop",
-"Dr. Feelgood|Stupidity|1976|PLOFsCPXqLYfoWD07IiwcqxUsBrMj6gxoN|A1417|Stupidity (Dr. Feelgood album)|Dr. Feelgood (band)|British Blues;Pub Rock;Blues;Electric Blues;Rock",
+"Dr. Feelgood|Stupidity|1976|OLAK5uy_lpjkCKBigJv2sBp5ImXQ5-4erIhgWFrDc|A1417|Stupidity (Dr. Feelgood album)|Dr. Feelgood (band)|British Blues;Pub Rock;Blues;Electric Blues;Rock",
 "Iron & Wine|The Shepherd's Dog|2007|OLAK5uy_nm1DkzaqR81zqRlfuMF5vUtZpKqYxNsWA|A4254|The Shepherd's Dog|Iron & Wine|Americana;Folk Rock;Indie Folk;Singer/Songwriter;Contemporary Folk;Country;Folk;Rock",
 "Lester Young|Lester Young with the Oscar Peterson Trio|1954|OLAK5uy_nb9lftJ-BBZgXciIDt3JUn3-2L-hDu2w8|A2213|Lester Young with the Oscar Peterson Trio|Lester Young|Swing;Jazz",
 "Scritti Politti|Cupid & Psyche 85|1985|OLAK5uy_mPSpdzRuFhnoTnWnms-4PmHTG_YrqeAwQ|A659|Cupid & Psyche 85|Scritti Politti|Sophisti-Pop;Synthpop;Electronic;Pop",
