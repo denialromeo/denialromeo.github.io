@@ -4786,7 +4786,7 @@ const songs = [
 "Ludacris|Rollout (My Business)|2001|t21DFnu00Dc|Ludacris|S7347|Southern Hip Hop;Hip Hop|Rollout (My Business)",
 "Arctic Monkeys|R U Mine?|2012|VQH8ZTgna3Q?start=23|Arctic Monkeys|S10021|Hard Rock;Indie Rock;Alternative Rock;Rock|R U Mine%3F",
 "Depeche Mode|It's No Good|1997|stpaq27-V70|Depeche Mode|S10577|Alternative Dance;Synthpop;Alternative Rock;Dance;Electronic;Pop;Rock|It's No Good",
-"The Dream Academy|Life in a Northern Town|1985|X5uxQElYu68|The Dream Academy|S3360|Art Pop;Sophisti-Pop;Pop|",
+"The Dream Academy|Life in a Northern Town|1985|5UXnulANF8g|The Dream Academy|S3360|Art Pop;Sophisti-Pop;Pop|Life in a Northern Town",
 "Bing Crosby|Don't Fence Me In|1944|hXkE7f0AMiA|The Andrews Sisters|S2669|Traditional Pop;Pop|Don't Fence Me In (song)",
 "Carl Perkins|Matchbox|1957|aM9GQDibqxw|Carl Perkins|S1624|Rockabilly;Rock;Rock & Roll|Matchbox (song)",
 "Camila Cabello feat. Young Thug|Havana|2017|BQ0mxQXmLsk|Camila Cabello|S16348|Contemporary R&B;R&B|Havana (Camila Cabello song)",
