@@ -1605,7 +1605,7 @@ const albums = [
 "Matthew Sweet|Girlfriend|1991|OLAK5uy_nLJMZV919VBZbRbHfH3YMKXozdK6_u-ro|A840|Girlfriend (album)|Matthew Sweet|Jangle Pop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Chick Corea|Now He Sings, Now He Sobs|1968|OLAK5uy_kVRzddQFvRgfEQvoNfBxbn1xN_RUpCJf8|A1982|Now He Sings, Now He Sobs|Chick Corea|Post-Bop;Bebop;Jazz",
 "Counting Crows|August and Everything After|1993|OLAK5uy_ly8V0F8-TeR4BfR0QIyHTS23dEYtkcZYM|A897|August and Everything After|Counting Crows|Alternative Rock;Folk Rock;Rock",
-"Flying Lotus|You're Dead!|2014|PLmht-TpwsL-3Kcw7z3l_C1EjVx4DTIaW9|A5396|You're Dead!|Flying Lotus|Jazz Fusion;Nu Jazz;Wonky;Dance;Electronic;Electronic Dance Music;Jazz",
+"Flying Lotus|You're Dead!|2014|OLAK5uy_myDsZ4G4y1W2zTQyjb0_viwcsMCxBIVqk|A5396|You're Dead!|Flying Lotus|Jazz Fusion;Nu Jazz;Wonky;Dance;Electronic;Electronic Dance Music;Jazz",
 "Common|Like Water for Chocolate|2000|OLAK5uy_ny5r7kGEM5Egk37ceNnA0Uo4hDYWj1JiA|A1102|Like Water for Chocolate (album)|Common (rapper)|Conscious Hip Hop;Hip Hop",
 "Nico|Chelsea Girl|1967|PLowQCq3Ss89j-QXkd6DFO0fEqhtUKU5oV|A1302|Chelsea Girl (album)|Nico|Chamber Folk;Contemporary Folk;Folk",
 "Spoon|Gimme Fiction|2005|OLAK5uy_mtrvCyrl2cwj0g8jEZpQ-JyLrBZmhHZI8|A4179|Gimme Fiction|Spoon (band)|Indie Rock;Alternative Rock;Rock",
