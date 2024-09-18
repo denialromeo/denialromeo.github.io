@@ -2123,7 +2123,7 @@ const albums = [
 "These New Puritans|Hidden|2010|OLAK5uy_ncnkpzu5czBjSmFp2dWc26D5wDET6WFZM|A5111|Hidden (These New Puritans album)|These New Puritans|Post-Punk;Rock",
 "The Dismemberment Plan|Change|2001|OLAK5uy_lWtxgH3R7Fa_ALHf8O1NmIH4fmH9pLSwI|A3036|Change (The Dismemberment Plan album)|The Dismemberment Plan|Indie Rock;Alternative Rock;Rock",
 "Public Image Ltd.|Public Image - First Issue|1978|OLAK5uy_l8aOiSeHdlBuY6Uiiz2__J280s7Yh8o6k|A2736|Public Image: First Issue|Public Image Ltd|Art Punk;Post-Punk;Punk Rock;Rock",
-"Art Blakey Quintet|A Night at Birdland Vol. 2|1954|PLBJenJIJrq0zWQeWaH_Mta8MyKwq_NvFY|A1772|A Night at Birdland Vol. 2|Art Blakey|Hard Bop;Bebop;Jazz",
+"Art Blakey Quintet|A Night at Birdland Vol. 2|1954|OLAK5uy_lQJ_wotnLzkzNAMKlxTf6WgYNsiTQqij4|A1772|A Night at Birdland Vol. 2|Art Blakey|Hard Bop;Bebop;Jazz",
 "Purity Ring|Shrines|2012|OLAK5uy_mQIAkzEeYLoYyNIHIOT0vx2RoJBwyLe6M|A5233|Shrines (album)|Purity Ring (band)|Synthpop;Electronic;Pop",
 "These New Puritans|Field of Reeds|2013|OLAK5uy_lVhJiA0xTSGv_RMCJ1OQw5tJIlcQ8RcLo|A5373|Field of Reeds|These New Puritans|Art Rock;Post-Rock;Rock",
 "Wes Montgomery|Full House|1962|OLAK5uy_kShytdy5ZXduvO47jH6qjlsGOE1BZvXlA|A1919|Full House (Wes Montgomery album)|Wes Montgomery|Hard Bop;Bebop;Jazz",
