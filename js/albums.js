@@ -810,7 +810,7 @@ const albums = [
 "Gillian Welch|Time (The Revelator)|2001|OLAK5uy_kcf5gi-3lEsoxmuLa2MbSt5ttvNBxpn64|A1219|Time (The Revelator)|Gillian Welch|Americana;Contemporary Folk;Country;Folk",
 "ZZ Top|Tres Hombres|1973|OLAK5uy_nEQPlDuEArvyVb2_uczH2gjYuNJYRIbrU|A1245|Tres Hombres|ZZ Top|Blues Rock;Southern Rock;Rock",
 "John Prine|John Prine|1971|OLAK5uy_mYiPlbEcAhOPf_djP2-pnDXfbNbvz3EfE|A225|John Prine (album)|John Prine|Contemporary Folk;Country;Singer/Songwriter;Folk",
-"Ike and Tina Turner|River Deep – Mountain High|1966|PL659Ne511y7ABX51cRfd7jrUW3SpXKGEC|A88|River Deep – Mountain High (album)|Ike & Tina Turner|Rhythm & Blues;Soul;R&B",
+"Ike and Tina Turner|River Deep – Mountain High|1966|OLAK5uy_krwoq7jTSmQw3FRNiH2QqQ56DepVJNBWg|A88|River Deep – Mountain High (album)|Ike & Tina Turner|Rhythm & Blues;Soul;R&B",
 "Sonic Youth|Dirty|1992|OLAK5uy_mRv54yAB1WMX3Zs83jcUhIwUroS1IXLTY|A852|Dirty (Sonic Youth album)|Sonic Youth|Alternative Rock;Noise Rock;Rock",
 "Mogwai|Young Team|1997|OLAK5uy_ng0GKCsEbZre4s2qfhaXbCCXDnM6CCT24|A3661|Mogwai Young Team|Mogwai|Post-Rock;Rock",
 "Tom Waits|Mule Variations|1999|OLAK5uy_mqGIpkUEUGh7wRnQW8-D668V1sFSjgJ1s|A1064|Mule Variations|Tom Waits|Blues Rock;Singer/Songwriter;Rock",
