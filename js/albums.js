@@ -2656,7 +2656,7 @@ const albums = [
 "The dB's|Stands for Decibels|1981|OLAK5uy_lxlHprYiR1hfM74_UO60Mxd6YxzShItYg|A2792|Stands for Decibels|The dB's|Jangle Pop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Prince & The New Power Generation|Love Symbol|1992|OLAK5uy_koF7WhEKlQ2bAZuEeN_no1ibiOcW3hrtU|A1711|Love Symbol|Prince (musician)|Contemporary R&B;Funk;Pop Rock;Pop Soul;Pop;R&B;Rock;Soul",
 "Rage Against the Machine|Evil Empire|1996|OLAK5uy_nz7sFlOrSkU6v1TANF3DuteE4FfepFKkM|A1615|Evil Empire (album)|Rage Against the Machine|Rap Metal;Alternative Metal;Metal;Rock",
-"Art Blakey & The Jazz Messengers|A Night in Tunisia|1961|PLUJ7V33M1wR05mAtI0RkzIqE68u7kOcat|A1875|A Night in Tunisia (1961 album)|Art Blakey|Hard Bop;Bebop;Jazz",
+"Art Blakey & The Jazz Messengers|A Night in Tunisia|1961|OLAK5uy_nAfN8P_z3XhcFrbh02urWhhJuLsFW0vk0|A1875|A Night in Tunisia (1961 album)|Art Blakey|Hard Bop;Bebop;Jazz",
 "Q-Tip|The Renaissance|2008|OLAK5uy_mON_08AqqrRQ4bzsqKyaYIFN-7mhbeukE|A4406|The Renaissance (Q-Tip album)|Q-Tip (musician)|Conscious Hip Hop;Hip Hop",
 "The 1975|I Like It When You Sleep, for You Are So Beautiful Yet So Unaware of It|2016|OLAK5uy_nUOXJDGsUo5eALikoxMaIK4Rl9KIm8Fdk|A5816|I Like It When You Sleep, for You Are So Beautiful yet So Unaware of It|The 1975|Pop Rock;Synthpop;Electronic;Pop;Rock",
 "Joe Henderson|Lush Life: The Music of Billy Strayhorn|1992|OLAK5uy_kySb7JHlny3gbAsIj_WIP0yfH9VA8HBlI|A2156|Lush Life: The Music of Billy Strayhorn|Joe Henderson|Jazz",
