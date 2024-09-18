@@ -517,7 +517,7 @@ const albums = [
 "Jackson Browne|Late for the Sky|1974|OLAK5uy_m9sMqBEPg_C2_JkcjAbLBMpjgmz71Zmac|A313|Late for the Sky|Jackson Browne|Singer/Songwriter;Yacht Rock;Pop;Pop Rock;Rock",
 "Dinosaur Jr.|You're Living All Over Me|1987|OLAK5uy_nTy49sUPGUpytmJP8U8PakX50D4iJ1hg0|A1518|You're Living All Over Me|Dinosaur Jr.|Indie Rock;Noise Rock;Alternative Rock;Rock",
 "Thelonious Monk|Genius of Modern Music (Volume One)|1951|OLAK5uy_mprmAKsN8hEKu7ooEkzPjtPY1oRR9s_0U|A1761|Genius of Modern Music: Volume 1|Thelonious Monk|Bebop;Jazz",
-"Thin Lizzy|Live and Dangerous|1978|PLglUu7rOaMDsleUArFkygtoVpp2hH-lIc|A441|Live and Dangerous|Thin Lizzy|Hard Rock;Rock",
+"Thin Lizzy|Live and Dangerous|1978|OLAK5uy_k8jMba9Qy24LUW-yfpZg4i5SZLzltM23A|A441|Live and Dangerous|Thin Lizzy|Hard Rock;Rock",
 "Grimes|Art Angels|2015|OLAK5uy_kDbq9lg1tEGiuTY7KlV3xjTZzClf4quAE|A5550|Art Angels|Grimes (musician)|Electropop;Synthpop;Electronic;Pop",
 "Ian Dury|New Boots and Panties!!|1977|OLAK5uy_lSZfzojaraKwzt_qZsUIWA5Jy8Kl-Z1gg|A401|New Boots and Panties!!|Ian Dury|New Wave;Pub Rock;Punk Rock;Rock",
 "Genesis|The Lamb Lies Down on Broadway|1974|OLAK5uy_lJCA3U2TL11PYx7z3L41Ifqem9fThVAkc|A318|The Lamb Lies Down on Broadway|Genesis (band)|Progressive Rock;Rock Opera;Rock",
