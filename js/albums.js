@@ -2990,7 +2990,7 @@ const albums = [
 "Ol' Dirty Bastard|Return to the 36 Chambers: The Dirty Version|1995|OLAK5uy_m-dn_O_kguFShQ4LTkQBTlvga1eOdjcV0|A1720|Return to the 36 Chambers: The Dirty Version|Ol' Dirty Bastard|Hardcore Hip Hop;Hip Hop",
 "Don Henley|Building the Perfect Beast|1984|PLSJPquRLE0wT8v6LMDicMWOZvw7CGoidB|A630|Building the Perfect Beast|Don Henley|Pop Rock;Pop;Rock",
 "Blondie|Plastic Letters|1977|OLAK5uy_l_qiV_crW5svh_ZASPKOAMXhyocIgldd4|A1434|Plastic Letters|Debbie Harry|New Wave;Pop Rock;Pop;Rock",
-"Ulrich Schnauss|A Strangely Isolated Place|2003|PLH64JLgf6WP77Z_Vll5x2ghapJya86Z-h|A4966|A Strangely Isolated Place|Ulrich Schnauss|Downtempo;Electronic",
+"Ulrich Schnauss|A Strangely Isolated Place|2003|OLAK5uy_kHic1jnFHYnIwlpLwhtOx9mUOAq2yBDWg|A4966|A Strangely Isolated Place|Ulrich Schnauss|Downtempo;Electronic",
 "Nick Lowe|Labour of Lust|1979|OLAK5uy_nQcl3JFHwV2NqtyCer4YWPtZIBqwbz870|A478|Labour of Lust|Nick Lowe|Power Pop;Pub Rock;Pop;Pop Rock;Rock",
 "Steve Winwood|Arc of a Diver|1980|OLAK5uy_k375C_3H92nzbLJzcYnhECZ5OnFnFF3MU|A508|Arc of a Diver|Steve Winwood|Pop Rock;Pop;Rock",
 "Ladysmith Black Mambazo|Shaka Zulu|1987|OLAK5uy_nUhANQ5rWQOw21qt_lYT8QOb1uBK5Rg-4|A3176|Shaka Zulu (album)|Ladysmith Black Mambazo|Mbube;Nguni Folk Music;A cappella;African Folk Music;African Music;Descriptor;Folk;Regional Music;Southern African Folk Music;Southern African Music;Traditional Folk Music",
