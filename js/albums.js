@@ -712,7 +712,7 @@ const albums = [
 "Sharon Van Etten|Remind Me Tomorrow|2019|OLAK5uy_mm24Dr98SNLOgTxLtautLX6dlFZHN5heg|A6329|Remind Me Tomorrow|Sharon Van Etten|Indie Pop;Synthpop;Electronic;Pop",
 "Fever Ray|Fever Ray|2009|OLAK5uy_lQnk8HV1zAZPhr5aNPeNZbWDVxiWOAZUk|A4992|Fever Ray (album)|Karin Dreijer|Art Pop;Electropop;Synthpop;Electronic;Pop",
 "Metallica|Kill 'Em All|1983|OLAK5uy_ldzMFmDA1sFzoH15lmeU29A5DVgi9RAM8|A586|Kill 'Em All|Metallica|Thrash Metal;Metal;Rock",
-"John Coltrane|Blue Train|1958|PLKZWLu6q09LN0kEPS7OkuCoNfnWdDqqRM|A1815|Blue Train (album)|John Coltrane|Hard Bop;Bebop;Jazz",
+"John Coltrane|Blue Train|1958|OLAK5uy_lxEAmFE38DKGBQSclvfTH_TVXrejPlx6w|A1815|Blue Train (album)|John Coltrane|Hard Bop;Bebop;Jazz",
 "Purple Mountains|Purple Mountains|2019|OLAK5uy_nNuWG51fDK4emWjWBWhuuecTE9Tm_IKZo|A6318|Purple Mountains (album)|Purple Mountains|Alt-Country;Indie Rock;Singer/Songwriter;Alternative Rock;Country;Rock",
 "alt-J|An Awesome Wave|2012|OLAK5uy_nBHJOcm_3m37RgVj_BZ2mtwg9QTkbv-qA|A5190|An Awesome Wave|Alt-J|Art Pop;Indie Pop;Pop",
 "The National|Alligator|2005|OLAK5uy_n3c6cH4iSO1FR6Iqq7ZGDaWdP_Puzz0ic|A4167|Alligator (The National album)|The National (band)|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock",
