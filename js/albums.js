@@ -2081,7 +2081,7 @@ const albums = [
 "This Heat|Deceit|1981|OLAK5uy_kZO_N8NZHVD9gzKcCWMAqsVBlUf2H6pcU|A2868|Deceit (album)|This Heat|Experimental Rock;Post-Punk;Rock",
 "Sonny Rollins|Tenor Madness|1956|OLAK5uy_n5z68wzFZqPeFlGzlWhYpOiN2Kx5zp9gQ|A1801|Tenor Madness|Sonny Rollins|Hard Bop;Bebop;Jazz",
 "Ton Steine Scherben|Keine Macht für Niemand|1972|OLAK5uy_ldJCX_XtPb8SgdYESSBtX4kEWU72Jee30|A5540|Keine Macht für Niemand|Ton Steine Scherben|Deutschrock;Rock",
-"Julian Cope|Fried|1984|PLiIVRgMOACAcaXOxcTYtJ4B_B5VGMdns9|A3020|Fried (album)|Julian Cope|Neo-Psychedelia;Pop Rock;Pop;Psychedelic Rock;Rock",
+"Julian Cope|Fried|1984|OLAK5uy_lIi6mMxrot-JX2VoB1OH6E_yi9p2Bab-s|A3020|Fried (album)|Julian Cope|Neo-Psychedelia;Pop Rock;Pop;Psychedelic Rock;Rock",
 "Jamila Woods|LEGACY! LEGACY!|2019|OLAK5uy_lyHK13E2XmYqrATpn-xJlHXrSe1Yy-fGM|A6274|Legacy! Legacy!|Jamila Woods|Neo-Soul;R&B;Soul",
 "Lenny Kravitz|Mama Said|1991|OLAK5uy_luZE0w5yUeHdEkwONandave0vmFhbmyWs|A839|Mama Said (album)|Lenny Kravitz|Rock",
 "Young Thug|Barter 6|2015|OLAK5uy_lCwEf-nlNjaarWxCGLUwx0yyMAuBbN2Ao|A5621|Barter 6|Young Thug|Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
