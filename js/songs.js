@@ -7093,7 +7093,7 @@ const songs = [
 "Tame Impala|Apocalypse Dreams|2012|DmmvZrBnQ4M|Kevin Parker (musician)|S8679|Neo-Psychedelia;Space Rock;Psychedelic Rock;Rock|",
 "Christopher Cross|Ride Like the Wind|1979|LpBi1-ts_0k|Christopher Cross|S10408|Yacht Rock;Pop;Pop Rock;Rock|Ride Like the Wind",
 "Bob Dylan|To Ramona|1964|oBQWxDusL6I|Bob Dylan|S10246|Contemporary Folk;Singer/Songwriter;Folk|To Ramona",
-"Modest Mouse|3rd Planet|2000|Hf9Bc4cq5rI?start=36|Modest Mouse|S4668|Art Rock;Indie Rock;Alternative Rock;Rock|",
+"Modest Mouse|3rd Planet|2000|epBbuk7x1sI|Modest Mouse|S4668|Art Rock;Indie Rock;Alternative Rock;Rock|",
 "Ethel Waters|Dinah|1925|Lt1EXDre768|Ethel Waters|S6307|Vocal Jazz;Jazz|Dinah (song)",
 "The Amazing Rhythm Aces|Third Rate Romance|1975|aTT-Jmi1nOc|Amazing Rhythm Aces|S699|Country Rock;Rock|Third Rate Romance",
 "Machine Head|Davidian|1994|Qf0yWQzz0gM|Machine Head (band)|S11513|Groove Metal;Metal;Rock|",
