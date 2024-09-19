@@ -365,7 +365,7 @@ const songs = [
 "Beastie Boys|(You Gotta) Fight for Your Right (To Party!)|1986|ny997LNZ9zw|Beastie Boys|S380|East Coast Hip Hop;Rap Rock;Alternative Rock;Hip Hop;Rock|(You Gotta) Fight for Your Right (To Party!)",
 "Burial|Archangel|2007|E2qLD9c3Gq4|Burial (musician)|S4698|Dubstep;Future Garage;Dance;Electronic;Electronic Dance Music;UK Garage|One Wish (Ray J song)",
 "The Beatles|Ticket to Ride|1965|SyNt5zm3U_M|The Beatles|S1001|Folk Rock;Pop Rock;Pop;Rock|Ticket to Ride (song)",
-"Dire Straits|Sultans of Swing|1978|8Pa9x9fZBtY|Dire Straits|S611|Pub Rock;Roots Rock;Rock|",
+"Dire Straits|Sultans of Swing|1978|8Pa9x9fZBtY|Dire Straits|S611|Pub Rock;Roots Rock;Rock|Sultans of Swing",
 "The Stone Roses|Fools Gold|1989|NSD11dnphg0|The Stone Roses|S253|Alternative Dance;Baggy / Madchester;Alternative Rock;Dance;Rock|Fools Gold (song)",
 "Roy Orbison|Crying|1961|qLC9o_unLq4|Roy Orbison|S1114|Traditional Pop;Pop|Crying (Roy Orbison song)",
 "Pet Shop Boys|West End Girls|1985|p3j2NYZ8FKs|Pet Shop Boys|S419|Synthpop;Electronic;Pop|West End Girls",
