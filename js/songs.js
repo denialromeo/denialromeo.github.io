@@ -9730,7 +9730,7 @@ const songs = [
 "Everclear|Everything to Everyone|1997|D1vQJFF2TKQ|Everclear (band)|S15470|Alternative Rock;Rock|Everything to Everyone (song)",
 "Los Planetas|Reunión en la cumbre|2007|6cvbq5yI3Zg|https://es.wikipedia.org/wiki/Los_Planetas_(banda)|S7311|Indie Rock;Shoegaze;Alternative Rock;Rock|",
 "Bon Jovi|Wanted Dead or Alive|1986|SRvCvsRp5ho|Bon Jovi|S10269|Hard Rock;Rock|Wanted Dead or Alive (Bon Jovi song)",
-"Def Leppard|Animal|1987|jbPnStzUzTw|Def Leppard|S6020|AOR;Hard Rock;Rock|Animal (Def Leppard song)",
+"Def Leppard|Animal|1987|ecFPU--vvf0|Def Leppard|S6020|AOR;Hard Rock;Rock|Animal (Def Leppard song)",
 "The Human League|The Lebanon|1984|b5VmR6hZw2c|The Human League|S6754|New Romantic;Pop Rock;Synthpop;Electronic;New Wave;Pop;Rock|The Lebanon (song)",
 "Parquet Courts|Instant Disassembly|2014|2FTvnbTuIKU|Parquet Courts|S11840|Indie Rock;Post-Punk;Alternative Rock;Rock|",
 "Styx|Mr. Roboto|1983|uc6f_2nPSX8|Styx (band)|S8620|Pop Rock;Synthpop;Electronic;Pop;Rock|Mr. Roboto",
