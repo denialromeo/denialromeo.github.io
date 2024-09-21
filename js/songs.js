@@ -5818,7 +5818,7 @@ const songs = [
 "White Zombie|More Human Than Human|1995|E0E0ynyIUsg|White Zombie (band)|S14008|Groove Metal;Industrial Metal;Industrial Music;Metal;Rock|More Human than Human",
 "Sarah Harmer|Basement Apartment|2000|eN2TL59FCQg|Sarah Harmer|S12161|Singer/Songwriter|",
 "Machine|There But for the Grace of God Go I|1979|YGBDAxCDLs4|Machine (band)|S4440|Disco;Dance|",
-"The Move|Flowers in the Rain|1967|_laosNxqzNg|The Move|S11695|Freakbeat;Mod;Psychedelic Pop;Sunshine Pop;Beat Music;Pop;Pop Rock;Rock|Flowers in the Rain",
+"The Move|Flowers in the Rain|1967|HXQFGAGHIP4|The Move|S11695|Freakbeat;Mod;Psychedelic Pop;Sunshine Pop;Beat Music;Pop;Pop Rock;Rock|Flowers in the Rain",
 "Mitski|Geyser|2018|3zdFZJf-B90|Mitski|S16551|Art Pop;Indie Rock;Alternative Rock;Pop;Rock|Geyser (song)",
 "Nick Cave|Babe, I'm On Fire|2003|DcJGalE3vn0|Nick Cave|S7731|Alternative Rock;Rock|",
 "The Zombies|A Rose for Emily|1968|Ha2fLpBaB1k|The Zombies|S9114|Baroque Pop;Pop|",
