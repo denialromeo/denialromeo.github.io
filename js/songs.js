@@ -4689,7 +4689,7 @@ const songs = [
 "Marvin Gaye|You're All I Need to Get By|1968|Dza91W2DLWE|Tammi Terrell|S7461|Motown Sound;Pop;Pop Soul;R&B;Soul|You're All I Need to Get By",
 "John Lennon|Happy Xmas (War Is Over)|1971|g_kj60DIq2M|Plastic Ono Band|S2308|Christmas Music;Pop Rock;Descriptor;Holiday Music;Pop;Rock|Happy Xmas (War Is Over)",
 "Hello Seahorse!|Bestia|2009|QNDlwHW92OY|Hello Seahorse!|S13500|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock|",
-"Dave Brubeck Quartet|Blue Rondo à la Turk|1959|vKNZqM0d-xo|Dave Brubeck|S10509|Cool Jazz;Jazz|",
+"Dave Brubeck Quartet|Blue Rondo à la Turk|1959|FqPC-BkylxA|Dave Brubeck|S10509|Cool Jazz;Jazz|",
 "Guns N' Roses|Patience|1988|ErvgV4P6Fzc|Guns N' Roses|S6662|Acoustic Rock;Rock|Patience (Guns N' Roses song)",
 "Paul Simon|Me and Julio Down by the School Yard|1972|Z6VrKro8djw?start=26|Paul Simon|S7892|Folk Pop;Pop Rock;Singer/Songwriter;Contemporary Folk;Folk;Pop;Rock|Me and Julio Down by the Schoolyard",
 "Simon and Garfunkel|A Hazy Shade of Winter|1966|dVA-1iJxRQI|Simon & Garfunkel|S3804|Folk Pop;Folk Rock;Contemporary Folk;Folk;Pop;Rock|A Hazy Shade of Winter",
