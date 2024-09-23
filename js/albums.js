@@ -2561,7 +2561,7 @@ const albums = [
 "The Original Broadway Cast|Hamilton|2015|OLAK5uy_nRAj82ywkJ_YHiRh-sXKAbpiCiUfSx0-k|A5672|Hamilton (musical)|https://en.wikipedia.org/wiki/Hamilton_(album)#Personnel|Show Tunes;Descriptor;Musical Theatre and Entertainment;Soundtracks",
 "Swamp Dogg|Total Destruction to Your Mind|1970|OLAK5uy_lpIxr1u_mVlOCPLjq3hiCaboKxjqh2hCs|A2335|Swamp Dogg|Swamp Dogg|Soul;R&B",
 "Herman Brood & His Wild Romance|Shpritsz|1978|OLAK5uy_lj2nGa_zgxEmjWu282GfeFS3TAKVORKig|A4603|Herman Brood & His Wild Romance (album)|Herman Brood & His Wild Romance|Rock & Roll;Rock",
-"Third Ear Band|Third Ear Band|1970|OLAK5uy_mev4Xb8e57mY1u7BZejPQ27nRU_qgYODU|A2632|Third Ear Band (album)|Third Ear Band|Free Folk;Progressive Folk;Contemporary Folk;Folk;Psychedelic Folk",
+"Third Ear Band|Third Ear Band|1970|ERROR: Suitable playlist not found|A2632|Third Ear Band (album)|Third Ear Band|Free Folk;Progressive Folk;Contemporary Folk;Folk;Psychedelic Folk",
 "Simply Red|Stars|1991|OLAK5uy_mhYXX9cQMYYIxKc_uTi3QQ1sCXuf424Js|A833|Stars (Simply Red album)|Simply Red|Blue Eyed Soul;Pop Soul;Sophisti-Pop;Pop;R&B;Soul",
 "Television|Adventure|1978|OLAK5uy_nU3E6SIkeBsGjjeAENkH7QdaCdJuoHk8Y|A1165|Adventure (Television album)|Television (band)|New Wave;Post-Punk;Rock",
 "Pat Metheny|Bright Size Life|1976|OLAK5uy_lWdEnyk632p8nHwXICRGny_4VhAoOx4lw|A2019|Bright Size Life|Pat Metheny|Jazz Fusion;Jazz",
