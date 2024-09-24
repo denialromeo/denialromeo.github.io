@@ -3690,7 +3690,7 @@ const songs = [
 "John Coltrane|A Love Supreme, Part 3: Pursuance/Part 4: Psalm|1965|sHkMFLhcKJg|John Coltrane|S2825|Spiritual Jazz;Avant-Garde Jazz;Jazz|",
 "Men Without Hats|The Safety Dance|1982|nM4okRvCg2g|Men Without Hats|S7516|Dance-Pop;Synthpop;Dance;Electronic;Pop|The Safety Dance",
 "Frankie Goes to Hollywood|The Power of Love|1984|NyoTvgPn0rU|Frankie Goes to Hollywood|S4464|Pop|",
-"Leonard Cohen|The Stranger Song|1967|RLq7Aqd_H7g|Leonard Cohen|S9275|Contemporary Folk;Singer/Songwriter;Folk|Songs of Leonard Cohen",
+"Leonard Cohen|The Stranger Song|1967|ZqlR5D0y23s|Leonard Cohen|S9275|Contemporary Folk;Singer/Songwriter;Folk|Songs of Leonard Cohen",
 "Drake|Best I Ever Had|2009|Zfp3KfYH0xA|Drake (musician)|S6155|Contemporary R&B;Pop Rap;Hip Hop;R&B|Best I Ever Had (Drake song)",
 "Benny Goodman|And the Angels Sing|1939|heXQ-zgyfQY|Benny Goodman|S5414|Big Band;Vocal Jazz;Jazz|",
 "Das EFX|They Want EFX|1992|1PU22-fsGA0|Das EFX|S2050|Boom Bap;East Coast Hip Hop;Hip Hop|",
