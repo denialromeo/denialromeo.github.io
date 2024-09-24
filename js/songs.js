@@ -7989,7 +7989,7 @@ const songs = [
 "The Strokes|The End Has No End|2004|8sQoX12zo-A|The Strokes|S8613|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|The End Has No End",
 "Real Estate|Darling|2017|VUFr4SK1-l4|Real Estate (band)|S16472|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|",
 "Sting|Russians|1985|wHylQRVN2Qs|Sting (musician)|S12971|Adult Contemporary;Pop|Russians (song)",
-"Frank Sinatra|All the Way|1957|e6DDaofTgUs|Frank Sinatra|S6443|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop|",
+"Frank Sinatra|All the Way|1957|B9-ODV8aziI|Frank Sinatra|S6443|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop|",
 "Marty Robbins|Don't Worry|1960|V2u31AkbiVw|Marty Robbins|S7447|Country|Don't Worry (Marty Robbins song)",
 "The Fat Boys|Jailhouse Rap|1984|4IEtpBK5dsU|The Fat Boys|S3403|East Coast Hip Hop;Hip Hop|",
 "Montrose|Rock Candy|1973|CtDO3qBo72M|Montrose (band)|S13897|Hard Rock;Rock|Rock Candy",
