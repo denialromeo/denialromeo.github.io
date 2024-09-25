@@ -3557,7 +3557,7 @@ const songs = [
 "Café Tacvba|La Ingrata|1994|kIr8hsVTCzg|Café Tacuba|S5693|Latin Alternative;Norteño;Hispanic Music;Latin American Music;Mexican Music;Regional Music|",
 "Paul Kelly|To Her Door|1987|CaWGHBvpROA|Paul Kelly (Australian musician)|S7878|Folk Rock;Rock|To Her Door",
 "INXS|Never Tear Us Apart|1987|AIBv2GEnXlc|INXS|S6796|Pop Rock;Pop;Rock|Never Tear Us Apart",
-"Johnny Mathis|Chances Are|1957|NEH3uqbpsm8|Johnny Mathis|S2789|Traditional Pop;Pop|Chances Are (song)",
+"Johnny Mathis|Chances Are|1957|1CieoQeLqcU|Johnny Mathis|S2789|Traditional Pop;Pop|Chances Are (song)",
 "Antoine|Les Elucubrations d'Antoine|1966|PYSGVAQxgBw|Antoine (singer)|S5215|Beat Music;French Pop;Pop;Pop Rock;Rock|",
 "John Maus|Believer|2011|PMku-GbafEg|John Maus|S4970|Hypnagogic Pop;Post-Punk;Synthpop;Electronic;Neo-Psychedelia;Pop;Psychedelic Rock;Rock|",
 "James Brown|Prisoner of Love|1963|KHnYfNzgpZk|James Brown|S1071|Soul;R&B|",
