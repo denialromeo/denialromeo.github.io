@@ -6005,7 +6005,7 @@ const songs = [
 "Al Jolson|Rock-a-Bye Your Baby with a Dixie Melody|1918|OGdSMgmJO8g|Al Jolson|S5129|Traditional Pop;Vaudeville;Musical Theatre and Entertainment;Pop|Rock-a-Bye Your Baby with a Dixie Melody",
 "Beirut|Elephant Gun|2007|SWSz_PAfgNc|Beirut (band)|S5399|Chamber Pop;Indie Folk;Baroque Pop;Contemporary Folk;Folk;Indie Pop;Pop|",
 "Bright Eyes|We Are Nowhere and It's Now|2005|kr7dXN7wJP0|Bright Eyes (band)|S4693|Indie Folk;Contemporary Folk;Folk|",
-"Al Jolson|California, Here I Come|1924|7IjpAGf0oks|Al Jolson|S5130|Show Tunes;Traditional Pop;Descriptor;Musical Theatre and Entertainment;Pop;Soundtracks|California, Here I Come",
+"Al Jolson|California, Here I Come|1924|rPH5ZQIpUrw|Al Jolson|S5130|Show Tunes;Traditional Pop;Descriptor;Musical Theatre and Entertainment;Pop;Soundtracks|California, Here I Come",
 "Maxime Le Forestier|San Francisco|1971|0uT87XQrki0|Maxime Le Forestier|S7480|Chanson;Contemporary Folk;Folk;Regional Music|",
 "Stereolab|Miss Modular|1997|Q2kuPgS1Hi4|Stereolab|S8560|Art Pop;Indietronica;Electronic;Pop|",
 "Kings of Leon|On Call|2007|RYOW5uoyKl0|Kings of Leon|S4335|Alternative Rock;Rock|On Call (song)",
