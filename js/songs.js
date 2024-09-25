@@ -2089,7 +2089,7 @@ const songs = [
 "The Cure|Lullaby|1989|sS6t56U9tBg|The Cure|S251|Dream Pop;Gothic Rock;Post-Punk;Alternative Rock;Rock|Lullaby (The Cure song)",
 "Bob Marley and the Wailers|Stir It Up|1968|rf8GjhXvOjU|Bob Marley|S2286|Reggae;Caribbean Music;Jamaican Music;Regional Music|",
 "Tears for Fears|Shout|1984|Ye7FKc1JQe4|Tears for Fears|S1916|New Wave;Synthpop;Electronic;Pop;Rock|Shout (Tears for Fears song)",
-"Chuck Berry|Back in the U.S.A.|1959|XVukAcLqHFI|Chuck Berry|S1172|Rock & Roll;Rock|Back in the U.S.A.",
+"Chuck Berry|Back in the U.S.A.|1959|1VMWIJwr2rg|Chuck Berry|S1172|Rock & Roll;Rock|Back in the U.S.A.",
 "Brandy|The Boy Is Mine|1998|qSIOp_K5GMw|Brandy Norwood|S281|Contemporary R&B;R&B|",
 "The Animals|Don't Let Me Be Misunderstood|1965|_2sz_YwwwQ4|The Animals|S1668|British Rhythm & Blues;Mod;R&B;Rhythm & Blues;Rock|Don't Let Me Be Misunderstood",
 "Yes|Roundabout|1971|kmZoQFYYx8U|Yes (band)|S3982|Progressive Rock;Rock|Roundabout (Yes song)",
