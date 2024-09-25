@@ -1281,7 +1281,7 @@ const songs = [
 "Fleetwood Mac|Oh Well|1969|J0ag8DkipmQ|Fleetwood Mac|S1586|Blues Rock;Psychedelic Rock;Rock|Oh Well (song)",
 "X-Ray Spex|Oh Bondage Up Yours!|1977|ogypBUCb7DA|X-Ray Spex|S659|Punk Rock;Rock|",
 "Queen|Another One Bites the Dust|1980|rY0WxgSXdEE?start=5|Queen (band)|S1854|Disco;Pop Rock;Dance;Pop;Rock|Another One Bites the Dust",
-"Domenico Modugno|Nel blu, dipinto di blu (\"Volare\")|1958|t4IjJav7xbg|Domenico Modugno|S6119|Italo Pop;Traditional Pop;Pop|",
+"Domenico Modugno|Nel blu, dipinto di blu (\"Volare\")|1958|6jWsIpAbo-8|Domenico Modugno|S6119|Italo Pop;Traditional Pop;Pop|",
 "Beastie Boys|Intergalactic|1998|qORYO0atB6g|Beastie Boys|S273|East Coast Hip Hop;Electro;Dance;Electronic;Electronic Dance Music;Hip Hop|Intergalactic (song)",
 "The Rolling Stones|19th Nervous Breakdown|1966|DEseb6-hssc|The Rolling Stones|S1490|British Rhythm & Blues;Mod;R&B;Rhythm & Blues;Rock|19th Nervous Breakdown",
 "Morrissey|First of the Gang to Die|2004|w5lAY6oO8YE|Morrissey|S2440|Britpop;Alternative Rock;Pop;Pop Rock;Rock|First of the Gang to Die",
