@@ -8392,7 +8392,7 @@ const songs = [
 "Kelis|Young, Fresh n' New|2001|r-dAOVM1C8M|Kelis|S7079|New Jack Swing;Pop Rap;Contemporary R&B;Hip Hop;R&B|Young, Fresh n' New",
 "Boards of Canada|Happy Cycling|1998|MEFSU7WeZt0|Boards of Canada|S4592|IDM;Electronic|",
 "The Kinks|Celluloid Heroes|1972|gSItDuo8Wss|The Kinks|S7128|Pop Rock;Pop;Rock|Celluloid Heroes",
-"Ivory Joe Hunter|I Almost Lost My Mind|1949|ZKLbIn8yx-o|Ivory Joe Hunter|S6806|Rhythm & Blues;Traditional Pop;Pop;R&B|I Almost Lost My Mind",
+"Ivory Joe Hunter|I Almost Lost My Mind|1949|GBkQHVZ9UT0|Ivory Joe Hunter|S6806|Rhythm & Blues;Traditional Pop;Pop;R&B|I Almost Lost My Mind",
 "Radiohead|Talk Show Host|1996|Xgaj5suTCgk|Radiohead|S13606|Alternative Rock;Art Rock;Rock|",
 "Tricky Woo|Fly the Orient|1999|cj3QuobCyA0|Tricky Woo|S8848|Garage Rock;Rock|",
 "Triana|En el lago|1975|CxmUcT86hw8|Triana (band)|S13140|Andalusian Rock;Folk Rock;Hispanic Music;Progressive Rock;Regional Music;Rock;Spanish Music|",
