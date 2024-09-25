@@ -5008,7 +5008,7 @@ const songs = [
 "Janet Jackson|Control|1986|LH8xbDGv7oY|Janet Jackson|S11150|Contemporary R&B;Dance-Pop;Synth Funk;Dance;Funk;Pop;R&B|Control (Janet Jackson song)",
 "Dinosaur Jr.|The Wagon|1990|v5yxVuNDLmo|Dinosaur Jr.|S6078|Indie Rock;Noise Rock;Alternative Rock;Rock|The Wagon",
 "Tom Jones|Delilah|1968|MIIU9xkGAMs|Tom Jones (singer)|S8787|Easy Listening;Soft Rock;Pop;Pop Rock;Rock|Delilah (Tom Jones song)",
-"Helen Kane|I Wanna Be Loved By You|1928|hclK-UKJNgk|Helen Kane|S4348|Standards;Pop;Traditional Pop|",
+"Helen Kane|I Wanna Be Loved By You|1928|DojhxfB6Lhg|Helen Kane|S4348|Standards;Pop;Traditional Pop|",
 "Travis|Writing to Reach You|1999|UeCcuH-EsuM|Travis (band)|S2378|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Writing to Reach You",
 "Grateful Dead|St. Stephen|1969|xZ5TftMTPOE|Grateful Dead|S6636|Psychedelic Rock;Rock|St. Stephen (song)",
 "Wire|Three Girl Rhumba|1977|Qr9Cn3yFnnQ|Wire (band)|S2595|Art Punk;Punk Rock;Rock|",
