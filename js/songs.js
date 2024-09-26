@@ -6724,7 +6724,7 @@ const songs = [
 "Justin Hinds & The Dominoes|Carry, Go, Bring, Home|1964|AReCWfFdXm8|Justin Hinds|S7033|Jamaican Ska;Caribbean Music;Jamaican Music;Regional Music;Ska|",
 "Jelly Roll Morton|Dead Man Blues|1926|luRg3hODcac|Jelly Roll Morton|S11186|Big Band;Dixieland;Jazz|",
 "Bobby 'Boris' Pickett and the Crypt Kickers|Monster Mash|1962|vNuVifA7DSU?start=53|Bobby Pickett|S3700|Halloween Music;Novelty;Pop Rock;Vocal Group;Descriptor;Holiday Music;Pop;Rock|Monster Mash",
-"John Lee Hooker|One Bourbon, One Scotch, One Beer|1966|c3o8-bcfFvE|John Lee Hooker|S14577|Electric Blues;Blues|One Bourbon, One Scotch, One Beer",
+"John Lee Hooker|One Bourbon, One Scotch, One Beer|1966|QW-JkpFKLZA|John Lee Hooker|S14577|Electric Blues;Blues|One Bourbon, One Scotch, One Beer",
 "The Roots|Don't Say Nuthin'|2004|VB5coQcelAk|The Roots|S2461|Conscious Hip Hop;East Coast Hip Hop;Hip Hop|",
 "Billy Squier|Everybody Wants You|1982|PgA8Mi6FZFU|Billy Squier|S3850|AOR;Hard Rock;Rock|Everybody Wants You",
 "Metallica|Sad But True|1991|A8MO7fkZc5o|Metallica|S11608|Heavy Metal;Metal;Rock|Sad but True",
