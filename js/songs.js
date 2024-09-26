@@ -6822,7 +6822,7 @@ const songs = [
 "Peter Brötzmann|Machine Gun|1968|iaifuU1JcEA|Peter Brötzmann|S11884|European Free Jazz;Avant-Garde Jazz;Free Jazz;Jazz|",
 "Kenny Loggins|Danger Zone|1985|siwpn14IE7E|Kenny Loggins|S7088|AOR;Film Soundtrack;Pop Rock;Descriptor;Pop;Rock;Soundtracks|Danger Zone (song)",
 "Brian Wilson|Love and Mercy|1988|2y3J46DhoL0|Brian Wilson|S5617|Art Pop;Sunshine Pop;Synthpop;Electronic;Pop|Love and Mercy",
-"Ray Charles|Born to Lose|1962|EsOmizjm0Xw|Ray Charles|S12032|Country Soul;Traditional Pop;Pop;R&B;Soul|Born to Lose (Ted Daffan song)",
+"Ray Charles|Born to Lose|1962|FMYvAEVxkKc|Ray Charles|S12032|Country Soul;Traditional Pop;Pop;R&B;Soul|Born to Lose (Ted Daffan song)",
 "The Flaming Lips|Watching the Planets|2009|qnNGpepMgZw|The Flaming Lips|S6384|Krautrock;Neo-Psychedelia;Experimental Rock;Progressive Rock;Psychedelic Rock;Rock|",
 "Mariah Carey|#Beautiful|2013|USF55GUALyQ|Mariah Carey|S9487|Contemporary R&B;R&B|Beautiful (Mariah Carey song)",
 "The Knife|A Tooth for An Eye|2013|W10F0ezCTIQ|The Knife|S9529|Art Pop;Synthpop;Electronic;Pop|",
