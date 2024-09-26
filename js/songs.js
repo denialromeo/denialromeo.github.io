@@ -4095,7 +4095,7 @@ const songs = [
 "Michael Jackson|Remember the Time|1991|LeiFF0gvqcc?start=203|Michael Jackson|S7537|New Jack Swing;Pop;Contemporary R&B;R&B|Remember the Time",
 "The Smiths|Reel Around the Fountain|1984|V04bUY5Kl8w|The Smiths|S4573|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|",
 "Gram Parsons|$1000 Wedding|1974|8nfYrxeT1TY|Gram Parsons|S3686|Country;Singer/Songwriter|",
-"Frida Hyvönen|Dirty Dancing|2008|LjcwGcZsUbI?start=34|Frida Hyvönen|S6482|Pop;Singer/Songwriter|",
+"Frida Hyvönen|Dirty Dancing|2008|lg8d0tb-sTc|Frida Hyvönen|S6482|Pop;Singer/Songwriter|",
 "Marie Davidson|Work It|2018|23Df3jHYTrs|Marie Davidson|S16567|Minimal Synth;Tech House;Dance;Electronic;Electronic Dance Music;House;Minimal Wave;Techno|",
 "U2|Moment of Surrender|2009|rBm8FWG3zI4|U2|S8883|Pop Rock;Pop;Rock|Moment of Surrender",
 "Common|The Light|2000|OjHX7jf-znA|Common (rapper)|S4599|Conscious Hip Hop;Neo-Soul;Hip Hop;R&B;Soul|The Light (Common song)",
