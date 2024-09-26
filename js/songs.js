@@ -9412,7 +9412,7 @@ const songs = [
 "Weeping Willows|True to You|1999|a-7W-wclm10|Weeping Willows|S8963|Pop Rock;Pop;Rock|",
 "Love Unlimited Orchestra|Walkin' in the Rain With the One I Love|1972|wfQHSwZX4sg|The Love Unlimited Orchestra|S14692|Smooth Soul;R&B;Soul|",
 "Stompin' Tom Connors|The Hockey Song|1973|UxJvrD80nJ4|Stompin' Tom Connors|S8591|Country|The Hockey Song",
-"John McCormack|The Star Spangled Banner|1917|p2vbm_JsQWk|https://www.discogs.com/artist/914898-John-McCormack-2|S15603|Standards;Pop;Traditional Pop|",
+"John McCormack|The Star Spangled Banner|1917|p2vbm_JsQWk|John McCormack (tenor)|S15603|Standards;Pop;Traditional Pop|The Star-Spangled Banner",
 "John Lennon|Woman|1980|ZhfWiU8wGCc|John Lennon|S6958|Pop Rock;Singer/Songwriter;Pop;Rock|Woman (John Lennon song)",
 "Out Hud|Hair Dude, You're Stepping on My Mystique|2002|9XJ_qx0CkRs|Out Hud|S7832|Dance-Punk;Indietronica;Electronic;Post-Punk;Rock|",
 "Placebo|Teenage Angst|1996|Fx5bfLI5slU|Placebo (band)|S7975|Alternative Rock;Rock|Teenage Angst (song)",
