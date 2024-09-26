@@ -9348,7 +9348,7 @@ const songs = [
 "Marie et Les Garcons|Re-Bop|1979|q__vqP7L3Cw|Marie et les Garçons|S7428|New Wave;Pop Rock;Pop;Rock|",
 "The Beat|Stand Down Margaret|1980|zFaFVhyjb5Y|The Beat (British band)|S5359|2 Tone;Pop Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music;Ska|Stand Down Margaret",
 "Three Dog Night|Mama Told Me (Not to Come)|1970|9DZvJQ0PTEg|Three Dog Night|S8747|Pop Rock;Pop;Rock|Mama Told Me Not to Come",
-"The Crystals|He Hit Me (And It Felt Like a Kiss)|1962|f20Oz9Yr_So|The Crystals|S5919|Brill Building;Girl Group;Pop|He Hit Me (And It Felt Like a Kiss)",
+"The Crystals|He Hit Me (And It Felt Like a Kiss)|1962|2-MBpL4GbUY|The Crystals|S5919|Brill Building;Girl Group;Pop|He Hit Me (And It Felt Like a Kiss)",
 "Sublime|Santeria|1996|AEYN5w4T_aM|Sublime (band)|S15907|Alternative Rock;Pop Reggae;Third Wave Ska;Caribbean Music;Jamaican Music;Reggae;Regional Music;Rock;Ska|Santeria (song)",
 "Alphaville|Forever Young|1984|oNjQXmoxiQ8|Alphaville (band)|S9979|Synthpop;Electronic;Pop|Forever Young (Alphaville song)",
 "2Pac|Brenda's Got a Baby|1991|NRWUs0KtB-I|Tupac Shakur|S5068|Conscious Hip Hop;West Coast Hip Hop;Hip Hop|Brenda's Got a Baby",
