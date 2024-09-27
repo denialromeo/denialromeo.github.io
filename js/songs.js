@@ -6491,7 +6491,7 @@ const songs = [
 "Charles Trenet|La Folle complainte|1945|wHqFzwpidYQ?start=29|Charles Trenet|S5759|Chanson;Regional Music|https://fr.wikipedia.org/wiki/La_Folle_Complainte",
 "St. Louis Jimmy Oden|Going Down Slow|1941|l_E0mHDPwsM|St. Louis Jimmy Oden|S13631|Piano Blues;Blues|Goin' Down Slow",
 "Spandau Ballet|Chant No. 1 (I Don't Need This Pressure On)|1981|VIqMk5PvhT0|Spandau Ballet|S1862|New Romantic;New Wave;Rock|Chant No. 1 (I Don't Need This Pressure On)",
-"Fred Astaire|A Fine Romance (A Sarcastic Love Song)|1936|sRqK-KxNLAY|Fred Astaire|S6471|Traditional Pop;Vocal Jazz;Jazz;Pop|",
+"Fred Astaire|A Fine Romance (A Sarcastic Love Song)|1936|sRqK-KxNLAY|Fred Astaire|S6471|Traditional Pop;Vocal Jazz;Jazz;Pop|A Fine Romance (song)",
 "Element of Crime|Weißes Papier|1993|U_j6q6GB0ZI|Element of Crime|S6232|Deutschrock;Indie Pop;Liedermacher;Pop;Rock;Singer/Songwriter|",
 "Dead Kennedys|Too Drunk to Fuck|1981|8Jzdikbi9yE|Dead Kennedys|S1858|Hardcore Punk;Punk Rock;Rock|",
 "Jelly Roll Morton|The Pearls|1924|SNqIjFobMr8|Jelly Roll Morton|S13206|Dixieland;Ragtime;American Folk Music;Folk;Jazz;Regional Music;Traditional Folk Music|",
