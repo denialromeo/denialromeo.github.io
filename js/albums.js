@@ -2156,7 +2156,7 @@ const albums = [
 "Bryan Adams|Reckless|1984|PLILCJF6YwPP8sOzT-_aeyHs5vg_cCGyjb|A3012|Reckless (Bryan Adams album)|Bryan Adams|Pop Rock;Pop;Rock",
 "The Everly Brothers|Songs Our Daddy Taught Us|1958|OLAK5uy_l2gwaQM59qk-BDCsFu9jDAC59CfOp0Q9I|A28|Songs Our Daddy Taught Us|The Everly Brothers|Close Harmony;Country Pop;Folk Pop;American Folk Music;Contemporary Folk;Country;Folk;Pop;Regional Music;Traditional Country;Traditional Folk Music",
 "Harry Belafonte|Belafonte at Carnegie Hall|1959|OLAK5uy_n16sF0YHHJ83OaEFiJS_QXfUl-KB15bb4|A1856|Belafonte at Carnegie Hall|Harry Belafonte|Caribbean Folk Music;Caribbean Music;Folk;Regional Music;Traditional Folk Music",
-"Count Basie|Count Basie Swings, Joe Williams Sings|1955|OLAK5uy_kealVZhQ5oEX_eO_O4TZJ_BgVmKNbz-2k|A1780|Count Basie Swings, Joe Williams Sings|Count Basie|Big Band;Swing;Vocal Jazz;Jazz",
+"Count Basie|Count Basie Swings, Joe Williams Sings|1955|PL7gp579CMkT_IzY2XYFONZ5kwCG7_PTeL|A1780|Count Basie Swings, Joe Williams Sings|Count Basie|Big Band;Swing;Vocal Jazz;Jazz",
 "Duke Ellington|...And His Mother Called Him Bill|1968|OLAK5uy_mtVnrF5jPeXWaKqrxwEspA_AC3cNWnsbU|A1984|...And His Mother Called Him Bill|Duke Ellington|Big Band;Swing;Jazz",
 "Actress|Splazsh|2010|OLAK5uy_lmywutCBrEmdJc5seE2bHiz8tGpQ79ZR8|A5534|Splazsh|Actress (musician)|Microhouse;Tech House;Dance;Electronic;Electronic Dance Music;House;Techno",
 "Traffic|The Low Spark of High Heeled Boys|1971|OLAK5uy_koDVbk1NRqmSSDLVhcNOORPPeqS310RbY|A1343|The Low Spark of High Heeled Boys|Traffic (band)|Progressive Rock;Rock",
