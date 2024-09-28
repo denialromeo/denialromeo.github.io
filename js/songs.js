@@ -4431,7 +4431,7 @@ const songs = [
 "Pink Floyd|Set the Controls for the Heart of the Sun|1968|8RbXIMZmVv8|Pink Floyd|S3704|Experimental Rock;Space Rock;Psychedelic Rock;Rock|Set the Controls for the Heart of the Sun",
 "Status Quo|Pictures of Matchstick Men|1968|NP6RzRfVlpA|Status Quo (band)|S12296|Psychedelic Pop;Psychedelic Rock;Pop;Rock|",
 "Soccer Mommy|Your Dog|2018|Ouem6cFXJvA|Soccer Mommy|S16562|Indie Pop;Pop|Your Dog",
-"Led Zeppelin|The Battle of Evermore|1971|X_AfMHCVoxA|Led Zeppelin|S2568|Contemporary Folk;Folk Rock;Folk;Rock|",
+"Led Zeppelin|The Battle of Evermore|1971|X_AfMHCVoxA|Led Zeppelin|S2568|Contemporary Folk;Folk Rock;Folk;Rock|The Battle of Evermore",
 "Creedence Clearwater Revival|Suzie Q|1968|7x60p7UNLnQ|Creedence Clearwater Revival|S5890|Blues Rock;Swamp Rock;Rock;Roots Rock|",
 "Seals and Crofts|Summer Breeze|1972|GQQbjpomexo|Seals and Crofts|S8338|Soft Rock;Yacht Rock;Pop;Pop Rock;Rock|Summer Breeze (song)",
 "The Clovers|One Mint Julep|1952|2rNoR8jnPRU|The Clovers|S1591|Doo-Wop;Rhythm & Blues;Descriptor;R&B;Vocal Group|One Mint Julep",
