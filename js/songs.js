@@ -9901,7 +9901,7 @@ const songs = [
 "Friendly Fires|Silhouettes|2019|LubMCGIvT-Y|Friendly Fires|S16784|Dance-Pop;Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House;Pop|",
 "Andrés Calamaro|Estadio Azteca|2004|B8uJbE60hhg|Andrés Calamaro|S9991|Acoustic Rock;Flamenco Jazz;Singer/Songwriter;European Folk Music;Flamenco;Flamenco Nuevo;Hispanic Music;Jazz;Rock;Spanish Folk Music;Spanish Music;Traditional Folk Music|https://es.wikipedia.org/wiki/Estadio_Azteca_(canci%C3%B3n)",
 "I'm from Barcelona|We're from Barcelona|2006|3Wi1d0FNgdQ|I'm from Barcelona|S4035|Indie Pop;Pop|",
-"Jo Stafford|'A' You're Adorable|1949|Pmd5n2D2SJY|Jo Stafford|S6923|Traditional Pop;Pop|'A' You're Adorable",
+"Jo Stafford|A You're Adorable|1949|Pmd5n2D2SJY|Jo Stafford|S6923|Traditional Pop;Pop|'A' You're Adorable",
 "ABBA|Voulez-Vous|1979|za05HBtGsgU|ABBA|S5087|Euro-Disco;Europop;Dance;Disco;Pop|Voulez-Vous (song)",
 "Múm|Green Grass of Tunnel|2002|l5hBkQT3-C8|Múm|S7636|Indietronica;Electronic|Green Grass of Tunnel",
 "Ronnie Bird|Fais attention|1965|JbbGl7Y0nPI|Ronnie Bird|S4400|Garage Rock;Rock|",
