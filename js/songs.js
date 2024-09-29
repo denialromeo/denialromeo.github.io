@@ -8931,7 +8931,7 @@ const songs = [
 "Aerosmith|Cryin'|1993|qfNmyxV2Ncw|Aerosmith|S5106|Hard Rock;Pop Rock;Pop;Rock|Cryin'",
 "Neil Young|Comes a Time|1978|qxH_4e7W7hc|Neil Young|S7689|Country;Folk Rock;Singer/Songwriter;Rock|Comes a Time",
 "Starland Vocal Band|Afternoon Delight|1976|wu1UXCdyNo0|Starland Vocal Band|S8547|Country Pop;Soft Rock;Country;Pop;Pop Rock;Rock|Afternoon Delight",
-"Deep Dish|The Future of the Future (Stay Gold)|1998|QHa1gMxECLM|Deep Dish (band)|S6013|Deep House;Progressive House;Dance;Electronic;Electronic Dance Music;House|",
+"Deep Dish|The Future of the Future (Stay Gold)|1998|HCh6QoLCbmE|Deep Dish (band)|S6013|Deep House;Progressive House;Dance;Electronic;Electronic Dance Music;House|",
 "fIREHOSE|Sometimes (Almost Always)|1988|IHws_DiEz1I|Firehose (band)|S2923|Post-Punk;Rock|",
 "India|To Be in Love|1997|eMaInPix0_c|La India|S7469|Funky House;Dance;Electronic;Electronic Dance Music;House|",
 "KC and the Sunshine Band|Keep It Comin' Love|1976|dc_pjiCJl3s|KC and the Sunshine Band|S12881|Disco;Dance|",
