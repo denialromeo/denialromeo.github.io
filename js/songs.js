@@ -1962,7 +1962,7 @@ const songs = [
 "Pixies|Here Comes Your Man|1989|tPgf_btTFlc|Pixies (band)|S3708|Indie Rock;Alternative Rock;Rock|Here Comes Your Man",
 "Cream|Badge|1969|xv3o1NrqhbU|Cream (band)|S3306|Blues Rock;Pop Rock;Pop;Rock|Badge (song)",
 "Chick Webb|A-Tisket, A-Tasket|1938|gg12E1aac8s|Chick Webb|S2759|Swing;Vocal Jazz;Jazz|",
-"John Cale|Paris 1919|1973|q5YHqWqhFkU|John Cale|S6940|Art Pop;Baroque Pop;Pop|",
+"John Cale|Paris 1919|1973|r1NmrknzeLg|John Cale|S6940|Art Pop;Baroque Pop;Pop|Paris 1919 (song)",
 "Jack Ü feat. Justin Bieber|Where Are Ü Now|2015|nntGTK2Fhb0|Jack Ü|S9783|Contemporary R&B;Future Bass;Trap [EDM];Dance;Electronic;Electronic Dance Music;R&B|Where Are Ü Now",
 "Grizzly Bear|While You Wait for the Others|2009|mQ4jZeGUFzI|Grizzly Bear (band)|S4804|Indie Rock;Psychedelic Folk;Psychedelic Pop;Alternative Rock;Contemporary Folk;Folk;Pop;Rock|While You Wait for the Others",
 "Conway Twitty|It's Only Make Believe|1958|LJefPaBsSug?start=8|Conway Twitty|S1630|Country Pop;Country;Pop|It's Only Make Believe",
