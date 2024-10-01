@@ -6734,7 +6734,7 @@ const songs = [
 "Madvillain|America's Most Blunted|2003|jytxkJUM_7U|Madvillain|S7375|Abstract Hip Hop;Hip Hop|",
 "Spiritualized|Soul on Fire|2008|zgmoVaRbSIA|Spiritualized|S4747|Chamber Pop;Neo-Psychedelia;Psychedelic Pop;Baroque Pop;Indie Pop;Pop;Psychedelic Rock;Rock|",
 "Queen|Now I'm Here|1974|3OSd17ko3O4?start=5|Queen (band)|S11975|Hard Rock;Rock|Now I'm Here",
-"Cream|Tales of Brave Ulysses|1967|ERY0jMv9KtY|Cream (band)|S4104|Blues Rock;Psychedelic Rock;Rock|Tales of Brave Ulysses",
+"Cream|Tales of Brave Ulysses|1967|WRSbjpXZYEA|Cream (band)|S4104|Blues Rock;Psychedelic Rock;Rock|Tales of Brave Ulysses",
 "The Fall|Cruiser's Creek|1985|pem02CWn4Do|The Fall (band)|S417|Post-Punk;Rock|",
 "Lou Rawls|You'll Never Find Another Love Like Mine|1976|phWBaVpeRcY|Lou Rawls|S12883|Philly Soul;R&B;Soul|You'll Never Find Another Love like Mine",
 "The Shins|Simple Song|2012|RoLTPcD1S4Q|The Shins|S8395|Indie Pop;Pop|Simple Song (The Shins song)",
