@@ -2480,7 +2480,7 @@ const songs = [
 "The Beatles|Hello, Goodbye|1967|rblYSKz_VnI|The Beatles|S2836|Pop Rock;Pop;Rock|Hello, Goodbye",
 "ZZ Top|Gimme All Your Lovin'|1983|k4VFFBCa5Aw|ZZ Top|S477|Boogie Rock;Hard Rock;Blues Rock;Rock|Gimme All Your Lovin'",
 "Dizzy Gillespie|Groovin' High|1945|oslMFOeFoLI|Dizzy Gillespie|S2685|Bebop;Jazz|Groovin' High",
-"Cabaret Voltaire|Nag Nag Nag|1979|jCvTCw4dLFA|Cabaret Voltaire (band)|S2597|Industrial;Minimal Synth;Post-Punk;Synth Punk;Electronic;Experimental;Industrial Music;Minimal Wave;Punk Rock;Rock|",
+"Cabaret Voltaire|Nag Nag Nag|1979|vNtvD6bGIDA|Cabaret Voltaire (band)|S2597|Industrial;Minimal Synth;Post-Punk;Synth Punk;Electronic;Experimental;Industrial Music;Minimal Wave;Punk Rock;Rock|",
 "Happy Mondays|WFL (Wrote for Luck)|1988|YNn51e11_dQ|Happy Mondays|S325|Alternative Dance;Baggy / Madchester;Alternative Rock;Dance;Rock|",
 "The Human League|Love Action|1981|HnjLlDY_xww|The Human League|S540|New Romantic;Synthpop;Electronic;New Wave;Pop;Rock|Love Action (I Believe in Love)",
 "TNGHT|Higher Ground|2012|6HzyUHxmkg0|TNGHT|S5047|Trap [EDM];Dance;Electronic;Electronic Dance Music|TNGHT (EP)",
