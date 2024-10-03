@@ -8848,7 +8848,7 @@ const songs = [
 "Beats International|Dub B Good to Me|1990|-MnELifX3sQ|Beats International|S5385|Alternative Dance;Downtempo;Alternative Rock;Dance;Electronic;Rock|Dub Be Good to Me",
 "Germaine Sablon|Le Chant des partisans|1943|dJI5cEd-nwM|Germaine Sablon|S10931|Chanson;Regional Music|",
 "Led Zeppelin|Dancing Days|1973|JpNy6z5sz1M|Led Zeppelin|S11384|Hard Rock;Rock|Dancing Days",
-"Ernie Maresca|Shout! Shout! (Knock Yourself Out)|1962|p6k3BEU1aQM|Ernie Maresca|S14371|Rock & Roll;Rock|Shout (Isley Brothers song)",
+"Ernie Maresca|Shout! Shout! (Knock Yourself Out)|1962|L--v9ols1vg|Ernie Maresca|S14371|Rock & Roll;Rock|Shout (Isley Brothers song)",
 "Dion|Lovers Who Wander|1962|thNWwGGRMCk|Dion DiMucci|S6082|Doo-Wop;Rock & Roll;Descriptor;R&B;Rock;Vocal Group|Lovers Who Wander (song)",
 "Leonard Cohen|Dance Me to the End of Love|1984|NGorjBVag0I|Leonard Cohen|S7243|Singer/Songwriter;Sophisti-Pop;Pop|Dance Me to the End of Love",
 "The Cramps|TV Set|1980|O3ae6flEFrY|The Cramps|S5881|Garage Punk;Psychobilly;Garage Rock;Punk Rock;Rock;Rock & Roll;Rockabilly|",
