@@ -4899,7 +4899,7 @@ const songs = [
 "The Smiths|I Know It's Over|1986|iey0VOhxV2Y|The Smiths|S4577|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|I Know It's Over",
 "Ramones|Bonzo Goes to Bitburg|1985|0PFGtAW6vFE|Ramones|S401|Punk Rock;Rock|Bonzo Goes to Bitburg",
 "Bruce Springsteen|The Promise|1999|Drk4QuGfNl8|Bruce Springsteen|S5656|Heartland Rock;Singer/Songwriter;Rock|The Promise (Bruce Springsteen album)",
-"John Lennon|Watching the Wheels|1980|uVXR2LYeFBI|John Lennon|S3558|Pop Rock;Singer/Songwriter;Pop;Rock|",
+"John Lennon|Watching the Wheels|1980|uVXR2LYeFBI|John Lennon|S3558|Pop Rock;Singer/Songwriter;Pop;Rock|Watching the Wheels",
 "Beach House|Lemon Glow|2018|5kZbNffxl84|Beach House|S16558|Dream Pop;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock|",
 "James Brown|Living in America|1985|c5BL4RNFr58|James Brown|S3243|Film Soundtrack;Synth Funk;Descriptor;Funk;R&B;Soundtracks|Living in America (James Brown song)",
 "Orange Juice|Falling and Laughing|1980|XxD45UONhco|Orange Juice (band)|S9311|Indie Pop;Jangle Pop;Post-Punk;Alternative Rock;Pop;Pop Rock;Rock|Falling and Laughing",
