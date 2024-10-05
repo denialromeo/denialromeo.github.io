@@ -602,7 +602,7 @@ const songs = [
 "Roberta Flack|Killing Me Softly with His Song|1973|Dx1XtKbEtfE|Roberta Flack|S777|Smooth Soul;R&B;Soul|Killing Me Softly (Roberta Flack album)",
 "Chet Baker|My Funny Valentine|1954|8SGAcP7Zh6U?start=25|Chet Baker|S2772|Vocal Jazz;Jazz|",
 "The Police|Message in a Bottle|1979|MbXWrmQW-OE|The Police|S588|New Wave;Pop Rock;Pop;Rock|Message in a Bottle (The Police song)",
-"Charlie Parker|Koko|1945|okrNwE6GI70|Charlie Parker|S2730|Bebop;Jazz|",
+"Charlie Parker|Koko|1945|0ajJBNodEYs|Charlie Parker|S2730|Bebop;Jazz|",
 "LCD Soundsystem|Someone Great|2007|eISo-iFGGDg|LCD Soundsystem|S4288|Indietronica;Synthpop;Electronic;Pop|",
 "Simon and Garfunkel|The Boxer|1969|l3LFML_pxlY|Simon & Garfunkel|S893|Folk Pop;Folk Rock;Singer/Songwriter;Contemporary Folk;Folk;Pop;Rock|The Boxer",
 "Massive Attack|Teardrop|1998|u7K72X4eo_s|Massive Attack|S283|Trip Hop;Downtempo;Electronic|Teardrop (song)",
