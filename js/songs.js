@@ -9971,7 +9971,7 @@ const songs = [
 "Carcass|Heartwork|1993|ZpbpOgUybBM|Carcass (band)|S15342|Melodic Death Metal;Death Metal;Metal;Rock|",
 "Spinal Tap|Tonight I'm Gonna Rock You Tonight|1984|SXHmWXPwol0|Spinal Tap (band)|S8527|Film Soundtrack;Heavy Metal;Descriptor;Metal;Rock;Soundtracks|",
 "Mario Lanza|Be My Love|1950|Iu-qIlTf6ko|Mario Lanza|S7431|Traditional Pop;Pop|Be My Love",
-"Teresa Brewer|Music! Music! Music!|1950|HXYwP6PNYRA?start=6|Teresa Brewer|S8723|Traditional Pop;Pop|Music! Music! Music!",
+"Teresa Brewer|Music! Music! Music!|1950|LYFRKSjm-7c|Teresa Brewer|S8723|Traditional Pop;Pop|Music! Music! Music!",
 "Frank Ocean feat. Jay-Z & Tyler, the Creator|Biking|2017|tbbeKuTAAKE|Frank Ocean|S16381|Alternative R&B;Pop Rap;Contemporary R&B;Hip Hop;R&B|Biking (song)",
 "System of a Down|Sugar|1998|0zW_Dt-SFR8|System of a Down|S16261|Alternative Metal;Avant-Garde Metal;Metal;Rock|Sugar (System of a Down song)",
 "Låpsley|Operator (He Doesn't Call Me)/Operator (DJ Koze's Disco Edit)|2016|PDsVVkIqbWE|Låpsley|S16137|Dance-Pop;Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House;Pop|",
