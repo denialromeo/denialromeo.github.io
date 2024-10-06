@@ -998,7 +998,7 @@ const songs = [
 "The Who|Pinball Wizard|1969|-J03yCE15rg|The Who|S887|Hard Rock;Rock Opera;Rock|Pinball Wizard",
 "The Drifters|Up on the Roof|1962|3C3zVHBhfd8|The Drifters|S1085|Doo-Wop;Pop Soul;Descriptor;Pop;R&B;Soul;Vocal Group|Up on the Roof (song)",
 "Talking Heads|Burning Down the House|1983|_3eC35LoF4U|Talking Heads|S1904|New Wave;Pop Rock;Pop;Rock|Burning Down the House",
-"The Rascals|Good Lovin'|1966|i7qSos2-D5M|The Rascals|S970|Blue Eyed Soul;Pop Rock;Pop;Rock|Good Lovin'",
+"The Rascals|Good Lovin'|1966|OUNJbVFW5Pw|The Rascals|S970|Blue Eyed Soul;Pop Rock;Pop;Rock|Good Lovin'",
 "James Brown|Cold Sweat|1967|8bztE5IbQOo|James Brown|S942|Funk;R&B|Cold Sweat",
 "Stevie Wonder|Sir Duke|1976|rI5XCBfMCnQ|Stevie Wonder|S1795|Pop Soul;Pop;R&B;Soul|Sir Duke",
 "Siouxsie and the Banshees|Hong Kong Garden|1978|tiVfRoywQtk?start=24|Siouxsie and the Banshees|S617|Post-Punk;Rock|Hong Kong Garden (song)",
