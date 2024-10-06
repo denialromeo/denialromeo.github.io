@@ -5434,7 +5434,7 @@ const songs = [
 "Miles Davis|Footprints|1967|Pxb7pNXJvng|Miles Davis|S11647|Modal Jazz;Post-Bop;Bebop;Jazz|Footprints (composition)",
 "Barbara|L'Aigle Noir|1970|tk6YruMrx2s?start=12|Barbara (singer)|S10074|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "Led Zeppelin|The Ocean|1973|H8bVaTW6UCU|Led Zeppelin|S7207|Hard Rock;Rock|The Ocean (Led Zeppelin song)",
-"America|Sister Golden Hair|1975|XIycEe59Auc|America (band)|S5186|Folk Pop;Soft Rock;Contemporary Folk;Folk;Pop;Pop Rock;Rock|Sister Golden Hair",
+"America|Sister Golden Hair|1975|4gibSb1_GGw|America (band)|S5186|Folk Pop;Soft Rock;Contemporary Folk;Folk;Pop;Pop Rock;Rock|Sister Golden Hair",
 "The Harmonicats|Peg O' My Heart|1947|9BIuX7IsdE8|Jerry Murad's Harmonicats|S6680|Rhythm & Blues;Space Age Pop;Traditional Pop;Easy Listening;Pop;R&B|Peg o' My Heart",
 "Goldfrapp|Ooh La La|2005|uco-2V4ytYQ|Goldfrapp|S4262|Dance-Pop;Electroclash;Electropop;Synthpop;Dance;Electronic;Electronic Dance Music;Pop|Ooh La La (Goldfrapp song)",
 "Led Zeppelin|D'yer Mak'er|1973|xje-1sw3T0s|Led Zeppelin|S7205|Pop Reggae;Pop Rock;Caribbean Music;Jamaican Music;Pop;Reggae;Regional Music;Rock|D'yer Mak'er",
