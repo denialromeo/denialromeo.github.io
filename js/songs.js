@@ -1265,7 +1265,7 @@ const songs = [
 "The Rolling Stones|Beast of Burden|1978|S7qTS17SwF8|The Rolling Stones|S1814|Blues Rock;Rock|Beast of Burden (song)",
 "Radiohead|There There|2003|7AQSLozK7aA|Radiohead|S3116|Alternative Rock;Art Rock;Rock|Creep (Radiohead song)",
 "St. Vincent|New York|2017|4TPqUvy1vYU|St. Vincent (musician)|S16483|Art Pop;Singer/Songwriter;Pop|New York (St. Vincent song)",
-"Joe Cocker|With a Little Help from My Friends|1968|nCrlyX6XbTU|Joe Cocker|S917|Blue Eyed Soul;Blues Rock;Pop;Rock|With a Little Help from My Friends (Joe Cocker album)",
+"Joe Cocker|With a Little Help from My Friends|1968|eXV4WyQMHFM|Joe Cocker|S917|Blue Eyed Soul;Blues Rock;Pop;Rock|With a Little Help from My Friends (Joe Cocker album)",
 "The Smiths|Heaven Knows I'm Miserable Now|1984|TjPhzgxe3L0|The Smiths|S437|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Heaven Knows I'm Miserable Now",
 "Suicide|Ghost Rider|1977|Qn0_fDjvI_s|Suicide (band)|S8631|Minimal Synth;Synth Punk;Electronic;Minimal Wave;Punk Rock;Rock|Ghost Rider (Suicide song)",
 "David Bowie|Where Are We Now?|2013|QWtsV50_-p4|David Bowie|S9431|Art Pop;Singer/Songwriter;Pop|Where Are We Now%3F",
