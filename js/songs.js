@@ -1949,7 +1949,7 @@ const songs = [
 "Blind Melon|No Rain|1993|3qVPNONdF58|Blind Melon|S2072|Alternative Rock;Rock|No Rain",
 "Orbital|Chime|1989|Zp_SxnpK-iE|Orbital (band)|S223|Acid House;Techno;Dance;Electronic;Electronic Dance Music;House|",
 "The Who|We're Not Gonna Take It/See Me, Feel Me|1969|xRCrmuALDEE|The Who|S3958|Art Rock;Rock Opera;Rock|We're Not Gonna Take It (The Who song)",
-"Betty Wright|Clean Up Woman|1971|TPVk-m1Pr4s|Betty Wright|S835|Southern Soul;R&B;Soul|Clean Up Woman",
+"Betty Wright|Clean Up Woman|1971|XFQXMc60kc0|Betty Wright|S835|Southern Soul;R&B;Soul|Clean Up Woman",
 "Mary J. Blige|Real Love|1992|90c9pEtZquw|Mary J. Blige|S3220|New Jack Swing;Contemporary R&B;R&B|Real Love (Mary J. Blige song)",
 "Bachman-Turner Overdrive|Takin' Care of Business|1973|aJprEyXMrIk?start=14|Bachman–Turner Overdrive|S737|Rock|Takin' Care of Business (song)",
 "Diana Ross|I'm Coming Out|1980|lbcnjGIdgK0|Diana Ross|S2341|Disco;Dance|I'm Coming Out",
