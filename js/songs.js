@@ -4871,7 +4871,7 @@ const songs = [
 "Loverboy|Working for the Weekend|1981|zL8G5pBZ5CI?start=144|Loverboy|S7339|AOR;Pop Rock;Pop;Rock|Working for the Weekend",
 "Virus|Imágenes paganas|1986|mCEbVR7VZxc|Virus (Argentine band)|S9047|New Romantic;Synthpop;Electronic;New Wave;Pop;Rock|",
 "A Tribe Called Quest|Award Tour|1993|P800UWoE9xs|A Tribe Called Quest|S5077|East Coast Hip Hop;Jazz Rap;Hip Hop|",
-"Charlie Poole|Don't Let Your Deal Go Down Blues|1925|HgpyFRwEWa4|Charlie Poole|S4054|Old-Time;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|",
+"Charlie Poole|Don't Let Your Deal Go Down Blues|1925|vkGKfvXpFJE|Charlie Poole|S4054|Old-Time;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|",
 "Salt 'n' Pepa|Let's Talk About Sex|1990|ydrtF45-y-g|Salt-N-Pepa|S4486|Pop Rap;Hip Hop|Let's Talk About Sex",
 "The Stranglers|No More Heroes|1977|GoG4ziny-QI|The Stranglers|S8604|New Wave;Punk Rock;Rock|No More Heroes (The Stranglers song)",
 "Aerosmith|Livin' on the Edge|1993|7nqcL0mjMjw|Aerosmith|S3141|Hard Rock;Rock|Livin' on the Edge",
