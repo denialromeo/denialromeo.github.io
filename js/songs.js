@@ -8938,7 +8938,7 @@ const songs = [
 "The Beach Boys|Little Deuce Coupe|1963|5qRW1MBvCjk|The Beach Boys|S5339|Vocal Surf;Pop;Pop Rock;Rock;Surf Music|Little Deuce Coupe (song)",
 "John Lee Hooker|Dimples|1956|OC_IZlOJv94|John Lee Hooker|S6950|Electric Blues;Blues|Dimples (song)",
 "Trovadores Regionales|Gregorio Cortez|1929|oohwn77UbdM|https://www.discogs.com/artist/2639426-Trovadores-Regionales|S9383|Corrido;Hispanic Music;Latin American Music;Mexican Music;Regional Music|",
-"Al Jolson|Anniversary Song|1946|3VcQVNw2w78|Al Jolson|S5132|Traditional Pop;Pop|",
+"Al Jolson|Anniversary Song|1946|3VcQVNw2w78|Al Jolson|S5132|Traditional Pop;Pop|https://en.wikipedia.org/wiki/Waves_of_the_Danube#%22The_Anniversary_Song%22",
 "A$AP Rocky|Goldie|2012|fLCf-URqIf0|ASAP Rocky|S4994|East Coast Hip Hop;Hip Hop|Goldie (song)",
 "Steely Dan|Dirty Work|1972|QrE_cDvcgJg|Steely Dan|S8553|Pop Rock;Pop;Rock|Dirty Work (Steely Dan song)",
 "Yin Yang Twins|Wait (The Whisper Song)|2005|HAnXIIv5He8|Ying Yang Twins|S9094|Pop Rap;Snap;Southern Hip Hop;Hip Hop|",
