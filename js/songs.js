@@ -8165,7 +8165,7 @@ const songs = [
 "Joan Armatrading|Drop the Pilot|1983|ifARMmcqhD8|Joan Armatrading|S6924|Pop Rock;Synthpop;Electronic;Pop;Rock|Drop the Pilot",
 "Faces|You Can Make Me Dance, Sing or Anything|1974|ytKzlQx1WBs|Faces (band)|S732|Soft Rock;Pop;Pop Rock;Rock|",
 "David Byrne|Strange Overtones|2008|GvZhpCYWFzs|David Byrne|S4709|Alternative Dance;Art Pop;Alternative Rock;Dance;Pop;Rock|Strange Overtones",
-"Johnny Cash|God's Gonna Cut You Down|2006|eJlN9jdQFSc|Johnny Cash|S11239|Americana;Contemporary Folk;Country;Folk|",
+"Johnny Cash|God's Gonna Cut You Down|2006|eJlN9jdQFSc|Johnny Cash|S11239|Americana;Contemporary Folk;Country;Folk|https://en.wikipedia.org/wiki/God%27s_Gonna_Cut_You_Down#Johnny_Cash_version",
 "Wilson Pickett|634-5789 (Soulsville, U.S.A.)|1966|XY-t_lJ6GHE|Wilson Pickett|S15192|Soul;R&B|634-5789 (Soulsville, U.S.A.)",
 "Aphex Twin|T69 Collapse|2018|SqayDnQ2wmw|Aphex Twin|S16574|IDM;Electronic|",
 "The Microphones|The Moon|2001|kTWTN_uxNcQ|The Microphones|S7545|Lo-Fi / Slacker Rock;Alternative Rock;Indie Rock;Rock|",
