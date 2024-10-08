@@ -3,7 +3,7 @@ import os
 
 from PIL import Image
 
-DIR = 'assets/img/comics/scream'
+DIR = 'assets/img/comics/web'
 TITLE = 'I Have No Mouth And I Must Scream'
 AUTHOR = 'Harlan Ellison'
 
