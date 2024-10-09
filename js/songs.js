@@ -1227,7 +1227,7 @@ const songs = [
 "ANOHNI|Drone Bomb Me|2016|SE_ecAywZhs|Anohni|S16027|Art Pop;Electropop;Electronic;Pop|Drone Bomb Me",
 "Gotye|Somebody That I Used to Know|2011|8UVNT4wvIGY|Gotye|S5012|Art Pop;Indie Pop;Pop|Somebody That I Used to Know",
 "U2|I Will Follow|1980|-sLzV00gNUo|U2|S570|Post-Punk;Rock|I Will Follow",
-"The Chiffons|He's So Fine|1963|rinz9Avvq6A|The Chiffons|S1056|Brill Building;Girl Group;Pop|He's So Fine",
+"The Chiffons|He's So Fine|1963|MGkhe0DW5Oc|The Chiffons|S1056|Brill Building;Girl Group;Pop|He's So Fine",
 "Weather Report|Birdland|1977|pqashW66D7o|Weather Report|S2875|Jazz Fusion;Jazz|Birdland (Weather Report song)",
 "At the Drive-In|One Armed Scissor|2000|ce0LtolCsLc|At the Drive-In|S2194|Post-Hardcore;Punk Rock;Rock|One Armed Scissor",
 "Fine Young Cannibals|She Drives Me Crazy|1989|UtvmTu4zAMg|Fine Young Cannibals|S249|New Wave;Pop Rock;Pop;Rock|She Drives Me Crazy",
