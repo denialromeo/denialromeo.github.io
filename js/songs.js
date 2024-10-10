@@ -9314,7 +9314,7 @@ const songs = [
 "Joy Orbison|Ellipsis|2012|ghz2klpZLr4|Joy Orbison|S5020|House;UK Funky;Dance;Electronic;Electronic Dance Music;UK Garage|",
 "Odyssey|Inside Out|1982|HrkvzmVrX50|Odyssey (band)|S7791|Boogie;Dance;Disco;R&B|Inside Out (Odyssey song)",
 "Grace Jones|La Vie en rose|1977|YEM8TspcCBY|Grace Jones|S12875|Disco;Pop Soul;Dance;Pop;R&B;Soul|La Vie en rose",
-"Public Image Ltd.|Memories|1979|P5VtuJROYc8|Public Image Ltd|S3736|Post-Punk;Rock|",
+"Public Image Ltd.|Memories|1979|CeoxRCXobBQ|Public Image Ltd|S3736|Post-Punk;Rock|",
 "Sheila E.|A Love Bizarre|1985|56gpwl6cohc|Sheila E.|S8387|Contemporary R&B;Synth Funk;Funk;R&B|A Love Bizarre",
 "Patrick Wolf|The Libertine|2005|_Ww9tOALquY|Patrick Wolf|S7861|Chamber Pop;Folktronica;Singer/Songwriter;Baroque Pop;Electronic;Indie Pop;Pop|The Libertine (song)",
 "Beirut|Nantes|2007|R781LDKOVJE|Beirut (band)|S4340|Chamber Pop;Baroque Pop;Indie Pop;Pop|",
