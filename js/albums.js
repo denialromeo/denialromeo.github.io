@@ -1865,7 +1865,7 @@ const albums = [
 "Culture Club|Colour by Numbers|1983|OLAK5uy_nu6GiJU5H4PdgBR_VK0bNxwA1HhXvqa8s|A577|Colour by Numbers|Culture Club|New Romantic;Pop;New Wave;Rock",
 "Muse|Absolution|2003|OLAK5uy_k98eBRs05K9dsDBYxNLCyn0AkxQ_E1vIU|A4027|Absolution (album)|Muse (band)|Alternative Rock;Rock",
 "Drake|If You're Reading This It's Too Late|2015|OLAK5uy_mzFOUXdaAgjlZjJFNOcXOqMuXVwXUOw0I|A5564|If You're Reading This It's Too Late|Drake (musician)|Pop Rap;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
-"Horace Silver|Horace Silver and The Jazz Messengers|1955|PLUso-SyaGLt0Zt1lsh4OZQiKXGWgxTwtW|A1802|Horace Silver and the Jazz Messengers|Horace Silver|Hard Bop;Bebop;Jazz",
+"Horace Silver|Horace Silver and The Jazz Messengers|1955|OLAK5uy_lpvjOyi20MQgmR70X5i8rNRybHB1U4yag|A1802|Horace Silver and the Jazz Messengers|Horace Silver|Hard Bop;Bebop;Jazz",
 "Black Sabbath|Sabbath Bloody Sabbath|1973|OLAK5uy_nrdNnPdQzKIgjvVeAUGZHksBmivyA_-Fg|A1379|Sabbath Bloody Sabbath|Black Sabbath|Hard Rock;Heavy Metal;Metal;Rock",
 "The Original Soundtrack|West Side Story|1961|OLAK5uy_nJ_ltycs96K6n_tuY8FsHv0f1v7oxvkWk|A1920|West Side Story (1961 soundtrack)|Leonard Bernstein|Film Soundtrack;Show Tunes;Descriptor;Musical Theatre and Entertainment;Soundtracks",
 "Baaba Maal & Mansour Seck|Djam Leelii|1983|OLAK5uy_lRy_Bfbvm9dpoD57yjTQFBQsdXop7mvt8|A2813|Djam Leelii|Baaba Maal|Mande Music;Mbalax;African Music;Regional Music;West African Music;Wolof Music",
