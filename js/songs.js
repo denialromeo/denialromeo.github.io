@@ -9124,7 +9124,7 @@ const songs = [
 "Frankie Laine|That Lucky Old Sun|1949|PL3kvxN3xFc|Frankie Laine|S6458|Traditional Pop;Pop|That Lucky Old Sun",
 "Russ Morgan|Cruising Down the River|1949|T1pxinLKDFg|Russ Morgan|S8276|Easy Listening;Traditional Pop;Pop|Cruising Down the River",
 "Vic Damone|You're Breaking My Heart|1949|UfdOoS-QAh4|Vic Damone|S9006|Traditional Pop;Pop|You're Breaking My Heart",
-"Colette Magny|Melocoton|1963|OPVtricblNM|https://fr.wikipedia.org/wiki/Colette_Magny|S10447|Chanson;Regional Music|Colette Magny",
+"Colette Magny|Melocoton|1963|QoOGnvBEKUE|https://fr.wikipedia.org/wiki/Colette_Magny|S10447|Chanson;Regional Music|Colette Magny",
 "Wu-Tang Clan|Can It Be All So Simple|1993|7m148vZDwJA|Wu-Tang Clan|S13143|Boom Bap;East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "John Lee Hooker|Motor City Is Burning|1968|fBhaiJ5YNiM|John Lee Hooker|S12701|Electric Blues;Blues|",
 "ScHoolboy Q feat. Kanye West|THat Part|2016|uQ_DHRI-Xp0|Schoolboy Q|S16183|Trap;West Coast Hip Hop;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
