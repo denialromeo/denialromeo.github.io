@@ -1071,7 +1071,7 @@ const songs = [
 "Kanye West|Power|2010|L53gjP-TtGE|Kanye West|S4910|Hip Hop|Power (Kanye West song)",
 "The Kinks|Sunny Afternoon|1966|tw555YwHE48|The Kinks|S3079|Pop Rock;Pop;Rock|Sunny Afternoon",
 "Jimi Hendrix|Crosstown Traffic|1968|AwFKHpzIZwA?start=26|Jimi Hendrix|S927|Psychedelic Rock;Rock|Crosstown Traffic (song)",
-"Charley Patton|Pony Blues|1929|zoKKJjf-oQA|Charley Patton|S2731|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|",
+"Charley Patton|Pony Blues|1929|sdytu2e3v6Y|Charley Patton|S2731|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|Pony Blues",
 "Pet Shop Boys|It's a Sin|1987|dRHetRTOD1Q|Pet Shop Boys|S1585|Synthpop;Electronic;Pop|It's a Sin",
 "Frank Sinatra|One for My Baby|1958|3jHr5JbTeRY|Frank Sinatra|S2741|Vocal Jazz;Jazz|",
 "Portishead|The Rip|2008|kBOaLjtR4mw|Portishead (band)|S4742|Folktronica;Electronic|The Rip (song)",
