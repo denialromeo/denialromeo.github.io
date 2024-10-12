@@ -718,7 +718,7 @@ const songs = [
 "Santigold|L.E.S. Artistes|2008|cz0Qb5ws98k|Santigold|S4745|Indie Pop;Indietronica;Electronic;Pop|",
 "The Libertines|Can't Stand Me Now|2004|CqM11bt9QvI|The Libertines|S2439|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|Can't Stand Me Now",
 "Battles|Atlas|2007|IpGp-22t0lU|Battles (band)|S4277|Experimental Rock;Math Rock;Alternative Rock;Rock|Atlas (Battles song)",
-"Crosby, Stills, Nash (& Young)|Suite: Judy Blue Eyes|1969|kVUwrifwKrI|Crosby, Stills, Nash & Young|S882|Folk Rock;Rock|Suite: Judy Blue Eyes",
+"Crosby, Stills, Nash (& Young)|Suite: Judy Blue Eyes|1969|ZGT0P0XJRFM|Crosby, Stills, Nash & Young|S882|Folk Rock;Rock|Suite: Judy Blue Eyes",
 "The Who|Substitute|1966|eswQl-hcvU0|The Who|S982|Beat Music;British Rhythm & Blues;Mod;Pop;Pop Rock;R&B;Rhythm & Blues;Rock|Substitute (The Who song)",
 "The Sugarcubes|Birthday|1987|149Fln0DtUc|The Sugarcubes|S334|Art Pop;Dream Pop;Indie Pop;Alternative Rock;Pop;Rock|Birthday (The Sugarcubes song)",
 "Count Basie|One O'Clock Jump|1937|g3JyQnYPkZk|Count Basie|S2647|Big Band;Swing;Jazz|",
