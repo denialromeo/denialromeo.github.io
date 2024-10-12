@@ -8633,7 +8633,7 @@ const songs = [
 "The Shirelles|Foolish Little Girl|1963|8zAX5StHD6A|The Shirelles|S8397|Brill Building;Girl Group;Pop|",
 "The Weavers|On Top of Old Smoky|1951|XYevu7dYWKo|The Weavers|S8957|American Folk Music;Folk;Regional Music;Traditional Folk Music|On Top of Old Smoky",
 "Nirvana|Aneurysm|1991|0qfsQVgIknk|Kurt Cobain|S4218|Grunge;Alternative Rock;Rock|Aneurysm (song)",
-"The Who|Young Man Blues|1970|GWRmsoBXAUw|The Who|S12592|Hard Rock;Rock|Young Man Blues",
+"The Who|Young Man Blues|1970|R1CJuzpuca4|The Who|S12592|Hard Rock;Rock|Young Man Blues",
 "Cocteau Twins|Cherry-Coloured Funk|1990|PbbUeLkZt74|Cocteau Twins|S3289|Dream Pop;Alternative Rock;Rock|",
 "Los Fabulosos Cadillacs|Mal bicho|1995|8hklYKTmaiU|Los Fabulosos Cadillacs|S11472|Latin Alternative;Hispanic Music;Latin American Music;Regional Music|Matador (Los Fabulosos Cadillacs song)",
 "The Dixie Hummingbirds|Amazing Grace|1946|_l_GTxBQuUs|The Dixie Hummingbirds|S9205|Traditional Black Gospel;American Folk Music;Folk;Gospel;Regional Music;Traditional Folk Music|",
