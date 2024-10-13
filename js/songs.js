@@ -5696,7 +5696,7 @@ const songs = [
 "Alain Bashung|Gaby oh Gaby|1980|mey8GokRFf4|Alain Bashung|S5135|Chanson;French Pop;New Wave;Pop Rock;Pop;Regional Music;Rock|Gaby oh Gaby",
 "Green Day|Jesus of Suburbia|2004|yOeh4SuGQK0|Green Day|S6642|Alternative Rock;Pop Punk;Punk Rock;Rock|Jesus of Suburbia",
 "AlunaGeorge|Attracting Flies|2013|7d_HD89ZlJE|AlunaGeorge|S9403|Electropop;UK Garage;Dance;Electronic;Electronic Dance Music;Pop|",
-"Rosie and the Originals|Angel Baby|1960|9xm3qnh1sck|Rosie and the Originals|S3782|Doo-Wop;Descriptor;R&B;Vocal Group|Angel Baby (Rosie and the Originals song)",
+"Rosie and the Originals|Angel Baby|1960|tBpP-SNlbdA|Rosie and the Originals|S3782|Doo-Wop;Descriptor;R&B;Vocal Group|Angel Baby (Rosie and the Originals song)",
 "Vampire Weekend|Cousins|2009|1e0u11rgd9Q|Vampire Weekend|S8915|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|",
 "Sonny and Cher|The Beat Goes On|1967|to0irFedGqc|Sonny & Cher|S8495|Pop Rock;Sunshine Pop;Pop;Rock|The Beat Goes On (Sonny & Cher song)",
 "Noir Désir|L'homme pressé|1997|Bv2TPv87FPM|Noir Désir|S7766|Indie Rock;Alternative Rock;Rock|",
