@@ -7731,7 +7731,7 @@ const songs = [
 "Juan Son|Nada|2008|iioiWt4OaJ4|Juan Son|S13846|Art Pop;Neo-Psychedelia;Pop;Psychedelic Rock;Rock|",
 "Neil Young|Sugar Mountain|1969|XVajUY-hBVI|Neil Young|S7683|Contemporary Folk;Folk Rock;Singer/Songwriter;Folk;Rock|Sugar Mountain (song)",
 "Frank Zappa|Brown Shoes Don't Make It|1967|oNULHGsy3SE|Frank Zappa|S3990|Art Rock;Experimental Rock;Progressive Rock;Satire;Comedy;Descriptor;Rock|",
-"Frida|I Know There's Something Going On|1982|372436tJiaM|Anni-Frid Lyngstad|S10874|New Wave;Pop Rock;Pop;Rock|I Know There's Something Going On",
+"Frida|I Know There's Something Going On|1982|p98PjtSfNWo|Anni-Frid Lyngstad|S10874|New Wave;Pop Rock;Pop;Rock|I Know There's Something Going On",
 "Boogie Down Productions|Love's Gonna Get 'Cha (Material Love)|1990|4NACMjwR5DE|Boogie Down Productions|S2022|Boom Bap;Conscious Hip Hop;East Coast Hip Hop;Hip Hop|",
 "Dennis Brown|Revolution|1983|CeIELPtswO0|Dennis Brown|S15413|Reggae;Caribbean Music;Jamaican Music;Regional Music|",
 "Bobby Bland|Lead Me On|1960|tRh2JIMRvfI|Bobby Bland|S1162|Rhythm & Blues;Soul;R&B|",
