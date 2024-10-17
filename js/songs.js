@@ -9564,7 +9564,7 @@ const songs = [
 "Mad Season|River of Deceit|1995|Fm72DPJCX58|Mad Season (band)|S14705|Alternative Rock;Rock|River of Deceit",
 "The Moldy Peaches|Anyone Else But You|2001|QsWFbMc5t84|The Moldy Peaches|S7592|Anti-Folk;Indie Folk;Indie Pop;Contemporary Folk;Folk;Pop|Anyone Else but You",
 "Jean Ferrat|Aimer à perdre la raison|1971|HR6LJ3ZBZvg?start=3|Jean Ferrat|S11164|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
-"Bauhaus|Kick in the Eye|1981|rb-6ka1y-K8|Bauhaus (band)|S5336|Gothic Rock;Post-Punk;Rock|Kick in the Eye",
+"Bauhaus|Kick in the Eye|1981|GmWjRqJoCe0|Bauhaus (band)|S5336|Gothic Rock;Post-Punk;Rock|Kick in the Eye",
 "Dimples D.|Sucker D.J.'s|1983|kavBmqgXLyM|Dimples D.|S3334|East Coast Hip Hop;Hip Hop|",
 "Björk|Hunter|1997|cBGN0omhCs4|Björk|S10185|Art Pop;Electronic;Pop|Hunter (Björk song)",
 "Billy J. Kramer with The Dakotas|Bad to Me|1963|2CMX0mCFYJ4|Billy J. Kramer|S15294|Merseybeat;Beat Music;Pop;Pop Rock;Rock|",
