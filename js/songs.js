@@ -600,7 +600,7 @@ const songs = [
 "Arcade Fire|Sprawl II (Mountains Beyond Mountains)|2010|rH_7_XRfTMs|Arcade Fire|S4884|Indie Pop;Synthpop;Electronic;Pop|Sprawl II (Mountains Beyond Mountains)",
 "Phoenix|Lisztomania|2009|4BJDNw7o6so|Phoenix (band)|S4823|Indie Pop;Pop|Lisztomania (song)",
 "Roberta Flack|Killing Me Softly with His Song|1973|Dx1XtKbEtfE|Roberta Flack|S777|Smooth Soul;R&B;Soul|Killing Me Softly (Roberta Flack album)",
-"Chet Baker|My Funny Valentine|1954|8SGAcP7Zh6U?start=25|Chet Baker|S2772|Vocal Jazz;Jazz|",
+"Chet Baker|My Funny Valentine|1954|ni9Cp9mOOOg|Chet Baker|S2772|Vocal Jazz;Jazz|",
 "The Police|Message in a Bottle|1979|MbXWrmQW-OE|The Police|S588|New Wave;Pop Rock;Pop;Rock|Message in a Bottle (The Police song)",
 "Charlie Parker|Koko|1945|0ajJBNodEYs|Charlie Parker|S2730|Bebop;Jazz|",
 "LCD Soundsystem|Someone Great|2007|eISo-iFGGDg|LCD Soundsystem|S4288|Indietronica;Synthpop;Electronic;Pop|",
