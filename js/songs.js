@@ -1170,7 +1170,7 @@ const songs = [
 "Ma Rainey|See See Rider Blues|1925|h0KRsawnf88|Ma Rainey|S2733|Vaudeville Blues;Blues;Musical Theatre and Entertainment;Vaudeville|See See Rider",
 "St. Vincent|Digital Witness|2014|mVAxUMuhz98|St. Vincent (musician)|S9555|Art Pop;Pop|",
 "The Killers|All These Things That I've Done|2004|sZTpLvsYYHw|The Killers|S4635|Pop Rock;Post-Punk Revival;Alternative Rock;Indie Rock;Pop;Post-Punk;Rock|All These Things That I've Done",
-"George McCrae|Rock Your Baby|1974|1QvvByvbwLk?start=9|George McCrae|S729|Disco;Pop Soul;Dance;Pop;R&B;Soul|",
+"George McCrae|Rock Your Baby|1974|gutE8I0Tk3E|George McCrae|S729|Disco;Pop Soul;Dance;Pop;R&B;Soul|",
 "Les Brown|Sentimental Journey|1944|d49bABnTVBg|Les Brown (bandleader)|S2654|Big Band;Traditional Pop;Vocal Jazz;Jazz;Pop|Sentimental Journey (song)",
 "Lena Horne|Stormy Weather|1942|TPgnj5upihQ|Lena Horne|S2698|Vocal Jazz;Jazz|Stormy Weather (song)",
 "David Bowie|Station to Station|1976|WSQHFUe6Y5s?start=377|David Bowie|S5969|Art Rock;Funk Rock;Rock|Station to Station (song)",
