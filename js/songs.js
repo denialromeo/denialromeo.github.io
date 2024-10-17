@@ -8194,7 +8194,7 @@ const songs = [
 "Vera Lynn|We'll Meet Again|1939|T5C4meGkNyc|Vera Lynn|S8974|Standards;Pop;Traditional Pop|We'll Meet Again",
 "Abe Elenkrig's Yidishe Orchestra|Fon der Choope (From the Wedding)|1913|aav1_8qxOx8|Abe Elenkrig|S15225|Klezmer;Jewish Music;Regional Music|",
 "Gladys Knight and the Pips|Best Thing That Ever Happened to Me|1973|8FT5QF4JZUA|Gladys Knight & the Pips|S6576|Pop Soul;Smooth Soul;Pop;R&B;Soul|You're the Best Thing That Ever Happened to Me",
-"Ian Dury|Wake Up and Make Love with Me|1977|CqrXe6TZkuc|Ian Dury|S6766|New Wave;Pub Rock;Rock|",
+"Ian Dury|Wake Up and Make Love with Me|1977|QON_NhWRnJ8|Ian Dury|S6766|New Wave;Pub Rock;Rock|",
 "Tommy Tutone|867-5309/Jenny|1982|6WTdTwcmxyo|Tommy Tutone|S3916|New Wave;Power Pop;Pop;Pop Rock;Rock|867-5309/Jenny",
 "The Beatles|Run for Your Life|1965|yzHXtxcIkg4|The Beatles|S3198|Pop Rock;Pop;Rock|Run for Your Life (Beatles song)",
 "Elvis Costello|Man Out of Time|1982|lYftZ0hd4FQ|Elvis Costello|S6247|New Wave;Pop Rock;Singer/Songwriter;Pop;Rock|Man Out of Time",
