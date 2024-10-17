@@ -8445,7 +8445,7 @@ const songs = [
 "The Pogues|Streams of Whiskey|1984|mPpGp_J3z2A|The Pogues|S14888|Celtic Punk;Celtic Rock;Folk Punk;Folk Rock;Punk Rock;Rock|",
 "Låpsley|Hurt Me|2015|PrMcurKD01c|Låpsley|S16926|Alternative R&B;Contemporary R&B;R&B|Hurt Me (song)",
 "The Jackson 5|Heartbreak Hotel|1980|CgyDHL1j_Bg|The Jackson 5|S3507|Disco;Dance|This Place Hotel",
-"Depeche Mode|Home|1997|L_yZk0OhOdY|Depeche Mode|S10576|Downtempo;Electronic|Home (Depeche Mode song)",
+"Depeche Mode|Home|1997|DZHs-SRJbzU|Depeche Mode|S10576|Downtempo;Electronic|Home (Depeche Mode song)",
 "The Black Crowes|She Talks to Angels|1990|5FsmkMtW0pQ|The Black Crowes|S10187|Acoustic Rock;Southern Rock;Rock|She Talks to Angels",
 "The Beatles|I've Got a Feeling|1970|DbKPZd5oihc|The Beatles|S14111|Rock|I've Got a Feeling",
 "Foreigner|Cold As Ice|1977|ySb1f9zWJkQ|Foreigner (band)|S6420|AOR;Rock|Cold as Ice (Foreigner song)",
