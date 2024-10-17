@@ -5066,7 +5066,7 @@ const songs = [
 "Chick Corea & Return to Forever|Spain|1973|IWBkVucVMCY|Chick Corea|S10394|Jazz Fusion;Jazz|Spain (instrumental)",
 "Otis Rush|Double Trouble|1958|SJjpPshvio4|Otis Rush|S14831|Electric Blues;Blues|Double Trouble (Otis Rush song)",
 "Savages|She Will|2013|kim-REn8ecg|Savages (band)|S9518|Gothic Rock;Post-Punk;Rock|Savages (Pocahontas song)",
-"Manu Chao|Desaparecido|1998|H2W4wglPW2c|Manu Chao|S7414|Latin Alternative;Hispanic Music;Latin American Music;Regional Music|Desaparecido",
+"Manu Chao|Desaparecido|1998|HQaPT58mh8k|Manu Chao|S7414|Latin Alternative;Hispanic Music;Latin American Music;Regional Music|Desaparecido",
 "Bee Gees|Nights on Broadway|1975|F2SDf42guB4|Bee Gees|S3204|Blue Eyed Soul;Disco;Dance;Pop|Nights on Broadway",
 "Sir Mix-A-Lot|Baby Got Back|1992|X53ZSxkQ3Ho|Sir Mix-a-Lot|S3812|Pop Rap;Hip Hop|Baby Got Back",
 "Loretta Lynn|Portland, Oregon|2004|11tjR5ZflSw|Loretta Lynn|S2458|Alt-Country;Country|Portland Oregon (song)",
