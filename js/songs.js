@@ -7651,7 +7651,7 @@ const songs = [
 "Tricky|Makes Me Wanna Die|1996|XyFIIUKAOE8|Tricky (musician)|S4235|Trip Hop;Downtempo;Electronic|",
 "Led Zeppelin|Nobody's Fault But Mine|1976|9_kqkZTZYrg|Led Zeppelin|S7212|Blues Rock;Hard Rock;Rock|It's Nobody's Fault but Mine",
 "The Coral|Pass It On|2003|17HzPpyKjfc|The Coral|S2263|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|Pass It On|",
-"Depeche Mode|Somebody|1984|kBP-EaXU1Vc|Depeche Mode|S15417|Art Pop;Singer/Songwriter;Synthpop;Electronic;Pop|",
+"Depeche Mode|Somebody|1984|jbaKcxTW7A8|Depeche Mode|S15417|Art Pop;Singer/Songwriter;Synthpop;Electronic;Pop|",
 "Next|Too Close|1997|kwEZRPkAAu8|Next (American band)|S7718|Contemporary R&B;R&B|Too Close (Next song)",
 "Stan Ridgway|Camouflage|1986|KoKbnUD6gMU|Stan Ridgway|S12293|Country Rock;Pop Rock;Pop;Rock|Camouflage (Stan Ridgway song)",
 "De La Soul|Stakes Is High|1996|83GJ_LeDAQA|De La Soul|S10543|Boom Bap;Conscious Hip Hop;East Coast Hip Hop;Hip Hop|",
