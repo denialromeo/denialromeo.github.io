@@ -9262,7 +9262,7 @@ const songs = [
 "Procol Harum|Homburg|1967|S-KWrD6p7lo|Procol Harum|S12997|Baroque Pop;Psychedelic Pop;Pop|",
 "Rihanna|Pon de Replay|2005|oEauWw9ZGrA|Rihanna|S15826|Contemporary R&B;Dance-Pop;Dancehall;Caribbean Music;Dance;Jamaican Music;Pop;R&B;Regional Music|Pon de Replay",
 "David Bowie|Jump, They Say|1993|xPZWgCLMsW8|David Bowie|S14281|Alternative Dance;Art Pop;Alternative Rock;Dance;Pop;Rock|Jump They Say",
-"Renaud|Laisse Béton|1977|DmGaP5i3OpI|Renaud|S12052|Chanson;Regional Music|Laisse béton",
+"Renaud|Laisse Béton|1977|6uvdSHkKj00|Renaud|S12052|Chanson;Regional Music|Laisse béton",
 "P!nk|Just Like a Pill|2001|JDKGWaCglRM|Pink (singer)|S11902|Pop Rock;Pop;Rock|Just Like a Pill",
 "Michael Coleman|The Boys of the Lough|1922|qMNOF3zXiLQ|Michael Coleman (Irish fiddler)|S15704|Irish Folk Music;Celtic Folk Music;European Folk Music;Folk;Regional Music;Traditional Folk Music|",
 "Michael Coleman|The Humours of Ennistymon|1922|T5wDWGn18P0|Michael Coleman (Irish fiddler)|S15705|Irish Folk Music;Celtic Folk Music;European Folk Music;Folk;Regional Music;Traditional Folk Music|National Recording Registry",
