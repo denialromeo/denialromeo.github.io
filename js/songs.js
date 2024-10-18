@@ -5684,7 +5684,7 @@ const songs = [
 "David Bowie|Diamond Dogs|1974|-olWhdDQEec|David Bowie|S5967|Glam Rock;Rock|Diamond Dogs (song)",
 "The Style Council|Walls Come Tumbling Down|1985|k5HfOipwvts|The Style Council|S8616|New Wave;Pop Soul;Pop;R&B;Rock;Soul|Walls Come Tumbling Down!",
 "Gang of Four|I Love a Man in Uniform|1982|_Pws_cquzns|Gang of Four (band)|S2902|New Wave;Post-Punk;Rock|I Love a Man in Uniform",
-"Joan Baez|Diamonds and Rust|1975|1ST9TZBb9v8|Joan Baez|S4422|Contemporary Folk;Singer/Songwriter;Folk|Diamonds & Rust (song)",
+"Joan Baez|Diamonds and Rust|1975|IrVD0bP_ybg|Joan Baez|S4422|Contemporary Folk;Singer/Songwriter;Folk|Diamonds & Rust (song)",
 "Buddy Knox|Party Doll|1956|NL7MJ-a2Kx4|Buddy Knox|S1256|Rockabilly;Rock;Rock & Roll|Party Doll",
 "Blink-182|Dammit|1997|sT0g16_LQaQ|Blink-182|S15309|Pop Punk;Skate Punk;Punk Rock;Rock|Dammit",
 "ABBA|Fernando|1976|dQsjAbZDx-4|ABBA|S5084|Europop;Pop|Fernando (song)",
