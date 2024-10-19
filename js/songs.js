@@ -5194,7 +5194,7 @@ const songs = [
 "Aretha Franklin|Angel|1973|hpf1iufWcNg|Aretha Franklin|S771|Southern Soul;R&B;Soul|Angel (Aretha Franklin song)",
 "Dick Annegarn|Bruxelles|1973|rYdk70VSfv8|Dick Annegarn|S6066|Chanson;Regional Music|",
 "The Rolling Stones|Heart of Stone|1965|iCabQ1aF8P0|The Rolling Stones|S3771|British Rhythm & Blues;R&B;Rhythm & Blues;Rock|Heart of Stone (Rolling Stones song)",
-"Mötley Crüe|Dr. Feelgood|1989|FgeqCZLI1ks|Mötley Crüe|S7654|Glam Metal;Hard Rock;Rock|Dr. Feelgood (Mötley Crüe song)",
+"Mötley Crüe|Dr. Feelgood|1989|trGX3ET3jTQ|Mötley Crüe|S7654|Glam Metal;Hard Rock;Rock|Dr. Feelgood (Mötley Crüe song)",
 "Lenny Kravitz|Always on the Run|1991|em8JuUW-OOE|Lenny Kravitz|S7230|Funk Rock;Rock|Always on the Run",
 "The The|Infected|1986|orIy18qIaCU|The The|S8729|Art Pop;Post-Punk;Pop;Rock|Infected (song)",
 "Flowered Up|Weekender|1992|Gn2GYzJjR2I|Flowered Up|S179|Alternative Dance;Baggy / Madchester;Alternative Rock;Dance;Rock|Weekender (Flowered Up song)",
