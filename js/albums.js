@@ -296,7 +296,7 @@ const albums = [
 "Tame Impala|Currents|2015|OLAK5uy_k7FTSn7ydw3cNY9X5w2UJYVO7fLXPDTik|A5545|Currents (Tame Impala album)|Kevin Parker (musician)|Neo-Psychedelia;Psychedelic Pop;Synthpop;Electronic;Pop;Psychedelic Rock;Rock",
 "Robyn|Body Talk|2010|OLAK5uy_nEjeAJ5kC_X4HbdzQ7YahrKL8N_0Z7jM0|A5094|Body Talk (Robyn album)|Robyn|Dance-Pop;Electropop;Dance;Electronic;Pop",
 "Ray Charles|Modern Sounds in Country and Western Music|1962|PLgWmP-F0RTPOl1OjguwDkKwjFFiMmQZs5|A11|Modern Sounds in Country and Western Music|Ray Charles|Country Soul;Rhythm & Blues;R&B;Soul",
-"OutKast|Speakerboxxx/The Love Below|2003|OLAK5uy_lbG-r-NvG-XOUSL7k0WeJ_ffPD_LZnLy4|A3946|Speakerboxxx/The Love Below|Outkast|Pop;Pop Rap;Hip Hop",
+"OutKast|Speakerboxxx/The Love Below|2003|OLAK5uy_m3lgBREvjnTGcUIPoD1e1Z1uCVwI5sjeo|A3946|Speakerboxxx/The Love Below|Outkast|Pop;Pop Rap;Hip Hop",
 "The Byrds|Mr. Tambourine Man|1965|OLAK5uy_melkN-nbM7MJAJZ0Z_4nQNR7Yio059Zwo|A37|Mr. Tambourine Man (album)|The Byrds|Folk Rock;Pop Rock;Pop;Rock",
 "Vampire Weekend|Vampire Weekend|2008|OLAK5uy_l9SXJaJlgF5zMKl1tnN-9jezdOOH6k60c|A4340|Vampire Weekend (album)|Vampire Weekend|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock",
 "Nick Drake|Pink Moon|1972|OLAK5uy_nfO2DnrgSkZSSuj1RowNNWlHsPBzWu2GY|A261|Pink Moon|Nick Drake|Contemporary Folk;Singer/Songwriter;Folk",
