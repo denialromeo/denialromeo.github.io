@@ -3101,7 +3101,7 @@ const songs = [
 "Minor Threat|Straight Edge|1981|gsAu-nOg3Tw|Minor Threat|S2354|Hardcore Punk;Punk Rock;Rock|",
 "David Bowie|Fashion|1980|F-z6u5hFgPk|David Bowie|S1852|Art Pop;New Wave;Pop;Rock|Fashion (David Bowie song)",
 "Michel Polnareff|Love Me, Please Love Me|1966|haHoDJfcOvI|Michel Polnareff|S4406|Chanson;French Pop;Pop;Regional Music|Love Me, Please Love Me (Michel Polnareff album)",
-"Solange feat. Sampha|Don't Touch My Hair|2016|2xdzeMGAl5s|Solange Knowles|S16191|Neo-Soul;R&B;Soul|",
+"Solange feat. Sampha|Don't Touch My Hair|2016|YTtrnDbOQAU|Solange Knowles|S16191|Neo-Soul;R&B;Soul|",
 "Plastilina Mosh|Mr. P Mosh|1998|2Qw9y06HSV4|Plastilina Mosh|S7978|Alternative Dance;Alternative Rock;Dance;Rock|",
 "Hole|Miss World|1994|mS1Ckczz0LQ|Hole (band)|S102|Grunge;Alternative Rock;Rock|Miss World (song)",
 "Caetano Veloso|Alegria, Alegria|1967|WL8l8olaMmI|Caetano Veloso|S5692|Psychedelic Pop;Tropicália;Brazilian Music;MPB;Pop;Regional Music|Alegria, Alegria",
