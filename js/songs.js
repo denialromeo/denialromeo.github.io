@@ -8303,7 +8303,7 @@ const songs = [
 "Claude Nougaro|Le Jazz et la java|1961|zmRgXOw1o3A|Claude Nougaro|S10427|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "Prince and the Revolution|The Beautiful Ones|1984|Ti0JAumfDME|Prince (musician)|S11951|Contemporary R&B;Film Soundtrack;Smooth Soul;Descriptor;R&B;Soul;Soundtracks|",
 "Fanny Brice|Second Hand Rose|1922|mxEwMcJ8GXc|Fanny Brice|S6349|Revue;Musical Theatre and Entertainment|Second Hand Rose (song)",
-"Lightnin' Rod|Sport|1973|DRfDZSAvEwA|Jalal Mansur Nuriddin|S11434|Funk;R&B|",
+"Lightnin' Rod|Sport|1973|uK9oSK4yeic|Jalal Mansur Nuriddin|S11434|Funk;R&B|",
 "Johnny Hallyday|Quelque chose de Tennessee|1985|LknViKjrs0w|Johnny Hallyday|S11243|French Pop;Pop|Quelque chose de Tennessee",
 "The Ink Spots|Don't Get Around Much Anymore|1943|dDmH7luDCC8|The Ink Spots|S6784|Vocal Group;Descriptor|Don't Get Around Much Anymore",
 "Shirley Ellis|The Clapping Song|1965|JLhx5_-NyC4|Shirley Ellis|S8399|Pop Soul;Pop;R&B;Soul|The Clapping Song",
