@@ -1974,7 +1974,7 @@ const songs = [
 "Rod Stewart|Tonight's the Night (Gonna Be Alright)|1976|IZr6AE-u2UM|Rod Stewart|S672|Soft Rock;Pop;Pop Rock;Rock|Tonight's the Night (Gonna Be Alright)",
 "The Beatles|She Said She Said|1966|rLzfo59AdEc|The Beatles|S2508|Pop Rock;Psychedelic Rock;Pop;Rock|She Said She Said",
 "The Strokes|12:51|2003|LPAVDHo1Elc|The Strokes|S2248|Garage Rock Revival;Post-Punk Revival;Alternative Rock;Garage Rock;Indie Rock;Post-Punk;Rock|12:51 (The Strokes song)",
-"Huey \"Piano\" Smith & The Clowns|Rockin' Pneumonia & the Boogie Woogie Flu|1957|03o-6To7xMQ|Huey \"Piano\" Smith|S1248|New Orleans R&B;R&B|",
+"Huey \"Piano\" Smith & The Clowns|Rockin' Pneumonia & the Boogie Woogie Flu|1957|-WWlwgoAxPE|Huey \"Piano\" Smith|S1248|New Orleans R&B;R&B|",
 "Bob Dylan|Idiot Wind|1975|eBLViMLws10|Bob Dylan|S2994|Folk Rock;Singer/Songwriter;Rock|Idiot Wind",
 "The Clash|The Guns of Brixton|1979|gVVqUuNG1ZI|The Clash|S4558|Post-Punk;Reggae;Caribbean Music;Jamaican Music;Regional Music;Rock|The Guns of Brixton",
 "Phil Phillips with The Twilights|Sea of Love|1959|lrkNRcyvtF4|Phil Phillips|S1190|Doo-Wop;Descriptor;R&B;Vocal Group|Sea of Love (Phil Phillips song)",
