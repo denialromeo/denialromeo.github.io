@@ -2863,7 +2863,7 @@ const songs = [
 "The Coral|Dreaming of You|2002|eRC1qhW1Rbo|The Coral|S1524|Indie Pop;Mod Revival;Mod;Pop;Rock|Dreaming of You (The Coral song)",
 "Fred Astaire|Fascinating Rhythm|1926|Cl8RbunMivw|Fred Astaire|S6474|Show Tunes;Traditional Pop;Descriptor;Musical Theatre and Entertainment;Pop;Soundtracks|Fascinating Rhythm",
 "The Pogues|A Pair of Brown Eyes|1985|zNtQ5AnRlz8|The Pogues|S412|Celtic Rock;Folk Rock;Rock|",
-"Cults|Go Outside|2010|vWnGQPOQLhw|Cults (band)|S4952|Twee Pop;Indie Pop;Pop|",
+"Cults|Go Outside|2010|eAM9diyVRiM|Cults (band)|S4952|Twee Pop;Indie Pop;Pop|",
 "Beck|Lost Cause|2002|qkNa5xzOe5U|Beck|S4609|Folk Pop;Indie Folk;Singer/Songwriter;Contemporary Folk;Folk;Pop|Lost Cause (Beck song)",
 "The Rolling Stones|Memory Motel|1976|MdpeyQkOK6g|The Rolling Stones|S8232|Blues Rock;Rock|Memory Motel",
 "Bob Seger & The Silver Bullet Band|Turn the Page|1977|3khH9ih2XJg|Bob Seger|S10258|Heartland Rock;Rock|Turn the Page (Bob Seger song)",
