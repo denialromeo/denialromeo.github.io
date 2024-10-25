@@ -5306,7 +5306,7 @@ const songs = [
 "Stevie Wonder|I Just Called to Say I Love You|1984|djHiBp5oRnY|Stevie Wonder|S8584|Film Soundtrack;Pop Soul;Descriptor;Pop;R&B;Soul;Soundtracks|I Just Called to Say I Love You",
 "Mano Negra|Pas assez de toi|1989|eSxoxqDB0OI|Mano Negra (band)|S7406|Folk Punk;Pop Rock;Pop;Punk Rock;Rock|",
 "Blondie|X-Offender|1976|PjvpLiS2gKA|Debbie Harry|S4181|New Wave;Rock|",
-"The Beloved|The Sun Rising|1989|PMGzY6usdpQ|The Beloved (band)|S267|House;Synthpop;Dance;Electronic;Electronic Dance Music;Pop|The Sun Rising (song)",
+"The Beloved|The Sun Rising|1989|HNMNUMS-Q5c|The Beloved (band)|S267|House;Synthpop;Dance;Electronic;Electronic Dance Music;Pop|The Sun Rising (song)",
 "The Morning Benders|Excuses|2010|7jgmgE-QDzA|Pop Etc|S4929|Indie Pop;Psychedelic Pop;Pop|",
 "Duran Duran|A View to a Kill|1985|a3pQDMi4W-g?start=78|Duran Duran|S6175|Film Soundtrack;Synthpop;Descriptor;Electronic;Pop;Soundtracks|",
 "The Pogues|Sally MacLennane|1985|sh5gtGk9XZ8|The Pogues|S7981|Celtic Punk;Celtic Rock;Folk Punk;Folk Rock;Punk Rock;Rock|Sally MacLennane",
