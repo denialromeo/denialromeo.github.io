@@ -8693,7 +8693,7 @@ const songs = [
 "Judas Priest|The Ripper|1976|lriWlHZAy8A|Judas Priest|S13847|Hard Rock;Heavy Metal;Metal;Rock|Tim \"Ripper\" Owens",
 "Cowboy Junkies|Sweet Jane|1988|Fa9nN3G2CSg|Cowboy Junkies|S5877|Dream Pop;Slowcore;Alternative Rock;Indie Rock;Rock|Sweet Jane",
 "Jimmy Eat World|Sweetness|2001|ROatPGGMvXg|Jimmy Eat World|S11210|Emo-Pop;Alternative Rock;Emo;Rock|Sweetness (Jimmy Eat World song)",
-"Chabuca Granda|La flor de la canela|1953|h8T-MbBEpUI|Chabuca Granda|S13086|Música Criolla Peruana;Folk;Hispanic Music;Latin American Music;Regional Music;South American Folk Music;Traditional Folk Music|",
+"Chabuca Granda|La flor de la canela|1953|h8T-MbBEpUI|Chabuca Granda|S13086|Música Criolla Peruana;Folk;Hispanic Music;Latin American Music;Regional Music;South American Folk Music;Traditional Folk Music|La flor de la canela",
 "DJ Rashad|Let It Go|2013|qPecFEVst_c|DJ Rashad|S9438|Footwork;Dance;Electronic;Electronic Dance Music;Ghetto House;House;Juke|",
 "Elvis Presley|Milkcow Blues Boogie|1955|k7dboPDLLNs|Elvis Presley|S3724|Rockabilly;Rock;Rock & Roll|https://en.wikipedia.org/wiki/Milk_Cow_Blues#Elvis_Presley_version",
 "Tiga|Sunglasses at Night|2001|2kE8565_xrc?start=2|Tiga (musician)|S8756|Electroclash;Techno;Dance;Electronic;Electronic Dance Music|",
