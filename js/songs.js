@@ -9207,7 +9207,7 @@ const songs = [
 "Disclosure|F for You|2013|amM0Upg_FUU|Disclosure (band)|S9671|Deep House;Future House;UK Garage;Dance;Electronic;Electronic Dance Music;House|F for You",
 "Tal Bachman|She's So High|1999|_ElORM9O-0U|Tal Bachman|S12394|Power Pop;Pop;Pop Rock;Rock|She's So High",
 "Steve Goodman|City of New Orleans|1971|2SfPyg-mGhU|Steve Goodman|S8571|Contemporary Folk;Country;Singer/Songwriter;Folk|City of New Orleans (song)",
-"Gid Tanner & His Skillet Lickers|Soldier's Joy|1929|4RCCvvK80c8|Gid Tanner|S9230|Old-Time;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|",
+"Gid Tanner & His Skillet Lickers|Soldier's Joy|1929|-hZqTL3NqnI|Gid Tanner|S9230|Old-Time;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|",
 "The Verve|On Your Own|1995|KxBJJIeIJ3g?start=5|The Verve|S12572|Britpop;Alternative Rock;Pop;Pop Rock;Rock|On Your Own (The Verve song)",
 "British Sea Power|Waving Flags|2008|w2n-7K0Ef6Y|British Sea Power|S5623|Indie Rock;Alternative Rock;Rock|",
 "Mel and Tim|Backfield in Motion|1969|X4qJYUHLtuU|Mel and Tim|S7506|Soul;R&B|",
