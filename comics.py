@@ -3,9 +3,9 @@ import os
 
 from PIL import Image
 
-DIR = 'assets/img/comics/web'
-TITLE = 'I Have No Mouth And I Must Scream'
-AUTHOR = 'Harlan Ellison'
+DIR = 'assets/img/comics/here'
+TITLE = 'Here'
+AUTHOR = 'Richard McGuire'
 
 def get_dim(img):
     im = Image.open(img);
