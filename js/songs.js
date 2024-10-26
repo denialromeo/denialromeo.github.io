@@ -957,7 +957,7 @@ const songs = [
 "Bruce Springsteen|Rosalita (Come Out Tonight)|1973|WZQrCLPf5kc|Bruce Springsteen|S3847|Heartland Rock;Singer/Songwriter;Rock|Rosalita (Come Out Tonight)",
 "TV on the Radio|Staring at the Sun|2003|oHrTOQ18yzU|TV on the Radio|S2480|Art Rock;Indie Rock;Indietronica;Alternative Rock;Electronic;Rock|",
 "Naughty by Nature|O.P.P.|1991|idx3GSL2KWs|Naughty by Nature|S188|East Coast Hip Hop;Hip Hop|O.P.P. (song)",
-"Eddie Cochran|C'mon Everybody|1958|DCkkv89fHy0|Eddie Cochran|S1218|Rock & Roll;Rock|C'mon Everybody",
+"Eddie Cochran|C'mon Everybody|1958|hw8MXhFupno|Eddie Cochran|S1218|Rock & Roll;Rock|C'mon Everybody",
 "Yeah Yeah Yeahs|Zero|2009|pmGNo8RL5kM|Yeah Yeah Yeahs|S4832|Alternative Dance;Electropop;Alternative Rock;Dance;Electronic;Pop;Rock|",
 "Little Willie John|Fever|1956|szz27BuDgeU|Little Willie John|S1272|Rhythm & Blues;R&B|Fever (Little Willie John song)",
 "Nick Cave|Into My Arms|1997|LnHoqHscTKE|Nick Cave|S28|Singer/Songwriter|Into My Arms",
