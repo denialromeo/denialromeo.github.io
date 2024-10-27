@@ -3749,7 +3749,7 @@ const songs = [
 "Courtney Barnett|Depreston|2015|1NVOawOXxSA|Courtney Barnett|S9729|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk|",
 "Bread|Everything I Own|1972|_21cZe2eO_I|Bread (band)|S2859|Soft Rock;Pop;Pop Rock;Rock|Everything I Own",
 "Jay-Z|Otis|2011|BoEKWtgJQAU|Jay-Z|S4968|Hip Hop|Otis (song)",
-"Charli XCX|Boom Clap|2014|cmoYOtDbgb8|Charli XCX|S9576|Electropop;Synthpop;Electronic;Pop|Boom Clap",
+"Charli XCX|Boom Clap|2014|AOPMlIIg_38|Charli XCX|S9576|Electropop;Synthpop;Electronic;Pop|Boom Clap",
 "Wiley|Wearing My Rolex|2008|Bxjdg_D5YQY|Wiley (musician)|S4763|Hip House;Pop Rap;UK Hip Hop;Dance;Electronic;Electronic Dance Music;Hip Hop;House|Wearing My Rolex",
 "Edgar Winter Group|Frankenstein|1972|KzCn8rQvyOo|Edgar Winter|S1753|Hard Rock;Progressive Rock;Psychedelic Rock;Rock|Frankenstein (instrumental)",
 "The Flaming Lips|Yoshimi Battles the Pink Robots (Pt. 1)|2002|ZdDHi5SSIlM|The Flaming Lips|S4620|Indie Pop;Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|",
