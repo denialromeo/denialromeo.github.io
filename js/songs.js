@@ -4984,7 +4984,7 @@ const songs = [
 "The Cure|Let's Go to Bed|1982|sbQlHbajMvc|The Cure|S3313|New Wave;Synthpop;Electronic;Pop;Rock|Let's Go to Bed (The Cure song)",
 "Kraftwerk|The Man Machine|1978|zHIsGqJaXXw|Kraftwerk|S7147|Minimal Synth;Electronic;Minimal Wave|",
 "Bruce Springsteen|Tunnel of Love|1987|M4K7XZGeHTE|Bruce Springsteen|S349|Pop Rock;Pop;Rock|Tunnel of Love (Bruce Springsteen song)",
-"Ella Fitzgerald|Let's Do It (Let's Fall in Love)|1956|lXYKGL6MgKM|Ella Fitzgerald|S2783|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop|Let's Do It, Let's Fall in Love",
+"Ella Fitzgerald|Let's Do It (Let's Fall in Love)|1956|NxZ2dCVaur0|Ella Fitzgerald|S2783|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop|Let's Do It, Let's Fall in Love",
 "Rachel Stevens|Some Girls|2004|ft_kFZUxYgA|Rachel Stevens|S8066|Electropop;Synthpop;Electronic;Pop|Some Girls (Rachel Stevens song)",
 "Lee Dorsey|Get Out of My Life, Woman|1966|uxp0Kfgpft8|Lee Dorsey|S2276|New Orleans R&B;Rhythm & Blues;R&B|Get Out of My Life, Woman",
 "Tiffany|I Think We're Alone Now|1987|w6Q3mHyzn78|Tiffany Darwish|S12432|Teen Pop;Pop|I Think We're Alone Now",
