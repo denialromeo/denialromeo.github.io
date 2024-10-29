@@ -936,7 +936,7 @@ const songs = [
 "The Carter Family|Wildwood Flower|1929|ewnfWoSQz3o|Carter Family|S2660|Appalachian Folk Music;Traditional Country;American Folk Music;Country;Folk;Regional Music;Traditional Folk Music|Wildwood Flower",
 "Elvis Presley|Love Me Tender|1956|OQWeT46ugEk|Elvis Presley|S1613|Pop|Love Me Tender (song)",
 "Dion|A Teenager in Love|1959|2pwgswchPDo?start=34|Dion and the Belmonts|S1183|Brill Building;Doo-Wop;Descriptor;Pop;R&B;Vocal Group|A Teenager in Love",
-"Carpenters|Superstar|1971|JhWrggrJ20I|The Carpenters|S832|Baroque Pop;Pop|Superstar (Delaney and Bonnie song)",
+"Carpenters|Superstar|1971|SJmmaIGiGBg|The Carpenters|S832|Baroque Pop;Pop|Superstar (Delaney and Bonnie song)",
 "Elliott Smith|Waltz #2|1998|RWn9ocrMhlE|Elliott Smith|S3821|Indie Pop;Singer/Songwriter;Pop|Waltz 2 (XO)",
 "Muddy Waters|Rollin' Stone|1950|bnsw4sySaxw|Muddy Waters|S1322|Electric Blues;Blues|Rollin' Stone (Muddy Waters song)",
 "Sam Cooke|Wonderful World|1960|R4GLAKEjU4w|Sam Cooke|S1151|Pop Soul;Pop;R&B;Soul|Wonderful World (Sam Cooke song)",
