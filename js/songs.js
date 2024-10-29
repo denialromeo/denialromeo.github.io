@@ -1468,7 +1468,7 @@ const songs = [
 "Bix Beiderbecke|In a Mist|1927|hP5Zd4p87Jk|Bix Beiderbecke|S2649|Dixieland;Jazz|In a Mist",
 "LL Cool J|Mama Said Knock You Out|1990|vimZj8HW0Kg|LL Cool J|S2026|Boom Bap;East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|Mama Said Knock You Out (song)",
 "Run the Jewels|Close Your Eyes (And Count to Fuck)|2014|sMMB7dWdS7s|Run the Jewels|S9562|Hardcore Hip Hop;Hip Hop|Close Your Eyes (And Count to Fuck)",
-"Burning Spear|Marcus Garvey|1975|AHbvg8xhJkk|Burning Spear|S5680|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
+"Burning Spear|Marcus Garvey|1975|FROI6bS5Nvg|Burning Spear|S5680|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
 "Sigur Rós|Svefn-G-Englar|1999|8L64BcCRDAE|Sigur Rós|S2175|Dream Pop;Post-Rock;Alternative Rock;Rock|Svefn-g-englar",
 "Faith No More|Epic|1989|ZG_k5CSYKhg|Faith No More|S215|Rap Metal;Alternative Metal;Metal;Rock|Epic (Faith No More song)",
 "SZA feat. Travis Scott|Love Galore|2017|hHXfCOjb3fk|SZA (singer)|S16492|Alternative R&B;Contemporary R&B;R&B|Love Galore",
