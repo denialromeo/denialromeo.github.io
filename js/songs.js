@@ -2352,7 +2352,7 @@ const songs = [
 "Glen Campbell|Galveston|1969|N2tgVAML2gE|Glen Campbell|S1712|Nashville Sound;Country;Country Pop;Pop|Galveston (song)",
 "Arctic Monkeys|Cornerstone|2009|LIQz6zZi7R0|Arctic Monkeys|S4786|Indie Pop;Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|Cornerstone (song)",
 "Ash|Girl from Mars|1995|FkSl9GGOFHM|Ash (band)|S88|Britpop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|Girl from Mars",
-"Animal Collective|Fireworks|2007|CazApTMOrUA|Animal Collective|S4344|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|",
+"Animal Collective|Fireworks|2007|ztvr09J7KK4|Animal Collective|S4344|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|",
 "Bee Gees|Night Fever|1977|-ihs-vT9T3Q|Bee Gees|S1534|Disco;Film Soundtrack;Dance;Descriptor;Soundtracks|Night Fever",
 "The Chemical Brothers|Galvanize|2005|Xu3FTEmN-eg|The Chemical Brothers|S3033|Big Beat;Breakbeat;Dance;Electronic;Electronic Dance Music|Galvanize (song)",
 "Lindstrøm|I Feel Space|2005|i7_edU9T2Ho|Hans-Peter Lindstrøm|S3018|Nu-Disco;Space Disco;Dance;Disco;Electro-Disco;Electronic;Electronic Dance Music;House|",
