@@ -9955,7 +9955,7 @@ const songs = [
 "Adam Faith|What Do You Want?|1959|bwUMjwMppWE|Adam Faith|S5098|Teen Pop;Pop|What Do You Want%3F (Adam Faith song)",
 "Thelonious Monk|Thelonious|1948|5ALsycHB9nQ|Thelonious Monk|S13643|Bebop;Jazz|",
 "Nick Drake|Time of No Reply|1987|QN-glpHDFNA|Nick Drake|S13908|Contemporary Folk;Singer/Songwriter;Folk|Time of No Reply",
-"Jack White|Another Way to Die|2008|nfWthD9X_VQ|Jack White|S6821|Alternative Rock;Film Soundtrack;Descriptor;Rock;Soundtracks|Another Way to Die",
+"Jack White|Another Way to Die|2008|hM5UJvnbbuY|Jack White|S6821|Alternative Rock;Film Soundtrack;Descriptor;Rock;Soundtracks|Another Way to Die",
 "Fall Out Boy|This Ain't a Scene, It's an Arms Race|2007|GNm5drtAQXs|Fall Out Boy|S6347|Pop Punk;Pop Rock;Pop;Punk Rock;Rock|This Ain't a Scene, It's an Arms Race",
 "Zucchero Fornaciari|Dune mosse|1987|A60xWr-nqv0|Zucchero Fornaciari|S13650|Pop Rock;Pop;Rock|",
 "Elli & Jacno|Main dans la main|1980|qmauk3Ev7TQ?start=3|Elli et Jacno|S6234|French Pop;Synthpop;Electronic;Pop|",
