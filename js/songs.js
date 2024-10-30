@@ -2867,7 +2867,7 @@ const songs = [
 "Beck|Lost Cause|2002|qkNa5xzOe5U|Beck|S4609|Folk Pop;Indie Folk;Singer/Songwriter;Contemporary Folk;Folk;Pop|Lost Cause (Beck song)",
 "The Rolling Stones|Memory Motel|1976|MdpeyQkOK6g|The Rolling Stones|S8232|Blues Rock;Rock|Memory Motel",
 "Bob Seger & The Silver Bullet Band|Turn the Page|1977|3khH9ih2XJg|Bob Seger|S10258|Heartland Rock;Rock|Turn the Page (Bob Seger song)",
-"Shocking Blue|Venus|1969|aPEhQugz-Ew|Shocking Blue|S8401|Nederbeat;Psychedelic Pop;Beat Music;Pop;Pop Rock;Rock|Venus (Shocking Blue song)",
+"Shocking Blue|Venus|1969|8LhkyyCvUHk|Shocking Blue|S8401|Nederbeat;Psychedelic Pop;Beat Music;Pop;Pop Rock;Rock|Venus (Shocking Blue song)",
 "Talk Talk|Life's What You Make It|1986|l3VqAsMXE7o|Talk Talk|S1941|Art Pop;New Wave;Pop;Rock|Life's What You Make It (Talk Talk song)",
 "Horace Andy|Skylarking|1972|PMPxPIbM49U|Horace Andy|S6733|Dub;Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
 "tUnE-yArDs|Bizness|2011|YQ1LI-NTa2s|Tune-Yards|S4992|Art Pop;Indie Pop;Pop|",
