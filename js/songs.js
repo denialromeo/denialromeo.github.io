@@ -10462,7 +10462,7 @@ const songs = [
 "They Might Be Giants|Ana Ng|1988|MEjutUbgpH8|They Might Be Giants|S2007|Alternative Rock;Indie Pop;Pop;Rock|Ana Ng",
 "Joker|Digidesign|2009|zeLR1VDotQI|Joker (musician)|S4807|Purple Sound;Dance;Dubstep;Electronic;Electronic Dance Music|",
 "Timbaland|Give It to Me|2007|JWGuA-pKP1w|Timbaland|S4337|Dance-Pop;Electropop;Dance;Electronic;Pop|Give It to Me (Timbaland song)",
-"Georges Brassens|Mourir pour des idées|1972|iZpNgSaYWts|Georges Brassens|S10926|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
+"Georges Brassens|Mourir pour des idées|1972|A2n5_q0121E|Georges Brassens|S10926|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "Carla Thomas|B-A-B-Y|1966|1kWtASOC0Sc|Carla Thomas|S5717|Southern Soul;R&B;Soul|B-A-B-Y",
 "Fleet Foxes|The Shrine / An Argument|2011|9yAxIdkF2Qo|Fleet Foxes|S6388|Chamber Folk;Indie Folk;Progressive Folk;Contemporary Folk;Folk|",
 "Vanity Fare|Hitchin' a Ride|1969|88EykxITki8|Vanity Fare|S8930|Bubblegum;Pop Rock;Pop;Rock|Hitchin' a Ride (Vanity Fare song)",
