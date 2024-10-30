@@ -7801,7 +7801,7 @@ const songs = [
 "Death in Vegas|Hands Around My Throat|2002|R8yrXn60aGY|Death in Vegas|S6005|Alternative Dance;Electroclash;Post-Punk Revival;Alternative Rock;Dance;Electronic;Electronic Dance Music;Indie Rock;Post-Punk;Rock|",
 "The Osmonds|One Bad Apple (Don't Spoil the Whole Bunch)|1970|L4CcgblWC8k|The Osmonds|S11812|Bubblegum;Teen Pop;Pop|Bad apples",
 "David Bowie|Loving the Alien|1984|ns2hmyP0mGY|David Bowie|S14282|Pop Reggae;Progressive Pop;Sophisti-Pop;Caribbean Music;Jamaican Music;Pop;Reggae;Regional Music|Loving the Alien",
-"Robbie Fulks|Let's Kill Saturday Night|1998|3pHFZoVuG7M?start=13|Robbie Fulks|S4237|Alt-Country;Country Rock;Singer/Songwriter;Country;Rock|",
+"Robbie Fulks|Let's Kill Saturday Night|1998|fsklQ0GpqGo|Robbie Fulks|S4237|Alt-Country;Country Rock;Singer/Songwriter;Country;Rock|",
 "Jan Delay|Klar|2006|3JG6yipKXVA|Jan Delay|S6859|Funk;Pop;R&B|",
 "Irene Cara|Fame|1980|o2jh7N7Fldk|Irene Cara|S6798|Dance-Pop;Disco;Film Soundtrack;Dance;Descriptor;Pop;Soundtracks|Fame (Irene Cara song)",
 "The Fabulous Wailers|Tall Cool One|1959|5AH7cS2KZS8|The Fabulous Wailers|S8906|Rock & Roll;Rock|Tall Cool One (The Fabulous Wailers song)",
