@@ -2741,7 +2741,7 @@ const albums = [
 "Billy Joel|52nd Street|1978|OLAK5uy_lGD1T6895hdOE_rzXVvvKeb1bFUdOyBhM|A2738|52nd Street (album)|Billy Joel|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock",
 "Public Image Ltd.|Album|1986|OLAK5uy_n06t0-g0p1Dhpv9Ygy8MYfy0-btsjR7mg|A3127|Album (Public Image Ltd album)|Public Image Ltd|Alternative Rock;Post-Punk;Rock",
 "!!!|Louden Up Now|2004|OLAK5uy_nB4b4XnKh7ylZwd1wkuaJRYL_zX9hoIJU|A4094|Louden Up Now|!!!|Dance-Punk;Indie Rock;Alternative Rock;Post-Punk;Rock",
-"Andrew Bird|Armchair Apocrypha|2007|OLAK5uy_lmJ1X6K2pt6H32xlDlF_FW64O7LdlH3Uo|A4277|Armchair Apocrypha|Andrew Bird|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop",
+"Andrew Bird|Armchair Apocrypha|2007|OLAK5uy_kMiSGeNEJr_iuQEDbuTgWygHqw-qXW6q0|A4277|Armchair Apocrypha|Andrew Bird|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop",
 "Chris Isaak|Silvertone|1985|OLAK5uy_nVrMdSITd5JvksUmxsJpTpKVrbssyu7oo|A4710|Silvertone (album)|Chris Isaak|Pop Rock;Pop;Rock",
 "Mahmoud Ahmed|Eré Méla Méla/Ethiopiques 7|1975|OLAK5uy_mmJt1U1EItVgLiwFZTXFfKvifS6FC9oGE|A4562|Éthiopiques|Mahmoud Ahmed|Ethio-Jazz;Tizita;African Music;Jazz;Regional Music",
 "Robert Fripp|Exposure|1979|OLAK5uy_mjeCXj438PGiKq2Hcd3_WUPMMOGlCwZi8|A479|Exposure (Robert Fripp album)|Robert Fripp|Art Rock;Experimental Rock;Rock",
