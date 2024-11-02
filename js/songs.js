@@ -984,7 +984,7 @@ const songs = [
 "ABBA|The Winner Takes It All|1980|iyIOl-s7JTU|ABBA|S554|Europop;Pop|The Winner Takes It All",
 "The Supremes|Baby Love|1964|9_y6nFjoVp4|Diana Ross|S1034|Girl Group;Motown Sound;Pop;Pop Soul;R&B;Soul|Baby Love",
 "Yardbirds|For Your Love|1965|HU5zqidlxMQ|The Yardbirds|S1541|Beat Music;British Rhythm & Blues;Mod;Pop;Pop Rock;R&B;Rhythm & Blues;Rock|For Your Love",
-"Faces|Stay with Me|1971|JtqF0qBqzZo|Faces (band)|S1740|Blues Rock;Rock|Stay with Me (Faces song)",
+"Faces|Stay with Me|1971|Xwyyrq8Jb_U|Faces (band)|S1740|Blues Rock;Rock|Stay with Me (Faces song)",
 "Al Green|Take Me to the River|1974|9FBUgdhxe9M|Al Green|S2584|Southern Soul;R&B;Soul|Take Me to the River",
 "The Beatles|Please Please Me|1963|czw8eqepir8|The Beatles|S1065|Merseybeat;Beat Music;Pop;Pop Rock;Rock|Please Please Me (song)",
 "Blind Willie Johnson|Dark Was the Night, Cold Was the Ground|1927|BNj2BXW852g|Blind Willie Johnson|S2704|Acoustic Texas Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|Dark Was the Night, Cold Was the Ground",
