@@ -2946,7 +2946,7 @@ const songs = [
 "Bing Crosby|Pennies from Heaven|1936|XXpUoL52a1w|Bing Crosby|S2666|Standards;Pop;Traditional Pop|Pennies from Heaven (song)",
 "The O'Jays|For the Love of Money|1973|Z5QLbnfFWg0|The O'Jays|S1757|Funk;Philly Soul;R&B;Soul|",
 "Alice Cooper|No More Mr. Nice Guy|1973|PE1vGT-hlLI|Alice Cooper|S5158|Glam Rock;Hard Rock;Rock|No More Mr. Nice Guy (song)",
-"Big Star|The Ballad of El Goodo|1972|Cn1t6l7UUPc|Big Star|S5437|Power Pop;Pop;Pop Rock;Rock|",
+"Big Star|The Ballad of El Goodo|1972|tIqLdR0-EXA|Big Star|S5437|Power Pop;Pop;Pop Rock;Rock|",
 "Tears for Fears|Head Over Heels|1985|CsHiG-43Fzg|Tears for Fears|S4470|Pop Rock;Synthpop;Electronic;Pop;Rock|Head over Heels (Tears for Fears song)",
 "Grateful Dead|Touch of Grey|1987|mzvk0fWtCs0|Grateful Dead|S1959|Pop Rock;Roots Rock;Pop;Rock|Touch of Grey",
 "Rose Royce|Car Wash|1976|PkxaunLybuM|Rose Royce|S3786|Disco;Film Soundtrack;Funk;Dance;Descriptor;R&B;Soundtracks|Car Wash (song)",
