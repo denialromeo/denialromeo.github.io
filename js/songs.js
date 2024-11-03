@@ -6679,7 +6679,7 @@ const songs = [
 "Toots and the Maytals|Sweet and Dandy|1969|RvXAn8Tuz4k|Toots and the Maytals|S8819|Reggae;Caribbean Music;Jamaican Music;Regional Music|",
 "The Four Aces|Love Is a Many-Splendored Thing|1955|1cdqcvUjYh0|The Four Aces|S6423|Traditional Pop;Vocal Group;Descriptor;Pop|Love Is a Many-Splendored Thing (song)",
 "Yuck|Get Away|2011|Kz7vyrFhFE8|Yuck (band)|S9104|Indie Rock;Noise Pop;Alternative Rock;Rock|",
-"The Byrds|Wasn't Born to Follow|1968|3hEfcawx6Fc|The Byrds|S13281|Country Rock;Folk Rock;Rock|Wasn't Born to Follow",
+"The Byrds|Wasn't Born to Follow|1968|PrU9iI2VxPE|The Byrds|S13281|Country Rock;Folk Rock;Rock|Wasn't Born to Follow",
 "Francis Cabrel|La Corrida|1994|IQ8OmLVn-f8|Francis Cabrel|S6434|Chanson;Contemporary Folk;French Pop;Folk;Pop;Regional Music|",
 "Sonic Youth|Superstar|1994|foWR7vwfJWM|Sonic Youth|S8493|Alternative Rock;Rock|Superstar (Delaney and Bonnie song)",
 "Metallica|Creeping Death|1984|B4kac2Y1Pu8|Metallica|S11602|Thrash Metal;Metal;Rock|Creeping Death",
