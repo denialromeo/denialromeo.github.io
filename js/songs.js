@@ -5379,7 +5379,7 @@ const songs = [
 "Funkadelic/Parliament|(Not Just) Knee Deep|1979|av2vgiYAlXY|Funkadelic|S3429|P-Funk;Synth Funk;Funk;R&B|",
 "Adam and the Ants|Antmusic|1980|Rm9drIwmmU4|Adam and the Ants|S5095|New Wave;Rock|Antmusic",
 "Major Lazer|Hold the Line|2009|OeYN_hyR9YI|Major Lazer|S7387|Ragga;Caribbean Music;Dancehall;Jamaican Music;Regional Music|",
-"The Boo Radleys|Lazarus|1992|MdumlGTe7og|The Boo Radleys|S5592|Indie Rock;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock|",
+"The Boo Radleys|Lazarus|1992|7tiAktyaYoI|The Boo Radleys|S5592|Indie Rock;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock|",
 "Caifanes|Afuera|1994|gBt1jOtKz6Y|Caifanes|S10339|Alternative Rock;Latin Rock;Hispanic Music;Latin American Music;Regional Music;Rock|",
 "Aretha Franklin|Baby I Love You|1967|KvHBEQsHFAA|Aretha Franklin|S3425|Pop Soul;Pop;R&B;Soul|Baby I Love You (Aretha Franklin song)",
 "Earth, Wind & Fire|Let's Groove|1981|Lrle0x_DHBM|Earth, Wind & Fire|S3383|Disco;Synth Funk;Dance;Funk;R&B|Let's Groove",
