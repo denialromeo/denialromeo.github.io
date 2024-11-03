@@ -318,7 +318,7 @@ const songs = [
 "Jackie Wilson|(Your Love Keeps Lifting Me) Higher and Higher|1967|k1odvp-_bhk?start=7|Jackie Wilson|S943|Chicago Soul;Northern Soul;Pop Soul;Pop;R&B;Soul|(Your Love Keeps Lifting Me) Higher and Higher",
 "Arcade Fire|Wake Up|2004|z6c9Ejfu-iU|Arcade Fire|S4628|Chamber Pop;Indie Rock;Alternative Rock;Baroque Pop;Indie Pop;Pop;Rock|Wake Up (Arcade Fire song)",
 "Link Wray|Rumble|1958|IVKtbMnsJow|Link Wray|S1217|Rock & Roll;Surf Rock;Rock;Surf Music|",
-"Spencer Davis Group|Gimme Some Lovin'|1966|ko3m0NBbq1o|The Spencer Davis Group|S972|British Rhythm & Blues;R&B;Rhythm & Blues;Rock|Gimme Some Lovin'",
+"Spencer Davis Group|Gimme Some Lovin'|1966|W_ykpby0yag|The Spencer Davis Group|S972|British Rhythm & Blues;R&B;Rhythm & Blues;Rock|Gimme Some Lovin'",
 "Patti Smith|Gloria|1975|bPO0bTaWcFQ|Patti Smith|S679|Garage Rock;Proto-Punk;Rock|",
 "AC/DC|Back in Black|1980|pAgnJDJN4VA|AC/DC|S528|Hard Rock;Rock|Back in Black (song)",
 "The Rolling Stones|Tumbling Dice|1972|XAWjSTwvroY|The Rolling Stones|S787|Blues Rock;Rock|Tumbling Dice",
