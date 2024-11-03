@@ -4848,7 +4848,7 @@ const songs = [
 "Focus|Hocus Pocus|1971|GyxSvZOby54|Focus (band)|S6416|Hard Rock;Progressive Rock;Rock|Hocus Pocus (song)",
 "Mission of Burma|Academy Fight Song|1980|gbBBl9jjW0U|Mission of Burma|S7571|Post-Punk;Rock|Academy Fight Song",
 "Echo and the Bunnymen|Bring On the Dancing Horses|1985|V_bJf3foa5I|Echo & the Bunnymen|S1937|Alternative Rock;Neo-Psychedelia;Psychedelic Rock;Rock|",
-"LCD Soundsystem|Home|2010|aBpl8YH9cjQ|LCD Soundsystem|S7195|Alternative Dance;Dance-Punk;Indietronica;Alternative Rock;Dance;Electronic;Post-Punk;Rock|",
+"LCD Soundsystem|Home|2010|ETDCbQUYiAQ|LCD Soundsystem|S7195|Alternative Dance;Dance-Punk;Indietronica;Alternative Rock;Dance;Electronic;Post-Punk;Rock|",
 "Johnny Cash|Cocaine Blues|1968|0VZuA7iJY4Y|Johnny Cash|S4538|Outlaw Country;Rockabilly;Country;Progressive Country;Rock;Rock & Roll|Cocaine Blues",
 "Faith No More|Midlife Crisis|1992|U8b88US-6ts|Faith No More|S6336|Alternative Metal;Alternative Rock;Metal;Rock|Midlife Crisis",
 "The Cramps|Goo Goo Muck|1981|g17I907BAFw|The Cramps|S4195|Psychobilly;Punk Rock;Rock;Rock & Roll;Rockabilly|",
