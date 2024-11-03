@@ -9876,7 +9876,7 @@ const songs = [
 "Nelly Furtado|Say It Right|2006|6JnGBs88sL0|Nelly Furtado|S9304|Contemporary R&B;Dance-Pop;Dance;Pop;R&B|Say It Right",
 "The Embassy|It Never Entered My Mind|2002|3OBn1DpR5h8|The Embassy (band)|S10724|Indie Pop;Synthpop;Electronic;Pop|",
 "The Byrds|You Ain't Goin' Nowhere|1968|Q21BF38W3Gs|The Byrds|S4112|Country Rock;Rock|You Ain't Goin' Nowhere",
-"Rudy Vallée|Stein Song (University of Maine Fighting Song)|1930|EXrSmLhSxck|Rudy Vallée|S8264|Big Band;Traditional Pop;Jazz;Pop|",
+"Rudy Vallée|Stein Song (University of Maine Fighting Song)|1930|EXrSmLhSxck|Rudy Vallée|S8264|Big Band;Traditional Pop;Jazz;Pop|The Maine Stein Song",
 "Steve Winwood|Roll With It|1988|u_vkKozA8OI|Steve Winwood|S12314|Pop Rock;Pop;Rock|Roll with It (Steve Winwood song)",
 "George Harrison|When We Was Fab|1987|AVu6nPTVbBQ|George Harrison|S6534|Pop Rock;Singer/Songwriter;Pop;Rock|When We Was Fab",
 "The Beautiful South|Old Red Eyes Is Back|1991|ggJYJ9frSl0|The Beautiful South|S5387|Indie Pop;Sophisti-Pop;Pop|Old Red Eyes Is Back",
