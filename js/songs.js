@@ -7368,7 +7368,7 @@ const songs = [
 "Scritti Politti|The Word Girl|1985|cyWB9WPLT1s|Scritti Politti|S8336|Pop Reggae;Sophisti-Pop;Caribbean Music;Jamaican Music;Pop;Reggae;Regional Music|",
 "Jamila Woods|Zora|2019|NO0_3XwBb5s|Jamila Woods|S16801|Neo-Soul;R&B;Soul|",
 "Yo La Tengo|Our Way to Fall|2000|bOylOEGY9M4|Yo La Tengo|S9095|Dream Pop;Indie Rock;Alternative Rock;Rock|",
-"James Moody|I'm in the Mood for Love/Moody's Mood for Love|1950|Vu4QTzpVp4A|James Moody (saxophonist)|S13509|Bebop;Jazz|I'm in the Mood for Love",
+"James Moody|I'm in the Mood for Love/Moody's Mood for Love|1950|9PQB2IRdRJI|James Moody (saxophonist)|S13509|Bebop;Jazz|I'm in the Mood for Love",
 "Rage Against the Machine|Testify|1999|Q3dvbM6Pias|Rage Against the Machine|S12010|Rap Metal;Alternative Metal;Metal;Rock|Testify (Rage Against the Machine song)",
 "Wire|Map Ref. 41 Deg. N 93 Deg. W|1979|XZ2RvSHK_B8|Wire (band)|S9044|Art Punk;Post-Punk;Punk Rock;Rock|",
 "Kyuss|Green Machine|1992|R-MSfd2S7lo|Kyuss|S14640|Stoner Metal;Stoner Rock;Hard Rock;Metal;Rock|Green Machine (song)",
