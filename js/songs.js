@@ -6443,7 +6443,7 @@ const songs = [
 "Bob Dylan|Thunder on the Mountain|2006|CZN3SEgPtg8|Bob Dylan|S13700|Americana;Roots Rock;Country;Rock|Thunder on the Mountain",
 "The Clash|Rudie Can't Fail|1979|uEK9oK02D1M|The Clash|S5828|Reggae;Caribbean Music;Jamaican Music;Regional Music|Rudie Can't Fail",
 "Emerson, Lake & Palmer|Lucky Man|1970|7nyt57LxWy8|Emerson, Lake & Palmer|S6270|Folk Rock;Progressive Rock;Rock|Lucky Man (Emerson, Lake & Palmer song)",
-"Joe Cocker|You Are So Beautiful|1974|wlDmslyGmGI|Joe Cocker|S6933|Adult Contemporary;Blue Eyed Soul;Soft Rock;Pop;Pop Rock;Rock|",
+"Joe Cocker|You Are So Beautiful|1974|DhMnhIY1pE0|Joe Cocker|S6933|Adult Contemporary;Blue Eyed Soul;Soft Rock;Pop;Pop Rock;Rock|",
 "Melanie|Brand New Key|1971|RCTMTflcuug|Melanie (singer)|S7508|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Brand New Key",
 "Laurent Voulzy|Belle-Île-en-Mer, Marie-Galante|1985|B7ia4z4snDY|Laurent Voulzy|S11375|French Pop;Synthpop;Electronic;Pop|",
 "Valee feat. Jeremih|Womp Womp|2018|mZz7sfwnz-o|Valee|S16566|Pop Rap;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
