@@ -9681,7 +9681,7 @@ const songs = [
 "Rose Royce|I'm Going Down|1976|Dmujk9VYFlw|Rose Royce|S12824|Pop Soul;Pop;R&B;Soul|I'm Going Down (Rose Royce song)",
 "Oumou Sangare|Moussolou|1991|I9pXHDAErek|Oumou Sangaré|S11816|Wassoulou;African Music;Regional Music;West African Music|",
 "Jefferson Airplane|Today|1967|XzPDZINn9V0|Jefferson Airplane|S14548|Folk Rock;Psychedelic Folk;Contemporary Folk;Folk;Rock|",
-"Cerrone|Give Me Love|1977|WHMEUHDTyo4|Cerrone|S12858|Euro-Disco;Dance;Disco|",
+"Cerrone|Give Me Love|1977|kCP1m2ly_r0|Cerrone|S12858|Euro-Disco;Dance;Disco|",
 "Ed Sheeran|Shape of You|2017|JGwWNGJdvx8|Ed Sheeran|S16366|Dance-Pop;Dance;Pop|Shape of You",
 "Otis Clay|Trying to Live My Life Without You|1972|wcPe4ale96U|Otis Clay|S7827|Southern Soul;R&B;Soul|Tryin' to Live My Life Without You",
 "ScHoolboy Q|Collard Greens|2013|VKyUdfDOom8|Schoolboy Q|S9520|West Coast Hip Hop;Hip Hop|Collard Greens (song)",
