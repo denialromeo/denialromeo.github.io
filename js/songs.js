@@ -9759,7 +9759,7 @@ const songs = [
 "Duane Eddy|Because They're Young|1960|bKm2_67xtVs|Duane Eddy|S3388|Rock & Roll;Rock|",
 "The Doors|Love Her Madly|1971|5iqfXaGliq8|The Doors|S10638|Blues Rock;Psychedelic Rock;Rock|Love Her Madly",
 "Lit|My Own Worst Enemy|1999|sc5iTNVEOAg|Lit (band)|S7277|Alternative Rock;Pop Punk;Punk Rock;Rock|My Own Worst Enemy (song)",
-"Tony Toni Toné|If I Had No Loot|1993|tfaGwgtN9Sc|Tony! Toni! Toné!|S2064|New Jack Swing;Contemporary R&B;R&B|If I Had No Loot",
+"Tony Toni Toné|If I Had No Loot|1993|dZZQLDx1CtI|Tony! Toni! Toné!|S2064|New Jack Swing;Contemporary R&B;R&B|If I Had No Loot",
 "Black Sabbath|Symptom of the Universe|1975|kJIKJcIdlVw|Black Sabbath|S14154|Heavy Metal;Metal;Rock|Symptom of the Universe",
 "Paul McCartney|My Brave Face|1989|0Ty8NTNj6JI|Paul McCartney|S14849|Pop Rock;Pop;Rock|My Brave Face",
 "Fats Waller|Two Sleepy People|1938|edFGgQ0RxjM|Fats Waller|S6362|Stride;Vocal Jazz;American Folk Music;Folk;Jazz;Ragtime;Regional Music;Traditional Folk Music|Two Sleepy People",
