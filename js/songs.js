@@ -10778,7 +10778,7 @@ const songs = [
 "Elvis Costello|Walk Us Uptown|2013|9lfhafgiONU|Elvis Costello|S9443|Funk Rock;Rock|",
 "Brian Eno|Cindy Tells Me|1973|uZvAs-EkKgw|Brian Eno|S3392|Art Rock;Glam Rock;Rock|",
 "Carole King|Home Again|1971|lNTjfaWnKIM|Carole King|S4148|Singer/Songwriter;Soft Rock;Pop;Pop Rock;Rock|Tapestry (Carole King album)",
-"R.E.M.|Pretty Persuasion|1984|dF91uAocd-g|R.E.M.|S1922|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Pretty Persuasion (song)",
+"R.E.M.|Pretty Persuasion|1984|LPSnD8fQT_0|R.E.M.|S1922|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Pretty Persuasion (song)",
 "Depeche Mode|Get the Balance Right|1983|zfiISFiozg8|Depeche Mode|S1891|Synthpop;Electronic;Pop|",
 "Wire|Blessed State|1979|LeCI9kww3Dk|Wire (band)|S4190|Art Punk;Post-Punk;Punk Rock;Rock|Levitating (song)",
 "U-Roy|Wake the Town|1970|j-Nm6XtZUxQ|U-Roy|S2303|Deejay;Caribbean Music;Jamaican Music;Reggae;Regional Music|Wake the Town",
