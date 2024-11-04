@@ -3148,7 +3148,7 @@ const songs = [
 "Billy Stewart|Summertime|1966|1FJMgFxXFqo?start=18|Billy Stewart|S3854|Chicago Soul;R&B;Soul|",
 "Run-D.M.C.|My Adidas|1986|Qx0huz6TiLo|Run-DMC|S389|East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "Arnaud Fleurent-Didier|France Culture|2009|Vv6m_1fr4W0|https://fr.wikipedia.org/wiki/Arnaud_Fleurent-Didier|S5237|Baroque Pop;Nouvelle chanson française;Spoken Word;Chanson;Descriptor;Pop;Regional Music|",
-"Metallica|Seek and Destroy|1983|NJzoBmVPeYw|Metallica|S7525|Thrash Metal;Metal;Rock|Seek & Destroy",
+"Metallica|Seek and Destroy|1983|UzdDAd9EBOI|Metallica|S7525|Thrash Metal;Metal;Rock|Seek & Destroy",
 "Jürgen Paape|So weit wie noch nie|2002|8BaY3_112yQ|https://de.wikipedia.org/wiki/J%C3%BCrgen_Paape|S2234|Deep House;Dance;Electronic;Electronic Dance Music;House|So Weit Wie Noch Nie",
 "The Ruts|Babylon's Burning|1979|t6AXZer4g9Y|The Ruts|S8285|Punk Rock;Rock|",
 "Prince|Pop Life|1985|0h75JL626Rg|Prince (musician)|S2914|Contemporary R&B;Funk;Pop Rock;Pop;R&B;Rock|Pop Life (Prince song)",
