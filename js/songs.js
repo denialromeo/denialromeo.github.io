@@ -4827,7 +4827,7 @@ const songs = [
 "Jack White|Sixteen Saltines|2012|DsixWMdScUI|Jack White|S5054|Blues Rock;Garage Rock;Rock|Sixteen Saltines",
 "David Bowie|Wild Is the Wind|1976|YsqlXkkEKxI|David Bowie|S1783|Art Rock;Blue Eyed Soul;Pop;Rock|Wild Is the Wind (song)",
 "Miles Davis|Miles Runs the Voodoo Down|1970|q3BaGMevjeM?start=20|Miles Davis|S3321|Avant-Garde Jazz;Jazz Fusion;Jazz|",
-"The Band|Tears of Rage|1968|6u7_xxe_6rQ|The Band|S3168|Roots Rock;Rock|Tears of Rage",
+"The Band|Tears of Rage|1968|_iciW7YZjgg|The Band|S3168|Roots Rock;Rock|Tears of Rage",
 "Roy Orbison|You Got It|1989|7Xc_8AkmKfo|Roy Orbison|S8260|Pop Rock;Pop;Rock|You Got It",
 "Ian Dury|Reasons to Be Cheerful, Part 3|1979|CIMNXogXnvE|The Blockheads|S1575|Disco Rap;Funk;New Wave;UK Hip Hop;Hip Hop;R&B;Rock|Reasons to Be Cheerful, Part 3",
 "Bertha \"Chippie\" Hill|Trouble in Mind|1926|ShmFJ0UrLoY|Bertha Hill|S13400|Vaudeville Blues;Blues;Musical Theatre and Entertainment;Vaudeville|Trouble in Mind (song)",
