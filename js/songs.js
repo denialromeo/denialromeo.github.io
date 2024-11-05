@@ -3816,7 +3816,7 @@ const songs = [
 "B.B. King|Rock Me Baby|1964|OK_AwCjK0Ak|B.B. King|S3539|Electric Blues;Blues|Rock Me Baby (song)",
 "Marianne Faithfull|Broken English|1979|czjfOFMFeSY|Marianne Faithfull|S7427|Art Rock;New Wave;Rock|",
 "Stevie Wonder|Signed, Sealed, Delivered, I'm Yours|1970|WvRwR-hZDVY|Stevie Wonder|S2857|Motown Sound;Pop;Pop Soul;R&B;Soul|Signed, Sealed, Delivered I'm Yours",
-"Sting|Fields of Gold|1993|5som4EYefio|Sting (musician)|S8590|Adult Contemporary;Soft Rock;Pop;Pop Rock;Rock|Fields of Gold",
+"Sting|Fields of Gold|1993|KLVq0IAzh1A|Sting (musician)|S8590|Adult Contemporary;Soft Rock;Pop;Pop Rock;Rock|Fields of Gold",
 "Marcy Playground|Sex and Candy|1997|-KT-r2vHeMM|Marcy Playground|S7418|Alternative Rock;Rock|Sex and Candy",
 "Johnny Cash|Delia's Gone|1962|SSypZulEPDE|Johnny Cash|S6973|Country|",
 "Joy Division|Isolation|1980|6x-Nl3_L1pA|Joy Division|S7009|New Wave;Post-Punk;Rock|Isolation (Joy Division song)",
