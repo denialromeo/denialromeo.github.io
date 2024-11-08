@@ -684,7 +684,7 @@ const songs = [
 "New York Dolls|Personality Crisis|1973|nrdqX_auyPc|New York Dolls|S780|Glam Punk;Glam Rock;Proto-Punk;Punk Rock;Rock|Personality Crisis (song)",
 "Ramones|I Wanna Be Sedated|1978|bm51ihfi1p4|Ramones|S600|Punk Rock;Rock|I Wanna Be Sedated",
 "U2|New Year's Day|1983|f8BtB4C3Vi8|U2|S465|Post-Punk;Rock|New Year's Day (U2 song)",
-"Alvvays|Archie, Marry Me|2014|3cfm0hjtesc|Alvvays|S9559|Twee Pop;Indie Pop;Pop|Archie, Marry Me",
+"Alvvays|Archie, Marry Me|2014|ZAn3JdtSrnY|Alvvays|S9559|Twee Pop;Indie Pop;Pop|Archie, Marry Me",
 "Nirvana|Heart-Shaped Box|1993|by6lyNC3D9Y|Kurt Cobain|S123|Grunge;Alternative Rock;Rock|Heart-Shaped Box",
 "The 1975|Love It If We Made It|2018|1Wl1B7DPegc|The 1975|S16530|Pop Rock;Synthpop;Electronic;Pop;Rock|Love It If We Made It",
 "The Byrds|Turn! Turn! Turn! (To Everything There Is a Season)|1965|W3xgcmIS3YU|The Byrds|S1423|Folk Rock;Pop Rock;Pop;Rock|Turn! Turn! Turn!",
