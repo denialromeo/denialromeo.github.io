@@ -447,7 +447,7 @@ const songs = [
 "Dexys Midnight Runners|Come On Eileen|1982|GbpnAGajyMc|Dexys Midnight Runners|S496|New Wave;Pop Rock;Pop;Rock|Come On Eileen",
 "George Harrison|My Sweet Lord|1970|SP9wms6oEMo|George Harrison|S867|Folk Pop;Pop Rock;Singer/Songwriter;Contemporary Folk;Folk;Pop;Rock|My Sweet Lord",
 "The Clash|Should I Stay or Should I Go|1982|xMaE6toi4mk|The Clash|S493|New Wave;Rock|Should I Stay or Should I Go",
-"Tyler, The Creator|Yonkers|2011|XSbZidsgMfw|Tyler, the Creator|S4993|Hardcore Hip Hop;West Coast Hip Hop;Hip Hop|Yonkers (song)",
+"Tyler, The Creator|Yonkers|2011|fIEwzSBPYrs|Tyler, the Creator|S4993|Hardcore Hip Hop;West Coast Hip Hop;Hip Hop|Yonkers (song)",
 "Arcade Fire|Reflektor|2013|s41CaBbrmZk|Arcade Fire|S9405|Alternative Dance;Alternative Rock;Dance;Rock|",
 "Depeche Mode|Enjoy the Silence|1990|8DPAUVmJHss|Depeche Mode|S235|Synthpop;Electronic;Pop|Enjoy the Silence",
 "The Shins|New Slang|2001|zYwCmcB0XMw|The Shins|S3111|Folk Pop;Indie Pop;Contemporary Folk;Folk;Pop|New Slang",
