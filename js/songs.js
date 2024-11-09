@@ -8741,7 +8741,7 @@ const songs = [
 "MC Solaar|Nouveau Western|1993|iO7qzttOphM|MC Solaar|S7489|Boom Bap;French Hip Hop;Jazz Rap;Hip Hop|",
 "Hashim|Al-Naafiysh (The Soul)|1983|i46sF1PcqL8|Jerry Calliste Jr.|S6691|Electro;Dance;Electronic;Electronic Dance Music|",
 "Nine Inch Nails|Wish|1992|kuoFiIFkdAA|Nine Inch Nails|S11764|Industrial Metal;Industrial Rock;Industrial Music;Metal;Rock|Wish (Nine Inch Nails song)",
-"Buddy Guy|First Time I Met the Blues|1960|0U7E7OhjRDc|Buddy Guy|S13409|Chicago Blues;Rhythm & Blues;Soul Blues;Blues;Electric Blues;R&B|",
+"Buddy Guy|First Time I Met the Blues|1960|nZAG4cz0uYY|Buddy Guy|S13409|Chicago Blues;Rhythm & Blues;Soul Blues;Blues;Electric Blues;R&B|",
 "Attaque 77|Hacelo por mí|1990|sXELAFRxgFg|Attaque 77|S10036|Punk Rock;Rock|",
 "C.W. McCall|Convoy|1975|Sd5ZLJWQmss|C. W. McCall|S13710|Novelty;Truck Driving Country;Country;Descriptor;Honky Tonk|Convoy (song)",
 "Frank Sinatra|I'm a Fool to Want You|1951|wV9OcYhk4CU|Frank Sinatra|S13478|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop|I'm a Fool to Want You",
