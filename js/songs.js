@@ -4589,7 +4589,7 @@ const songs = [
 "Simple Minds|Belfast Child|1989|7vhhTvcLoRw|Simple Minds|S8421|Pop Rock;Pop;Rock|Belfast Child",
 "Stray Cats|Stray Cat Strut|1981|vEtbfzMLVWU|Stray Cats|S8607|Rockabilly;Rock;Rock & Roll|",
 "The Notorious B.I.G.|Unbelievable|1994|WiFm_tD9JIQ|The Notorious B.I.G.|S2080|Boom Bap;East Coast Hip Hop;Hip Hop|",
-"Duke Ellington|Concerto for Cootie|1940|EGiI2sI_aeg|Duke Ellington|S13186|Big Band;Jazz|Do Nothing till You Hear from Me",
+"Duke Ellington|Concerto for Cootie|1940|chqPqj8CQUM|Duke Ellington|S13186|Big Band;Jazz|Do Nothing till You Hear from Me",
 "The Birthday Party|Release the Bats|1981|8wGpW3iKAdU|The Birthday Party (band)|S527|Gothic Rock;Noise Rock;Rock|Release the Bats",
 "Four Tops|7 Rooms of Gloom|1967|lSZsm2EBoLE|Four Tops|S3418|Motown Sound;Pop;Pop Soul;R&B;Soul|7 Rooms of Gloom",
 "Elvis Presley|(You're the) Devil in Disguise|1963|338Qv5zmi-g|Elvis Presley|S3718|Rockabilly;Rock;Rock & Roll|",
