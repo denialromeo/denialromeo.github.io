@@ -1155,7 +1155,7 @@ const songs = [
 "Eagles|Desperado|1973|aelpqWEBHR4|Eagles (band)|S2577|Country Rock;Rock|Desperado (Eagles song)",
 "The Beatles|Day Tripper|1965|AYZlME0mQB8|The Beatles|S1005|Pop Rock;Rock & Roll;Pop;Rock|Day Tripper",
 "Lana Del Rey|The Greatest|2019|Ndo8r_Hg_lg|Lana Del Rey|S16815|Singer/Songwriter;Soft Rock;Pop;Pop Rock;Rock|The Greatest (Lana Del Rey song)",
-"Aretha Franklin|Think|1968|Vet6AHmq3_s|Aretha Franklin|S923|Southern Soul;R&B;Soul|Think (Aretha Franklin song)",
+"Aretha Franklin|Think|1968|P9yIoSpWWNE|Aretha Franklin|S923|Southern Soul;R&B;Soul|Think (Aretha Franklin song)",
 "808 State|Pacific State|1989|tLxDRePUwEY|808 State|S250|Acid House;Dance;Electronic;Electronic Dance Music;House|",
 "Bachman-Turner Overdrive|You Ain't Seen Nothing Yet|1974|4cia_v4vxfE|Bachman–Turner Overdrive|S726|Power Pop;Pop;Pop Rock;Rock|You Ain't Seen Nothing Yet (Bachman–Turner Overdrive song)",
 "Neutral Milk Hotel|Holland, 1945|1998|XLaFLztnL84|Neutral Milk Hotel|S4527|Folk Punk;Folk Rock;Lo-Fi / Slacker Rock;Alternative Rock;Indie Rock;Punk Rock;Rock|Holland, 1945",
