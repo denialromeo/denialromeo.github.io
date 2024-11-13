@@ -8232,7 +8232,7 @@ const songs = [
 "James Taylor|Don't Let Me Be Lonely Tonight|1972|y8cPCYZz6uE|James Taylor|S13819|Singer/Songwriter|Don't Let Me Be Lonely Tonight",
 "Van Morrison|In the Garden|1986|pmDhTMdUGR0|Van Morrison|S3642|Pop Rock;Singer/Songwriter;Pop;Rock|In the Garden (Van Morrison song)",
 "Noreaga|Nothin'|2002|sul16s0VSzs|N.O.R.E.|S7771|East Coast Hip Hop;Hip Hop|",
-"Echt|Du Trägst Keine Liebe In Dir|1999|eM2Oy4wZBUU|Echt (band)|S15442|Pop|",
+"Echt|Du Trägst Keine Liebe In Dir|1999|7fUpaXxPgMI|Echt (band)|S15442|Pop|",
 "Meat Puppets|Plateau|1984|ODVt3XQUG3Y|Meat Puppets|S7498|Alternative Rock;Country Rock;Rock|",
 "Groove Armada|At the River|1997|m-uztVX6QFQ|Groove Armada|S6650|Downtempo;Electronic|",
 "Herman's Hermits|I'm Into Something Good|1964|MDUCOwp1p60|Herman's Hermits|S6707|Beat Music;Pop;Pop Rock;Rock|I'm into Something Good",
