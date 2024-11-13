@@ -1648,7 +1648,7 @@ const songs = [
 "Elliott Smith|Miss Misery|1997|gRUyC9veWtw|Elliott Smith|S3820|Indie Folk;Indie Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Miss Misery",
 "Sufjan Stevens|Should Have Known Better|2015|lJJT00wqlOo|Sufjan Stevens|S9840|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk|Should Have Known Better",
 "Nick Drake|Way to Blue|1969|gkjb9sUgqUM|Nick Drake|S2295|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk|",
-"Squeeze|Up the Junction|1979|RQciegmLPAo|Squeeze (band)|S1599|New Wave;Power Pop;Pop;Pop Rock;Rock|",
+"Squeeze|Up the Junction|1979|RQciegmLPAo|Squeeze (band)|S1599|New Wave;Power Pop;Pop;Pop Rock;Rock|Up the Junction (song)",
 "Fugees|Fu-gee-la|1996|MPlb9HoOCxs|Fugees|S57|Boom Bap;East Coast Hip Hop;Hip Hop|Fu-Gee-La",
 "Angel Olsen|Lark|2019|6uaN60k0-zY|Angel Olsen|S16731|Art Pop;Chamber Pop;Baroque Pop;Indie Pop;Pop|",
 "The Strokes|The Modern Age|2001|RzO7IGWGxu8|The Strokes|S1461|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|",
