@@ -4497,7 +4497,7 @@ const songs = [
 "Propellerheads|History Repeating|1997|yzLT6_TQmq8?start=49|Propellerheads|S4523|Big Beat;Breakbeat;Dance;Electronic;Electronic Dance Music|History Repeating (song)",
 "Ciara|Body Party|2013|B9rSBcoX9ak|Ciara|S9422|Contemporary R&B;R&B|Body Party",
 "Orange Juice|Blue Boy|1980|qx5nn1kq-2U|Orange Juice (band)|S1842|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|",
-"Russell Morris|The Real Thing|1969|wBVJFGxyxgE|Russell Morris|S8277|Psychedelic Pop;Psychedelic Rock;Pop;Rock|",
+"Russell Morris|The Real Thing|1969|XFrgymVU_dY|Russell Morris|S8277|Psychedelic Pop;Psychedelic Rock;Pop;Rock|",
 "Ornette Coleman|Free Jazz|1961|daGDPwz_deo|Ornette Coleman|S7825|Free Jazz;Avant-Garde Jazz;Jazz|",
 "Etienne Daho|Tombé pour la France|1985|EqeJUGzvnq0|Étienne Daho|S6309|French Pop;Synthpop;Electronic;Pop|",
 "Donald Fagen|I.G.Y. (What a Beautiful World)|1982|Ueivjr3f8xg|Donald Fagen|S10630|Jazz Pop;Sophisti-Pop;Pop|I.G.Y. (What a Beautiful World)",
