@@ -7884,7 +7884,7 @@ const songs = [
 "The New Seekers|I'd Like to Teach the World to Sing (In Perfect Harmony)|1971|ZWKznrEjJK4|The New Seekers|S11745|Sunshine Pop;Pop|I'd Like to Teach the World to Sing (In Perfect Harmony)",
 "Isolée|Schrapnell|2005|mBfhQisZDpg|Isolée|S6803|Microhouse;Dance;Electronic;Electronic Dance Music;House|",
 "Ray Charles|I Don't Need No Doctor|1966|fPPDehYZkoE|Ray Charles|S8106|Rhythm & Blues;R&B|I Don't Need No Doctor",
-"Frank Yankovic|Just Because Polka|1948|qNwzaS0jEOk|Frankie Yankovic|S6446|Polka;European Folk Music;Folk;Regional Music;Traditional Folk Music|",
+"Frank Yankovic|Just Because Polka|1948|G-ZqmRnYmgg|Frankie Yankovic|S6446|Polka;European Folk Music;Folk;Regional Music;Traditional Folk Music|",
 "Megadeth|Peace Sells|1986|rdEupVsL07E|Megadeth|S7502|Thrash Metal;Metal;Rock|Peace Sells",
 "Westerman|Confirmation|2018|Ch1lNNwwa90|https://www.discogs.com/artist/6360693-Westerman-2|S16620|Art Pop;Dream Pop;Alternative Rock;Pop;Rock|",
 "The Kinks|Till the End of the Day|1965|9IoX2-nqh8k|The Kinks|S7119|Garage Rock;Mod;Rock|Till the End of the Day",
