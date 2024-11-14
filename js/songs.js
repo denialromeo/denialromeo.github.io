@@ -3326,7 +3326,7 @@ const songs = [
 "Nina Simone|Sinnerman|1965|r57J0jPyZRs|Nina Simone|S7745|Rhythm & Blues;Soul Jazz;Vocal Jazz;Jazz;R&B|",
 "Lloyd Cole and the Commotions|Perfect Skin|1984|fm5rMu3Wtr4|Lloyd Cole and the Commotions|S2353|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Perfect Skin (Lloyd Cole and the Commotions song)",
 "Real Estate|Talking Backwards|2014|6UFO1o1QX-o|Real Estate (band)|S9564|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Talking backwards",
-"Bob Dylan|My Back Pages|1964|JWNaIXeHHzQ|Bob Dylan|S10235|Contemporary Folk;Singer/Songwriter;Folk|My Back Pages",
+"Bob Dylan|My Back Pages|1964|92cF_KCH7TU|Bob Dylan|S10235|Contemporary Folk;Singer/Songwriter;Folk|My Back Pages",
 "The Manhattans|Kiss and Say Goodbye|1976|wtjro7_R3-4|The Manhattans|S1781|Smooth Soul;R&B;Soul|Kiss and Say Goodbye",
 "Bon Iver|33 \"God\"|2016|6C5sB6AqJkM|Bon Iver|S16044|Art Pop;Pop|",
 "Traffic|The Low Spark of High Heeled Boys|1971|R8M8R835Ck4|Traffic (band)|S4151|Progressive Rock;Rock|",
