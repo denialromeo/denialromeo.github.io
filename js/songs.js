@@ -9914,7 +9914,7 @@ const songs = [
 "The Chocolate Watchband|Let's Talk About Girls|1967|rBWB4K7Fz50?start=5|The Chocolate Watchband|S5791|Garage Rock;Psychedelic Rock;Rock|",
 "Aerosmith|Last Child|1976|n3VGkc3JZC0|Aerosmith|S9934|Funk Rock;Hard Rock;Rock|Last Child",
 "Scorpions|Wind of Change|1990|n4RjJKxsamQ|Scorpions (band)|S12171|Pop Rock;Pop;Rock|Wind of Change (Scorpions song)",
-"Sarah Vaughan|Broken-Hearted Melody|1959|K9I_clmG8Eo|Sarah Vaughan|S8321|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop|Broken Hearted Melody",
+"Sarah Vaughan|Broken-Hearted Melody|1959|RMO6H2qvfcU|Sarah Vaughan|S8321|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop|Broken Hearted Melody",
 "Bauhaus|Dark Entries|1980|N8n6k8QcU3k|Bauhaus (band)|S13672|Gothic Rock;Post-Punk;Rock|Dark Entries",
 "Bruce Springsteen|Radio Nowhere|2007|MtrOYsNCPmg|Bruce Springsteen|S4332|Alternative Rock;Pop Rock;Pop;Rock|",
 "Liquid|Sweet Harmony|1991|xvCOkWmby2M|Liquid (musician)|S11450|Breakbeat Hardcore;Breakbeat;Dance;Electronic;Electronic Dance Music;Hardcore [EDM]|Sweet Harmony (Liquid song)",
