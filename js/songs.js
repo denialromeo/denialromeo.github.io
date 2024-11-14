@@ -2747,7 +2747,7 @@ const songs = [
 "Purity Ring|Fineshrine|2012|Xqw4wo8vdY8|Purity Ring (band)|S5034|Indietronica;Synthpop;Witch House;Electronic;Pop|",
 "Bobby Darin|Dream Lover|1959|QzkECdHu1dQ?start=43|Bobby Darin|S1197|Brill Building;Rock & Roll;Teen Pop;Pop;Rock|Dream Lover",
 "Squeeze|Tempted|1981|E5g7NdWV8ig|Squeeze (band)|S536|Pop Rock;Pop;Rock|Tempted (Squeeze song)",
-"The Delfonics|Didn't I (Blow Your Mind This Time)|1969|N2lQOY6N51Y|The Delfonics|S864|Philly Soul;Smooth Soul;R&B;Soul|Didn't I (Blow Your Mind This Time)",
+"The Delfonics|Didn't I (Blow Your Mind This Time)|1969|gM6kZabHf4w|The Delfonics|S864|Philly Soul;Smooth Soul;R&B;Soul|Didn't I (Blow Your Mind This Time)",
 "Kelela|Rewind|2015|py6PgXq0yDM|Kelela|S9801|Alternative R&B;UK Bass;Contemporary R&B;Dance;Electronic;Electronic Dance Music;R&B;UK Garage|",
 "Jorge Ben|Taj Mahal|1972|c8AuG1W59ig|Jorge Ben|S7004|MPB;Samba-Rock;Brazilian Music;Regional Music;Samba|Ben (Jorge Ben album)",
 "Almendra|Muchacha (Ojos de papel)|1969|yIWbdWXKF3o|Almendra (band)|S5176|Folk Rock;Psychedelic Folk;Psychedelic Pop;Contemporary Folk;Folk;Pop;Rock|",
