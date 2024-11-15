@@ -1116,7 +1116,7 @@ const albums = [
 "Bob Marley and The Wailers|Soul Revolution Part II|1971|OLAK5uy_nzDGAoLlIZbw42NCuTYihRROAskziQE14|A1137|Soul Revolution Part II|Bob Marley and the Wailers|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Van Morrison|Veedon Fleece|1974|OLAK5uy_mHy2mo1iN5KUuR09ZjQaaVnu8bVZh0SYM|A323|Veedon Fleece|Van Morrison|Folk Rock;Singer/Songwriter;Rock",
 "The Rapture|Echoes|2003|OLAK5uy_n3B_ww5cF1Ttjx6CurIYCb5zdTfoZ7zN4|A4002|Echoes (The Rapture album)|The Rapture (band)|Dance-Punk;Post-Punk;Rock",
-"The Saints|(I'm) Stranded|1977|OLAK5uy_lSot-xq9VosdePouTxYWIJyxpvqDTHx44|A1429|(I'm) Stranded|The Saints (Australian band)|Punk Rock;Rock",
+"The Saints|(I'm) Stranded|1977|ERROR: Suitable playlist not found|A1429|(I'm) Stranded|The Saints (Australian band)|Punk Rock;Rock",
 "Jay Z & Kanye West|Watch the Throne|2011|OLAK5uy_l4zMpi9YRUQdxliVxA1oI_tfGxdwvAxzA|A5154|Watch the Throne|Jay-Z|Hip Hop",
 "Ozzy Osbourne|Blizzard of Ozz|1980|OLAK5uy_mM-IPCojFhLMY_XDl7VT1-cC2X4vtz4Uk|A1686|Blizzard of Ozz|Ozzy Osbourne|Hard Rock;Heavy Metal;Metal;Rock",
 "Placebo|Without You I'm Nothing|1998|PLIF0xQ52m3qb6RWpQK3StTx-JUrCuFZ8X|A1047|Without You I'm Nothing (Placebo album)|Placebo (band)|Alternative Rock;Rock",
