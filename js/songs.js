@@ -549,7 +549,7 @@ const songs = [
 "The Avalanches|Since I Left You|2000|wpqm-05R2Jk|The Avalanches|S1410|Plunderphonics;Experimental;Sound Collage;Tape Music|Since I Left You (song)",
 "Phil Collins|In the Air Tonight|1981|YkADj0TPrJA|Phil Collins|S1578|Ambient Pop;Art Pop;Pop Rock;Pop;Rock|In the Air Tonight",
 "Angel Olsen|Shut Up Kiss Me|2016|nleRCBhLr3k|Angel Olsen|S16024|Indie Rock;Alternative Rock;Rock|",
-"The Hives|Hate to Say I Told You So|2000|FahA3C8Xpqo|The Hives|S1402|Garage Rock Revival;Garage Rock;Rock|",
+"The Hives|Hate to Say I Told You So|2000|CW1JikiLLIg|The Hives|S1402|Garage Rock Revival;Garage Rock;Rock|",
 "Aretha Franklin|I Never Loved a Man (The Way I Love You)|1967|dzIUgS3Imu0|Aretha Franklin|S937|Deep Soul;R&B;Soul;Southern Soul|",
 "The Doors|Riders on the Storm|1971|lJZTgynPGT8|The Doors|S828|Blues Rock;Psychedelic Rock;Rock|Riders on the Storm",
 "10cc|I'm Not in Love|1975|STugQ0X1NoI|10cc|S705|Ambient Pop;Art Pop;Pop|I'm Not in Love",
