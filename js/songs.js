@@ -1747,7 +1747,7 @@ const songs = [
 "Stealers Wheel|Stuck in the Middle with You|1972|OMAIsqvTh7g|Stealers Wheel|S1754|Folk Rock;Pop Rock;Pop;Rock|",
 "Sophie Tucker|Some of These Days|1911|3heCSPJrO70|Sophie Tucker|S2753|Vaudeville;Musical Theatre and Entertainment|Some of These Days",
 "Billy Joel|Just the Way You Are|1977|tJWM5FmZyqU|Billy Joel|S650|Singer/Songwriter;Soft Rock;Pop;Pop Rock;Rock|Just the Way You Are (Billy Joel song)",
-"Plastic Bertrand|Ca plane pour moi|1977|Ln31raI2ezY|Plastic Bertrand|S3211|New Wave;Pop Punk;Punk Rock;Rock|Ça plane pour moi",
+"Plastic Bertrand|Ça plane pour moi|1977|Ln31raI2ezY|Plastic Bertrand|S3211|New Wave;Pop Punk;Punk Rock;Rock|Ça plane pour moi",
 "Kendrick Lamar|i|2014|8aShfolR6w8|Kendrick Lamar|S9560|Pop Rap;West Coast Hip Hop;Hip Hop|I (Kendrick Lamar song)",
 "The Rolling Stones|2,000 Light Years from Home|1967|nRc0yaMW7Mw|The Rolling Stones|S8214|Baroque Pop;Psychedelic Pop;Pop|",
 "The Orioles|It's Too Soon to Know|1948|eaAL7xmq6aU|The Orioles|S2728|Doo-Wop;Descriptor;R&B;Vocal Group|",
