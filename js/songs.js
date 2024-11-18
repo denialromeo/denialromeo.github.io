@@ -9407,7 +9407,7 @@ const songs = [
 "Nasty Habits|Shadow Boxing|1996|UJeU7MLE1cs|https://www.discogs.com/artist/1640-Nasty-Habits|S12730|Techstep;Dance;Drum and Bass;Electronic;Electronic Dance Music|",
 "Paula Cole|I Don't Want to Wait|1996|hJb5RvAs4BI|Paula Cole|S9315|Pop;Singer/Songwriter|I Don't Want to Wait",
 "Tocotronic|Drüben Auf Dem Hügel|1995|Z6IkRmEUTxw|Tocotronic|S15935|Hamburger Schule;Noise Pop;Alternative Rock;Indie Rock;Rock|",
-"B.B. King|Please Love Me|1953|q-fQd3uoPjQ|B.B. King|S5282|Electric Blues;Jump-Blues;Blues|",
+"B.B. King|Please Love Me|1953|QW_9EmPv6eQ|B.B. King|S5282|Electric Blues;Jump-Blues;Blues|",
 "The Rolling Stones|Far Away Eyes|1978|1n-2vgbk6w4|The Rolling Stones|S12092|Pop Rock;Pop;Rock|",
 "Weeping Willows|True to You|1999|a-7W-wclm10|Weeping Willows|S8963|Pop Rock;Pop;Rock|",
 "Love Unlimited Orchestra|Walkin' in the Rain With the One I Love|1972|wfQHSwZX4sg|The Love Unlimited Orchestra|S14692|Smooth Soul;R&B;Soul|",
