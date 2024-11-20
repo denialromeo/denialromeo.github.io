@@ -7983,7 +7983,7 @@ const songs = [
 "Pearl Jam|World Wide Suicide|2006|Hq-pA4R_EMM|Pearl Jam|S4048|Alternative Rock;Rock|World Wide Suicide",
 "Timber Timbre|Hot Dreams|2014|D8Cq8eeUWyM|Timber Timbre|S9694|Contemporary Folk;Singer/Songwriter;Folk|",
 "The Rolling Stones|Star Star|1973|b1zgmM2lalo|The Rolling Stones|S8230|Rock & Roll;Rock|Star Star",
-"Bootsy's Rubber Band|Bootzilla|1978|husf6po76mU|Stretchin' Out in Bootsy's Rubber Band|S5599|P-Funk;Funk;R&B|",
+"Bootsy's Rubber Band|Bootzilla|1978|c0c0pUbuR9g?start=17|Stretchin' Out in Bootsy's Rubber Band|S5599|P-Funk;Funk;R&B|",
 "Ian Dury|Plaistow Patricia|1977|-UaSseFa2Q4|Ian Dury|S6765|Punk Rock;Rock|Sweet Gene Vincent",
 "Rosanne Cash|Runaway Train|1988|E8NhaYqxH_c|Rosanne Cash|S8243|Country|Runaway Train (Rosanne Cash song)",
 "The Strokes|The End Has No End|2004|8sQoX12zo-A|The Strokes|S8613|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|The End Has No End",
