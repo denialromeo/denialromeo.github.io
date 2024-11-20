@@ -10589,7 +10589,7 @@ const songs = [
 "The Beatles|Fixing a Hole|1967|UPBd8eHQqIw|The Beatles|S13393|Pop Rock;Psychedelic Pop;Pop;Rock|Fixing a Hole",
 "Depeche Mode|Route 66|1987|yQjo49qO-9A|Depeche Mode|S1971|Pop Rock;Synthpop;Electronic;Pop;Rock|",
 "10,000 Maniacs|Because the Night|1993|Xw2KN3Oz56s|10,000 Maniacs|S5059|Acoustic Rock;Chamber Pop;Folk Pop;Baroque Pop;Contemporary Folk;Folk;Indie Pop;Pop;Rock|",
-"Cheap Trick|Dream Police|1979|rOEU-qRarqk|Cheap Trick|S10387|Power Pop;Pop;Pop Rock;Rock|Dream Police (song)",
+"Cheap Trick|Dream Police|1979|OPemyipJzAM|Cheap Trick|S10387|Power Pop;Pop;Pop Rock;Rock|Dream Police (song)",
 "Tracy Chapman|Give Me One Reason|1995|V6hQ9HSKlIE|Tracy Chapman|S9382|Blues Rock;Singer/Songwriter;Rock|Give Me One Reason",
 "Gary Glitter|I'm the Leader of the Gang|1973|L8RCFqwv8wg|Gary Glitter|S6503|Glam Rock;Rock|I'm the Leader of the Gang (I Am)",
 "Neil Young|Words (Between the Lines of Age)|1972|pMRcFpIn49o|Neil Young|S7685|Country Rock;Hard Rock;Rock|Harvest (Neil Young album)",
