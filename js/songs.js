@@ -5716,7 +5716,7 @@ const songs = [
 "Tom Waits|In the Neighborhood|1983|WsBtmZiVcbM|Tom Waits|S4461|Brass Band;Singer/Songwriter;European Folk Music;Fanfare;Folk;Regional Music;Traditional Folk Music|In the Neighborhood",
 "Black Eyed Peas|Where Is the Love?|2003|WpYeekQkAdc|The Black Eyed Peas|S3114|Conscious Hip Hop;Pop Rap;Hip Hop|Where Is the Love%3F",
 "The Stranglers|Always the Sun|1986|oVx_8mj-UyE|The Stranglers|S8606|New Wave;Pop Rock;Pop;Rock|Always the Sun",
-"Bobby Darin|Splish Splash|1958|QSA-yHzkvP8|Bobby Darin|S3318|Novelty;Rock & Roll;Descriptor;Rock|Splish Splash (song)",
+"Bobby Darin|Splish Splash|1958|XKCDc8Eg_-U|Bobby Darin|S3318|Novelty;Rock & Roll;Descriptor;Rock|Splish Splash (song)",
 "Skee-Lo|I Wish|1995|cmXZOI7cM0M|Skee-Lo|S3813|Pop Rap;West Coast Hip Hop;Hip Hop|I Wish (Skee-Lo song)",
 "Eric Donaldson|Cherry Oh Baby|1971|FFHNE6_bEHU?start=137|Eric Donaldson|S6302|Reggae;Rocksteady;Caribbean Music;Jamaican Music;Regional Music|",
 "Spinners|The Rubberband Man|1976|rx00W3cBtgs|The Spinners (American R&B group)|S3839|Funk;Philly Soul;R&B;Soul|The Rubberband Man",
