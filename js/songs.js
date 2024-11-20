@@ -3681,7 +3681,7 @@ const songs = [
 "Gang Starr|DWYCK|1992|TgelVkHEKdw|Gang Starr|S2055|Boom Bap;East Coast Hip Hop;Hip Hop|",
 "Chief Keef|I Don't Like|2012|6g5ZF6DUrHI|Chief Keef|S5783|Drill;Gangsta Rap;Hardcore Hip Hop;Hip Hop;Trap|",
 "Pharrell Williams|Happy|2013|ZbZSe6N_BXs|Pharrell Williams|S9505|Pop Soul;Pop;R&B;Soul|Happy (Pharrell Williams song)",
-"Charles Wright and the 103 Watts St Band|Express Yourself|1970|jW4VZ5J0fNQ|Charles Wright & the Watts 103rd Street Rhythm Band|S5761|Funk;R&B|",
+"Charles Wright and the 103 Watts St Band|Express Yourself|1970|F-MQQPlUPEE|Charles Wright & the Watts 103rd Street Rhythm Band|S5761|Funk;R&B|",
 "J.J. Cale|Call Me the Breeze|1972|TucKCajow7k|J. J. Cale|S6813|Blues Rock;Country Rock;Rock|Call Me the Breeze",
 "Jim Carroll|People Who Died|1980|tf4d7VxcQ30|Jim Carroll|S1838|Punk Rock;Rock|",
 "De La Soul|Eye Know|1989|q9jCsOCfUUg|De La Soul|S262|East Coast Hip Hop;Hip Hop|",
