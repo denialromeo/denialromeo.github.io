@@ -3482,7 +3482,7 @@ const songs = [
 "Buffalo Springfield|Mr. Soul|1967|jyc0JSd5q7U|Buffalo Springfield|S4103|Folk Rock;Psychedelic Rock;Rock|Mr. Soul",
 "Manfred Mann|Do Wah Diddy Diddy|1964|Uc0x7xOap4I|Manfred Mann|S1050|Beat Music;Pop;Pop Rock;Rock|Do Wah Diddy Diddy",
 "Judy Collins|Both Sides Now|1968|rQOuxByR5VI?start=5|Judy Collins|S3296|Baroque Pop;Folk Pop;Contemporary Folk;Folk;Pop|Both Sides, Now",
-"Isaac Hayes|Walk On By|1969|9nHlwliWFi0|Isaac Hayes|S1587|Psychedelic Soul;Smooth Soul;R&B;Soul|Walk On By (song)",
+"Isaac Hayes|Walk On By|1969|DFdR2LLM3bY|Isaac Hayes|S1587|Psychedelic Soul;Smooth Soul;R&B;Soul|Walk On By (song)",
 "Simon and Garfunkel|The Only Living Boy in New York|1970|5biEjyXNa2o|Simon & Garfunkel|S8418|Folk Pop;Pop Rock;Singer/Songwriter;Contemporary Folk;Folk;Pop;Rock|The Only Living Boy in New York",
 "David Bowie|Always Crashing in the Same Car|1977|_Nwmwy21rAY|David Bowie|S5971|Art Rock;Rock|Always Crashing in the Same Car",
 "Prince|Sexy M.F.|1992|bfHsF6FKgb4?start=91|Prince (musician)|S178|Hip Hop;P-Funk;Funk;R&B|Sexy MF",
