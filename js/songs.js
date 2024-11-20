@@ -1376,7 +1376,7 @@ const songs = [
 "The Offspring|Come Out and Play|1994|1jOk8dk-qaU|The Offspring|S3675|Grunge;Pop Punk;Skate Punk;Alternative Rock;Punk Rock;Rock|Come Out and Play (The Offspring song)",
 "Charles Trenet|La Mer|1946|PXQh9jTwwoA|Charles Trenet|S5760|Chanson;Regional Music|La Mer (song)",
 "The Orioles|Crying in the Chapel|1953|eEwcMvcWKgk|The Orioles|S1329|Doo-Wop;Descriptor;R&B;Vocal Group|Crying in the Chapel",
-"Peggy Lee|Fever|1958|EYxoAJ3Boyc|Peggy Lee|S2792|Vocal Jazz;Jazz|",
+"Peggy Lee|Fever|1958|EYxoAJ3Boyc|Peggy Lee|S2792|Vocal Jazz;Jazz|Fever (Little Willie John song)",
 "The Beatles|She's Leaving Home|1967|VaBPY78D88g|The Beatles|S4537|Baroque Pop;Pop|She's Leaving Home",
 "Prince|Let's Go Crazy|1984|aXJhDltzYVQ|Prince (musician)|S445|Funk Rock;Pop Rock;Pop;Rock|Let's Go Crazy",
 "Michael Jackson|Wanna Be Startin' Somethin'|1982|NSO0QzDCTvI|Michael Jackson|S1909|Dance-Pop;Disco;Synth Funk;Dance;Funk;Pop;R&B|Wanna Be Startin' Somethin'",
