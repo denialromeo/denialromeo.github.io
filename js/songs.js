@@ -1522,7 +1522,7 @@ const songs = [
 "Sampha|(No One Knows Me) Like the Piano|2017|_NSuIYwBxu4|Sampha|S16473|Neo-Soul;R&B;Soul|",
 "Creedence Clearwater Revival|Green River|1969|L5V9nK7-OkM|Creedence Clearwater Revival|S880|Swamp Rock;Rock;Roots Rock|Green River (song)",
 "This Mortal Coil|Song to the Siren|1983|HFWKJ2FUiAQ|This Mortal Coil|S478|Ambient Pop;Dream Pop;Ethereal Wave;Alternative Rock;Darkwave;Gothic Rock;Pop;Rock|",
-"Augustus Pablo|King Tubby Meets the Rockers Uptown|1975|ztq7-kkygZk|Augustus Pablo|S709|Dub;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
+"Augustus Pablo|King Tubby Meets the Rockers Uptown|1975|oxAl3Jijs20|Augustus Pablo|S709|Dub;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
 "John Lennon|Give Peace a Chance|1969|C3_0GqPvr4U|Plastic Ono Band|S2293|Contemporary Folk;Folk Rock;Singer/Songwriter;Folk;Rock|Give Peace a Chance",
 "Usher|Yeah!|2004|GxBSyx85Kp8|Usher (musician)|S2441|Contemporary R&B;Dance-Pop;Southern Hip Hop;Dance;Hip Hop;Pop;R&B|Yeah! (Usher song)",
 "Happy Mondays|Kinky Afro|1990|O8maBsuhHr4|Happy Mondays|S216|Baggy / Madchester;Alternative Rock;Rock|",
