@@ -8689,7 +8689,7 @@ const songs = [
 "Prince|Paisley Park|1985|1mhL5ynXzB0|Prince (musician)|S8010|Neo-Psychedelia;Pop Rock;Psychedelic Pop;Pop;Psychedelic Rock;Rock|Paisley Park (song)",
 "Father John Misty|Mr. Tillman|2018|j5B5IGqyy2s|Josh Tillman|S16590|Folk Pop;Indie Pop;Contemporary Folk;Folk;Pop|Father John Misty",
 "The Magnetic Fields|100,000 Fireflies|1991|OKXkVUM4xu8|The Magnetic Fields|S11519|Twee Pop;Indie Pop;Pop|",
-"King Pleasure|Moody's Mood for Love|1952|v0Qs5Ln12Hw|King Pleasure|S13534|Bebop;Rhythm & Blues;Vocal Jazz;Jazz;R&B|Moody's Mood for Love",
+"King Pleasure|Moody's Mood for Love|1952|Kv55-8EQCf0|King Pleasure|S13534|Bebop;Rhythm & Blues;Vocal Jazz;Jazz;R&B|Moody's Mood for Love",
 "Judas Priest|The Ripper|1976|lriWlHZAy8A|Judas Priest|S13847|Hard Rock;Heavy Metal;Metal;Rock|Tim \"Ripper\" Owens",
 "Cowboy Junkies|Sweet Jane|1988|Fa9nN3G2CSg|Cowboy Junkies|S5877|Dream Pop;Slowcore;Alternative Rock;Indie Rock;Rock|Sweet Jane",
 "Jimmy Eat World|Sweetness|2001|ROatPGGMvXg|Jimmy Eat World|S11210|Emo-Pop;Alternative Rock;Emo;Rock|Sweetness (Jimmy Eat World song)",
