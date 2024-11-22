@@ -63,7 +63,7 @@ const albums = [
 "Portishead|Dummy|1994|OLAK5uy_nMft1HP8iD7Wu0f0PfOKfao7r_nrBz6O8|A904|Dummy (album)|Portishead (band)|Trip Hop;Downtempo;Electronic",
 "Guns N' Roses|Appetite for Destruction|1987|OLAK5uy_kYJ1rvKQ7y9BE0bahsT-8ru9EhB7s7Byc|A693|Appetite for Destruction|Guns N' Roses|Hard Rock;Rock",
 "Sonic Youth|Daydream Nation|1988|OLAK5uy_mI0MqvdtR4dV2cH8y1Or_2RUBWlQGGORk|A723|Daydream Nation|Sonic Youth|Alternative Rock;Experimental Rock;Noise Rock;Rock",
-"Wilco|Yankee Hotel Foxtrot|2002|OLAK5uy_mk-N56nqnky4J6SMUFi5vCvmvY9iRHMbo|A1631|Yankee Hotel Foxtrot|Wilco|Alternative Rock;Rock",
+"Wilco|Yankee Hotel Foxtrot|2002|OLAK5uy_laN2Lq2HJZ02XTp387n0Tiem1ZiDkDpk4|A1631|Yankee Hotel Foxtrot|Wilco|Alternative Rock;Rock",
 "Frank Ocean|Channel Orange|2012|OLAK5uy_mAGTQmYeosOR-Pp17OnnzkKHPeEbzSFOg|A5230|Channel Orange|Frank Ocean|Alternative R&B;Contemporary R&B;R&B",
 "The Stone Roses|The Stone Roses|1989|OLAK5uy_kmlwGGQH_U-X7qCB0Vn6H6VnNqp4swuGY|A751|The Stone Roses (album)|The Stone Roses|Baggy / Madchester;Alternative Rock;Rock",
 "The Clash|The Clash|1977|OLAK5uy_lRgqEnJ53zpcoEotRq9PGVvcb1gbnabP8|A393|The Clash (album)|The Clash|Punk Rock;Rock",
