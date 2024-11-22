@@ -1326,7 +1326,7 @@ const songs = [
 "Midnight Oil|Beds Are Burning|1987|ejorQVy3m8E|Midnight Oil|S343|Pop Rock;Pop;Rock|Beds Are Burning",
 "The Electric Prunes|I Had Too Much to Dream (Last Night)|1966|bjaHU8iuhmI|The Electric Prunes|S6229|Garage Rock;Psychedelic Rock;Rock|I Had Too Much to Dream (Last Night)",
 "Elliott Smith|Between the Bars|1997|p4cJv6s_Yjw|Elliott Smith|S4234|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk|Between the Bars",
-"Hot Chip|Ready for the Floor|2008|T_A1Ss69eSo|Hot Chip|S4721|Alternative Dance;Indietronica;Alternative Rock;Dance;Electronic;Rock|Ready for the Floor",
+"Hot Chip|Ready for the Floor|2008|Ah_QkwK4FY8|Hot Chip|S4721|Alternative Dance;Indietronica;Alternative Rock;Dance;Electronic;Rock|Ready for the Floor",
 "Buddy Holly & The Crickets|Rave On|1958|ToHPFjb_FJg|Buddy Holly|S1208|Rockabilly;Rock;Rock & Roll|Rave On",
 "Radiohead|Burn the Witch|2016|yI2oS2hoL0k|Radiohead|S16169|Art Pop;Chamber Pop;Baroque Pop;Indie Pop;Pop|Burn the Witch (Radiohead song)",
 "Duane Eddy|Rebel Rouser|1958|uGPG_Y-_BZI|Duane Eddy|S1211|Rock & Roll;Rock|Rebel-'Rouser",
