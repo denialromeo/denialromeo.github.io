@@ -8160,7 +8160,7 @@ const songs = [
 "The Wannadies|Hit|1997|sjlQy1Fmn7E|The Wannadies|S4524|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|You and Me Song",
 "OutKast|The Whole World|2001|udmTfK6_aM8|Outkast|S7834|Southern Hip Hop;Hip Hop|",
 "Live|All Over You|1994|hee0aUVnK1U|Live (band)|S14672|Post-Grunge;Alternative Rock;Rock|All Over You (Live song)",
-"Neil Diamond|Cherry, Cherry|1966|h51vsFYhEUk|Neil Diamond|S7674|Pop Rock;Sunshine Pop;Pop;Rock|Cherry, Cherry",
+"Neil Diamond|Cherry, Cherry|1966|1nD7fYwnjK4|Neil Diamond|S7674|Pop Rock;Sunshine Pop;Pop;Rock|Cherry, Cherry",
 "Peter Gabriel|Mercy Street|1986|DYw9UrsFJa4|Peter Gabriel|S14865|Ambient Pop;Art Pop;Pop|Mercy Street",
 "Joan Armatrading|Drop the Pilot|1983|ifARMmcqhD8|Joan Armatrading|S6924|Pop Rock;Synthpop;Electronic;Pop;Rock|Drop the Pilot",
 "Faces|You Can Make Me Dance, Sing or Anything|1974|ytKzlQx1WBs|Faces (band)|S732|Soft Rock;Pop;Pop Rock;Rock|",
