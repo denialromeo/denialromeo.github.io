@@ -5041,7 +5041,7 @@ const songs = [
 "Nine Inch Nails|The Perfect Drug|1997|dn3j6-yQKWQ|Nine Inch Nails|S7748|Electronic;Industrial Rock;Industrial Music;Rock|Closer (Nine Inch Nails song)",
 "Led Zeppelin|Fool in the Rain|1979|Zp-LBD_q0sQ|Led Zeppelin|S7213|Pop Rock;Samba-Rock;Brazilian Music;Pop;Regional Music;Rock;Samba|Fool in the Rain",
 "Georgia|About Work the Dancefloor|2019|A4Y9V07wry4|Georgia (musician)|S16785|Dance-Pop;Electropop;Synthpop;Dance;Electronic;Pop|About Work the Dancefloor",
-"The Toys|A Lover's Concerto|1965|FmJ1AqtTuyo|The Toys|S8828|Girl Group;Pop Soul;Pop;R&B;Soul|",
+"The Toys|A Lover's Concerto|1965|BCZdMU53Ugo|The Toys|S8828|Girl Group;Pop Soul;Pop;R&B;Soul|",
 "OutKast|Elevators (Me & You)|1996|uqB_UVlhlPA|Outkast|S11818|Southern Hip Hop;Hip Hop|Elevators (Me & You)",
 "Smash Mouth|All Star|1999|L_jWHffIx5E?start=37|Smash Mouth|S3817|Power Pop;Pop;Pop Rock;Rock|All Star (song)",
 "Black Box|Everybody Everybody|1990|18N2k1TBBRE|Black Box (band)|S3216|Italo House;Dance;Electronic;Electronic Dance Music;House|Everybody Everybody (song)",
