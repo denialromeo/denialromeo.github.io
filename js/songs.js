@@ -9368,7 +9368,7 @@ const songs = [
 "The Internet|Roll (Burbank Funk)|2018|SIqvRzEIqIo|The Internet (band)|S16604|Funk;Neo-Soul;Psychedelic Soul;R&B;Soul|",
 "Bonnie Tyler|It's a Heartache|1978|bEOl38y8Nj8|Bonnie Tyler|S5590|Country Pop;Soft Rock;Country;Pop;Pop Rock;Rock|It's a Heartache",
 "Dusty Springfield|Just a Little Lovin'|1968|FLp3ff6OX-Q|Dusty Springfield|S13014|Baroque Pop;Pop|",
-"Minor Threat|Minor Threat|1981|Sdocmu6CyFs|Minor Threat|S3623|Hardcore Punk;Punk Rock;Rock|Minor Threat (album)",
+"Minor Threat|Minor Threat|1981|smM_bphb6pU|Minor Threat|S3623|Hardcore Punk;Punk Rock;Rock|Minor Threat (album)",
 "Neko Case|Night Still Comes|2013|qhnFl3Y2FVI|Neko Case|S11735|Singer/Songwriter|",
 "Emily Loizeau|L'autre bout du monde|2006|SiOMjzNUPvs|Emily Loizeau|S6273|Nouvelle chanson française;Chanson;Regional Music|Pocahontas (song)",
 "Todd Terje|Ragysh|2011|AdkYPxeLlYg|Todd Terje|S8780|Nu-Disco;Space Disco;Dance;Disco;Electro-Disco;Electronic;Electronic Dance Music;House|",
