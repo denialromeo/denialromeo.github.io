@@ -2276,7 +2276,7 @@ const songs = [
 "Marvin Gaye|I Want You|1975|gjRLbzxz_3Y|Marvin Gaye|S7460|Smooth Soul;R&B;Soul|I Want You (Marvin Gaye song)",
 "Jessie Ware|Wildest Moments|2012|bMJkddvJ4L4|Jessie Ware|S5051|Alternative R&B;Pop Soul;Contemporary R&B;Pop;R&B;Soul|Wildest Moments",
 "ABC|Poison Arrow|1982|a70yJwgQtzo|ABC (band)|S507|New Romantic;New Wave;Rock|Poison Arrow",
-"Van Morrison|Sweet Thing|1968|1XGLoUmeNHg|Van Morrison|S3643|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk|Sweet Thing (Van Morrison song)",
+"Van Morrison|Sweet Thing|1968|JFAp3aRJ2vA|Van Morrison|S3643|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk|Sweet Thing (Van Morrison song)",
 "João Gilberto|Chega de Saudade|1958|yUuJrpP0Mak|João Gilberto|S4376|Bossa Nova;Brazilian Music;Regional Music|Chega de Saudade",
 "The Smiths|Girlfriend in a Coma|1987|3GhoWZ5qTwI|The Smiths|S350|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Girlfriend in a Coma (song)",
 "Max Romeo|Chase the Devil|1976|XcMNfX5yh28|Max Romeo|S9291|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|Chase the Devil",
