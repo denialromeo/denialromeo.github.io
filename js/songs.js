@@ -7575,7 +7575,7 @@ const songs = [
 "Ten Years After|I'm Going Home|1968|dVsbUGs6FU0|Ten Years After|S8718|Blues Rock;Rock|",
 "Plan B|Ill Manors|2012|s8GvLKTsTuI|Plan B|S5033|Conscious Hip Hop;UK Hip Hop;Hip Hop|",
 "Hank Williams|Ramblin' Man|1953|V41gDDWEPso|Hank Williams|S9239|Country|Ramblin' Man (Hank Williams song)",
-"Brian Hyland|Sealed With a Kiss|1962|9755RnDqMFQ|Brian Hyland|S10292|Teen Pop;Pop|Sealed with a Kiss",
+"Brian Hyland|Sealed With a Kiss|1962|pMTPhkOAqe0|Brian Hyland|S10292|Teen Pop;Pop|Sealed with a Kiss",
 "John Coltrane|Alabama|1964|saN1BwlxJxA|John Coltrane|S13213|Post-Bop;Bebop;Jazz|",
 "The Last Poets|Niggers Are Scared of Revolution|1970|YehHbYVkF9U|The Last Poets|S14647|Jazz Poetry;Descriptor;Jazz;Poetry;Spoken Word|The Last Poets (album)",
 "Vess L. Ossman|Honolulu Cake Walk|1899|Sq3B_2JizCI|Vess Ossman|S15975|Cakewalk;American Folk Music;Folk;Ragtime;Regional Music;Traditional Folk Music|",
