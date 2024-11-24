@@ -10287,7 +10287,7 @@ const songs = [
 "Tove Lo|Cool Girl|2016|XsFneCExrCQ|Tove Lo|S16207|Dance-Pop;Electropop;Dance;Electronic;Pop|Cool Girl",
 "Dalida|Il venait d'avoir 18 ans|1974|zyDZc8QDlYY|Dalida|S10483|Chanson;French Pop;Pop;Regional Music|Il venait d'avoir 18 ans",
 "Rush|Limelight|1981|GXqzvdZ6WLo|Rush (band)|S12130|Progressive Rock;Rock|Limelight (Rush song)",
-"Built to Spill|Goin' Against Your Mind|2006|xC7DnBAL96k|Built to Spill|S5673|Indie Rock;Progressive Rock;Alternative Rock;Rock|Goin' Against Your Mind",
+"Built to Spill|Goin' Against Your Mind|2006|DqSJGoAWf1o|Built to Spill|S5673|Indie Rock;Progressive Rock;Alternative Rock;Rock|Goin' Against Your Mind",
 "Seu Jorge|Life on Mars?|2004|l-Sx_NgkpTs|Seu Jorge|S8367|Acoustic Rock;Film Soundtrack;Descriptor;Rock;Soundtracks|Life on Mars (song)",
 "Nirvana|Something in the Way|1991|aXap5hZaqZ8|Kurt Cobain|S11773|Acoustic Rock;Alternative Rock;Rock|Something in the Way",
 "Miranda Lambert|Vice|2016|zTlaRu_Wsl4|Miranda Lambert|S16150|Contemporary Country;Heartland Rock;Pop Rock;Country;Pop;Rock|Vice (Miranda Lambert song)",
