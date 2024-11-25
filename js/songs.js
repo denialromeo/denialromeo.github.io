@@ -3810,7 +3810,7 @@ const songs = [
 "James Taylor|You've Got a Friend|1971|nEFfzHiEKHY|James Taylor|S1733|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|You've Got a Friend",
 "Faron Young|Hello Walls|1961|HMSWAUAKJn0|Faron Young|S1133|Nashville Sound;Country;Country Pop;Pop|Hello Walls",
 "The Beatles|Getting Better|1967|EGlo9LzmOME|The Beatles|S3188|Pop Rock;Psychedelic Pop;Sunshine Pop;Pop;Rock|Getting Better",
-"Alice in Chains|Rooster|1992|sM26lUms4nM|Alice in Chains|S5161|Grunge;Alternative Rock;Rock|Rooster (song)",
+"Alice in Chains|Rooster|1992|uAE6Il6OTcs|Alice in Chains|S5161|Grunge;Alternative Rock;Rock|Rooster (song)",
 "Sonny Rollins|Blue Seven|1956|59aXJ8GvMYE|Sonny Rollins|S9359|Hard Bop;Bebop;Jazz|",
 "The Showmen|It Will Stand|1961|CqLZUhjvEgQ|The Showmen|S1137|New Orleans R&B;Rhythm & Blues;Rock & Roll;R&B;Rock|",
 "B.B. King|Rock Me Baby|1964|OK_AwCjK0Ak|B.B. King|S3539|Electric Blues;Blues|Rock Me Baby (song)",
