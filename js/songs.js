@@ -2759,7 +2759,7 @@ const songs = [
 "Midnight Oil|Power and the Passion|1982|6pKPNnk-JhE|Midnight Oil|S4199|New Wave;Post-Punk;Rock|",
 "Interpol|PDA|2002|3oL5QQ-6sQ0|Interpol (band)|S3497|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|",
 "Red Hot Chili Peppers|By the Way|2002|JnfyjwChuNU|Red Hot Chili Peppers|S2232|Alternative Rock;Funk Rock;Rock|By the Way (Red Hot Chili Peppers song)",
-"Love|A House Is Not a Motel|1967|2Z4LNBq3WxE|Love (band)|S12702|Folk Rock;Psychedelic Rock;Rock|A House Is Not a Motel",
+"Love|A House Is Not a Motel|1967|H3xzHYz6L5w|Love (band)|S12702|Folk Rock;Psychedelic Rock;Rock|A House Is Not a Motel",
 "Gerry Mulligan|Bernie's Tune|1952|smLzted93SM|Gerry Mulligan|S10933|Cool Jazz;Jazz|Bernie's Tune",
 "Garnet Mimms|Cry Baby|1963|CMs-NcuTJSg|Garnet Mimms|S1072|Soul;R&B|Cry Baby (Garnet Mimms song)",
 "Tampa Red & Georgia Tom|It's Tight Like That|1928|5_vSXGER9gM|Tampa Red|S15102|Acoustic Chicago Blues;Acoustic Blues;Blues|It's Tight Like That",
