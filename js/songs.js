@@ -9026,7 +9026,7 @@ const songs = [
 "Guy Béart|L'eau vive|1958|NkV8JQKSvdA|Guy Béart|S11000|Chanson;Regional Music|",
 "Deep Purple|Burn|1974|ydlrfKbExcs|Deep Purple|S10555|Hard Rock;Rock|Burn (Deep Purple song)",
 "Crowded House|Four Seasons in One Day|1991|si3dBlNdifE|Crowded House|S5909|Soft Rock;Pop;Pop Rock;Rock|Four Seasons in One Day",
-"Aretha Franklin|Jump to It|1982|1mgxp2vsHCg|Aretha Franklin|S3427|Boogie;Contemporary R&B;Dance;Disco;R&B|",
+"Aretha Franklin|Jump to It|1982|_-DmMLKbT8g|Aretha Franklin|S3427|Boogie;Contemporary R&B;Dance;Disco;R&B|",
 "The Who|Join Together|1972|_HDMCCLlGl4|The Who|S3956|Hard Rock;Rock|Join Together (The Who song)",
 "Babyshambles|Killamangiro|2004|1J5_NyR4CTk|Babyshambles|S5294|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|Killamangiro",
 "Genesis|Turn It On Again|1980|8OIkw9kJ0u4|Genesis (band)|S10911|Pop Rock;Progressive Pop;Pop;Rock|Turn It On Again",
