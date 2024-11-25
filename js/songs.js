@@ -10159,7 +10159,7 @@ const songs = [
 "Led Zeppelin|Friends|1970|Vl_2uqYW6FM|Led Zeppelin|S11386|Folk Rock;Rock|",
 "Bob Seger & The Silver Bullet Band|Rock and Roll Never Forgets|1976|QZ_kYEDZVno|Bob Seger|S10256|Heartland Rock;Rock|",
 "Royal Blood|Out of the Black|2013|VnTkH7ZvKKs|Royal Blood (band)|S13951|Alternative Rock;Garage Rock Revival;Hard Rock;Garage Rock;Rock|Figure It Out (Royal Blood song)",
-"Supertramp|School|1974|JgJRM_8GWHg|Supertramp|S12372|Art Rock;Progressive Rock;Rock|School (Supertramp song)",
+"Supertramp|School|1974|BznKC3Umc8A|Supertramp|S12372|Art Rock;Progressive Rock;Rock|School (Supertramp song)",
 "Stephan Eicher|Déjeuner en paix|1991|S7cP8jGMtAE|Stephan Eicher|S13633|Pop Rock;Pop;Rock|Déjeuner en paix",
 "Richard Anthony|Et j'entends siffler le train|1962|9J80X1niH38|https://fr.wikipedia.org/wiki/Richard_Anthony|S12061|Yé-yé;Pop|500 Miles",
 "Everything Everything|Schoolin'|2010|r0fb0G3hfjo|Everything Everything|S6324|Art Pop;Indietronica;Progressive Pop;Electronic;Pop|",
