@@ -2575,7 +2575,7 @@ const songs = [
 "Alton Ellis|I Am Still in Love|1977|ljeYJAdM7n0|Alton Ellis|S5182|Reggae;Rocksteady;Caribbean Music;Jamaican Music;Regional Music|",
 "Paul Anka|Diana|1957|Gve4gFhq7As|Paul Anka|S3153|Brill Building;Teen Pop;Pop|Diana (Paul Anka song)",
 "Bran Van 3000|Drinking in L.A.|1997|mrvB4i3BaRs|Bran Van 3000|S2136|Alternative Dance;Trip Hop;Alternative Rock;Dance;Downtempo;Electronic;Rock|Drinking in L.A.|",
-"LL Cool J|Rock the Bells|1985|4FbDOHFENEY|LL Cool J|S411|East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
+"LL Cool J|Rock the Bells|1985|HkECel3nCPE|LL Cool J|S411|East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "Dooley Wilson|As Time Goes By|1942|AlDuNqWKDak|Dooley Wilson|S6138|Traditional Pop;Pop|As Time Goes By (song)",
 "Joni Mitchell|Woodstock|1970|CEBmKi2xmoU|Joni Mitchell|S6998|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|Woodstock (song)",
 "Public Enemy|Black Steel in the Hour of Chaos|1988|ZM5_6js19eM|Public Enemy (band)|S3735|Conscious Hip Hop;East Coast Hip Hop;Hardcore Hip Hop;Political Hip Hop;Hip Hop|Black Steel in the Hour of Chaos",
