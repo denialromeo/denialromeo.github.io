@@ -6778,7 +6778,7 @@ const songs = [
 "Clap Your Hands Say Yeah|Over & Over Again (Lost & Found)|2005|jvw2cf0DJYA|Clap Your Hands Say Yeah|S5818|Indie Rock;Alternative Rock;Rock|",
 "The Marshall Tucker Band|Heard It in a Love Song|1977|SiLUTWcLCgU|The Marshall Tucker Band|S7444|Country Rock;Rock|Heard It in a Love Song",
 "Control Machete|¿Comprendes Mendes?|1997|lestFaZIl7A|Control Machete|S10456|Latin Rap;Hip Hop|",
-"Berthe Sylva|Les Roses Blanches|1926|sJXx7jZX39U|https://fr.wikipedia.org/wiki/Berthe_Sylva|S10153|Chanson;Regional Music|https://fr.wikipedia.org/wiki/Les_Roses_blanches",
+"Berthe Sylva|Les Roses Blanches|1926|aoCWM6xKymA|https://fr.wikipedia.org/wiki/Berthe_Sylva|S10153|Chanson;Regional Music|https://fr.wikipedia.org/wiki/Les_Roses_blanches",
 "Coldplay|Don't Panic|2000|yWeuUwpEQfs|Coldplay|S5854|Alternative Rock;Pop Rock;Pop;Rock|Don't Panic (Coldplay song)",
 "Echo and the Bunnymen|Seven Seas|1984|LbYxP11rbSM|Echo & the Bunnymen|S6189|Post-Punk;Rock|",
 "Beastie Boys|She's On It|1985|9PLfjhQG97I|Beastie Boys|S2356|East Coast Hip Hop;Rap Rock;Alternative Rock;Hip Hop;Rock|Girls (Beastie Boys song)",
