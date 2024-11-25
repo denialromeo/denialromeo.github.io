@@ -7173,7 +7173,7 @@ const songs = [
 "The Walker Brothers|No Regrets|1975|sptQj1MPIwg|The Walker Brothers|S8910|Baroque Pop;Soft Rock;Pop;Pop Rock;Rock|",
 "Nick Drake|Black Eyed Dog|1986|-y4T_wYJ7YE|Nick Drake|S7733|Folk Baroque;Singer/Songwriter;Contemporary Folk;English Folk Music;European Folk Music;Folk;Regional Music;Traditional Folk Music|",
 "Miguel Mateos|Cuando seas grande|1986|O4Uuq93763o|Miguel Mateos|S11637|Pop Rock;Pop;Rock|",
-"Gene Pitney|It Hurts to Be in Love|1964|TlN-rKMwF8M|Gene Pitney|S3707|Brill Building;Pop|It Hurts to Be in Love",
+"Gene Pitney|It Hurts to Be in Love|1964|KNTfNjXhjLg?start=6|Gene Pitney|S3707|Brill Building;Pop|It Hurts to Be in Love",
 "Ariana Grande|7 rings|2019|QYh6mYIJG2Y|Ariana Grande|S16733|Contemporary R&B;Pop Rap;Hip Hop;R&B|7 Rings",
 "James Brown|Papa Don't Take No Mess|1974|T0QQUps8954|James Brown|S11133|Funk;R&B|Papa Don't Take No Mess",
 "Florence + The Machine|Rabbit Heart (Raise It Up)|2009|GF6kBNLTvaU|Florence and the Machine|S6407|Art Pop;Chamber Pop;Baroque Pop;Indie Pop;Pop|Rabbit Heart (Raise It Up)",
