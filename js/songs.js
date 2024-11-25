@@ -8772,7 +8772,7 @@ const songs = [
 "James Brown|King Heroin|1972|DAslzMPpcik|James Brown|S11132|Soul Jazz;Spoken Word;Descriptor;Jazz|King Heroin",
 "Los Auténticos Decadentes|Loco (Tu forma de ser)|1989|AFwpWzOpfjQ|Los Auténticos Decadentes|S11469|Latin Alternative;Hispanic Music;Latin American Music;Regional Music|",
 "Razorlight|America|2006|V9NhncU5_CE|Razorlight|S8116|Alternative Rock;Pop Rock;Pop;Rock|America (Razorlight song)",
-"Arthur Gibbs & His Gang|Charleston|1924|vaFAFs43U7I|https://www.discogs.com/artist/3370337-Arthur-Gibbs-His-Gang|S14084|Swing;Jazz|Runnin' Wild (1922 song)",
+"Arthur Gibbs & His Gang|Charleston|1924|vaFAFs43U7I|https://www.discogs.com/artist/3370337-Arthur-Gibbs-His-Gang|S14084|Swing;Jazz|",
 "Porter Wagoner|A Satisfied Mind|1955|OyYCClHDrmU|Porter Wagoner|S9323|Country|A Satisfied Mind",
 "Fatboy Slim|Everybody Needs a 303|1996|o6eIBE7Bo3U|Fatboy Slim|S6353|Big Beat;Breakbeat;Dance;Electronic;Electronic Dance Music|",
 "Sly and the Family Stone|(You Caught Me) Smilin'|1971|5HLfsvErIC0|Sly and the Family Stone|S12829|Funk;Psychedelic Soul;R&B;Soul|",
