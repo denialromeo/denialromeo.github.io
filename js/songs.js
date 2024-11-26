@@ -5564,7 +5564,7 @@ const songs = [
 "Shuggie Otis|Information Ispiration|1974|pNgjmn3YrOM|Shuggie Otis|S12827|Funk;Psychedelic Soul;R&B;Soul|",
 "W.A.S.P.|Animal (F**k Like a Beast)|1984|7COTI8k-rgo|W.A.S.P. (band)|S8902|Heavy Metal;Metal;Rock|",
 "Prince|Diamonds & Pearls|1991|hwUKR_9Xdns|Prince (musician)|S8014|Pop Soul;Pop;R&B;Soul|",
-"Hole|Teenage Whore|1991|xm4cn_dKqms|Hole (band)|S4489|Grunge;Riot Grrrl;Alternative Rock;Punk Rock;Rock|Teenage Whore",
+"Hole|Teenage Whore|1991|2ajl3nJOksw|Hole (band)|S4489|Grunge;Riot Grrrl;Alternative Rock;Punk Rock;Rock|Teenage Whore",
 "Hot Chip|Huarache Lights|2015|oNidfSk-5Jw|Hot Chip|S9779|Indietronica;Synthpop;Electronic;Pop|",
 "Eddie Kendricks|Girl You Need a Change of Mind|1972|36RAB8sKeY4|Eddie Kendricks|S12784|Pop Soul;Pop;R&B;Soul|Girl You Need a Change of Mind",
 "Bruce Springsteen|Candy's Room|1978|CyPfb0vOVfo|Bruce Springsteen|S10306|Heartland Rock;Rock|Darkness on the Edge of Town",
