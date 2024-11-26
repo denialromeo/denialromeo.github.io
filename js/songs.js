@@ -2034,7 +2034,7 @@ const songs = [
 "Crosby, Stills, Nash (& Young)|Wooden Ships|1969|RmP6YNOETuo|Crosby, Stills, Nash & Young|S5903|Folk Rock;Psychedelic Folk;Psychedelic Rock;Contemporary Folk;Folk;Rock|",
 "Blind Faith|Can't Find My Way Home|1969|PJJnA6zEcGk|Blind Faith|S5492|Blues Rock;British Blues;Folk Rock;Blues;Electric Blues;Rock|Can't Find My Way Home",
 "Beastie Boys|Sure Shot|1994|JhqyZeUlE8U|Beastie Boys|S5356|East Coast Hip Hop;Hip Hop|Sure Shot",
-"Nolan Strong & The Diablos|The Wind|1954|bIVKaayaNaY|Nolan Strong & the Diablos|S1411|Doo-Wop;Descriptor;R&B;Vocal Group|The Wind (Nolan Strong & The Diablos song)",
+"Nolan Strong & The Diablos|The Wind|1954|Na3rCCPZoZo|Nolan Strong & the Diablos|S1411|Doo-Wop;Descriptor;R&B;Vocal Group|The Wind (Nolan Strong & The Diablos song)",
 "Duke Ellington|Ko-Ko|1940|5CO8_Ktro-w|Duke Ellington|S6167|Big Band;Swing;Jazz|Ko-Ko",
 "Fred Astaire|Cheek to Cheek|1935|HLBIcyuXCDU|Fred Astaire|S4870|Standards;Pop;Traditional Pop|Cheek to Cheek",
 "Jan and Dean|Surf City|1963|i0YkeQbn1ao|Jan and Dean|S1070|Surf Rock;Vocal Surf;Pop;Pop Rock;Rock;Surf Music|Surf City (song)",
