@@ -3667,7 +3667,7 @@ const songs = [
 "Elvis Presley|Crying in the Chapel|1965|CYOUcV7nlN8|Elvis Presley|S1455|Gospel;Pop;American Folk Music;Folk;Regional Music;Traditional Folk Music|Crying in the Chapel",
 "Nas|The World Is Yours|1994|e5PnuIRnJW8|Nas|S4503|Boom Bap;East Coast Hip Hop;Jazz Rap;Hip Hop|The World Is Yours (Nas song)",
 "Tegan and Sara|Closer|2012|9e9NSMY8QiQ|Tegan and Sara|S9526|Electropop;Electronic;Pop|Closer (Tegan and Sara song)",
-"ZZ Top|Tush|1975|-jB_QM73Slk|ZZ Top|S3994|Blues Rock;Hard Rock;Rock|Tush (ZZ Top song)",
+"ZZ Top|Tush|1975|WzU3iR3Wrog|ZZ Top|S3994|Blues Rock;Hard Rock;Rock|Tush (ZZ Top song)",
 "Sly and the Family Stone|If You Want Me to Stay|1973|gZFabOuF4Ps|Sly and the Family Stone|S2319|Funk;Soul;R&B|If You Want Me to Stay",
 "Craig, Francis|Near You|1947|CbZLpAMnclQ|Francis Craig|S6435|Traditional Pop;Pop|Near You",
 "The Beach Boys|I Just Wasn't Made for These Times|1966|216YJKbber8|The Beach Boys|S5343|Art Pop;Baroque Pop;Progressive Pop;Pop|I Just Wasn't Made for These Times",
