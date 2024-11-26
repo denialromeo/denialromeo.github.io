@@ -4914,7 +4914,7 @@ const songs = [
 "Alice Cooper|Halo of Flies|1971|fGOD1-NtxH8|Alice Cooper|S9968|Garage Rock;Glam Rock;Hard Rock;Rock|",
 "Donovan|Wear Your Love Like Heaven|1967|6bmruh9tKxM|Donovan|S3348|Psychedelic Pop;Pop|Wear Your Love Like Heaven",
 "ABBA|The Day Before You Came|1982|1HnOFwqpLRQ|ABBA|S4454|Europop;Synthpop;Electronic;Pop|The Day Before You Came",
-"Green Day|Wake Me Up When September Ends|2004|4zbVIsL8OOY|Green Day|S6643|Alternative Rock;Pop Rock;Pop;Rock|Wake Me Up When September Ends",
+"Green Day|Wake Me Up When September Ends|2004|NU9JoFKlaZ0|Green Day|S6643|Alternative Rock;Pop Rock;Pop;Rock|Wake Me Up When September Ends",
 "R. Kelly|Trapped in the Closet (Chapter 1 of 5)|2005|9mAyscj-NcU|R. Kelly|S3016|Contemporary R&B;R&B|Trapped in the Closet (Chapter 1)",
 "Commodores|Brick House|1977|67xfYARWQjk|Commodores|S2887|Funk;R&B|",
 "The Association|Windy|1967|RsY8l0Jg3lY|The Association|S5259|Sunshine Pop;Pop|Windy (The Association song)",
