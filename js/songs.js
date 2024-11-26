@@ -1345,7 +1345,7 @@ const songs = [
 "Bob Dylan|Not Dark Yet|1997|3t2su8xEDEU|Bob Dylan|S2133|Americana;Singer/Songwriter;Country|Not Dark Yet",
 "Diana Ross|Love Hangover|1976|qJTZrWv5Y9I|Diana Ross|S688|Disco;Soul;Dance;R&B|Love Hangover",
 "The Jackson 5|ABC|1970|ho7796-au8U|The Jackson 5|S1308|Bubblegum;Motown Sound;Pop;Pop Soul;R&B;Soul|ABC (The Jackson 5 song)",
-"Mission of Burma|That's When I Reach for My Revolver|1981|ZaQqshZbtEQ|Mission of Burma|S2610|Post-Punk;Rock|That's When I Reach for My Revolver",
+"Mission of Burma|That's When I Reach for My Revolver|1981|PpTKcv-SmR0|Mission of Burma|S2610|Post-Punk;Rock|That's When I Reach for My Revolver",
 "Jane's Addiction|Been Caught Stealing|1990|jrwjiO1MCVs|Jane's Addiction|S226|Alternative Rock;Funk Rock;Rock|Been Caught Stealing",
 "Tim Buckley|Song to the Siren|1970|vMTEtDBHGY4|Tim Buckley|S2553|Avant-Folk;Experimental Rock;Singer/Songwriter;Contemporary Folk;Folk;Rock|Song to the Siren",
 "Franz Ferdinand|Do You Want To|2005|1OJRRUnY--A|Franz Ferdinand (band)|S3009|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|",
