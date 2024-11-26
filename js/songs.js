@@ -7277,7 +7277,7 @@ const songs = [
 "Sigur Rós|Glósóli|2005|Bz8iEJeh26E|Sigur Rós|S8409|Post-Rock;Rock|",
 "Syd Barrett|Octopus|1969|hRegH4BPOuE|Syd Barrett|S8659|Psychedelic Folk;Psychedelic Rock;Singer/Songwriter;Contemporary Folk;Folk;Rock|Octopus (Syd Barrett song)",
 "Paul Van Dyk|For an Angel|1998|--3eIRSg2RY|Paul van Dyk|S14854|Uplifting Trance;Dance;Electronic;Electronic Dance Music;Trance|For an Angel",
-"The Gap Band|Burn Rubber (Why You Wanna Hurt Me)|1980|zSsXRWhfN3w|The Gap Band|S1579|Synth Funk;Funk;R&B|Burn Rubber on Me (Why You Wanna Hurt Me)",
+"The Gap Band|Burn Rubber on Me (Why You Wanna Hurt Me)|1980|tmcncGirAU4|The Gap Band|S1579|Synth Funk;Funk;R&B|Burn Rubber on Me (Why You Wanna Hurt Me)",
 "Blood Orange|Augustine|2016|NXtzcViZPGA|Dev Hynes|S16040|Alternative R&B;Synthpop;Contemporary R&B;Electronic;Pop;R&B|",
 "T'Pau|China in Your Hand|1987|O5ch-Z9HqV4|T'Pau (band)|S12692|Pop Rock;Pop;Rock|China in Your Hand",
 "The Roots|How I Got Over|2009|zI4D1QOLGuM|The Roots|S12109|Conscious Hip Hop;East Coast Hip Hop;Neo-Soul;Hip Hop;R&B;Soul|",
