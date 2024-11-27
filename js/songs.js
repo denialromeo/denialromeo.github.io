@@ -326,7 +326,7 @@ const songs = [
 "Hercules and Love Affair|Blind|2008|nnb0a-8OIB4|Hercules and Love Affair|S4720|Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House|Blind (Hercules and Love Affair song)",
 "Rage Against the Machine|Killing in the Name|1992|bWXazVhlyxQ|Rage Against the Machine|S133|Rap Metal;Alternative Metal;Metal;Rock|Killing in the Name",
 "Roy Orbison|Only the Lonely (Know the Way I Feel)|1960|UTR2IlAJEyQ|Roy Orbison|S1144|Pop|Only the Lonely",
-"The Cure|Just Like Heaven|1987|7ZtH4PQPwD0|The Cure|S356|Jangle Pop;New Wave;Alternative Rock;Pop;Pop Rock;Rock|Just Like Heaven (The Cure song)",
+"The Cure|Just Like Heaven|1987|n3nPiBai66M|The Cure|S356|Jangle Pop;New Wave;Alternative Rock;Pop;Pop Rock;Rock|Just Like Heaven (The Cure song)",
 "Eurythmics|Sweet Dreams (Are Made of This)|1983|qeMFqkcPYcg|Eurythmics|S464|Synthpop;Electronic;Pop|Sweet Dreams (Are Made of This)",
 "Peter Bjorn and John|Young Folks|2006|RnjWkJAgoiY|Peter Bjorn and John|S3056|Indie Pop;Pop|",
 "Sharon Van Etten|Seventeen|2019|j7sTHoeH0eA|Sharon Van Etten|S16861|Indie Pop;Synthpop;Electronic;Pop|",
