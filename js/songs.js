@@ -10781,7 +10781,7 @@ const songs = [
 "R.E.M.|Pretty Persuasion|1984|LPSnD8fQT_0|R.E.M.|S1922|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Pretty Persuasion (song)",
 "Depeche Mode|Get the Balance Right|1983|zfiISFiozg8|Depeche Mode|S1891|Synthpop;Electronic;Pop|",
 "Wire|Blessed State|1979|LeCI9kww3Dk|Wire (band)|S4190|Art Punk;Post-Punk;Punk Rock;Rock|Levitating (song)",
-"U-Roy|Wake the Town|1970|j-Nm6XtZUxQ|U-Roy|S2303|Deejay;Caribbean Music;Jamaican Music;Reggae;Regional Music|Wake the Town",
+"U-Roy|Wake the Town|1970|iEFwaENiPW4|U-Roy|S2303|Deejay;Caribbean Music;Jamaican Music;Reggae;Regional Music|Wake the Town",
 "LTJ Bukem|Horizons|1994|omJuxrA5NhM|LTJ Bukem|S2094|Atmospheric Drum and Bass;Dance;Drum and Bass;Electronic;Electronic Dance Music|",
 "Gram Parsons|Hickory Wind|1974|ZJKRA1ZIeiM|Gram Parsons|S2585|Country Rock;Rock|Hickory Wind",
 "Funky Four Plus One|Rappin' and Rocking the House|1979|L3SFuURpWr8|Funky 4 + 1|S3431|Disco Rap;East Coast Hip Hop;Hip Hop|",
