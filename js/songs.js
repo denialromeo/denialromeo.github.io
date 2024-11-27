@@ -569,7 +569,7 @@ const songs = [
 "Jimmie Rodgers|Blue Yodel (T for Texas)|1928|qEIBmGZxAhg|Jimmie Rodgers (country singer)|S2738|Country Yodeling;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music;Yodeling|Jimmie Rodgers",
 "Britney Spears|...Baby One More Time|1998|C-u5WLJ9Yk4|Britney Spears|S1378|Dance-Pop;Teen Pop;Dance;Pop|",
 "Pearl Jam|Jeremy|1991|bQtPzo-7AHs|Pearl Jam|S170|Grunge;Alternative Rock;Rock|Jeremy (song)",
-"Madonna|Vogue|1990|lTaXtWWR16A|Madonna (entertainer)|S230|Dance-Pop;House;Dance;Electronic;Electronic Dance Music;Pop|Vogue (Madonna song)",
+"Madonna|Vogue|1990|GuJQSAiODqI|Madonna (entertainer)|S230|Dance-Pop;House;Dance;Electronic;Electronic Dance Music;Pop|Vogue (Madonna song)",
 "U2|I Still Haven't Found What I'm Looking For|1987|e3-5YC_oHjE|U2|S347|Pop Rock;Pop;Rock|I Still Haven't Found What I'm Looking For",
 "Fleetwood Mac|Dreams|1977|Y3ywicffOj4|Fleetwood Mac|S1560|Soft Rock;Pop;Pop Rock;Rock|Dreams (Fleetwood Mac song)",
 "Lil Nas X feat. Billy Ray Cyrus|Old Town Road (Remix)|2019|w2Ov5jzm3j8|Lil Nas X|S16820|Country Rap;Pop Rap;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
