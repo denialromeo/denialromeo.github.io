@@ -3415,7 +3415,7 @@ const songs = [
 "Richard Thompson|1952 Vincent Black Lightning|1991|j0kJdrfzjAg|Richard Thompson (musician)|S4877|Folk Rock;Singer/Songwriter;Rock|1952 Vincent Black Lightning",
 "Arthur Alexander|You Better Move On|1961|FBBeRPwrZAs|Arthur Alexander|S4081|Rhythm & Blues;Southern Soul;R&B;Soul|You Better Move On (song)",
 "Sonic Youth|The Diamond Sea|1995|VpfZ60wqyUo|Sonic Youth|S3830|Alternative Rock;Noise Rock;Rock|Washing Machine (album)",
-"Peter Gabriel|Don't Give Up|1986|98lNKjwYtaU|Peter Gabriel|S3433|Art Pop;Pop|Don't Give Up (Peter Gabriel and Kate Bush song)",
+"Peter Gabriel|Don't Give Up|1986|VjEq-r2agqc|Peter Gabriel|S3433|Art Pop;Pop|Don't Give Up (Peter Gabriel and Kate Bush song)",
 "Fred Neil|Everybody's Talkin'|1966|V61hplKFVNc|Fred Neil|S3657|Contemporary Folk;Folk Rock;Singer/Songwriter;Folk;Rock|Everybody's Talkin'",
 "Sonic Youth|Schizophrenia|1987|rRLstSmWUno|Sonic Youth|S8488|Alternative Rock;Noise Rock;Rock|Sister (Sonic Youth album)",
 "Goldfrapp|Strict Machine|2003|YeawPUpTHJA|Goldfrapp|S6606|Electro-Disco;Electropop;Synthpop;Dance;Disco;Electronic;Electronic Dance Music;Pop|Strict Machine",
