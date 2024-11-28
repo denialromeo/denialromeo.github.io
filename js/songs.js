@@ -3769,7 +3769,7 @@ const songs = [
 "Mötley Crüe|Girls, Girls, Girls|1987|IT1SSMPhL7o|Mötley Crüe|S3650|Glam Metal;Hard Rock;Rock|Girls, Girls, Girls (Mötley Crüe song)",
 "Dean Martin|Everybody Loves Somebody|1964|z-2_OstpR5c|Dean Martin|S2827|Traditional Pop;Pop|Everybody Loves Somebody",
 "The Beach Boys|Surfer Girl|1963|CWWusowYad0|The Beach Boys|S5340|Doo-Wop;Descriptor;R&B;Vocal Group|Surfer Girl (song)",
-"The Rolling Stones|Shattered|1978|Jz1FUgGb_us|The Rolling Stones|S3776|Rock|Shattered (song)",
+"The Rolling Stones|Shattered|1978|W_4NzaPSVB4|The Rolling Stones|S3776|Rock|Shattered (song)",
 "Aimee Mann|Save Me|1999|HrtMemDVp-k|Aimee Mann|S3591|Film Soundtrack;Folk Pop;Pop Rock;Singer/Songwriter;Contemporary Folk;Descriptor;Folk;Pop;Rock;Soundtracks|Save Me (Aimee Mann song)",
 "Merle Haggard|Okie from Muskogee|1969|68cbjlLFl4U|Merle Haggard|S4127|Bakersfield Sound;Novelty;Country;Descriptor;Honky Tonk|Okie from Muskogee (song)",
 "George Michael|Jesus to a Child|1996|zNBj4EV_hAo|George Michael|S6539|Pop Soul;Sophisti-Pop;Pop;R&B;Soul|Jesus to a Child",
