@@ -10847,7 +10847,7 @@ const songs = [
 "Bobby Womack|Please Forgive My Heart|2012|z4LIP4UexdY|Bobby Womack|S5582|Southern Soul;R&B;Soul|",
 "Prince|I Wish U Heaven|1988|nomKVJTla6g|Prince (musician)|S11947|Pop Rock;Pop Soul;Pop;R&B;Rock;Soul|I Wish U Heaven",
 "The Hollies|Look Through Any Window|1965|CQp1IDVZdCg|The Hollies|S6723|Pop Rock;Pop;Rock|Look Through Any Window",
-"Leon Russell|Tight Rope|1972|tInVSaCI6Bo|Leon Russell|S13867|Piano Rock;Roots Rock;Pop;Pop Rock;Rock|Tight Rope (song)",
+"Leon Russell|Tight Rope|1972|Qvep3Vsv_uQ|Leon Russell|S13867|Piano Rock;Roots Rock;Pop;Pop Rock;Rock|Tight Rope (song)",
 "SebastiAn|Ross Ross Ross|2006|tMwbHf_S9jY|Sebastian (French musician)|S12174|Electro House;French House;Dance;Electronic;Electronic Dance Music;House|",
 "Massive Attack|Angel|1998|hbe3CQamF8k|Massive Attack|S11567|Trip Hop;Downtempo;Electronic|Angel (Massive Attack song)",
 "Alternative TV|Love Lies Limp|1977|u0Rhac7Y1YI|Alternative TV|S5180|Post-Punk;Reggae;Caribbean Music;Jamaican Music;Regional Music;Rock|",
