@@ -10688,7 +10688,7 @@ const songs = [
 "The Wedding Present|Nobody's Twisting Your Arm|1988|8DTHmPtOTBo|The Wedding Present|S8958|C86;Indie Rock;Jangle Pop;Alternative Rock;Indie Pop;Pop;Pop Rock;Rock|",
 "Huey Lewis and the News|Hip to Be Square|1986|HbF1g3k2mtw|Huey Lewis|S14488|Pop Rock;Pop;Rock|Hip to Be Square",
 "Dinosaur Jr.|Little Fury Things|1987|4WAFdBU88bg|Dinosaur Jr.|S10589|Indie Rock;Noise Rock;Alternative Rock;Rock|",
-"Tinie Tempah|Pass Out|2010|QzvGKas5RsU|Tinie Tempah|S12437|Pop Rap;UK Hip Hop;Hip Hop|",
+"Tinie Tempah|Pass Out|2010|QzvGKas5RsU|Tinie Tempah|S12437|Pop Rap;UK Hip Hop;Hip Hop|Pass Out (song)",
 "ZZ Top|Beer Drinkers & Hell Raisers|1973|ruT5nmwhiic|ZZ Top|S12662|Blues Rock;Hard Rock;Southern Rock;Rock|",
 "Miossec|Regarde un peu la France|1995|jB7sY3FzsEk|Miossec|S7565|Nouvelle chanson française;Chanson;Regional Music|",
 "Jacques Brel|Les Vieux|1963|AR8dtc3zZDU|Jacques Brel|S11114|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
