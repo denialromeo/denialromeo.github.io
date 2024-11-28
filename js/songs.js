@@ -5326,7 +5326,7 @@ const songs = [
 "Les Rita Mitsouko|Andy|1986|Ae-tP-rFJl0|Les Rita Mitsouko|S7250|French Pop;Pop|Andy (song)",
 "Mark Dinning|Teen Angel|1959|22oY2CuNCO4|Mark Dinning|S1169|Country Pop;Teen Pop;Country;Pop|Teen Angel (song)",
 "Mistinguett|Mon homme|1916|BFvYjlgqh4Q|Mistinguett|S7574|Chanson réaliste;Chanson;Regional Music|Mon Homme",
-"Genesis|Follow You Follow Me|1978|h9zj11gf9Qk|Genesis (band)|S6525|Pop Rock;Progressive Pop;Pop;Rock|Follow You Follow Me",
+"Genesis|Follow You Follow Me|1978|hAmCmNa-NSE|Genesis (band)|S6525|Pop Rock;Progressive Pop;Pop;Rock|Follow You Follow Me",
 "Air|Cherry Blossom Girl|2004|pmwuXVEhhIY|Air (French band)|S5122|Ambient Pop;Downtempo;Electronic;Pop|Cherry Blossom Girl",
 "Addison Groove|Footcrab|2010|gWfiog1Ure4|https://www.discogs.com/artist/1755506-Addison-Groove|S5101|Juke;UK Bass;Dance;Electronic;Electronic Dance Music;Ghetto House;House;UK Garage|",
 "The Police|Wrapped Around Your Finger|1983|svWINSRhQU0|The Police|S11936|New Wave;Pop Rock;Pop;Rock|",
