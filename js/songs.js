@@ -7017,7 +7017,7 @@ const songs = [
 "Jefferson Starship|Miracles|1975|7m8izf-oXY4|Jefferson Starship|S6890|Soft Rock;Pop;Pop Rock;Rock|Miracles (Jefferson Starship song)",
 "Joy Division|Heart and Soul|1980|atXB3qQ5CPU|Joy Division|S14605|Gothic Rock;Post-Punk;Rock|Closer (Joy Division album)",
 "Afroman|Because I Got High|2000|WeYsTmIzjkw|Afroman|S5113|Comedy Rap;Novelty;West Coast Hip Hop;Comedy;Descriptor;Hip Hop;Musical Comedy|Because I Got High",
-"The Soul Stirrers|By and By|1950|5qOoDM7cPKc|The Soul Stirrers|S15047|Traditional Black Gospel;American Folk Music;Folk;Gospel;Regional Music;Traditional Folk Music|",
+"The Soul Stirrers|By and By|1950|c8_iCpHP3QI|The Soul Stirrers|S15047|Traditional Black Gospel;American Folk Music;Folk;Gospel;Regional Music;Traditional Folk Music|",
 "A Tribe Called Quest|The Space Program|2016|qTrqmNieVKI|A Tribe Called Quest|S16014|Conscious Hip Hop;East Coast Hip Hop;Jazz Rap;Hip Hop|",
 "The Beatles|Glass Onion|1968|2tSIZLuCKUI|The Beatles|S10104|Psychedelic Rock;Rock|Glass Onion (song)",
 "L'Trimm|Cars with the Boom|1988|6fMERyRz498|L'Trimm|S3576|Miami Bass;Pop Rap;Southern Hip Hop;Hip Hop|",
