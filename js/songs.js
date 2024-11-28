@@ -7957,7 +7957,7 @@ const songs = [
 "Taraf de Haidouks|Balada conducatorolui|1991|IlWLuchrMuQ|Taraf de Haïdouks|S15105|Lăutari;Balkan Folk Music;Balkan Music;European Folk Music;Folk;Regional Music;Romanian Folk Music;Romanian Music;Traditional Folk Music|",
 "Avi Buffalo|What's in It For?|2009|Ug56buPtZ_s|Avi Buffalo|S5277|Indie Pop;Pop|",
 "My Chemical Romance|I'm Not Okay (I Promise)|2004|dhZTNgAs4Fc|My Chemical Romance|S11703|Emo-Pop;Pop Punk;Alternative Rock;Emo;Punk Rock;Rock|",
-"MC Shan|The Bridge|1986|_bVsRgDmNBg|MC Shan|S7488|East Coast Hip Hop;Hip Hop|",
+"MC Shan|The Bridge|1986|jjmpFZK6IXo|MC Shan|S7488|East Coast Hip Hop;Hip Hop|",
 "Tracy Bonham|Mother Mother|1995|2Xi8NvSetZc|Tracy Bonham|S15146|Alternative Rock;Rock|Mother Mother (song)",
 "Elton John|Sorry Seems to Be the Hardest Word|1976|c3nScN89Klo|Elton John|S3522|Pop;Singer/Songwriter|Sorry Seems to Be the Hardest Word",
 "The Smiths|Shoplifters of the World Unite|1987|lJRN76hxFz0|The Smiths|S8464|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Shoplifters of the World Unite",
