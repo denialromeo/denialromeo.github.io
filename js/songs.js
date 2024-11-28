@@ -2640,7 +2640,7 @@ const songs = [
 "Pretenders|Middle of the Road|1983|hONtmFgh3IQ|The Pretenders|S469|New Wave;Pop Rock;Pop;Rock|Middle of the Road (song)",
 "Viet Cong|Continental Shelf|2014|hdMz7BUtOvk|Preoccupations|S9661|Post-Punk;Rock|Viet Cong (album)",
 "Boris Vian|Le Déserteur|1955|gjndTXyk3mw|Boris Vian|S10276|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|Le Déserteur (Boris Vian song)",
-"Jones-Smith, Incorporated [Count Basie]|Oh, Lady Be Good|1936|2uuuj2OrdkQ|Count Basie|S11250|Swing;Jazz|",
+"Jones-Smith, Incorporated [Count Basie]|Oh Lady Be Good|1936|w1vmct8H5SA|Count Basie|S11250|Swing;Jazz|",
 "Eagles|Life in the Fast Lane|1976|po6QU0z1rSs|Eagles (band)|S2330|Pop Rock;Pop;Rock|Life in the Fast Lane",
 "Dixie Chicks|Not Ready to Make Nice|2006|pojL_35QlSI|Dixie Chicks|S4051|Country Pop;Country;Pop|",
 "Charles Mingus|Fables of Faubus|1959|48eAYnfgrAo|Charles Mingus|S5764|Post-Bop;Bebop;Jazz|Fables of Faubus",
