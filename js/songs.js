@@ -5078,7 +5078,7 @@ const songs = [
 "slowthai + Mura Masa|Doorman|2018|ICBkHaMOPXs|Mura Masa|S16865|Post-Punk;UK Hip Hop;Hip Hop;Rock|",
 "Bobby Hebb|Sunny|1966|ChZieeFVaBE|Bobby Hebb|S5573|Soul;R&B|Sunny (Bobby Hebb song)",
 "Hot Chip|I Feel Better|2010|IMS-gewLP44|Hot Chip|S4904|Electropop;Indietronica;Electronic;Pop|I Feel Better (Hot Chip song)",
-"Shabba Ranks|Mr. Loverman|1992|J83TLc4UrN0|Shabba Ranks|S3744|Pop Reggae;Ragga;Caribbean Music;Dancehall;Jamaican Music;Reggae;Regional Music|Mr. Loverman|",
+"Shabba Ranks|Mr. Loverman|1992|AcyGovsbQNI|Shabba Ranks|S3744|Pop Reggae;Ragga;Caribbean Music;Dancehall;Jamaican Music;Reggae;Regional Music|Mr. Loverman|",
 "Bruce Springsteen|Tenth Avenue Freeze Out|1975|KzrtlXuiV3Y|Bruce Springsteen|S5642|Heartland Rock;Rock|Tenth Avenue Freeze-Out",
 "Tom Waits|Ol' 55|1973|PejBkU4-1fk|Tom Waits|S12973|Singer/Songwriter|Ol' '55",
 "Feist|My Moon My Man|2007|ltYq-jalYm0|Feist (singer)|S4346|Indie Pop;Singer/Songwriter;Pop|My Moon My Man",
