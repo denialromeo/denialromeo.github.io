@@ -5534,7 +5534,7 @@ const songs = [
 "Prefab Sprout|Appetite|1985|NS0hpiN_z3g|Prefab Sprout|S3716|Pop Rock;Sophisti-Pop;Pop;Rock|Appetite (Prefab Sprout song)",
 "Nick Cave|Tupelo|1985|oSl4KX7zBTQ|Nick Cave|S7722|Post-Punk;Punk Blues;Punk Rock;Rock|",
 "Pierre Henry & Michel Colombier|Psyché Rock|1967|3LZbw6YCcm4|Pierre Henry|S7959|Experimental Rock;Psychedelic Rock;Rock|",
-"Little Walter|My Babe|1955|duRp_avXtMM|Little Walter|S9279|Chicago Blues;Rhythm & Blues;Blues;Electric Blues;R&B|My Babe",
+"Little Walter|My Babe|1955|eLTZjTUOCno|Little Walter|S9279|Chicago Blues;Rhythm & Blues;Blues;Electric Blues;R&B|My Babe",
 "Metallica|Disposable Heroes|1986|NoVavpbhBfM|Metallica|S14740|Thrash Metal;Metal;Rock|Disposable Heroes",
 "Katerine|Je vous emmerde|1999|v5Y9wqiqI34|Philippe Katerine|S7066|French Pop;Indie Pop;Pop|",
 "Eagles|Best of My Love|1974|_aB_6q1yDUI|Eagles (band)|S6183|Country Rock;Soft Rock;Pop;Pop Rock;Rock|Best of My Love (Eagles song)",
