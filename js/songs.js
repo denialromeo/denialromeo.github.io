@@ -10052,7 +10052,7 @@ const songs = [
 "Foxygen|No Destruction|2013|87jIdvGPDj4|Foxygen|S9452|Psychedelic Pop;Pop|",
 "Lower Dens|Brains|2012|OyxzjF8IjE8|Lower Dens|S11490|Dream Pop;Alternative Rock;Rock|",
 "Jay Som|The Bus Song|2017|1HAdAomWa3g|Jay Som|S16401|Dream Pop;Indie Rock;Alternative Rock;Rock|",
-"Zola Jesus|Sea Talk|2010|K9Ysz684yKc|Zola Jesus|S9111|Art Pop;Darkwave;Pop|",
+"Zola Jesus|Sea Talk|2010|DkSLSD3uvUY|Zola Jesus|S9111|Art Pop;Darkwave;Pop|",
 "Creedence Clearwater Revival|I Heard It Through the Grapevine|1970|wCCfc2vAuDU|Creedence Clearwater Revival|S10465|Swamp Rock;Rock;Roots Rock|I Heard It Through the Grapevine",
 "The Cult|Fire Woman|1989|8g6h1vI4Xv0|The Cult|S5923|Hard Rock;Rock|Fire Woman",
 "M.I.A.|Bring the Noize|2013|RvUVxYndYuU|M.I.A. (rapper)|S9484|Experimental Hip Hop;UK Hip Hop;Hip Hop|Bring the Noize",
