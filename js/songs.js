@@ -7000,7 +7000,7 @@ const songs = [
 "The Lovin' Spoonful|Nashville Cats|1966|vrvFx9-qTHI|The Lovin' Spoonful|S7341|Country Rock;Folk Rock;Rock|",
 "Bennie Moten's Kansas City Orchestra|South|1925|XAMqm9Ai2Sc|Bennie Moten|S13151|Big Band;Jazz|",
 "Donovan|Jennifer Juniper|1968|jlAoHaQbJkI|Donovan|S6135|Folk Pop;Contemporary Folk;Folk;Pop|Jennifer Juniper",
-"Ted Daffan's Texans|Born to Lose|1943|S7Jg4UrLJnk|Ted Daffan|S8697|Western Swing;Country|Born to Lose (Ted Daffan song)",
+"Ted Daffan's Texans|Born to Lose|1943|9xQD1RFUxOg|Ted Daffan|S8697|Western Swing;Country|Born to Lose (Ted Daffan song)",
 "Jagwar Ma|The Throw|2013|1vU6a7Haw78|Jagwar Ma|S9458|Baggy / Madchester;House;Neo-Psychedelia;Alternative Rock;Dance;Electronic;Electronic Dance Music;Psychedelic Rock;Rock|",
 "Crystal Castles|Untrust Us|2008|SpwZr5LY6MY|Crystal Castles|S5915|Bitpop;Electropop;Synthpop;Electronic;Pop|",
 "Earl Sweatshirt|Chum|2012|FCbWLSZrZfw|Earl Sweatshirt|S10671|West Coast Hip Hop;Hip Hop|",
