@@ -288,7 +288,7 @@ const songs = [
 "The Beatles|Something|1969|UelDrZ1aFeY|The Beatles|S878|Soft Rock;Pop;Pop Rock;Rock|Something (Beatles song)",
 "Johnny Cash|Ring of Fire|1963|5WyLhwYFgmk|Johnny Cash|S1067|Country|Ring of Fire (song)",
 "Marvin Gaye|Sexual Healing|1982|rjlSiASsUIs|Marvin Gaye|S482|Contemporary R&B;Smooth Soul;R&B;Soul|Sexual Healing",
-"Robert Johnson|Cross Road Blues|1936|Yd60nI4sa9A|Robert Johnson|S2706|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|Cross Road Blues",
+"Robert Johnson|Cross Road Blues|1936|Kxi4XkIVWLQ|Robert Johnson|S2706|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|Cross Road Blues",
 "AC/DC|Highway to Hell|1979|l482T0yNkeo|AC/DC|S576|Hard Rock;Rock|Highway to Hell (song)",
 "Steppenwolf|Born to Be Wild|1968|rzNA8C5Kzyo|Steppenwolf (band)|S911|Hard Rock;Rock|Born to Be Wild",
 "Daft Punk|Da Funk|1995|PwILkY9gRrc|Daft Punk|S80|Acid House;French House;Dance;Electronic;Electronic Dance Music;House|",
