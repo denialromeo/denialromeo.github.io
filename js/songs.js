@@ -5496,7 +5496,7 @@ const songs = [
 "Foals|Inhaler|2012|qJ_PMvjmC6M|Foals (band)|S9450|Indie Rock;Alternative Rock;Rock|Inhaler (Foals song)",
 "B.G.|Bling Bling|1999|2FnRnKHS5ds|B.G. (rapper)|S5286|Southern Hip Hop;Hip Hop|Bling Bling (song)",
 "Young Thug feat. Birdman|Constantly Hating|2015|Va9fNf4FZyM|Young Thug|S9873|Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
-"Seal|Kiss from a Rose|1994|AMD2TwRvuoU|Seal (musician)|S8337|Pop Soul;Pop;R&B;Soul|",
+"Seal|Kiss from a Rose|1994|hDd2G_V1rzc|Seal (musician)|S8337|Pop Soul;Pop;R&B;Soul|",
 "Drake|God's Plan|2018|xpVfcZ0ZcFM|Drake (musician)|S16565|Pop Rap;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|God's Plan (song)",
 "Mariah Carey|Emotions|1991|U7Nxc1BM3Pc|Mariah Carey|S7421|Contemporary R&B;Dance-Pop;Dance;Pop;R&B|Emotions (Mariah Carey song)",
 "Jerry Lee Lewis|Breathless|1958|8dQ4M8RYqCE|Jerry Lee Lewis|S6901|Rock & Roll;Rock|Breathless (Jerry Lee Lewis song)",
