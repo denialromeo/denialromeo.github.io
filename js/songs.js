@@ -5208,7 +5208,7 @@ const songs = [
 "Fountains of Wayne|Radiation Vibe|1996|rmqswLKKYyU|Fountains of Wayne|S3416|Indie Rock;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|",
 "Alaska y Dinarama|A quién le importa|1986|2uQhdDtdXg0|Alaska (singer)|S5145|Dance-Pop;Hi-NRG;Dance;Disco;Electro-Disco;Electronic;Electronic Dance Music;Pop|https://en.wikipedia.org/wiki/%C2%BFA_qui%C3%A9n_le_importa%3F",
 "Kate Nash|Foundations|2007|ryH5cga0yUI|Kate Nash|S4304|Indie Pop;Pop|Foundations (song)",
-"Creedence Clearwater Revival|Run Through the Jungle|1970|EbI0cMyyw_M|Creedence Clearwater Revival|S2549|Swamp Rock;Rock;Roots Rock|Run Through the Jungle",
+"Creedence Clearwater Revival|Run Through the Jungle|1970|_7PUPNxsRQ0|Creedence Clearwater Revival|S2549|Swamp Rock;Rock;Roots Rock|Run Through the Jungle",
 "Fever Ray/Karin Dreijer|When I Grow Up|2009|4F-CpE73o2M|Karin Dreijer|S4798|Art Pop;Indietronica;Electronic;Pop|",
 "Eno|Another Green World|1975|X1GH9WN92s0|Brian Eno|S10289|Ambient|",
 "The Supremes|Stoned Love|1970|D2ce7FWOAM8|Diana Ross|S8651|Girl Group;Motown Sound;Pop;Pop Soul;R&B;Soul|",
