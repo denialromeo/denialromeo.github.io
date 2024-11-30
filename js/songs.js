@@ -9306,7 +9306,7 @@ const songs = [
 "Bruce Springsteen|I'm Goin' Down|1985|j6-9p9O-nYw|Bruce Springsteen|S10311|Heartland Rock;Rock|I'm Goin' Down",
 "Dan Fogelberg|Part of the Plan|1974|WWBDfgbQE5c|Dan Fogelberg|S9199|Yacht Rock;Pop;Pop Rock;Rock|",
 "Queensrÿche|Silent Lucidity|1990|jhat-xUQ6dw|Queensrÿche|S8050|Progressive Rock;Rock|Silent Lucidity",
-"Jeanette|Porque te vas|1974|TjUhXbGdLYo|Jeanette (singer)|S11169|Canción melódica;Pop;Hispanic Music;Regional Music|Porque te vas",
+"Jeanette|Porque te vas|1974|TjUhXbGdLYo|Jeanette (Spanish singer)|S11169|Canción melódica;Pop;Hispanic Music;Regional Music|Porque te vas",
 "Mount Kimbie feat. King Krule|Blue Train Lines|2017|J1kzMFnFSh0|Mount Kimbie|S16452|Indietronica;Post-Punk;Synth Punk;Electronic;Punk Rock;Rock|",
 "Silver Convention|Get Up and Boogie|1976|GX3Wf6-9rXo|Silver Convention|S12893|Euro-Disco;Dance;Disco|Get Up and Boogie (song)",
 "Grandaddy|Hewlett's Daughter|2000|Ibshu3vkkgY|Grandaddy|S6629|Indie Pop;Indie Rock;Space Rock;Alternative Rock;Pop;Psychedelic Rock;Rock|",
