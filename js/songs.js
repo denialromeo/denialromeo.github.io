@@ -9488,7 +9488,7 @@ const songs = [
 "LL Cool J|Around the Way Girl|1990|Fwgt9Dxyyv0|LL Cool J|S11458|East Coast Hip Hop;Hip Hop|Around the Way Girl",
 "Junior M.A.F.I.A.|Get Money|1995|D8rG_2ed1wg|Junior M.A.F.I.A.|S11282|East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|Get Money",
 "Duke Ellington|Never No Lament (Don't Get Around Much Anymore)|1940|JXgm_mESXeE|Duke Ellington|S14331|Big Band;Jazz|Don't Get Around Much Anymore",
-"Billy Joel|River of Dreams|1993|hSq4B_zHqPM|Billy Joel|S5458|Pop|River of Dreams",
+"Billy Joel|The River of Dreams|1993|hSq4B_zHqPM|Billy Joel|S5458|Pop|The River of Dreams",
 "Stevie Wonder|Part-Time Lover|1985|MpDM6ygsb20|Stevie Wonder|S12322|Contemporary R&B;Pop Soul;Pop;R&B;Soul|Part-Time Lover",
 "Barnt|Geffen|2012|6W6zniId77Y|https://www.discogs.com/artist/1908766-Barnt|S10078|Tech House;Dance;Electronic;Electronic Dance Music;House;Techno|",
 "John Legend|Ordinary People|2004|PIh07c_P4hc|John Legend|S9258|Neo-Soul;Singer/Songwriter;R&B;Soul|Ordinary People (John Legend song)",
