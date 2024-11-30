@@ -1632,7 +1632,7 @@ const songs = [
 "LCD Soundsystem|I Can Change|2010|VmOt-U1eaDk|LCD Soundsystem|S4915|New Wave;Synthpop;Electronic;Pop;Rock|I Can Change (LCD Soundsystem song)",
 "Grimes|Flesh Without Blood|2015|Tv9YoYCKNoE|Grimes (musician)|S9771|Electropop;Electronic;Pop|Flesh Without Blood",
 "Le Tigre|Deceptacon|1999|-SyBR-M2YvU|Le Tigre|S3109|Dance-Punk;Post-Punk Revival;Riot Grrrl;Alternative Rock;Indie Rock;Post-Punk;Punk Rock;Rock|",
-"USA for Africa|We Are the World|1985|9AjkUyX0rVw|We Are the World|S409|Adult Contemporary;Pop Soul;Pop;R&B;Soul|",
+"USA for Africa|We Are the World|1985|9AjkUyX0rVw|We Are the World|S409|Adult Contemporary;Pop Soul;Pop;R&B;Soul|We Are the World",
 "David Bowie|Moonage Daydream|1972|JFDj3shXvco|David Bowie|S5963|Glam Rock;Rock|Moonage Daydream",
 "John Coltrane|Giant Steps|1960|KwIC6B_dvW4|John Coltrane|S9257|Hard Bop;Modal Jazz;Bebop;Jazz|Giant Steps (composition)",
 "Rufus & Chaka Khan|Ain't Nobody|1983|ycnuyo3MLbw|Rufus (band)|S1903|Contemporary R&B;Freestyle;Dance;Dance-Pop;Electronic;Electronic Dance Music;Pop;R&B|Ain't Nobody",
