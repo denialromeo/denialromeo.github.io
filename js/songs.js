@@ -688,7 +688,7 @@ const songs = [
 "Nirvana|Heart-Shaped Box|1993|by6lyNC3D9Y|Kurt Cobain|S123|Grunge;Alternative Rock;Rock|Heart-Shaped Box",
 "The 1975|Love It If We Made It|2018|1Wl1B7DPegc|The 1975|S16530|Pop Rock;Synthpop;Electronic;Pop;Rock|Love It If We Made It",
 "The Byrds|Turn! Turn! Turn! (To Everything There Is a Season)|1965|W3xgcmIS3YU|The Byrds|S1423|Folk Rock;Pop Rock;Pop;Rock|Turn! Turn! Turn!",
-"Public Image Ltd.|Public Image|1978|ylOCIP54PIQ|Public Image Ltd|S602|Post-Punk;Rock|",
+"Public Image Ltd.|Public Image|1978|JjzkNOzFVtg|Public Image Ltd|S602|Post-Punk;Rock|",
 "The B-52's|Rock Lobster|1978|n4QSYx4wVQg|The B-52's|S613|New Wave;Surf Punk;Punk Rock;Rock;Surf Music|Rock Lobster",
 "Les Paul & Mary Ford|How High the Moon|1951|NkGf1GHAxhE|Les Paul|S2766|Rhythm & Blues;Standards;Pop;R&B;Traditional Pop|",
 "Marvin Gaye|Inner City Blues (Make Me Wanna Holler)|1971|57Ykv1D0qEE|Marvin Gaye|S837|Smooth Soul;R&B;Soul|Inner City Blues (Make Me Wanna Holler)",
