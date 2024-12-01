@@ -3592,7 +3592,7 @@ const songs = [
 "Billie Eilish|Bury a Friend|2019|HUHC9tYz8ik|Billie Eilish|S16743|Alternative R&B;Electropop;Contemporary R&B;Electronic;Pop;R&B|Bury a Friend",
 "Raspberries|Overnight Sensation (Hit Record)|1974|ARkj12Y6Uh4|Raspberries (band)|S728|Power Pop;Pop;Pop Rock;Rock|",
 "Bruce Springsteen|Nebraska|1982|Oy2dpbGhaz8?start=44|Bruce Springsteen|S10314|Americana;Contemporary Folk;Singer/Songwriter;Country;Folk|Nebraska (album)",
-"Luther Ingram|(If Loving You Is Wrong) I Don't Want to Be Right|1972|FvJj7SN9EWI|Luther Ingram|S7353|Southern Soul;R&B;Soul|(If Loving You Is Wrong) I Don't Want to Be Right",
+"Luther Ingram|(If Loving You Is Wrong) I Don't Want to Be Right|1972|iYLVJqkErcI|Luther Ingram|S7353|Southern Soul;R&B;Soul|(If Loving You Is Wrong) I Don't Want to Be Right",
 "Pink|Get the Party Started|2001|mW1dbiD_zDk|Pink (singer)|S2223|Dance-Pop;Dance;Pop|Get the Party Started",
 "Charles Mingus|Track C - Group Dancers|1963|vv3DnIvCifI|Charles Mingus|S2818|Avant-Garde Jazz;Third Stream;Jazz|",
 "Henri Salvador|Syracuse|1963|223tksvu7uw|Henri Salvador|S4396|Chanson;French Pop;Pop;Regional Music|",
