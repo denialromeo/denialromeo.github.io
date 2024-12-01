@@ -7424,7 +7424,7 @@ const songs = [
 "Alice Coltrane|Universal Consciousness|1971|KqPZzSufPow|Alice Coltrane|S9965|Free Jazz;Spiritual Jazz;Avant-Garde Jazz;Jazz|",
 "Roxy Music|Mother of Pearl|1973|GhCOqj4Pyb8|Roxy Music|S1747|Art Rock;Glam Rock;Rock|",
 "Tommy Roe|Sheila|1962|c_BwauaXAlc|Tommy Roe|S8808|Pop Rock;Rock & Roll;Pop;Rock|Sheila (Tommy Roe song)",
-"Micachu|Golden Phone|2008|1w5Hj7RaU-o|Micachu|S7529|Art Pop;Indie Pop;Noise Pop;Alternative Rock;Pop;Rock|",
+"Micachu|Golden Phone|2008|cU6EMAgynGA|Micachu|S7529|Art Pop;Indie Pop;Noise Pop;Alternative Rock;Pop;Rock|",
 "Sloan|The Rest of My Life|2003|ygejqgBm9l0|Sloan (band)|S16010|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|The Rest of My Life (Sloan song)",
 "Spinto Band|Oh Mandy|2005|YykBPMHyLkU|The Spinto Band|S8530|Indie Pop;Pop|",
 "Blondie|Rip Her to Shreds|1976|WHsH_XLn-Zk|Debbie Harry|S10209|New Wave;Punk Rock;Rock|Rip Her to Shreds",
