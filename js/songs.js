@@ -10231,7 +10231,7 @@ const songs = [
 "Kevin Ayers|Lady Rachel|1969|iFxd3tKmN4o|Kevin Ayers|S13031|Art Rock;Psychedelic Rock;Rock|Joy of a Toy",
 "Concrete Blonde|Joey|1990|OdpTcvSn8HQ|Concrete Blonde|S5860|Alternative Rock;Pop Rock;Pop;Rock|Joey (Concrete Blonde song)",
 "Drake|Headlines|2011|cimoNqiulUE|Drake (musician)|S10650|Pop Rap;Hip Hop|Headlines (Drake song)",
-"Lush|De Luxe|1990|aKrw5wOlSng|Lush (band)|S2928|Shoegaze;Alternative Rock;Rock|",
+"Lush|De-Luxe|1990|aKrw5wOlSng|Lush (band)|S2928|Shoegaze;Alternative Rock;Rock|",
 "Eagles|The Long Run|1979|QyUW98ROjbk|Eagles (band)|S10668|Country Rock;Pop Rock;Pop;Rock|",
 "Billie Ray Martin|Your Loving Arms|1994|RVukIhibLYM|Billie Ray Martin|S5451|Euro House;Dance;Electronic;Electronic Dance Music;House|Your Loving Arms",
 "Adele|When We Were Young|2015|HeYMmrLA9aQ|Adele|S9701|Pop Soul;Pop;R&B;Soul|When We Were Young (Adele song)",
