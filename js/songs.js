@@ -4406,7 +4406,7 @@ const songs = [
 "The Beach Boys|Surfin' Safari|1962|KrPDLxmfWPM|The Beach Boys|S1107|Surf Rock;Vocal Surf;Pop;Pop Rock;Rock;Surf Music|Surfin' Safari (song)",
 "Miguel Ríos|Bienvenidos|1982|eWBbz6QyxkQ|Miguel Ríos|S11639|Rock|",
 "Stars|Your Ex-Lover Is Dead|2004|r5Or6-HOveg|Stars (Canadian band)|S8549|Chamber Pop;Baroque Pop;Indie Pop;Pop|Your Ex-Lover Is Dead",
-"Ace|How Long|1974|wAVl_IJV5eI|Ace (band)|S3132|Soft Rock;Pop;Pop Rock;Rock|",
+"Ace|How Long|1974|DP5DflRasOk|Ace (band)|S3132|Soft Rock;Pop;Pop Rock;Rock|How Long (Ace song)",
 "Tindersticks|City Sickness|1993|3c7QRP8mIt8|Tindersticks|S149|Chamber Pop;Baroque Pop;Indie Pop;Pop|",
 "Mariah Carey|Vision of Love|1990|700rLysz88s|Mariah Carey|S3262|Adult Contemporary;Pop Soul;Pop;R&B;Soul|",
 "Walter Huston|September Song|1938|7q38GRe4idU|Walter Huston|S4061|Film Soundtrack;Standards;Descriptor;Pop;Soundtracks;Traditional Pop|September Song",
