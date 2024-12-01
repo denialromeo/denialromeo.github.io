@@ -4075,7 +4075,7 @@ const songs = [
 "Kris Kristofferson|Sunday Mornin' Coming Down|1970|TXSl-cuv_iE|Kris Kristofferson|S4140|Progressive Country;Singer/Songwriter;Country|Sunday Mornin' Comin' Down",
 "Kool & The Gang|Jungle Boogie|1973|-BM5wPOe0xQ|Kool & the Gang|S11337|Funk;R&B|Jungle Boogie",
 "Edith Piaf|La Foule|1958|xvijcuD6lbU|Édith Piaf|S6205|Chanson;Regional Music|",
-"Sam Cooke|Having a Party|1962|M-5zlj49ugk|Sam Cooke|S3299|Soul;R&B|Having a Party (Sam Cooke song)",
+"Sam Cooke|Having a Party|1962|OmMbN_MrlTQ|Sam Cooke|S3299|Soul;R&B|Having a Party (Sam Cooke song)",
 "Thin Lizzy|Jailbreak|1976|At_rPiCCnpY|Thin Lizzy|S8741|Hard Rock;Rock|Jailbreak (Thin Lizzy song)",
 "Blur|There's No Other Way|1991|LJzCYSdrHMI|Blur (band)|S4487|Baggy / Madchester;Alternative Rock;Rock|There's No Other Way",
 "Lloyd Cole and the Commotions|Rattlesnakes|1984|gSc46sEZdl4|Lloyd Cole and the Commotions|S7289|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|",
