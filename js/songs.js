@@ -3578,7 +3578,7 @@ const songs = [
 "Aretha Franklin|Don't Play That Song|1970|6ktFUwPGWag|Aretha Franklin|S870|Southern Soul;R&B;Soul|Don't Play That Song (You Lied)",
 "Semisonic|Closing Time|1998|xGytDsqkQY8|Semisonic|S2163|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Closing Time (Semisonic song)",
 "The Soft Machine|Moon in June|1970|soQN0sMU0Ck?start=196|Soft Machine|S3828|Canterbury Scene;Jazz Fusion;Jazz-Rock;Jazz;Progressive Rock;Rock|Third (Soft Machine album)",
-"HEALTH|Die Slow|2009|P5KrIvgrlU0|Health (band)|S4805|Electro-Industrial;Noise Rock;Electronic;Industrial Music;Rock|",
+"HEALTH|Die Slow|2009|EWZxThGh5wQ|Health (band)|S4805|Electro-Industrial;Noise Rock;Electronic;Industrial Music;Rock|",
 "Dizzy Gillespie|Salt Peanuts|1945|QnF0YyPgJTE|Dizzy Gillespie|S10617|Bebop;Jazz|Salt Peanuts",
 "The Rolling Stones|Salt of the Earth|1968|eOiLH-2hTPQ|The Rolling Stones|S9341|Roots Rock;Rock|Salt of the Earth (song)",
 "Missy Elliott|Pass That Dutch|2003|4d5vtbVRT1c|Missy Elliott|S2393|Experimental Hip Hop;Pop Rap;Hip Hop|Pass That Dutch",
