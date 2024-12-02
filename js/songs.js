@@ -7442,7 +7442,7 @@ const songs = [
 "Rufus Wainwright|April Fools|1998|mIF6f3tFxBw|Rufus Wainwright|S8268|Chamber Pop;Pop Rock;Baroque Pop;Indie Pop;Pop;Rock|April Fools (song)",
 "Sly and Robbie|Boops (Here to Go)|1987|W7za90YerZI|Sly and Robbie|S1967|Electro;Dance;Electronic;Electronic Dance Music|Boops (Here to Go)",
 "Julien Clerc|Ma préférence|1978|1hjPwWfvXh4|Julien Clerc|S11275|Chanson;French Pop;Pop;Regional Music|",
-"Spike Jones|All I Want for Christmas (Is My Two Front Teeth)|1948|I-iFsxSNN2c|Spike Jones|S8525|Christmas Music;Musical Comedy;Novelty;Comedy;Descriptor;Holiday Music|All I Want for Christmas Is My Two Front Teeth",
+"Spike Jones|All I Want for Christmas (Is My Two Front Teeth)|1948|e-t2pWzTvqM|Spike Jones|S8525|Christmas Music;Musical Comedy;Novelty;Comedy;Descriptor;Holiday Music|All I Want for Christmas Is My Two Front Teeth",
 "Paul Weller|You Do Something to Me|1995|tM1rSTOs7Zs|Paul Weller|S7903|Blue Eyed Soul;Pop Rock;Pop;Rock|You Do Something to Me (Paul Weller song)",
 "Empress Of|When I'm With Him|2018|D4dtT-Pvrkk|Empress Of|S16573|Alternative R&B;Synthpop;Contemporary R&B;Electronic;Pop;R&B|",
 "Sham 69|If the Kids Are United|1978|2GQMIXGRjaw|Sham 69|S8375|Oi!;Punk Rock;Rock|If the Kids Are United",
