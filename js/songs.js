@@ -2325,7 +2325,7 @@ const songs = [
 "Hank Williams|Move It On Over|1947|-Lza3NVH6Ig|Hank Williams|S3963|Honky Tonk;Country|Move It On Over (song)",
 "Everclear|Santa Monica (Watch the World Die)|1995|MW6E_TNgCsY|Everclear (band)|S2124|Post-Grunge;Alternative Rock;Rock|Santa Monica (Everclear song)",
 "Lil' Louis|French Kiss|1989|CgOsg5vhwFY|Lil Louis|S268|Acid House;Chicago House;Dance;Electronic;Electronic Dance Music;House|French Kiss (Lil Louis song)",
-"Sly and the Family Stone|Stand!|1969|Q49vjFN6Fsw|Sly and the Family Stone|S899|Pop Soul;Psychedelic Soul;Pop;R&B;Soul|",
+"Sly and the Family Stone|Stand!|1969|XM1D82u5Hgk|Sly and the Family Stone|S899|Pop Soul;Psychedelic Soul;Pop;R&B;Soul|",
 "Johnny Boy|You Are the Generation that Bought More Shoes and You Get What You Deserve|2004|qp4GdI_bTD4|Johnny Boy|S4634|Indie Pop;Pop|",
 "Kanye West|Mercy|2012|7Dqgr0wNyPo|Kanye West|S5053|Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|Mercy (Kanye West song)",
 "Tommy Edwards|It's All in the Game|1958|eB_9YloCXok|Tommy Edwards|S3065|Traditional Pop;Pop|It's All in the Game (song)",
