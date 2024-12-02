@@ -4838,7 +4838,7 @@ const songs = [
 "Dream Warriors|My Definition of a Boombastic Jazz Style|1990|LoE5yHMrP0A|Dream Warriors (band)|S2019|Boom Bap;Jazz Rap;Hip Hop|",
 "Liz Phair|Divorce Song|1993|XyOlox5OagI|Liz Phair|S4586|Lo-Fi / Slacker Rock;Alternative Rock;Indie Rock;Rock|Exile in Guyville",
 "Juliana Hatfield Three|My Sister|1993|D-SHecsO2Y8|Juliana Hatfield|S128|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|My Sister (Juliana Hatfield song)",
-"Subway Sect|Ambition|1978|-yz5jvR9_Jo|Subway Sect|S1805|Punk Rock;Rock|",
+"Subway Sect|Ambition|1978|5qFzr-17AEw|Subway Sect|S1805|Punk Rock;Rock|",
 "Regina Spektor|Fidelity|2006|wigqKfLWjvM|Regina Spektor|S4019|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop|Samson (Regina Spektor song)",
 "Lana Del Rey|High by the Beach|2015|QnxpHIl5Ynw|Lana Del Rey|S9809|Art Pop;Pop|",
 "Technotronic|Pump Up the Jam|1989|9EcjWd-O4jI|Technotronic|S2927|Euro House;Eurodance;Hip House;Dance;Dance-Pop;Electronic;Electronic Dance Music;Hip Hop;House;Pop|Pump Up the Jam",
