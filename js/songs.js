@@ -10512,7 +10512,7 @@ const songs = [
 "The Blue Nile|Happiness|1996|1nhHy6OVOsw|The Blue Nile|S13694|Dream Pop;Sophisti-Pop;Alternative Rock;Pop;Rock|Happiness (The Blue Nile song)",
 "G-Love and Special Sauce|Cold Beverage|1994|pk9-28HgxfE|G. Love & Special Sauce|S6587|Blues Rock;Rap Rock;Alternative Rock;Rock|G. Love and Special Sauce (album)",
 "Vox Dei|Presente (El momento en que estás)|1970|fYz80x6fY-k|Vox Dei (band)|S12624|Hard Rock;Rock|",
-"Liars|Scarecrows on a Killer Slant|2010|iNEijb9s3lU|Liars (band)|S7257|Noise Rock;Punk Rock;Rock|",
+"Liars|Scarecrows on a Killer Slant|2010|0yS369wkv1A|Liars (band)|S7257|Noise Rock;Punk Rock;Rock|",
 "Elbow|Newborn|2000|w6teAV0cvv8|Elbow (band)|S6221|Alternative Rock;Art Rock;Rock|",
 "Beck|Gamma Ray|2008|NgzfncwjcCE|Beck|S5391|Alternative Rock;Rock|Gamma Ray (song)",
 "The Allman Brothers Band|Melissa|1972|71xvwVQABvw|The Allman Brothers Band|S5175|Blues Rock;Southern Rock;Rock|Melissa (song)",
