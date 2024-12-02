@@ -2802,7 +2802,7 @@ const songs = [
 "Bon Iver|Perth|2011|c3GN9CqxKAY?start=7|Bon Iver|S4948|Art Pop;Chamber Folk;Contemporary Folk;Folk;Pop|",
 "Benjamin Biolay|La Superbe|2009|xtmVTfGJUzA|Benjamin Biolay|S10142|Chamber Pop;French Pop;Nouvelle chanson française;Baroque Pop;Chanson;Indie Pop;Pop;Regional Music|",
 "Smokey Robinson and the Miracles|Going to a Go-Go|1965|sWt4Hz1KGcQ|The Miracles|S977|Motown Sound;Pop;Pop Soul;R&B;Soul|",
-"Jackson Browne|Late for the Sky|1974|kqYiHkx7ils|Jackson Browne|S2583|Singer/Songwriter|Late for the Sky",
+"Jackson Browne|Late for the Sky|1974|n3SJz9jujEA|Jackson Browne|S2583|Singer/Songwriter|Late for the Sky",
 "2Pac|Hail Mary|1996|vw-O1JdXcXk|Tupac Shakur|S5070|Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|Hail Mary (2Pac song)",
 "Elvis Presley|Blue Moon|1956|Ggi5Tq3XDRI|Elvis Presley|S1620|Pop|",
 "Christine and the Queens feat. Dâm-Funk|Girlfriend / Damn, dis-moi|2018|S0NMTuz9Duo|Christine and the Queens|S16540|Synth Funk;Synthpop;Electronic;Funk;Pop;R&B|Damn, dis-moi",
