@@ -9598,7 +9598,7 @@ const songs = [
 "O.C. Smith|Little Green Apples|1968|HnhrBGzcN3Q|O. C. Smith|S7777|Country Soul;R&B;Soul|Little Green Apples",
 "Shakira|Whenever, Wherever|2001|weRHyjj34ZE|Shakira|S12968|Latin Pop;Hispanic Music;Latin American Music;Pop;Regional Music|Whenever, Wherever",
 "Rick James|Mary Jane|1978|EnxztBl8ABw|Rick James|S12064|Funk;Smooth Soul;R&B;Soul|Mary Jane (Rick James song)",
-"Sam Mayo|Things Are Worse in Russia|1922|oOOo2_E_WQw|Sam Mayo|S14987|Music Hall;Musical Theatre and Entertainment|",
+"Sam Mayo|Things Are Worse in Russia|1922|Lh1cgNtzBfg|Sam Mayo|S14987|Music Hall;Musical Theatre and Entertainment|",
 "Iceage|Pain Killer|2018|4nbLSGDeQSE|Iceage|S16645|Art Punk;Post-Punk;Punk Rock;Rock|",
 "Louis Armstrong|Hotter Than That|1928|DegptkMFLUY|Louis Armstrong|S13554|Dixieland;Jazz|Louis Armstrong and His Hot Five",
 "Scritti Politti|Absolute|1984|teHqHmnXnhE|Scritti Politti|S15856|Sophisti-Pop;Synthpop;Electronic;Pop|",
