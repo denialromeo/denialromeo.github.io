@@ -130,10 +130,26 @@
     var regex = ""
     try {
     if ("artist" in params) {
-        pool = pool.filter(s => new RegExp(params.artist, "i").exec(s.split("|")[0]) !== null)
+        // Below accounts for accent marks so "Beyonce" matches "Beyoncé"
+        const normalizeString = (str) =>
+            str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+
+        pool = pool.filter(s => {
+            const normalizedArtist = normalizeString(params.artist);
+            const normalizedPoolArtist = normalizeString(s.split("|")[0]);
+            return new RegExp(normalizedArtist, "i").exec(normalizedPoolArtist) !== null;
+        });
     }
     if ("song" in params) {
-        pool = pool.filter(s => new RegExp(params.song, "i").exec(s.split("|")[1]) !== null)
+        // Below accounts for accent marks in song
+        const normalizeString = (str) =>
+            str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+
+        pool = pool.filter(s => {
+            const normalizedSong = normalizeString(params.song);
+            const normalizedPoolSong = normalizeString(s.split("|")[1]);
+            return new RegExp(normalizedSong, "i").exec(normalizedPoolSong) !== null;
+        });
     }
     if ("year" in params) {
         pool = pool.filter(s => new RegExp(params.year, "i").exec(s.split("|")[2]) !== null)
