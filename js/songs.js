@@ -3224,7 +3224,7 @@ const songs = [
 "B.B. King|Sweet Little Angel|1956|dNr_eIgP0tI|B.B. King|S2784|Electric Blues;Blues|",
 "Kendrick Lamar & SZA|All the Stars|2018|JQbjS0_ZfJ0|SZA|S16543|Contemporary R&B;Film Soundtrack;Descriptor;R&B;Soundtracks|All the Stars",
 "Purple Mountains|All My Happiness Is Gone|2019|XvUBbROsXBw|Purple Mountains|S16849|Indie Rock;Alternative Rock;Rock|",
-"Elton John|Love Lies Bleeding|1973|3p_xAToFzck|Elton John|S6238|Piano Rock;Progressive Pop;Progressive Rock;Pop;Pop Rock;Rock|Funeral for a Friend/Love Lies Bleeding",
+"Elton John|Love Lies Bleeding|1973|REfKNbNndzo|Elton John|S6238|Piano Rock;Progressive Pop;Progressive Rock;Pop;Pop Rock;Rock|Funeral for a Friend/Love Lies Bleeding",
 "Cream|I Feel Free|1966|gJktf4aTNvk|Cream (band)|S1677|Blues Rock;Psychedelic Pop;Psychedelic Rock;Pop;Rock|I Feel Free",
 "Billy Joel|Uptown Girl|1983|hCuMWrfXG4E|Billy Joel|S3520|Pop|Uptown Girl",
 "SBTRKT|Wildfire|2011|A-LEiOzXHWM|Sbtrkt|S4984|Alternative R&B;Dubstep;Future Garage;Contemporary R&B;Dance;Electronic;Electronic Dance Music;R&B;UK Garage|",
