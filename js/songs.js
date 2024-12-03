@@ -2004,7 +2004,7 @@ const songs = [
 "Eddie Cantor|Makin' Whoopee|1929|ANRPmTZRqkg|Eddie Cantor|S2656|Vaudeville;Musical Theatre and Entertainment|Makin' Whoopee",
 "Beach House|Zebra|2010|N-wfb25WmV4|Beach House|S4889|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock|Zebra (Beach House song)",
 "Spike Jones|Der Fuehrer's Face|1942|lWF8iRCan7I|Spike Jones|S4872|Musical Comedy;Novelty;Comedy;Descriptor|",
-"Bill Monroe|Mule Skinner Blues|1940|lIuuI00XY_Y|Bill Monroe|S2722|Bluegrass;Country Yodeling;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music;Yodeling|Mule Skinner Blues",
+"Bill Monroe|Mule Skinner Blues|1940|cH0vE45Ds-U|Bill Monroe|S2722|Bluegrass;Country Yodeling;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music;Yodeling|Mule Skinner Blues",
 "PJ Harvey|Sheela-Na-Gig|1992|Sjxr_No-yuY|PJ Harvey|S156|Grunge;Singer/Songwriter;Alternative Rock;Rock|Sheela-Na-Gig (song)",
 "Depeche Mode|Everything Counts|1983|1t-gK-9EIq4|Depeche Mode|S6039|Synthpop;Electronic;Pop|Everything Counts",
 "Hole|Doll Parts|1994|RD9xK9smth4|Hole (band)|S2084|Grunge;Alternative Rock;Rock|Doll Parts",
