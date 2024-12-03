@@ -9215,7 +9215,7 @@ const songs = [
 "The Sensations|Let Me In|1961|oHcdE2Ppr3s|The Sensations|S8351|Doo-Wop;Rhythm & Blues;Descriptor;R&B;Vocal Group|Let Me In (The Sensations song)",
 "Destiny's Child|No No No|1998|-0wbtk6_vpE|Destiny's Child|S14296|Contemporary R&B;R&B|No, No, No (Destiny's Child song)",
 "Robert Johnson|Me and the Devil Blues|1938|UF5e_fmRPh4|Robert Johnson|S12073|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|Me and the Devil Blues",
-"X|Fourth of July|1987|K_tyWt_9Bfs|X (American band)|S9074|Alternative Rock;Rock|",
+"X|Fourth of July|1987|BLInAn1LwZU|X (American band)|S9074|Alternative Rock;Rock|",
 "Serge Reggiani|Le Petit garçon|1967|qKlagLtCrhY|Serge Reggiani|S13623|Chanson;Regional Music|",
 "The Fixx|One Thing Leads to Another|1983|JHYIGy1dyd8|The Fixx|S6381|New Wave;Pop Rock;Pop;Rock|One Thing Leads to Another",
 "Edward Bear|Last Song|1972|yPeAL657lnk|Edward Bear|S15447|Singer/Songwriter;Soft Rock;Pop;Pop Rock;Rock|Last Song (Edward Bear song)",
