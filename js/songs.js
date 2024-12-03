@@ -2726,7 +2726,7 @@ const songs = [
 "Korn|Freak on a Leash|1998|jRGrNDV2mKc|Korn|S2169|Nu Metal;Alternative Metal;Metal;Rock|Freak on a Leash",
 "Oliver Nelson|Stolen Moments|1961|RbaGDDbpcQ4|Oliver Nelson|S7804|Post-Bop;Bebop;Jazz|",
 "The Rolling Stones|It's All Over Now|1964|UVpFf2DmFSM|The Rolling Stones|S3182|British Rhythm & Blues;R&B;Rhythm & Blues;Rock|It's All Over Now",
-"Buzzcocks|Boredom|1977|QfKdzpta-Ss|Buzzcocks|S5685|Punk Rock;Rock|",
+"Buzzcocks|Boredom|1977|IqFiS4iRvlU|Buzzcocks|S5685|Punk Rock;Rock|",
 "Malcolm McLaren|Buffalo Gals|1982|HCBN7lyLT4w|Malcolm McLaren|S494|East Coast Hip Hop;Electro;Turntablism;Dance;Electronic;Electronic Dance Music;Hip Hop|Buffalo Gals (Malcolm McLaren song)",
 "Alain Bashung|La nuit je mens|1998|4I2xOwixt4k|Alain Bashung|S5138|Nouvelle chanson française;Chanson;Regional Music|",
 "Electric Light Orchestra|Livin' Thing|1976|lvBOZCrJsAI|Electric Light Orchestra|S3390|Pop Rock;Symphonic Rock;Pop;Rock|Livin' Thing",
