@@ -3520,7 +3520,7 @@ const songs = [
 "Shakira|Hips Don't Lie|2006|DUT5rEU6pqM|Shakira|S4039|Dance-Pop;Latin Pop;Reggaeton;Dance;Hispanic Music;Latin American Music;Pop;Regional Music|Hips Don't Lie",
 "Faith No More|We Care a Lot|1985|LQhX8PbNUWI|Faith No More|S4574|Funk Metal;Alternative Metal;Metal;Rock|We Care a Lot (song)",
 "Natalia Lafourcade|Hasta la raíz|2015|IKmPci5VXz0|Natalia Lafourcade|S16313|Chamber Pop;Folk Pop;Nueva canción latinoameric;Baroque Pop;Contemporary Folk;Folk;Indie Pop;Pop|Hasta la Raíz (song)",
-"Joe Cocker|Up Where We Belong|1982|e06iWT9vSlI|Joe Cocker|S1880|Adult Contemporary;Film Soundtrack;Descriptor;Pop;Soundtracks|Up Where We Belong",
+"Joe Cocker|Up Where We Belong|1982|yg5a7zbUZ7k|Joe Cocker|S1880|Adult Contemporary;Film Soundtrack;Descriptor;Pop;Soundtracks|Up Where We Belong",
 "Drake|Know Yourself|2015|IV-XT27UOHo|Drake (musician)|S9743|Pop Rap;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|If You're Reading This It's Too Late",
 "The Platters|My Prayer|1956|DE0UMnrQBD0|The Platters|S3709|Doo-Wop;Traditional Pop;Descriptor;Pop;R&B;Vocal Group|",
 "Christina Aguilera|Beautiful|2002|eAfyFTzZDMM|Christina Aguilera|S2979|Adult Contemporary;Pop|Beautiful (Christina Aguilera song)",
