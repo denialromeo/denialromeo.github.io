@@ -8410,7 +8410,7 @@ const songs = [
 "Carlos Gardel|Mi Buenos Aires Querido|1934|tsAQZRYilFs|Carlos Gardel|S14216|Tango;Hispanic Music;Latin American Music;Regional Music|",
 "M People|How Can I Love You More?|1991|sAFza-IEo2o|M People|S2033|House;Pop Soul;Dance;Electronic;Electronic Dance Music;Pop;R&B;Soul|How Can I Love You More%3F",
 "Ivano Fossati|La costruzione di un amore|1988|o6PgXkjWGzk|Ivano Fossati|S13505|Singer/Songwriter|",
-"The Housemartins|Happy Hour|1986|KfDoPEN7n5k|The Housemartins|S4471|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|",
+"The Housemartins|Happy Hour|1986|H8rk9KpwEtc|The Housemartins|S4471|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|",
 "Charles Trenet|L'âme Des Poêtes|1951|1hfCVJUXHRs|Charles Trenet|S9182|Chanson;Regional Music|",
 "Father John Misty|Ballad of the Dying Man|2017|QVaafph6HSQ|Josh Tillman|S16369|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|Father John Misty",
 "The Allman Brothers Band|Ain't Wastin' Time No More|1972|VoU31TjQTRI|The Allman Brothers Band|S5174|Blues Rock;Jam Band;Southern Rock;Rock|Ain't Wastin' Time No More",
