@@ -3567,7 +3567,7 @@ const songs = [
 "Galaxie 500|Blue Thunder|1989|NFKKKockOu4|Galaxie 500|S4580|Dream Pop;Slowcore;Alternative Rock;Indie Rock;Rock|",
 "Howlin' Wolf|Killing Floor|1965|EGIE28q3fEA|Howlin' Wolf|S4093|Chicago Blues;Blues;Electric Blues|Killing Floor (Howlin' Wolf song)",
 "Adam and the Ants|Stand and Deliver|1981|4B2a6l6wM2k|Adam and the Ants|S3135|New Romantic;New Wave;Rock|Stand and Deliver (Adam and the Ants song)",
-"William DeVaughn|Be Thankful for What You Got|1974|-Hgc40yW1Pg|William DeVaughn|S9029|Funk;Soul;R&B|Be Thankful for What You Got",
+"William DeVaughn|Be Thankful for What You Got|1974|RXQxdj0N-es|William DeVaughn|S9029|Funk;Soul;R&B|Be Thankful for What You Got",
 "Kings of Leon|The Bucket|2004|calaQh9kDpQ|Kings of Leon|S7116|Indie Rock;Alternative Rock;Rock|",
 "The Shins|Phantom Limb|2007|OkITsv3Nk6M|The Shins|S4320|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|Phantom Limb (The Shins song)",
 "George Michael|I Want Your Sex|1987|vldh7oQD-a4|George Michael|S4208|Contemporary R&B;Dance-Pop;Dance;Pop;R&B|I Want Your Sex",
