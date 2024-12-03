@@ -7877,7 +7877,7 @@ const songs = [
 "LeVert|Casanova|1987|lrLurrxH5fk|LeVert|S2368|Freestyle;New Jack Swing;Pop Soul;Contemporary R&B;Dance;Dance-Pop;Electronic;Electronic Dance Music;Pop;R&B;Soul|",
 "Al Wilson|Show and Tell|1973|ddDgNqaERSE|Al Wilson (singer)|S12763|Smooth Soul;R&B;Soul|Show and Tell (song)",
 "Cher|Half-Breed|1973|Z6E98ZRaU1s|Cher|S13716|Pop|Half-Breed (song)",
-"Franco Battiato|La cura|1996|7KQeQOnBvZk|Franco Battiato|S13021|Italo Pop;Pop|",
+"Franco Battiato|La cura|1996|xTK-J5h2UEc|Franco Battiato|S13021|Italo Pop;Pop|",
 "The Mills Brothers|You Always Hurt the One You Love|1944|ONqAmDas9AY|The Mills Brothers|S14758|Traditional Pop;Vocal Group;Descriptor;Pop|",
 "Public Enemy|By the Time I Get to Arizona|1991|zrFOb_f7ubw|Public Enemy (band)|S11958|Conscious Hip Hop;East Coast Hip Hop;Hardcore Hip Hop;Political Hip Hop;Hip Hop|By the Time I Get to Arizona",
 "Mantronix|King of the Beats|1988|z_BxXeqvzvE|Mantronix|S1987|East Coast Hip Hop;Hip Hop|",
