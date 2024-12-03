@@ -8347,7 +8347,7 @@ const songs = [
 "Rickie Lee Jones|The Horses|1989|S-dMuyk5Pfc|Rickie Lee Jones|S4210|Singer/Songwriter|",
 "Dinosaur Jr.|Almost Ready|2007|DNcoroZEQUU?start=3|Dinosaur Jr.|S6079|Indie Rock;Alternative Rock;Rock|",
 "Ennio Morricone|The Ecstasy of Gold|1966|ZNGe7iK1O-4|Ennio Morricone|S12699|Film Score;Spaghetti Western;Cinematic Classical;Classical Music;Descriptor;Film Soundtrack;Soundtracks|",
-"Michel Delpech|Chez Laurette|1965|G8AXNSIe9A8|Michel Delpech|S11627|Chanson;Regional Music|",
+"Michel Delpech|Chez Laurette|1965|KJNDUJflo_c|Michel Delpech|S11627|Chanson;Regional Music|",
 "King Curtis|Memphis Soul Stew|1967|yRuLc2d5x5g|King Curtis|S11322|Funk;Rhythm & Blues;Soul;R&B|Memphis Soul Stew",
 "Perfume Genius|Mr. Peterson|2010|1-Aup2-Zs74|Perfume Genius|S7932|Indie Pop;Singer/Songwriter;Pop|",
 "Steve Miller Band|Rock'n Me|1976|KG2pveCKm4I|Steve Miller Band|S12312|Pop Rock;Pop;Rock|Rock'n Me",
