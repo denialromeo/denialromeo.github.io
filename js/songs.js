@@ -9822,7 +9822,7 @@ const songs = [
 "The Buoys|Timothy|1970|XjSmFq3j-8M|The Buoys (American band)|S3255|Baroque Pop;Pop Rock;Pop;Rock|Timothy (song)",
 "Javiera Mena|Otra era|2014|NUCZG09ehLM|Javiera Mena|S16918|Nu-Disco;Synthpop;Dance;Disco;Electronic;Electronic Dance Music;House;Pop|",
 "The Tough Alliance|Silly Crimes|2006|Zn5D3msfAUk|The Tough Alliance|S8826|Dance-Pop;Indietronica;Dance;Electronic;Pop|Marcus Söderlund",
-"Leño|Maneras de vivir|1981|2ZK5zNkFgXc|Leño|S11412|Boogie Rock;Hard Rock;Rock urbano español;Blues Rock;Rock|",
+"Leño|Maneras de vivir|1981|EwqIRV6g7-4|Leño|S11412|Boogie Rock;Hard Rock;Rock urbano español;Blues Rock;Rock|",
 "Candi Staton|I'm Just a Prisoner (Of Your Good Lovin')|1970|laSqW2MBt7E|Candi Staton|S14211|Southern Soul;R&B;Soul|",
 "Bryan Adams|Run to You|1984|_g2g2v4QiZM|Bryan Adams|S5660|AOR;Pop Rock;Pop;Rock|Run to You (Bryan Adams song)",
 "Kate Bush|The Big Sky|1985|sV7w5TaYjRA|Kate Bush|S7064|Art Pop;Art Rock;Progressive Pop;Pop;Rock|The Big Sky (song)",
