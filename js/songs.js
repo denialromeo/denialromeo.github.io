@@ -9683,7 +9683,7 @@ const songs = [
 "Jefferson Airplane|Today|1967|XzPDZINn9V0|Jefferson Airplane|S14548|Folk Rock;Psychedelic Folk;Contemporary Folk;Folk;Rock|",
 "Cerrone|Give Me Love|1977|kCP1m2ly_r0|Cerrone|S12858|Euro-Disco;Dance;Disco|",
 "Ed Sheeran|Shape of You|2017|JGwWNGJdvx8|Ed Sheeran|S16366|Dance-Pop;Dance;Pop|Shape of You",
-"Otis Clay|Trying to Live My Life Without You|1972|wcPe4ale96U|Otis Clay|S7827|Southern Soul;R&B;Soul|Tryin' to Live My Life Without You",
+"Otis Clay|Trying to Live My Life Without You|1972|feHdkQC-SCM|Otis Clay|S7827|Southern Soul;R&B;Soul|Tryin' to Live My Life Without You",
 "ScHoolboy Q|Collard Greens|2013|VKyUdfDOom8|Schoolboy Q|S9520|West Coast Hip Hop;Hip Hop|Collard Greens (song)",
 "Blur|Go Out|2015|Sp1ks7PTzng|Blur (band)|S16304|Alternative Rock;Rock|Out of Time (Blur song)",
 "Manuel Göttsching|E2-E4|1984|Vq-kovIr2BE|Manuel Göttsching|S11540|Progressive Electronic;Electronic|E2-E4",
