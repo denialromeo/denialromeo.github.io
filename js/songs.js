@@ -9092,7 +9092,7 @@ const songs = [
 "Poison|Every Rose Has Its Thorn|1988|j2r2nDhTzO4|Poison (American band)|S11927|Acoustic Rock;Pop Rock;Pop;Rock|",
 "The Impalas|Sorry (I Ran All the Way Home)|1959|ufz4-fRCwwo|The Impalas|S3493|Doo-Wop;Descriptor;R&B;Vocal Group|Sorry (I Ran All the Way Home)",
 "The Tragically Hip|New Orleans Is Sinking|1989|LAZUsCONjIQ|The Tragically Hip|S8832|Blues Rock;Rock|New Orleans Is Sinking",
-"Eugenio Finardi|Musica ribelle|1976|mAI_spKLTNk|Eugenio Finardi|S12939|Pop Rock;Singer/Songwriter;Pop;Rock|",
+"Eugenio Finardi|Musica ribelle|1976|U3p8TYtf-Ow|Eugenio Finardi|S12939|Pop Rock;Singer/Songwriter;Pop;Rock|",
 "Lucy Dacus|I Don't Wanna Be Funny Anymore|2015|88hQgxgqdo4|Lucy Dacus|S16136|Indie Rock;Alternative Rock;Rock|",
 "Onyx|Slam|1993|7ADgCeYJMN4|Onyx (hip hop group)|S7812|Boom Bap;East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|Slam (Onyx song)",
 "The Monkees|(I'm Not Your) Steppin' Stone|1966|ehWbMmFm6G0|The Monkees|S11674|Pop Rock;Pop;Rock|(I'm Not Your) Steppin' Stone",
