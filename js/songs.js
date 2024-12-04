@@ -10019,7 +10019,7 @@ const songs = [
 "Priests|Nothing Feels Natural|2017|EGb-53TTUqk|Priests (band)|S16470|Post-Punk;Rock|",
 "Arctic Monkeys|The Hellcat Spangled Lalalala|2011|dAlRXC19hmE|Arctic Monkeys|S5230|Indie Rock;Alternative Rock;Rock|",
 "Alvvays|In Undertow|2017|T1n72aCdwdU|Alvvays|S16328|Dream Pop;Indie Rock;Shoegaze;Alternative Rock;Rock|",
-"Primal Scream|Jailbird|1994|_i1O_O8sHlU|Primal Scream|S2951|Alternative Dance;Alternative Rock;Dance;Rock|",
+"Primal Scream|Jailbird|1994|zNH5aY9mHTo|Primal Scream|S2951|Alternative Dance;Alternative Rock;Dance;Rock|",
 "Kanye West|I Am a God|2013|KuQoQgL63Xo|Kanye West|S9472|Industrial Hip Hop;Experimental Hip Hop;Hip Hop;Industrial Music|I Am a God",
 "Chance the Rapper feat. Jeremih|Summer Friends|2016|rT4wUByldo4|Chance the Rapper|S16053|Alternative R&B;Pop Rap;Contemporary R&B;Hip Hop;R&B|",
 "Ibeyi feat. Kamasi Washington|Deathless|2017|yN8TUgkPnbU|Ibeyi|S16394|Art Pop;Neo-Soul;Trip Hop;Downtempo;Electronic;Pop;R&B;Soul|",
