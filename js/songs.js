@@ -7771,7 +7771,7 @@ const songs = [
 "Judy Clay and William Bell|Private Number|1968|ce8AQloV71k|Judy Clay|S926|Southern Soul;R&B;Soul|Private Number (Judy Clay and William Bell song)",
 "The Notorious B.I.G.|Who Shot Ya?|1995|ObCAe5iWfno|The Notorious B.I.G.|S11786|Boom Bap;East Coast Hip Hop;Gangsta Rap;Hardcore Hip Hop;Hip Hop|Who Shot Ya%3F",
 "Big & Rich|Save a Horse (Ride a Cowboy)|2004|S9ZbuIRPwFg|Big & Rich|S5431|Country Pop;Country Rock;Country;Pop;Rock|Save a Horse (Ride a Cowboy)",
-"People's Choice|Do It Any Way You Wanna|1975|qms17ZEZ7M8|The People's Choice (band)|S12888|Disco;Funk;Philly Soul;Dance;R&B;Soul|",
+"People's Choice|Do It Any Way You Wanna|1975|ienw4AvVXQU|The People's Choice (band)|S12888|Disco;Funk;Philly Soul;Dance;R&B;Soul|",
 "Paul Young|Every Time You Go Away|1985|nfk6sCzRTbM|Paul Young|S7905|Adult Contemporary;Blue Eyed Soul;Pop|Everytime You Go Away",
 "Jelly Roll Morton|Mr. Jelly Lord|1924|tk6gLhDvi58|Jelly Roll Morton|S15579|Ragtime;American Folk Music;Folk;Regional Music;Traditional Folk Music|",
 "Bob Mould|See a Little Light|1989|dDnNr6lNxvc|Bob Mould|S4211|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|See a Little Light",
