@@ -8815,7 +8815,7 @@ const songs = [
 "Tinariwen|Cler Achel|2007|qa7C2Z3PZak|Tinariwen|S8768|Tishoumaren;African Music;Berber Music;North African Music;Regional Music;Tuareg Music|",
 "Siouxsie and the Banshees|Kiss Them for Me|1991|VdSorRYIdp4?start=5|Siouxsie and the Banshees|S12215|Alternative Dance;Art Pop;Alternative Rock;Dance;Pop;Rock|Kiss Them for Me (song)",
 "Elton John|Take Me to the Pilot|1970|jcK9GxJFGj4|Elton John|S3523|Piano Rock;Pop;Pop Rock;Rock|Take Me to the Pilot",
-"Dan Deacon|Wham City|2007|g96nMbplwEY|Dan Deacon|S15389|Indietronica;Electronic|",
+"Dan Deacon|Wham City|2007|-rHNe83QSdU|Dan Deacon|S15389|Indietronica;Electronic|",
 "Judas Priest|You've Got Another Thing Comin'|1982|WtuoFv4dcwM|Judas Priest|S7015|Hard Rock;Heavy Metal;Metal;Rock|You've Got Another Thing Comin'",
 "Jefferson Airplane|Volunteers|1969|IsoqRvYqWDg|Jefferson Airplane|S6889|Psychedelic Rock;Rock|Volunteers (song)",
 "Hootie & The Blowfish|Only Wanna Be With You|1994|Ln6WQqRDrCo|Hootie & the Blowfish|S12945|Pop Rock;Pop;Rock|",
