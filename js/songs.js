@@ -2081,7 +2081,7 @@ const songs = [
 "The White Stripes|My Doorbell|2005|IlcMRq3gb1s|The White Stripes|S3031|Alternative Rock;Rock|My Doorbell",
 "Ladytron|Destroy Everything You Touch|2005|JTTwlAT_AwU|Ladytron|S4646|Electroclash;Electropop;Dance;Electronic;Electronic Dance Music;Pop|Destroy Everything You Touch",
 "Sophie B. Hawkins|Damn I Wish I Was Your Lover|1992|Lt6r-k9Bk6o|Sophie B. Hawkins|S2056|Pop Rock;Pop;Rock|Damn I Wish I Was Your Lover",
-"Leonard Cohen|Tower of Song|1988|oiAuXRK3Ogk|Leonard Cohen|S2627|Singer/Songwriter;Sophisti-Pop;Pop|Hallelujah (Leonard Cohen song)",
+"Leonard Cohen|Tower of Song|1988|nceRfJJZcP4|Leonard Cohen|S2627|Singer/Songwriter;Sophisti-Pop;Pop|Hallelujah (Leonard Cohen song)",
 "Danny Brown feat. Kendrick Lamar, Ab-Soul and Earl Sweatshirt|Really Doe|2016|CAYJPyww5Ho|Danny Brown|S16066|Hardcore Hip Hop;Hip Hop|",
 "The Lemonheads|It's a Shame About Ray|1992|NdU0fQzt0h8|The Lemonheads|S3556|Power Pop;Pop;Pop Rock;Rock|",
 "Beirut|Postcards from Italy|2006|X61BVv6pLtw|Beirut (band)|S4697|Indie Folk;Contemporary Folk;Folk|",
