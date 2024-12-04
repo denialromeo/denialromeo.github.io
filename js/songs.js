@@ -8661,7 +8661,7 @@ const songs = [
 "The National|Pink Rabbits|2013|LgxL45j6cKU|The National (band)|S9534|Indie Rock;Alternative Rock;Rock|Pink (singer)",
 "Trinity|Three Piece Suit|1977|CbPHcWbOCAY|Trinity (musician)|S12841|Deejay;Caribbean Music;Jamaican Music;Reggae;Regional Music|Uptown Top Ranking",
 "Against Me!|Thrash Unreal|2007|rzJ21OpFnZ0|Against Me!|S5116|Pop Punk;Punk Rock;Rock|",
-"Lambchop|The Old Gold Shoe|2000|_BtPq_-NZQg|Lambchop (band)|S7175|Chamber Pop;Baroque Pop;Indie Pop;Pop|",
+"Lambchop|The Old Gold Shoe|2000|6dASxhRjwrU|Lambchop (band)|S7175|Chamber Pop;Baroque Pop;Indie Pop;Pop|",
 "Pino Daniele|Napule è|1977|81pIF0VSfMo|Pino Daniele|S13594|Canzone d'autore;Contemporary Folk;Folk;Singer/Songwriter|",
 "Larry Williams|Dizzy, Miss Lizzy|1958|heMtNre-pXQ|Larry Williams|S1635|Rock & Roll;Rock|Dizzy, Miss Lizzy",
 "Lauryn Hill|Everything Is Everything|1998|i3_dOWYHS7I|Lauryn Hill|S11377|Contemporary R&B;R&B|Everything Is Everything (Lauryn Hill song)",
