@@ -1504,7 +1504,7 @@ const songs = [
 "Shannon|Let the Music Play|1983|_-0sUuGufmw|Shannon (American singer)|S474|Electro-Disco;Freestyle;Dance;Dance-Pop;Disco;Electronic;Electronic Dance Music;Pop|Let the Music Play (Shannon song)",
 "Foals|Spanish Sahara|2010|eYoINidnLRQ|Foals (band)|S4901|Art Rock;Indie Rock;Post-Rock;Alternative Rock;Rock|Spanish Sahara (song)",
 "Richard Harris|Macarthur Park|1968|z9i2I8K2u-w|Richard Harris|S3464|Baroque Pop;Pop|MacArthur Park (song)",
-"The Beatles|Taxman|1966|l0zaebtU-CA|The Beatles|S4096|Pop Rock;Pop;Rock|Taxman",
+"The Beatles|Taxman|1966|gMdcE8jdz70|The Beatles|S4096|Pop Rock;Pop;Rock|Taxman",
 "The Staple Singers|I'll Take You There|1972|sOgKppT85GY|The Staple Singers|S1319|Soul;R&B|I'll Take You There",
 "Dolly Parton|I Will Always Love You|1974|lKsQR72HY0s|Dolly Parton|S1756|Nashville Sound;Country;Country Pop;Pop|I Will Always Love You",
 "Prince|If I Was Your Girlfriend|1987|naLTT7aMOPY|Prince (musician)|S341|Contemporary R&B;Funk;Pop Rock;Pop;R&B;Rock|If I Was Your Girlfriend",
