@@ -1291,7 +1291,7 @@ const songs = [
 "The Rascals|Groovin'|1967|z-oZoB715iM|The Rascals|S944|Blue Eyed Soul;Pop Rock;Sunshine Pop;Pop;Rock|Groovin'",
 "The Horrors|Sea Within a Sea|2009|v7WAHnZPIX0|The Horrors|S4827|Neo-Psychedelia;Post-Punk;Psychedelic Rock;Rock|Sea Within a Sea",
 "Cat Power|The Greatest|2006|0KtrQ5nWl7w|Cat Power|S4016|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop|The Greatest (Cat Power album)",
-"Pink Floyd|Arnold Layne|1967|5neI304MOug|Pink Floyd|S1691|Psychedelic Pop;Psychedelic Rock;Pop;Rock|Arnold Layne",
+"Pink Floyd|Arnold Layne|1967|H3DGpINHX5Q|Pink Floyd|S1691|Psychedelic Pop;Psychedelic Rock;Pop;Rock|Arnold Layne",
 "Lydia Mendoza|Mal Hombre|1934|IpejsYhqN7M|Lydia Mendoza|S7355|Tejano;Hispanic Music;Latin American Music;Mexican Music;Regional Music|",
 "The Cure|Pictures of You|1989|pjb4EyEjdoY|The Cure|S2422|Dream Pop;Post-Punk;Alternative Rock;Rock|Pictures of You (The Cure song)",
 "The Who|The Kids Are Alright|1965|afam2nIae4o|The Who|S3959|Beat Music;Mod;Pop;Pop Rock;Rock|The Kids Are Alright (song)",
