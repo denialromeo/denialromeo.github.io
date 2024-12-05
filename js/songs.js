@@ -3154,7 +3154,7 @@ const songs = [
 "Prince|Pop Life|1985|0h75JL626Rg|Prince (musician)|S2914|Contemporary R&B;Funk;Pop Rock;Pop;R&B;Rock|Pop Life (Prince song)",
 "Tom Cochrane|Life Is a Highway|1991|U3sMjm9Eloo|Tom Cochrane|S3287|Country Rock;Pop Rock;Pop;Rock|Life Is a Highway",
 "George Jones|A Good Year for the Roses|1970|9MtdYqaLe4w|George Jones|S866|Country Pop;Country;Pop|",
-"Fats Waller|Handful of Keys|1929|5xdEb-1vbDs|Fats Waller|S2756|Stride;American Folk Music;Folk;Jazz;Ragtime;Regional Music;Traditional Folk Music|",
+"Fats Waller|Handful of Keys|1929|-kSrKs0mGBA|Fats Waller|S2756|Stride;American Folk Music;Folk;Jazz;Ragtime;Regional Music;Traditional Folk Music|",
 "The House of Love|Shine On|1987|rxUv79hejRU|The House of Love|S4273|Indie Pop;Jangle Pop;Post-Punk;Alternative Rock;Pop;Pop Rock;Rock|",
 "Metronomy|The Bay|2011|9PnOG67flRA|Metronomy|S4977|Indietronica;Synthpop;Electronic;Pop|",
 "Wire|I Am the Fly|1978|OnIXXe83fe4|Wire (band)|S3970|Art Punk;Post-Punk;Punk Rock;Rock|",
