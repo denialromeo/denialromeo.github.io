@@ -8926,7 +8926,7 @@ const songs = [
 "Spiritualized|Electricity|1997|4qXNyt8Lvsw|Spiritualized|S9362|Garage Rock;Neo-Psychedelia;Psychedelic Rock;Rock|",
 "The 1975|The Sound|2016|FSnAllHtG70|The 1975|S16196|Synthpop;Electronic;Pop|The Sound (The 1975 song)",
 "Queen|Tie Your Mother Down|1976|LvB2MnIIdMw?start=5|Queen (band)|S11979|Boogie Rock;Hard Rock;Blues Rock;Rock|Tie Your Mother Down",
-"David Bowie|The Bewlay Brothers|1971|aDRi30GNFMc|David Bowie|S10529|Art Rock;Folk Rock;Glam Rock;Singer/Songwriter;Rock|",
+"David Bowie|The Bewlay Brothers|1971|r8IGkLWmf4E|David Bowie|S10529|Art Rock;Folk Rock;Glam Rock;Singer/Songwriter;Rock|",
 "The Byrds|Everybody's Been Burned|1967|I7Uh8933Jvs|The Byrds|S5687|Folk Rock;Pop Rock;Psychedelic Pop;Pop;Rock|",
 "Aerosmith|Cryin'|1993|qfNmyxV2Ncw|Aerosmith|S5106|Hard Rock;Pop Rock;Pop;Rock|Cryin'",
 "Neil Young|Comes a Time|1978|qxH_4e7W7hc|Neil Young|S7689|Country;Folk Rock;Singer/Songwriter;Rock|Comes a Time",
