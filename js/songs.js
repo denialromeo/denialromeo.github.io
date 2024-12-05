@@ -7372,7 +7372,7 @@ const songs = [
 "Rage Against the Machine|Testify|1999|Q3dvbM6Pias|Rage Against the Machine|S12010|Rap Metal;Alternative Metal;Metal;Rock|Testify (Rage Against the Machine song)",
 "Wire|Map Ref. 41 Deg. N 93 Deg. W|1979|UKYbylOZB1o|Wire (band)|S9044|Art Punk;Post-Punk;Punk Rock;Rock|",
 "Kyuss|Green Machine|1992|R-MSfd2S7lo|Kyuss|S14640|Stoner Metal;Stoner Rock;Hard Rock;Metal;Rock|Green Machine (song)",
-"Clarence Williams' Blue Five|Wild Cat Blues|1923|ct31n3UGHYc|Clarence Williams (musician)|S13173|Jazz;Vaudeville Blues;Blues;Musical Theatre and Entertainment;Vaudeville|",
+"Clarence Williams' Blue Five|Wild Cat Blues|1923|uWBNi10wneY|Clarence Williams (musician)|S13173|Jazz;Vaudeville Blues;Blues;Musical Theatre and Entertainment;Vaudeville|",
 "Bentley Rhythm Ace|Bentley's Gonna Sort You Out|1997|3IWl77o3l50|Bentley Rhythm Ace|S2958|Big Beat;Breakbeat;Dance;Electronic;Electronic Dance Music|",
 "Clarence Carter|Slip Away|1968|tj8eAHn_2YM|Clarence Carter|S3265|Southern Soul;R&B;Soul|Slip Away (Clarence Carter song)",
 "King Crimson|Epitaph|1969|-C-HytsGYg0|King Crimson|S7106|Art Rock;Symphonic Prog;Progressive Rock;Rock|",
