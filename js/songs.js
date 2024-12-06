@@ -6438,7 +6438,7 @@ const songs = [
 "Robert Charlebois & Louise Forestier|Lindbergh|1968|PSqhNWoUt-Q|Robert Charlebois|S8175|Psychedelic Rock;Rock|",
 "Pat Benatar|Hit Me with Your Best Shot|1980|VopgyAc-F9U|Pat Benatar|S1855|Pop Rock;Pop;Rock|Hit Me with Your Best Shot",
 "Kent|Dom andra|2002|fWxUr_vDwwE|Kent (band)|S9268|Alternative Rock;Pop Rock;Pop;Rock|Dom andra",
-"Ice-T|Colors|1988|Gynkzibz8UI|Ice-T|S3491|Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|Colors (Ice-T song)",
+"Ice-T|Colors|1988|rYbrhAk_IQs|Ice-T|S3491|Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|Colors (Ice-T song)",
 "Kenny Rogers|Islands in the Stream|1983|HQW7I62TNOw|Kenny Rogers|S3769|Adult Contemporary;Urban Cowboy;Country;Country Pop;Pop|Islands in the Stream (song)",
 "Bob Dylan|Thunder on the Mountain|2006|CZN3SEgPtg8|Bob Dylan|S13700|Americana;Roots Rock;Country;Rock|Thunder on the Mountain",
 "The Clash|Rudie Can't Fail|1979|uEK9oK02D1M|The Clash|S5828|Reggae;Caribbean Music;Jamaican Music;Regional Music|Rudie Can't Fail",
