@@ -524,7 +524,7 @@ const songs = [
 "Foo Fighters|Everlong|1997|eBG7P-K-r1Y|Foo Fighters|S2142|Post-Grunge;Alternative Rock;Rock|Everlong",
 "Chubby Checker|The Twist|1960|QDGprGUreOc|Chubby Checker|S1156|Rhythm & Blues;Rock & Roll;R&B;Rock|The Twist (song)",
 "Arctic Monkeys|Do I Wanna Know?|2013|bpOSxM0rNPM|Arctic Monkeys|S9406|Indie Rock;Alternative Rock;Rock|Do I Wanna Know%3F",
-"Justice|D.A.N.C.E.|2007|tCnBrrnOefs|Justice (band)|S4275|French House;Dance;Electronic;Electronic Dance Music;House|D.A.N.C.E.",
+"Justice|D.A.N.C.E.|2007|sy1dYFGkPUE|Justice (band)|S4275|French House;Dance;Electronic;Electronic Dance Music;House|D.A.N.C.E.",
 "The Beatles|Revolution|1968|OmsXsIv2Ppw|The Beatles|S2523|Blues Rock;Hard Rock;Rock|Revolution (Beatles song)",
 "Missy Elliott|Work It|2002|cjIvu7e6Wq8|Missy Elliott|S1502|Pop Rap;Hip Hop|Work It (Missy Elliott song)",
 "Little Richard|Good Golly Miss Molly|1958|lQ6akiGRcL8|Little Richard|S1205|Rock & Roll;Rock|Good Golly, Miss Molly",
