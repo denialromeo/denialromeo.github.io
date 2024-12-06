@@ -294,7 +294,7 @@ const songs = [
 "Daft Punk|Da Funk|1995|PwILkY9gRrc|Daft Punk|S80|Acid House;French House;Dance;Electronic;Electronic Dance Music;House|",
 "Isaac Hayes|Theme from Shaft|1971|fTU_9T5ufzY|Isaac Hayes|S818|Film Soundtrack;Funk;Soul;Descriptor;R&B;Soundtracks|Theme from Shaft",
 "Pretenders|Brass in Pocket|1979|joCVE5VGNdo|The Pretenders|S585|New Wave;Rock|Brass in Pocket",
-"Big Joe Turner|Shake, Rattle and Roll|1954|YhELpSeeipg|Big Joe Turner|S1323|Jump-Blues;Rhythm & Blues;Rock & Roll;Blues;R&B;Rock|Shake, Rattle and Roll",
+"Big Joe Turner|Shake, Rattle and Roll|1954|lLmWzTSu5XY|Big Joe Turner|S1323|Jump-Blues;Rhythm & Blues;Rock & Roll;Blues;R&B;Rock|Shake, Rattle and Roll",
 "Muddy Waters|Hoochie Coochie Man|1954|fQ4NFsw4bOU|Muddy Waters|S1334|Chicago Blues;Blues;Electric Blues|",
 "Kanye West|Jesus Walks|2004|MYF7H_fpc-g|Kanye West|S2446|Christian Hip Hop;Hip Hop|Jesus Walks",
 "Leonard Cohen|Suzanne|1967|n_56ep729TE|Leonard Cohen|S3294|Contemporary Folk;Singer/Songwriter;Folk|Suzanne (Leonard Cohen song)",
