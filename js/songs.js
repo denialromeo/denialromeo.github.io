@@ -1329,7 +1329,7 @@ const songs = [
 "Hot Chip|Ready for the Floor|2008|Ah_QkwK4FY8|Hot Chip|S4721|Alternative Dance;Indietronica;Alternative Rock;Dance;Electronic;Rock|Ready for the Floor",
 "Buddy Holly & The Crickets|Rave On|1958|ToHPFjb_FJg|Buddy Holly|S1208|Rockabilly;Rock;Rock & Roll|Rave On",
 "Radiohead|Burn the Witch|2016|yI2oS2hoL0k|Radiohead|S16169|Art Pop;Chamber Pop;Baroque Pop;Indie Pop;Pop|Burn the Witch (Radiohead song)",
-"Duane Eddy|Rebel Rouser|1958|uGPG_Y-_BZI|Duane Eddy|S1211|Rock & Roll;Rock|Rebel-'Rouser",
+"Duane Eddy|Rebel Rouser|1958|yzvlPKozW-A|Duane Eddy|S1211|Rock & Roll;Rock|Rebel-'Rouser",
 "The Notorious B.I.G.|Mo Money Mo Problems|1997|gUhRKVIjJtw|The Notorious B.I.G.|S8|East Coast Hip Hop;Hip Hop|Mo Money Mo Problems",
 "Miguel|Adorn|2012|8dM5QYdTo08|Miguel (singer)|S5026|Alternative R&B;Contemporary R&B;R&B|Adorn (song)",
 "LL Cool J|I Can't Live Without My Radio|1985|6rWFDZ5f5DA|LL Cool J|S415|East Coast Hip Hop;Hip Hop|",
