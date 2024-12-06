@@ -2930,7 +2930,7 @@ const songs = [
 "Serge Gainsbourg|Le Poinçonneur des Lilas|1958|eWkWCFzkOvU|Serge Gainsbourg|S4375|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "TLC|Creep|1994|LlZydtG3xqI|TLC (group)|S116|Contemporary R&B;R&B|Creep (TLC song)",
 "D'Angelo|Untitled (How Does It Feel?)|2000|SxVNOnPyvIU|D'Angelo|S2195|Neo-Soul;Smooth Soul;R&B;Soul|Untitled (How Does It Feel)",
-"James Brown|Hot Pants (She Got to Use What She Got to Get What She Wants)|1971|7n14u8s9RTQ|James Brown|S1314|Funk;R&B|Hot Pants (James Brown song)",
+"James Brown|Hot Pants (She Got to Use What She Got to Get What She Wants)|1971|paG_q01Vr8A|James Brown|S1314|Funk;R&B|Hot Pants (James Brown song)",
 "Slick Rick|Children's Story|1988|HjNTu8jdukA|Slick Rick|S4477|Conscious Hip Hop;East Coast Hip Hop;Hip Hop|Children's Story",
 "Bob Marley and the Wailers|Simmer Down|1964|7xo-BCAjMiM|Bob Marley|S8907|Reggae;Caribbean Music;Jamaican Music;Regional Music|",
 "The Dramatics|Whatcha See Is Whatcha Get|1971|PgG6SU8L-dI|The Dramatics|S2562|Funk;Soul;R&B|Whatcha See Is Whatcha Get (song)",
