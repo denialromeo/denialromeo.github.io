@@ -7244,7 +7244,7 @@ const songs = [
 "The Wedding Present|Kennedy|1989|PuNYyNqCSSg|The Wedding Present|S8960|C86;Indie Rock;Jangle Pop;Alternative Rock;Indie Pop;Pop;Pop Rock;Rock|",
 "Big Sean feat. Drake & Kanye West|Blessings|2015|M6t47RI4bns|Big Sean|S9710|Cloud Rap;Pop Rap;Hip Hop|",
 "IDLES|Colossus|2018|VODKZxsRa_E|Idles|S16578|Art Punk;Post-Punk;Punk Rock;Rock|",
-"The Temptations|The Way You Do the Things You Do|1964|cDakhsaPTE0|The Temptations|S3892|Motown Sound;Pop;Pop Soul;R&B;Soul|",
+"The Temptations|The Way You Do the Things You Do|1964|7Pw0VO64YU4|The Temptations|S3892|Motown Sound;Pop;Pop Soul;R&B;Soul|",
 "Howard Tate|Ain't Nobody Home|1966|sYWJczQ-5QU|Howard Tate|S6745|Southern Soul;R&B;Soul|",
 "10cc|Rubber Bullets|1973|-tqSIpr0T0w|10cc|S5061|Pop Rock;Rock & Roll;Pop;Rock|Rubber Bullets",
 "Dorothy Moore|Misty Blue|1975|2Zj3ISRpKrk|Dorothy Moore|S2882|Deep Soul;R&B;Soul;Southern Soul|Misty Blue",
