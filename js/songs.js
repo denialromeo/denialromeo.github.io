@@ -478,7 +478,7 @@ const songs = [
 "Beck|Where It's At|1996|EPfmNxKLDG4|Beck|S37|Alternative Dance;Funk Rock;Alternative Rock;Dance;Rock|Where It's At (Beck song)",
 "Nirvana|Come As You Are|1991|EU-Hd_dsg4c|Kurt Cobain|S2041|Grunge;Alternative Rock;Rock|Come as You Are (Nirvana song)",
 "R.E.M.|Everybody Hurts|1992|k2hGmoWFzaA|R.E.M.|S130|Alternative Rock;Pop Rock;Pop;Rock|Everybody Hurts",
-"Justice|We Are Your Friends|2006|nr90nbqxuZk|Simian (band)|S4045|Electro House;Dance;Electronic;Electronic Dance Music;House|We Are Your Friends (song)",
+"Justice|We Are Your Friends|2006|6zo1-XlazvY|Justice (band)|S4045|Electro House;Dance;Electronic;Electronic Dance Music;House|We Are Your Friends (song)",
 "The Walkmen|The Rat|2004|aWR1h-5EzUo|The Walkmen|S2451|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|The Rat (song)",
 "James Taylor|Fire and Rain|1970|_1nKGVDhQ60?start=14|James Taylor|S860|Folk Rock;Singer/Songwriter;Soft Rock;Pop;Pop Rock;Rock|Fire and Rain (song)",
 "James Brown|It's a Man's Man's Man's World|1966|eRWY217v6ok?start=76|James Brown|S983|Deep Soul;R&B;Soul;Southern Soul|It's a Man's Man's Man's World",
