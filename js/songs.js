@@ -9222,7 +9222,7 @@ const songs = [
 "Ja Rule|Holla, Holla|1999|X9gpqiNabuo|Ja Rule|S11098|East Coast Hip Hop;Hip Hop|",
 "Paolo Conte|Max|1987|dSIg58v0Epc|Paolo Conte|S7845|Singer/Songwriter|Max",
 "Fabrizio De André|Il pescatore|1970|vnlNzjSvPXU|Fabrizio De André|S12986|Canzone d'autore;Contemporary Folk;Folk;Singer/Songwriter|",
-"Los Teen Tops|La Plaga|1960|Ecmg3JPR0Lg|https://es.wikipedia.org/wiki/Los_Teen_Tops|S13552|Rock & Roll;Rock|",
+"Los Teen Tops|La Plaga|1960|7ikNQ6qSzoA|https://es.wikipedia.org/wiki/Los_Teen_Tops|S13552|Rock & Roll;Rock|",
 "Bonnie \"Prince\" Billy|Death to Everyone|1999|89G991iYssM|Bonnie \"Prince\" Billy|S13007|Alt-Country;Singer/Songwriter;Country|",
 "Babasónicos|El Loco|2001|a2cKv33Gkks|Babasónicos|S13387|Art Rock;Psychedelic Rock;Rock|Loco",
 "Stone Temple Pilots|Big Bang Baby|1996|G0gAxuvo5rc|Stone Temple Pilots|S12327|Alternative Rock;Rock|",
