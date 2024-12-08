@@ -7284,7 +7284,7 @@ const songs = [
 "Massive Attack|Hymn of the Big Wheel|1991|5gROA1iJK2k|Massive Attack|S7468|Trip Hop;Downtempo;Electronic|",
 "Gorky's Zygotic Mynci|Patio Song|1996|NHxqASIdrs4|Gorky's Zygotic Mynci|S9234|Indie Pop;Psychedelic Folk;Psychedelic Pop;Contemporary Folk;Folk;Pop|",
 "Billy Idol|Eyes Without a Face|1983|9OFpfTd0EIs|Billy Idol|S10171|New Wave;Pop Rock;Pop;Rock|Eyes Without a Face (song)",
-"Roxy Music|Re-make / Re-model|1972|kWhzG9cQGgc|Roxy Music|S12115|Art Rock;Glam Rock;Rock|Re-Make/Re-Model",
+"Roxy Music|Re-Make/Re-Model|1972|kWhzG9cQGgc|Roxy Music|S12115|Art Rock;Glam Rock;Rock|Re-Make/Re-Model",
 "Al Dexter|Pistol Packin' Mama|1943|64D5u0ycf1s|Al Dexter|S2673|Honky Tonk;Western Swing;Country|Pistol Packin' Mama",
 "Leon Bridges|Bad Bad News|2018|cztfyj1dVgk|Leon Bridges|S16580|Neo-Soul;R&B;Soul|",
 "Premiata Forneria Marconi|Impressioni di settembre|1971|DS76YKxiOKU|Premiata Forneria Marconi|S13599|Symphonic Prog;Progressive Rock;Rock|",
