@@ -5562,7 +5562,7 @@ const songs = [
 "The Go! Team|Ladyflash|2004|ixn2RlLUr64|The Go! Team|S6592|Alternative Dance;Indietronica;Alternative Rock;Dance;Electronic;Rock|",
 "Lana Del Rey|Hope Is a Dangerous Thing for a Woman Like Me to Have – but I Have It|2019|rY2LUmLw_DQ|Lana Del Rey|S16816|Singer/Songwriter|Hope Is a Dangerous Thing for a Woman Like Me to Have – but I Have It",
 "Shuggie Otis|Information Ispiration|1974|pNgjmn3YrOM|Shuggie Otis|S12827|Funk;Psychedelic Soul;R&B;Soul|",
-"W.A.S.P.|Animal (F**k Like a Beast)|1984|7COTI8k-rgo|W.A.S.P. (band)|S8902|Heavy Metal;Metal;Rock|",
+"W.A.S.P.|Animal (F**k Like a Beast)|1984|EtzOkuDAaaI|W.A.S.P. (band)|S8902|Heavy Metal;Metal;Rock|Animal (F**k Like a Beast)",
 "Prince|Diamonds & Pearls|1991|hwUKR_9Xdns|Prince (musician)|S8014|Pop Soul;Pop;R&B;Soul|",
 "Hole|Teenage Whore|1991|2ajl3nJOksw|Hole (band)|S4489|Grunge;Riot Grrrl;Alternative Rock;Punk Rock;Rock|Teenage Whore",
 "Hot Chip|Huarache Lights|2015|9S0ONyRctyE|Hot Chip|S9779|Indietronica;Synthpop;Electronic;Pop|",
