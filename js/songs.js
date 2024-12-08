@@ -8331,7 +8331,7 @@ const songs = [
 "Billy Ray Cyrus|Achy Breaky Heart|1992|byQIPdHMpjc|Billy Ray Cyrus|S5463|Country Pop;Country;Pop|Achy Breaky Heart",
 "Phil Collins|Another Day in Paradise|1989|Qt2mbGP6vFI|Phil Collins|S7953|Pop Rock;Pop;Rock|Another Day in Paradise",
 "Phosphorescent|New Birth in New England|2018|wn27g_eKP5I|Phosphorescent (band)|S16613|Americana;Country Pop;Country;Pop|",
-"Salem|King Night|2010|pwDvi7BFJGw|Salem (American band)|S8304|Post-Industrial;Witch House;Electronic;Industrial Music|",
+"Salem|King Night|2010|lCkQea6i9oI|Salem (American band)|S8304|Post-Industrial;Witch House;Electronic;Industrial Music|",
 "Liam Gallagher|Wall of Glass|2017|YdJc7-ZEuT0|Liam Gallagher|S16434|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Wall of Glass",
 "Sade|By Your Side|2000|C8QJmI_V3j4|Sade (band)|S4843|Smooth Soul;R&B;Soul|By Your Side (Sade song)",
 "Pavement|Major Leagues|1999|qWmXoHLF0LE|Pavement (band)|S7910|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|",
