@@ -5565,7 +5565,7 @@ const songs = [
 "W.A.S.P.|Animal (F**k Like a Beast)|1984|7COTI8k-rgo|W.A.S.P. (band)|S8902|Heavy Metal;Metal;Rock|",
 "Prince|Diamonds & Pearls|1991|hwUKR_9Xdns|Prince (musician)|S8014|Pop Soul;Pop;R&B;Soul|",
 "Hole|Teenage Whore|1991|2ajl3nJOksw|Hole (band)|S4489|Grunge;Riot Grrrl;Alternative Rock;Punk Rock;Rock|Teenage Whore",
-"Hot Chip|Huarache Lights|2015|oNidfSk-5Jw|Hot Chip|S9779|Indietronica;Synthpop;Electronic;Pop|",
+"Hot Chip|Huarache Lights|2015|9S0ONyRctyE|Hot Chip|S9779|Indietronica;Synthpop;Electronic;Pop|",
 "Eddie Kendricks|Girl You Need a Change of Mind|1972|36RAB8sKeY4|Eddie Kendricks|S12784|Pop Soul;Pop;R&B;Soul|Girl You Need a Change of Mind",
 "Bruce Springsteen|Candy's Room|1978|CyPfb0vOVfo|Bruce Springsteen|S10306|Heartland Rock;Rock|Darkness on the Edge of Town",
 "Solange|Binz|2019|83LeK-t-kTw|Solange Knowles|S16866|Alternative R&B;Art Pop;Contemporary R&B;Pop;R&B|When I Get Home (album)",
