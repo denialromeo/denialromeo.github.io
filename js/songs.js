@@ -1670,7 +1670,7 @@ const songs = [
 "Peter Gabriel|Games Without Frontiers|1980|3xZmlUV8muY|Peter Gabriel|S1845|Art Rock;Pop Rock;Pop;Rock|Games Without Frontiers (song)",
 "Fugees|Killing Me Softly|1996|H-RBJNqdnoM|Fugees|S49|Contemporary R&B;Neo-Soul;Pop Soul;Pop;R&B;Soul|",
 "Slayer|Raining Blood|1986|cbyswHABG3Q|Slayer|S1948|Thrash Metal;Metal;Rock|Raining Blood",
-"S'Express|Theme from S-Express|1988|NGbUOlTLzqk|S'Express|S316|Acid House;Dance;Electronic;Electronic Dance Music;House|Theme from S-Express",
+"S'Express|Theme from S-Express|1988|kAc7ZUcVj3Y|S'Express|S316|Acid House;Dance;Electronic;Electronic Dance Music;House|Theme from S-Express",
 "Garbage|Stupid Girl|1995|2GhPUAVgHZc|Garbage (band)|S43|Alternative Rock;Rock|Stupid Girl (Garbage song)",
 "Bob Dylan|It's All Over Now, Baby Blue|1965|zcWaHBOFkUw|Bob Dylan|S1667|Contemporary Folk;Singer/Songwriter;Folk|It's All Over Now, Baby Blue",
 "Leo Reisman|Night and Day|1932|ofz4he-EMZQ|Leo Reisman|S2735|Standards;Pop;Traditional Pop|Night and Day (song)",
