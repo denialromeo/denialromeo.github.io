@@ -8825,7 +8825,7 @@ const songs = [
 "Nicolas Jaar|Space Is Only Noise If You Can See|2011|V-_c0o8LAaM|Nicolas Jaar|S7739|Ambient House;Microhouse;Dance;Electronic;Electronic Dance Music;House|",
 "Bruce Springsteen|Cover Me|1984|E6sJ9bZ8B14|Bruce Springsteen|S5650|Heartland Rock;Pop Rock;Pop;Rock|Cover Me (Bruce Springsteen song)",
 "Pépé Bradock|Deep Burnt|1999|QTvFzBS6e68|https://fr.wikipedia.org/wiki/P%C3%A9p%C3%A9_Bradock|S11876|Deep House;French House;Dance;Electronic;Electronic Dance Music;House|Music for the Uninvited",
-"King Princess|1950|2018|vh1biB8Mlr8|King Princess|S16607|Alternative R&B;Pop Soul;Contemporary R&B;Pop;R&B;Soul|",
+"King Princess|1950|2018|vh1biB8Mlr8|King Princess|S16607|Alternative R&B;Pop Soul;Contemporary R&B;Pop;R&B;Soul|1950 (song)",
 "J Balvin and Bad Bunny|La canción|2019|LxOTsiV4tkQ|J Balvin|S16796|Reggaeton;Hispanic Music;Latin American Music;Regional Music|",
 "T.I.|Rubber Band Man|2003|xjDT3rMSQLQ|T.I.|S8666|Dirty South;Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|Rubber Band Man",
 "Interpol|Untitled|2002|e3z4mNDQj9E|Interpol (band)|S6790|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|Untitled",
