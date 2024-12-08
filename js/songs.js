@@ -169,7 +169,7 @@ const songs = [
 "Prince|Purple Rain|1984|347vCib_lMs|Prince (musician)|S441|Pop Rock;Psychedelic Soul;Pop;R&B;Rock;Soul|Purple Rain (song)",
 "Kate Bush|Wuthering Heights|1978|-1pMMIe4hb4|Kate Bush|S610|Art Pop;Pop|Wuthering Heights (song)",
 "Bruce Springsteen|Born in the U.S.A.|1984|EPhWR4d3FJQ|Bruce Springsteen|S434|Heartland Rock;Pop Rock;Pop;Rock|Born in the U.S.A. (song)",
-"MGMT|Kids|2007|yrskHYRfC0c|MGMT|S4735|Electropop;Indietronica;Synthpop;Electronic;Pop|Kids (MGMT song)",
+"MGMT|Kids|2007|fe4EK4HSPkI|MGMT|S4735|Electropop;Indietronica;Synthpop;Electronic;Pop|Kids (MGMT song)",
 "Dr. Dre|Nuthin' But a 'G' Thang|1992|UGDVl32R6-g|Dr. Dre|S124|G-Funk;Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|Nuthin' but a 'G' Thang",
 "Buddy Holly & The Crickets|Peggy Sue|1957|bfu_gfPBPWc|Buddy Holly|S1234|Rockabilly;Rock;Rock & Roll|Everyday (Buddy Holly song)",
 "Jefferson Airplane|White Rabbit|1967|pnJM_jC7j_4|Jefferson Airplane|S950|Psychedelic Rock;Rock|White Rabbit (song)",
