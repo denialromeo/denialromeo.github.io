@@ -7043,7 +7043,7 @@ const songs = [
 "Paul McCartney and Wings|Listen to What the Man Said|1975|YxslbXDBmaY|Paul McCartney and Wings|S11866|Pop Rock;Pop;Rock|Listen to What the Man Said",
 "The Sisters of Mercy|Temple of Love|1983|evu3I0ZoERc|The Sisters of Mercy|S12217|Gothic Rock;Rock|Temple of Love (The Sisters of Mercy song)",
 "Steve Forbert|Romeo's Tune|1979|yE79UxDu7Xc|Steve Forbert|S8570|Heartland Rock;Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|Romeo's Tune",
-"The Fat White Family|Touch the Leather|2014|m0e5ShFK5aM|Fat White Family|S9666|Post-Punk;Rock|",
+"The Fat White Family|Touch the Leather|2014|vhHTxhE1mAU|Fat White Family|S9666|Post-Punk;Rock|",
 "Payola$|Eyes of a Stranger|1982|1C_fVnE3xHY|Payolas|S7911|New Wave;Pop Rock;Pop;Rock|",
 "Megadeth|Wake Up Dead|1986|4kSvN1dQjxc|Megadeth|S7503|Thrash Metal;Metal;Rock|Wake Up Dead",
 "Duke Ellington|Sepia Panorama|1940|m36okvA_m5I|Duke Ellington|S13188|Big Band;Jazz|",
