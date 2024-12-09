@@ -2373,7 +2373,7 @@ const songs = [
 "Freddie King|Hide Away|1961|wEmGbMd2duk|Freddie King|S1126|Electric Texas Blues;Blues;Electric Blues|",
 "The Who|Love, Reign O'er Me|1973|PMxwPOoZm_c|The Who|S3957|Hard Rock;Symphonic Rock;Rock|Love, Reign o'er Me",
 "Inner City|Good Life|1989|eA8gUN34nlw|Inner City (band)|S269|Chicago House;Detroit Techno;Dance;Electronic;Electronic Dance Music;House;Techno|Good Life (Inner City song)",
-"Afrika Bambaataa & The Soulsonic Force|Looking for the Perfect Beat|1982|pWOe28nVAxo|Afrika Bambaataa|S495|East Coast Hip Hop;Electro;Dance;Electronic;Electronic Dance Music;Hip Hop|",
+"Afrika Bambaataa & The Soulsonic Force|Looking for the Perfect Beat|1982|rHQ11l4uiM4|Afrika Bambaataa|S495|East Coast Hip Hop;Electro;Dance;Electronic;Electronic Dance Music;Hip Hop|",
 "Bruce Springsteen|Darkness on the Edge of Town|1978|ifi5Uf73bec|Bruce Springsteen|S5644|Heartland Rock;Singer/Songwriter;Rock|Darkness on the Edge of Town",
 "Primal Scream|Kowalski|1997|0xBzYsE4y1k|Primal Scream|S10|Alternative Dance;Industrial Rock;Neo-Psychedelia;Alternative Rock;Dance;Industrial Music;Psychedelic Rock;Rock|Kowalski (song)",
 "M.I.A.|Bucky Done Gun|2005|2LFdPVf1diw|M.I.A. (rapper)|S3019|Funk carioca;UK Hip Hop;Brazilian Music;Hip Hop;Regional Music|Bucky Done Gun",
