@@ -3295,7 +3295,7 @@ const songs = [
 "Leonard Cohen|First We Take Manhattan|1988|JTTC_fD598A|Leonard Cohen|S3093|Singer/Songwriter;Synthpop;Electronic;Pop|First We Take Manhattan",
 "Deep Purple|Child in Time|1970|PfAWReBmxEs|Deep Purple|S6016|Hard Rock;Progressive Rock;Rock|Child in Time",
 "Missy Elliott|Lose Control|2005|na7lIb09898|Missy Elliott|S3035|Pop Rap;Hip Hop|Lose Control (Missy Elliott song)",
-"The Flying Lizards|Money|1979|E-P2qL3qkzk|The Flying Lizards|S1500|Art Pop;New Wave;Pop;Rock|",
+"The Flying Lizards|Money|1979|E-P2qL3qkzk|The Flying Lizards|S1500|Art Pop;New Wave;Pop;Rock|Money (That's What I Want)",
 "Jessy Lanza|It Means I Love You|2016|m44r0c2A5qw|Jessy Lanza|S16105|Art Pop;Footwork;Dance;Electronic;Electronic Dance Music;Ghetto House;House;Juke;Pop|",
 "Lisa Lisa & Cult Jam with Full Force|I Wonder if I Take You Home|1985|UJLhG8YKbII|Lisa Lisa and Cult Jam|S407|Freestyle;Dance;Dance-Pop;Electronic;Electronic Dance Music;Pop|I Wonder If I Take You Home",
 "Max Romeo|War ina Babylon|1976|oGYFobPWmck|The Upsetters|S1777|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
