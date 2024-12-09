@@ -4435,7 +4435,7 @@ const songs = [
 "Creedence Clearwater Revival|Suzie Q|1968|7x60p7UNLnQ|Creedence Clearwater Revival|S5890|Blues Rock;Swamp Rock;Rock;Roots Rock|",
 "Seals and Crofts|Summer Breeze|1972|GQQbjpomexo|Seals and Crofts|S8338|Soft Rock;Yacht Rock;Pop;Pop Rock;Rock|Summer Breeze (song)",
 "The Clovers|One Mint Julep|1952|26QLKst877A|The Clovers|S1591|Doo-Wop;Rhythm & Blues;Descriptor;R&B;Vocal Group|One Mint Julep",
-"Bob Wills and His Texas Playboys|Take Me Back to Tulsa|1941|NsHtVWaSIxw|Bob Wills|S2763|Western Swing;Country|",
+"Bob Wills and His Texas Playboys|Take Me Back to Tulsa|1941|NsHtVWaSIxw|Bob Wills|S2763|Western Swing;Country|Take Me Back to Tulsa",
 "Ol' Dirty Bastard|Shimmy Shimmy Ya|1995|h2zgB93KANE|Ol' Dirty Bastard|S2111|Boom Bap;East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "The Hives|Walk Idiot Walk|2004|ysGtBZX32I0|The Hives|S2448|Garage Rock Revival;Garage Rock;Rock|",
 "The Tammys|Egyptian Shumba|1963|Pi7INpPdE2Y|The Tammys|S8680|Brill Building;Girl Group;Pop|Egyptian Shumba",
