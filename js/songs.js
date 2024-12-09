@@ -10277,7 +10277,7 @@ const songs = [
 "Broadcast|Echo's Answer|1999|0D_gS_CIYyE|Broadcast (band)|S5627|Ambient Pop;Dream Pop;Indietronica;Alternative Rock;Electronic;Pop;Rock|",
 "Cat Power|Free|2003|IiEjkh1pzfY|Cat Power|S14218|Folk Rock;Indie Pop;Singer/Songwriter;Pop;Rock|",
 "Gomez|Get Myself Arrested|1998|N8HNTI4FsgM|Gomez (band)|S6609|Indie Rock;Alternative Rock;Rock|Get Myself Arrested",
-"Orelsan|Suicide Social|2011|4CRVx8w0ozQ|Orelsan|S15759|Conscious Hip Hop;French Hip Hop;Hardcore Hip Hop;Hip Hop|",
+"Orelsan|Suicide Social|2011|B2kvtRprvkk|Orelsan|S15759|Conscious Hip Hop;French Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "Lana Del Rey feat. The Weeknd|Lust for Life|2017|eP4eqhWc7sI|Lana Del Rey|S16426|Art Pop;Dream Pop;Alternative Rock;Pop;Rock|Lust for Life (Lana Del Rey album)",
 "Francis Cabrel|L'encre de tes yeux|1980|XGChSPwx8Ds|Francis Cabrel|S13469|Chanson;Folk Rock;Regional Music;Rock|",
 "Milky Chance|Stolen Dance|2013|iX-QaNzd-0Y|Milky Chance|S15716|Folktronica;Indie Pop;Electronic;Pop|Stolen Dance",
