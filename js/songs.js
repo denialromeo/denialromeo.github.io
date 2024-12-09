@@ -699,7 +699,7 @@ const songs = [
 "Justin Timberlake|My Love|2006|YunpUuYOmxA|Justin Timberlake|S3061|Contemporary R&B;Dance-Pop;Dance;Pop;R&B|My Love (Justin Timberlake song)",
 "Dion|Runaround Sue|1961|nFch8vH81ks|Dion DiMucci|S1115|Rock & Roll;Rock|Runaround Sue",
 "The Rolling Stones|Let's Spend the Night Together|1967|l61MFiIeuVM|The Rolling Stones|S955|British Rhythm & Blues;Pop Rock;Pop;R&B;Rhythm & Blues;Rock|Let's Spend the Night Together",
-"Freda Payne|Band of Gold|1970|daxiMb0rITA|Freda Payne|S854|Pop Soul;Pop;R&B;Soul|Band of Gold (Freda Payne song)",
+"Freda Payne|Band of Gold|1970|Fco8oPGu5EY|Freda Payne|S854|Pop Soul;Pop;R&B;Soul|Band of Gold (Freda Payne song)",
 "Bo Diddley|I'm a Man|1955|jTRx5diic0c|Bo Diddley|S2397|Rhythm & Blues;Rock & Roll;R&B;Rock|I'm a Man (Bo Diddley song)",
 "Morrissey|Everyday Is Like Sunday|1988|d0LeL9BUPtA|Morrissey|S312|Indie Pop;Pop|",
 "Amerie|1 Thing|2005|bbqVg_23otg|Amerie|S2999|Contemporary R&B;R&B|1 Thing",
