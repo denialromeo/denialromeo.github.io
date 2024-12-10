@@ -3442,7 +3442,7 @@ const songs = [
 "DaBaby|Suge|2019|KvuQNNVrbtM|DaBaby|S16764|Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
 "Spinners|It's a Shame|1970|v0B1KgPZn0A|The Spinners (American R&B group)|S3838|Pop Soul;Pop;R&B;Soul|It's a Shame (The Spinners song)",
 "Vernon Dalhart|The Prisoner's Song|1925|xj__Yk1bFpw|Vernon Dalhart|S2671|Traditional Country;American Folk Music;Country;Folk;Regional Music;Traditional Folk Music|The Prisoner's Song",
-"Skeeter Davis|The End of the World|1962|xHa6a3FtPJg|Skeeter Davis|S1645|Nashville Sound;Country;Country Pop;Pop|",
+"Skeeter Davis|The End of the World|1962|xHa6a3FtPJg|Skeeter Davis|S1645|Nashville Sound;Country;Country Pop;Pop|The End of the World (Skeeter Davis song)",
 "Kendrick Lamar|Sing About Me, I'm Dying of Thirst|2012|9-XbXBq8cl8|Kendrick Lamar|S7085|Conscious Hip Hop;West Coast Hip Hop;Hip Hop|Sing About Me, I'm Dying of Thirst",
 "The Jackson 5|The Love You Save|1970|OkuULWqF3AY|The Jackson 5|S1721|Motown Sound;Pop;Pop Soul;R&B;Soul|The Love You Save",
 "Prince|Erotic City|1984|aoSK7vju_l8|Prince (musician)|S9326|Dance-Pop;Synth Funk;Dance;Funk;Pop;R&B|Erotic City",
