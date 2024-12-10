@@ -322,7 +322,7 @@ const classical = [
 "Robert Schumann|Concertstück for Four Horns|1849|mpfJ2ghmAsI|Robert Schumann|Konzertstück for Four Horns and Orchestra",
 "Robert Schumann|Fantasiestück, Op. 73|1849|28kD_f1UZdU|Robert Schumann|Fantasiestücke, Op. 73",
 "Otto Nicolai|The Merry Wives of Windsor|1849|S0oHhdJ__ME|Otto Nicolai|The Merry Wives of Windsor (opera)",
-"Robert Schumann|Symphony No. 3, \"Rhenish\"|1850|3lRdCGIp-rg?start=3|Robert Schumann|Symphony No. 3 (Brahms)",
+"Robert Schumann|Symphony No. 3, \"Rhenish\"|1850|3lRdCGIp-rg?start=3|Robert Schumann|Symphony No. 3 (Schumann)",
 "Robert Schumann|Cello Concerto in A minor|1850|NayPFVXYo9o|Robert Schumann|Cello Concerto (Schumann)",
 "Franz Liszt|Transcendental Études|1851|PLEQ0hp9avWWF2uZCkzh0M4RSmDN7FiTTZ|Franz Liszt|Transcendental Études",
 "Giuseppe Verdi|Rigoletto|1851|fYDI6MWkCW8|Giuseppe Verdi|Rigoletto",
