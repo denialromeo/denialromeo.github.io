@@ -7344,7 +7344,7 @@ const songs = [
 "Wilco|Heavy Metal Drummer|2002|wl3u-rcVgVs|Wilco|S4842|Indie Pop;Pop|",
 "Duffy|Warwick Avenue|2008|ScSHEnFNRck|Duffy (singer)|S4767|Blue Eyed Soul;Pop Soul;Pop;R&B;Soul|Warwick Avenue (song)",
 "Bing Crosby|Pistol Packin' Mama|1944|PjgqQcKE3DY|Bing Crosby|S2670|Traditional Pop;Pop|Pistol Packin' Mama",
-"Stars|Ageless Beauty|2004|OegFDLiQ4Dg|Stars (Canadian band)|S8548|Dream Pop;Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|",
+"Stars|Ageless Beauty|2004|OegFDLiQ4Dg|Stars (Canadian band)|S8548|Dream Pop;Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|Ageless Beauty",
 "The Carter Family|Worried Man Blues|1930|Sj36Q2MGOt0|Carter Family|S9180|Acoustic Blues;Appalachian Folk Music;Traditional Country;American Folk Music;Blues;Country;Folk;Regional Music;Traditional Folk Music|Worried Man Blues",
 "Aretha Franklin|Spanish Harlem|1971|UmjHMUZQ8s0|Aretha Franklin|S1547|Soul;R&B|",
 "Felt|Primitive Painters|1985|K5XgLshyN8w|Felt (band)|S10800|Jangle Pop;Post-Punk;Alternative Rock;Pop;Pop Rock;Rock|",
