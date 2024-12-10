@@ -7535,7 +7535,7 @@ const songs = [
 "The Rolling Stones|Little Red Rooster|1964|mLrjhQ1-chw|The Rolling Stones|S2986|British Rhythm & Blues;Chicago Blues;Blues;Electric Blues;R&B;Rhythm & Blues;Rock|Little Red Rooster",
 "Serge Reggiani|Les loups sont entrés dans Paris|1967|K9VFqvGRhNs?start=3|Serge Reggiani|S12184|Chanson;Regional Music|",
 "The Danleers|One Summer Night|1958|QT4LJxBBaF0|The Danleers|S3316|Doo-Wop;Descriptor;R&B;Vocal Group|One Summer Night",
-"Scarface|I Seen a Man Die|1994|RgyDpXkZfXE|Scarface (rapper)|S8323|Conscious Hip Hop;G-Funk;Gangsta Rap;Southern Hip Hop;Hardcore Hip Hop;Hip Hop|",
+"Scarface|I Seen a Man Die|1994|RgyDpXkZfXE|Scarface (rapper)|S8323|Conscious Hip Hop;G-Funk;Gangsta Rap;Southern Hip Hop;Hardcore Hip Hop;Hip Hop|I Seen a Man Die",
 "Television|See No Evil|1977|taDfgfRA6jA|Television (band)|S2594|Art Punk;Punk Rock;Rock|",
 "Aldous Harding|Imagining My Man|2017|xE-A0cNSLmc|Aldous Harding|S16322|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk|",
 "Dominique A.|Le courage des oiseaux|1992|SgeI6G4CLMk|Dominique A|S9206|Lo-Fi / Slacker Rock;Nouvelle chanson française;Alternative Rock;Chanson;Indie Rock;Regional Music;Rock|",
