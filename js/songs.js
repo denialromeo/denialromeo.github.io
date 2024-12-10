@@ -8878,7 +8878,7 @@ const songs = [
 "The Guess Who|No Time|1969|tio5fVxi5DM|The Guess Who|S6656|Psychedelic Pop;Psychedelic Rock;Pop;Rock|No Time (The Guess Who song)",
 "The Mighty Diamonds|Right Time|1976|6UgcYqwIJhE|Mighty Diamonds|S7550|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
 "Jay and the Americans|Come a Little Bit Closer|1964|RF7z3sW8nGA|Jay and the Americans|S14542|Pop|Come a Little Bit Closer",
-"Art Mooney|I'm Looking Over a Four-Leaf Clover|1948|VY-_8XOrvTs|Art Mooney|S5240|Chachachá;Cuban Music;Hispanic Music;Latin American Music;Regional Music|I'm Looking Over a Four Leaf Clover",
+"Art Mooney|I'm Looking Over a Four-Leaf Clover|1948|bzfiN4IprSg|Art Mooney|S5240|Chachachá;Cuban Music;Hispanic Music;Latin American Music;Regional Music|I'm Looking Over a Four Leaf Clover",
 "SOPHIE|Just Like We Never Said Goodbye|2015|6Z3N79ktprw|Sophie (musician)|S9837|Bubblegum Bass;Dance;Electronic;Electronic Dance Music|",
 "ATB|9pm ('Till I Come)|1999|5A9OIIapSko|ATB|S5264|Ibiza Trance;Dance;Electronic;Electronic Dance Music;Trance|9 PM (Till I Come)",
 "The Crystals|Uptown|1962|3UZB2vIFjiM|The Crystals|S5920|Brill Building;Girl Group;Pop|Uptown (The Crystals song)",
