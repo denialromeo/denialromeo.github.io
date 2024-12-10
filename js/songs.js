@@ -3167,7 +3167,7 @@ const songs = [
 "David Bowie|John, I'm Only Dancing|1972|lmVVyhpuFRc|David Bowie|S5962|Glam Rock;Rock|John, I'm Only Dancing",
 "Rufus Thomas|Walking the Dog|1963|M6AZNywvF-s|Rufus Thomas|S1652|Rhythm & Blues;R&B|Walking the Dog",
 "Helado Negro|Running|2019|u4mof-W6ggI|Helado Negro|S16791|Art Pop;Indie Pop;Pop|Bills & Aches & Blues",
-"Eddie Kendricks|Keep On Truckin', Part 1|1973|G0sw5o404tc|Eddie Kendricks|S4165|Funk;Philly Soul;R&B;Soul|",
+"Eddie Kendricks|Keep On Truckin', Part 1|1973|G0sw5o404tc|Eddie Kendricks|S4165|Funk;Philly Soul;R&B;Soul|Keep On Truckin' (song)",
 "Grateful Dead|Friend of the Devil|1970|uTIFNQeV_QQ|Grateful Dead|S6637|Country Rock;Rock|Friend of the Devil",
 "M.I.A.|Jimmy|2007|HBECisSkAu4|M.I.A. (rapper)|S4286|Dance-Pop;Electro-Disco;Dance;Disco;Electronic;Electronic Dance Music;Pop|Jimmy (song)",
 "Nathan Fake|The Sky Was Pink|2004|d7zBePUZMog|Nathan Fake|S4632|Microhouse;Tech House;Dance;Electronic;Electronic Dance Music;House;Techno|",
