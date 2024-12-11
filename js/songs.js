@@ -6806,7 +6806,7 @@ const songs = [
 "Missy Elliott|Sock It 2 Me|1997|9UvBX3REqSY|Missy Elliott|S2134|Pop Rap;Hip Hop|Sock It 2 Me",
 "Cut Copy|Lights & Music|2008|8R1X2TxW5Rk|Cut Copy|S4766|Indietronica;Synthpop;Electronic;Pop|",
 "The Sonics|The Witch|1964|KCLEzIdxPZY|The Sonics|S8494|Garage Rock;Proto-Punk;Rock|The Witch (song)",
-"The Regents|Barbara-Ann|1961|gTffa6I27iA|The Regents (doo-wop band)|S4390|Doo-Wop;Descriptor;R&B;Vocal Group|Barbara Ann",
+"The Regents|Barbara-Ann|1961|EDpQY3UW8D4|The Regents (doo-wop band)|S4390|Doo-Wop;Descriptor;R&B;Vocal Group|Barbara Ann",
 "James Taylor|Carolina in My Mind|1968|zBpKI59jGGw|James Taylor|S13818|Singer/Songwriter|Carolina in My Mind",
 "Frankie Valli|Grease|1978|azTWmY02Wks|Frankie Valli|S6466|Blue Eyed Soul;Disco;Pop Soul;Dance;Pop;R&B;Soul|Grease (song)",
 "Marty Robbins|Singing the Blues|1956|Vl5yGrY3pGs|Marty Robbins|S3765|Country|Singing the Blues",
