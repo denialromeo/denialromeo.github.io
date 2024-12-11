@@ -5820,7 +5820,7 @@ const songs = [
 "Machine|There But for the Grace of God Go I|1979|YGBDAxCDLs4|Machine (band)|S4440|Disco;Dance|",
 "The Move|Flowers in the Rain|1967|HXQFGAGHIP4|The Move|S11695|Freakbeat;Mod;Psychedelic Pop;Sunshine Pop;Beat Music;Pop;Pop Rock;Rock|Flowers in the Rain",
 "Mitski|Geyser|2018|3zdFZJf-B90|Mitski|S16551|Art Pop;Indie Rock;Alternative Rock;Pop;Rock|Geyser (song)",
-"Nick Cave|Babe, I'm On Fire|2003|DcJGalE3vn0|Nick Cave|S7731|Alternative Rock;Rock|",
+"Nick Cave|Babe, I'm On Fire|2003|LsBJ62jSCl0|Nick Cave|S7731|Alternative Rock;Rock|",
 "The Zombies|A Rose for Emily|1968|Ha2fLpBaB1k|The Zombies|S9114|Baroque Pop;Pop|",
 "Del Shannon|Stranger in Town|1965|-fNca3JgfeY|Del Shannon|S1429|Pop Rock;Pop;Rock|Stranger in Town (Del Shannon song)",
 "Bruce Springsteen|Point Blank|1980|l0DjrXDBJnU|Bruce Springsteen|S5648|Heartland Rock;Rock|Point Blank (Bruce Springsteen song)",
