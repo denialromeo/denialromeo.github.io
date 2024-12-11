@@ -7945,7 +7945,7 @@ const songs = [
 "Erroll Garner|I'll Remember April|1956|I_aILGaLqyc|Erroll Garner|S10756|Bebop;Stride;American Folk Music;Folk;Jazz;Ragtime;Regional Music;Traditional Folk Music|I'll Remember April (song)",
 "Brass Construction|Movin'|1975|VzjxvopUSzE|Brass Construction|S12854|Disco;Funk;Dance;R&B|Movin' (Brass Construction song)",
 "Stone Temple Pilots|Trippin' on a Hole in a Paper Heart|1996|HVPzWkdhwrw|Stone Temple Pilots|S12330|Grunge;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|Trippin' on a Hole in a Paper Heart",
-"Betty Boo|Where Are You Baby?|1990|_4iWgsGgBiY|Betty Boo|S222|Dance-Pop;Pop Rap;Dance;Hip Hop;Pop|",
+"Betty Boo|Where Are You Baby?|1990|_4iWgsGgBiY|Betty Boo|S222|Dance-Pop;Pop Rap;Dance;Hip Hop;Pop|Where Are You Baby?%3F",
 "Barbra Streisand|Guilty|1980|Phh9B1-4EYs|Barbra Streisand|S5324|Adult Contemporary;Blue Eyed Soul;Pop|Guilty (Barbra Streisand and Barry Gibb song)",
 "Wham!|Wham Rap! (Enjoy What You Do)|1982|BsyHQgiem8c|Wham!|S8981|Disco Rap;Pop;Pop Rap;UK Hip Hop;Hip Hop|",
 "Richard and Linda Thompson|Shoot Out the Lights|1982|60Kdf17Btrs?start=724|Richard Thompson (musician)|S9332|Folk Rock;Singer/Songwriter;Rock|",
