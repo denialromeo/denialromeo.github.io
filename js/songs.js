@@ -358,7 +358,7 @@ const songs = [
 "Ray Charles|Georgia on My Mind|1960|Thls_tMuFkc?start=2|Ray Charles|S1146|Country Soul;R&B;Soul|Georgia on My Mind",
 "The Flaming Lips|Do You Realize??|2002|lPXWt2ESxVY|The Flaming Lips|S1530|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|Do You Realize%3F%3F",
 "Jimi Hendrix|Hey Joe|1966|gUPifXX0foU|Jimi Hendrix|S965|Blues Rock;Psychedelic Rock;Rock|Hey Joe",
-"R.E.M.|It's the End of the World As We Know It (And I Feel Fine)|1987|UwCA8B0qFI0|R.E.M.|S359|Jangle Pop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|It's the End of the World as We Know It (And I Feel Fine)",
+"R.E.M.|It's the End of the World As We Know It (And I Feel Fine)|1987|Z0GFRcFm-aY|R.E.M.|S359|Jangle Pop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|It's the End of the World as We Know It (And I Feel Fine)",
 "Coleman Hawkins|Body and Soul|1939|LuNrVHCBSjE|Coleman Hawkins|S2692|Swing;Jazz|Body and Soul (1930 song)",
 "Led Zeppelin|Dazed and Confused|1969|w772GXG5LnE|Led Zeppelin|S2542|Blues Rock;Hard Rock;Rock|Dazed and Confused (song)",
 "Phoenix|1901|2009|RulP4OXxFbM?start=6|Phoenix (band)|S4822|Indie Pop;Synthpop;Electronic;Pop|1901 (song)",
