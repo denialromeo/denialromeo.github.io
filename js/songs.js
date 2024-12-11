@@ -5484,7 +5484,7 @@ const songs = [
 "Francis Cabrel|Je l'aime à mourir|1979|hrahPhIu3Oc|Francis Cabrel|S6433|Chanson;Regional Music|Je l'aime à mourir",
 "Bob Seger|Mainstreet|1976|w8VHLYXaVaU|Bob Seger|S2878|Heartland Rock;Pop Rock;Pop;Rock|Mainstreet",
 "Smokey Robinson and the Miracles|Mickey's Monkey|1963|OmYP7U8wJ_Y?start=220|The Miracles|S3625|Motown Sound;Pop;Pop Soul;R&B;Soul|",
-"Katerine|Louxor, j'adore|2005|o8JaI4SSip8|Philippe Katerine|S7067|Electropop;French Pop;Novelty;Electronic;Pop|",
+"Katerine|Louxor j'adore|2005|o8JaI4SSip8|Philippe Katerine|S7067|Electropop;French Pop;Novelty;Electronic;Pop|",
 "Tocotronic|Hi Freaks|2002|1CUDi6NJld0|Tocotronic|S8774|Hamburger Schule;Alternative Rock;Indie Rock;Rock|",
 "The Robins|Smokey Joe's Cafe|1955|C2MWjiiu7mE|The Robins|S3767|Doo-Wop;Rhythm & Blues;R&B;Vocal Group|",
 "Dizzee Rascal|Stand Up Tall|2004|o_VKsq72y4c|Dizzee Rascal|S2449|Grime;Electronic|",
