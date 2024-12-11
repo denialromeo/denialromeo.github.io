@@ -8429,7 +8429,7 @@ const songs = [
 "Jacques Brel|Mon enfance|1967|tqtqUABH4ig|Jacques Brel|S11116|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "Christopher Cross|Arthur's Theme (The Best That You Can Do)|1981|WOBHXxiZyZM|Christopher Cross|S5803|Film Soundtrack;Soft Rock;Yacht Rock;Pop;Pop Rock;Rock;Soundtracks|Arthur's Theme (Best That You Can Do)",
 "alt-J|In Cold Blood|2017|vlMePO0qywA|Alt-J|S16326|Art Pop;Indietronica;Electronic;Pop|In Cold Blood (alt-J song)",
-"The DeFranco Family|Heartbeat, It's a Lovebeat|1973|I3Iw2qYtN8A|The DeFranco Family|S13736|Bubblegum;Teen Pop;Pop|",
+"The DeFranco Family|Heartbeat - It's a Lovebeat|1973|I3Iw2qYtN8A|The DeFranco Family|S13736|Bubblegum;Teen Pop;Pop|Heartbeat - It's a Lovebeat",
 "Lonnie Holley|I Woke Up in a Fucked-Up America|2018|Ss3cz9FgGnA|Lonnie Holley|S16630|Post-Industrial;Psychedelic Soul;Industrial Music;R&B;Soul|",
 "Dr. Feelgood|Roxette|1974|Yp2DvPKh118|Dr. Feelgood (band)|S6151|Pub Rock;Rock|",
 "Spiritualized|I Think I'm in Love|1997|KEXO15RX36Y|Spiritualized|S12279|Neo-Psychedelia;Space Rock;Psychedelic Rock;Rock|",
