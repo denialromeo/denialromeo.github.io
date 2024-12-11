@@ -8923,7 +8923,7 @@ const songs = [
 "Prince|Joy in Repetition|1990|RdQqxHW5F5c|Prince (musician)|S11948|Pop Rock;Synth Funk;Funk;Pop;R&B;Rock|",
 "Guns N' Roses|Better|2008|j1z7_vJXECI|Guns N' Roses|S10987|Hard Rock;Rock|Better (Guns N' Roses song)",
 "Modest Mouse|The World at Large|2004|O9f91sP0V-c|Modest Mouse|S9298|Dream Pop;Indie Rock;Alternative Rock;Rock|Float On (Modest Mouse song)",
-"Spiritualized|Electricity|1997|4qXNyt8Lvsw|Spiritualized|S9362|Garage Rock;Neo-Psychedelia;Psychedelic Rock;Rock|",
+"Spiritualized|Electricity|1997|ZVKXnWDeNr8|Spiritualized|S9362|Garage Rock;Neo-Psychedelia;Psychedelic Rock;Rock|",
 "The 1975|The Sound|2016|FSnAllHtG70|The 1975|S16196|Synthpop;Electronic;Pop|The Sound (The 1975 song)",
 "Queen|Tie Your Mother Down|1976|LvB2MnIIdMw?start=5|Queen (band)|S11979|Boogie Rock;Hard Rock;Blues Rock;Rock|Tie Your Mother Down",
 "David Bowie|The Bewlay Brothers|1971|r8IGkLWmf4E|David Bowie|S10529|Art Rock;Folk Rock;Glam Rock;Singer/Songwriter;Rock|",
