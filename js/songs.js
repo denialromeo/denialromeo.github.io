@@ -2519,7 +2519,7 @@ const songs = [
 "Chumbawamba|Tubthumping|1997|2H5uWRjFsGc|Chumbawamba|S9|Pop Rock;Pop;Rock|Tubthumping",
 "Al Stewart|Year of the Cat|1976|tqW4xIr7nj0|Al Stewart|S5133|Singer/Songwriter;Soft Rock;Pop;Pop Rock;Rock|Year of the Cat (song)",
 "Shamir|On the Regular|2014|Lp9GgdCgMXk|Shamir (musician)|S9590|Hip House;Dance;Electronic;Electronic Dance Music;Hip Hop;House|",
-"King Crimson|In the Court of the Crimson King|1969|lrsW--Sh7YE|King Crimson|S4129|Art Rock;Symphonic Prog;Progressive Rock;Rock|",
+"King Crimson|In the Court of the Crimson King|1969|ukgraQ-xkp4|King Crimson|S4129|Art Rock;Symphonic Prog;Progressive Rock;Rock|",
 "Best Coast|Boyfriend|2010|Uqphb_WM1rM|Best Coast|S4891|Indie Pop;Power Pop;Pop;Pop Rock;Rock|Boyfriend (Best Coast song)",
 "Lisa Loeb & Nine Stories|Stay (I Missed You)|1994|i9HGwRbMiVY|Lisa Loeb|S2093|Folk Pop;Pop Rock;Singer/Songwriter;Contemporary Folk;Folk;Pop;Rock|",
 "Aphex Twin|Girl/Boy Song|1996|6yy-Es6rp3U|Aphex Twin|S4229|Drill and Bass;Electronic;IDM|",
