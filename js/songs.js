@@ -4398,7 +4398,7 @@ const songs = [
 "Huey \"Piano\" Smith & The Clowns|Don't You Just Know It|1958|3P3yqQ4vgHA|Huey \"Piano\" Smith|S1221|New Orleans R&B;R&B|",
 "Ella Mai|Boo'd Up|2018|6YNZlXfW6Ho|Ella Mai|S16559|Contemporary R&B;R&B|Boo'd Up",
 "Jethro Tull|Living in the Past|1969|Tn9IyFLDtjk|Jethro Tull (band)|S6905|Folk Rock;Progressive Rock;Rock|Living in the Past (song)",
-"The House of Love|Christine|1988|Ji-ZNRedIoM|The House of Love|S1992|Indie Pop;Noise Pop;Alternative Rock;Pop;Rock|Christine McVie",
+"The House of Love|Christine|1988|Ji-ZNRedIoM|The House of Love|S1992|Indie Pop;Noise Pop;Alternative Rock;Pop;Rock|",
 "The Notwist|Pick Up the Phone|2002|Ox95G3v-CD0|The Notwist|S7774|Indietronica;Electronic|",
 "The Replacements|I'll Be You|1989|n3XMC_Sk3QE|The Replacements (band)|S3755|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|I'll Be You",
 "Minutemen|This Ain't No Picnic|1984|UDr25zjd4yM|Minutemen (band)|S4572|Post-Hardcore;Post-Punk;Punk Rock;Rock|",
