@@ -9505,7 +9505,7 @@ const songs = [
 "King Crimson|Cat Food|1970|VmnqX4iNBpI|King Crimson|S14623|Art Rock;Progressive Rock;Rock|",
 "Rod Stewart|Handbags and Gladrags|1969|ZXMMAA6tcMg|Rod Stewart|S12084|Folk Rock;Pop Rock;Pop;Rock|Handbags and Gladrags",
 "Oliver|Jean|1969|PDDSXmw1LDE|Oliver (singer)|S7803|Pop|Jean (song)",
-"Tommy Roe|Dizzy|1969|v3l8hdhZlrk|Tommy Roe|S8810|Bubblegum;Sunshine Pop;Pop|Dizzy (Tommy Roe song)",
+"Tommy Roe|Dizzy|1969|v3l8hdhZlrk?start=6|Tommy Roe|S8810|Bubblegum;Sunshine Pop;Pop|Dizzy (Tommy Roe song)",
 "Lou Christie|Two Faces Have I|1963|e3QFcVYCBdM|Lou Christie|S14681|Pop|Two Faces Have I",
 "Floyd Cramer|Last Date|1960|JvfG9uFswis|Floyd Cramer|S6410|Nashville Sound;Country;Country Pop;Pop|",
 "Janet Jackson|Let's Wait Awhile|1986|q67WffU9t48|Janet Jackson|S11153|Contemporary R&B;Pop;R&B|Let's Wait Awhile",
