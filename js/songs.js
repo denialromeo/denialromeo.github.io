@@ -8319,7 +8319,7 @@ const songs = [
 "Woody Guthrie|Tom Joad|1940|mJWy15v5YoI|Woody Guthrie|S15198|American Folk Music;Contemporary Folk;Folk;Regional Music;Traditional Folk Music|",
 "Barbara George|I Know (You Don't Love Me No More)|1961|Un8bl6LrGKo|Barbara George|S5321|Soul;R&B|I Know (You Don't Love Me No More)",
 "Lee Perry & the Full Experiences|Disco Devil|1977|rbb192bVGAU|Lee \"Scratch\" Perry|S12805|Dub;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
-"Mary Jane Girls|All Night Long|1983|2kwuAqNL66E|Mary Jane Girls|S12751|Boogie;Contemporary R&B;Synth Funk;Dance;Disco;Funk;R&B|All Night Long (Mary Jane Girls song)",
+"Mary Jane Girls|All Night Long|1983|WREJHHrmn6A|Mary Jane Girls|S12751|Boogie;Contemporary R&B;Synth Funk;Dance;Disco;Funk;R&B|All Night Long (Mary Jane Girls song)",
 "Håkan Hellström|Känn ingen sorg för mig Göteborg|2000|-fusSPk4j0k|Håkan Hellström|S4602|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|",
 "Muddy Waters|You Need Love|1962|pM8_HuQ0b34|Muddy Waters|S14783|Chicago Blues;Blues;Electric Blues|You Need Love (Muddy Waters song)",
 "Juliette Gréco|Si tu t'imagines|1950|zcrujIHaNiU|Juliette Gréco|S11279|Chanson;Regional Music|",
