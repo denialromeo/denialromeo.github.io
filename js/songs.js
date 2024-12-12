@@ -4554,7 +4554,7 @@ const songs = [
 "DJ Khaled|I'm on One|2011|Z09lYqdxqzo|DJ Khaled|S6104|Pop Rap;Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|I'm the One (DJ Khaled song)",
 "Ricardo Villalobos|Dexter|2003|h0i1Szq6GM8|Ricardo Villalobos|S15823|Microhouse;Minimal Techno;Tech House;Dance;Electronic;Electronic Dance Music;House;Techno|",
 "Right Said Fred|I'm Too Sexy|1991|OxZp4VEopcE|Right Said Fred|S207|Dance-Pop;Novelty;Dance;Pop|I'm Too Sexy",
-"Black Flag|TV Party|1981|psUOyXGacL0|Black Flag (band)|S2901|Hardcore Punk;Punk Rock;Rock|",
+"Black Flag|TV Party|1981|psUOyXGacL0|Black Flag (band)|S2901|Hardcore Punk;Punk Rock;Rock|TV Party (EP)",
 "Bloc Party|Helicopter|2004|2R6S5CJWlco|Bloc Party|S5495|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|Helicopter (Bloc Party song)",
 "Elvis Costello|Lipstick Vogue|1978|eM86DdwT71Y|Elvis Costello|S1819|New Wave;Rock|Lipstick Vogue",
 "John Fogerty|Rockin' All Over the World|1975|fEUP5yjIOB8|John Fogerty|S716|Heartland Rock;Roots Rock;Rock|Rockin' All Over the World",
