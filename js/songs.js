@@ -3722,7 +3722,7 @@ const songs = [
 "The Boo Radleys|Wake Up, Boo!|1995|YJXPTnPmm78|The Boo Radleys|S2105|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Wake Up Boo!",
 "Big Daddy Kane|Ain't No Half Steppin'|1988|nqPlF5Mn32M|Big Daddy Kane|S1988|Boom Bap;East Coast Hip Hop;Hip Hop|Ain't No Half-Steppin'",
 "Dave Matthews Band|Crash into Me|1996|k7in-9E3ImQ|Dave Matthews Band|S2118|Acoustic Rock;Soft Rock;Pop;Pop Rock;Rock|Crash into Me",
-"Los Lobos|Will the Wolf Survive?|1984|lJVsUMKftMo|Los Lobos|S3572|Alternative Rock;Americana;Tex-Mex;Country;Rock;Roots Rock|",
+"Los Lobos|Will the Wolf Survive?|1984|lJVsUMKftMo|Los Lobos|S3572|Alternative Rock;Americana;Tex-Mex;Country;Rock;Roots Rock|Will the Wolf Survive (song)",
 "Kate Bush|Suspended in Gaffa|1982|V3XAeg3B0To|Kate Bush|S7062|Art Pop;Baroque Pop;Progressive Pop;Pop|Suspended in Gaffa",
 "Bananarama|Cruel Summer|1983|l9ml3nyww80|Bananarama|S5307|Synthpop;Electronic;Pop|Cruel Summer (Bananarama song)",
 "Freda Payne|Bring the Boys Home|1970|--fFhunuUJM|Freda Payne|S3690|Soul;R&B|Bring the Boys Home",
