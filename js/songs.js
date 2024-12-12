@@ -8479,7 +8479,7 @@ const songs = [
 "Jungle Brothers|Straight out the Jungle|1988|K0wVNPWWZIw|Jungle Brothers|S11281|East Coast Hip Hop;Hip Hop|Straight out the Jungle",
 "Miranda Lambert|The House That Built Me|2009|DQYNM6SjD_o|Miranda Lambert|S11655|Contemporary Country;Country|The House That Built Me",
 "The Impressions|We're a Winner|1967|uLMRzDFMvEo|The Impressions|S11071|Chicago Soul;R&B;Soul|",
-"Pulp|The Trees|2001|nArZkellNyk|Pulp (band)|S3764|Chamber Pop;Baroque Pop;Indie Pop;Pop|The Trees (Pulp song)",
+"Pulp|The Trees|2001|u6pGQIu1h-U|Pulp (band)|S3764|Chamber Pop;Baroque Pop;Indie Pop;Pop|The Trees (Pulp song)",
 "Neon Indian|Annie|2015|TTuT1s-YPLE|Neon Indian|S9821|Chillwave;Synthpop;Electronic;Indietronica;Pop|",
 "The Shades of Blue|Oh! How Happy|1966|4G0Y4puNbDE|The Shades of Blue|S8370|Blue Eyed Soul;Pop|Oh How Happy",
 "Super Furry Animals|(Drawing) Rings Around the World|2001|-i2Kn-EXh_A|Super Furry Animals|S8637|Neo-Psychedelia;Power Pop;Progressive Pop;Pop;Pop Rock;Psychedelic Rock;Rock|",
