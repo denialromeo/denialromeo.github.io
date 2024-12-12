@@ -7224,7 +7224,7 @@ const songs = [
 "Frank Stanley|Auld Lang Syne|1907|19-Giy1g8V0|Frank C. Stanley|S9223|Vaudeville;Musical Theatre and Entertainment|Auld Lang Syne",
 "Depeche Mode|New Life|1981|ZFnEhwmpjXI|Depeche Mode|S13439|Synthpop;Electronic;Pop|",
 "MC5|Looking at You|1968|74jS3dW0DtE?start=376|MC5|S13311|Garage Rock;Hard Rock;Proto-Punk;Rock|",
-"Dr. John|Such a Night|1973|SCRrXZP8b0I|Dr. John|S13094|New Orleans R&B;R&B|",
+"Dr. John|Such a Night|1973|fj9lG30WzcA|Dr. John|S13094|New Orleans R&B;R&B|",
 "Des'ree|You Gotta Be|1994|WRUwSk9UTrA|Des'ree|S6049|Contemporary R&B;Pop Soul;Pop;R&B;Soul|You Gotta Be",
 "Plastikman|Spastik|1993|6TYsOMYaz6E|Richie Hawtin|S14886|Acid Techno;Minimal Techno;Dance;Electronic;Electronic Dance Music;Techno|",
 "Ghostface Killah|Run|2003|Mg-bInzAJk8|Ghostface Killah|S4621|East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
