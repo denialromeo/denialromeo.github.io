@@ -3379,7 +3379,7 @@ const songs = [
 "Chicago|If You Leave Me Now|1976|j1ykMNtzMT8|Chicago (band)|S3275|Soft Rock;Pop;Pop Rock;Rock|If You Leave Me Now",
 "Big Maceo|Worried Life Blues|1941|CqSPsJFUt_g|Big Maceo Merriweather|S3062|Acoustic Chicago Blues;Piano Blues;Acoustic Blues;Blues|Worried Life Blues",
 "Rick Nelson|Garden Party|1972|60XTeHM9iLQ|Ricky Nelson|S803|Country Pop;Country;Pop|Garden Party (Rick Nelson song)",
-"The Mountain Goats|No Children|2002|QS27S3mspjU|The Mountain Goats|S4679|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk|No Children",
+"The Mountain Goats|No Children|2002|fqGKZ3fzN1M|The Mountain Goats|S4679|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk|No Children",
 "X-Ray Spex|Germ Free Adolescents|1978|DGROSJbCPV8|X-Ray Spex|S9077|New Wave;Punk Rock;Rock|",
 "Queens of the Stone Age|The Lost Art of Keeping a Secret|2000|0l0nzPpvbFs|Queens of the Stone Age|S1406|Alternative Rock;Stoner Rock;Hard Rock;Rock|",
 "Blumfeld|Tausend Tränen tief|1999|8blqsN05g4Q|Blumfeld|S5524|Hamburger Schule;Indie Pop;Alternative Rock;Indie Rock;Pop;Rock|",
