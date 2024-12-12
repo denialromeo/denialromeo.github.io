@@ -1365,7 +1365,7 @@ const songs = [
 "The Charlatans|The Only One I Know|1990|0RJwW77Lsj8|The Charlatans (English band)|S218|Baggy / Madchester;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock|",
 "A Tribe Called Quest|Scenario|1991|Q6TLWqn82J4|A Tribe Called Quest|S2059|East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|Scenario (song)",
 "Stevie Wonder|You Are the Sunshine of My Life|1972|OVwR7v53yW8|Stevie Wonder|S779|Pop Soul;Pop;R&B;Soul|You Are the Sunshine of My Life",
-"Yo La Tengo|Autumn Sweater|1997|UIkMeaAfIRw|Yo La Tengo|S21|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock|",
+"Yo La Tengo|Autumn Sweater|1997|38iyHpJtylg|Yo La Tengo|S21|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock|",
 "The Stone Roses|She Bangs the Drums|1989|54gdXmhB1hE|The Stone Roses|S244|Baggy / Madchester;Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|She Bangs the Drums",
 "Hole|Celebrity Skin|1998|O3dWBLoU--E|Hole (band)|S276|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|",
 "Norman Greenbaum|Spirit in the Sky|1969|vRFo72wuU6w|Norman Greenbaum|S1723|Christian Rock;Psychedelic Rock;Rock|Spirit in the Sky",
