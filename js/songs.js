@@ -6231,7 +6231,7 @@ const songs = [
 "The Animals|San Franciscan Nights|1967|y4G3KPP1Nts|The Animals|S6297|Psychedelic Rock;Rock|San Franciscan Nights",
 "Onyx|Throw Ya Gunz|1992|mQmfzGf9904|Onyx (hip hop group)|S11804|Boom Bap;East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "M83|Run into Flowers|2003|Q5pv8fmiax8|M83 (band)|S7364|Electronic|",
-"The Blue Nile|Tinseltown in the Rain|1984|7KI0-PTnt3w?start=19|The Blue Nile|S5514|Sophisti-Pop;Pop|Tinseltown in the Rain",
+"The Blue Nile|Tinseltown in the Rain|1984|2q5CGLHJ-54|The Blue Nile|S5514|Sophisti-Pop;Pop|Tinseltown in the Rain",
 "Melanie|Lay Down (Candles in the Rain)|1970|IZ52lk9wjZI?start=71|Melanie (singer)|S7507|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|",
 "Elvis Costello|(The Angels Wanna Wear My) Red Shoes|1977|Ab_IO-SlK5w|Elvis Costello|S10714|New Wave;Pop Rock;Pop;Rock|(The Angels Wanna Wear My) Red Shoes",
 "Primal Scream|Accelerator|2000|CUszjRc3-VM|Primal Scream|S1393|Noise Pop;Noise Rock;Alternative Rock;Rock|",
