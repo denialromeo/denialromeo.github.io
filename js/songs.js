@@ -8246,7 +8246,7 @@ const songs = [
 "KC and the Sunshine Band|I'm Your Boogie Man|1976|mRG0PdVzNro|KC and the Sunshine Band|S13854|Disco;Funk;Dance;R&B|I'm Your Boogie Man",
 "Count Basie|Jumpin' at the Woodside|1938|mnEVppghro4|Count Basie|S9193|Big Band;Swing;Jazz|Jumpin' at the Woodside",
 "Dominique A.|Pour la peau|2001|Le30vnYwdqU|Dominique A|S10626|French Pop;Nouvelle chanson française;Chanson;Pop;Regional Music|",
-"Cornelius Brothers & Sister Rose|Treat Her Like a Lady|1971|xJFcIvZ_X50|Cornelius Brothers & Sister Rose|S5871|Soul;R&B|",
+"Cornelius Brothers & Sister Rose|Treat Her Like a Lady|1971|X6_PmccPnJU|Cornelius Brothers & Sister Rose|S5871|Soul;R&B|",
 "Cocteau Twins|Pearly-Dewdrops' Drops|1984|s-5Xgw6d3h0?start=10|Cocteau Twins|S1915|Dream Pop;Ethereal Wave;Alternative Rock;Darkwave;Gothic Rock;Rock|Pearly-Dewdrops' Drops",
 "The Shadows of Knight|Gloria|1966|YuTtFsWy0Oc|The Shadows of Knight|S2501|Garage Rock;Rock|",
 "Phoenix|Heatwave|1999|uc-D4u8clLk|Phoenix (band)|S7955|French House;Dance;Electronic;Electronic Dance Music;House|Point of View (DB Boulevard song)",
