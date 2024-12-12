@@ -8955,7 +8955,7 @@ const songs = [
 "Perfect Pussy|Interference Fits|2014|_R4YuekVuNY|Perfect Pussy|S9645|Noise Rock;Post-Hardcore;Punk Rock;Rock|Nothing Records|",
 "Southside Johnny & The Asbury Jukes|I Don't Want to Go Home|1976|D7JeaeElcQg|Southside Johnny and the Asbury Jukes|S13357|Heartland Rock;Rock|",
 "John Williams|Star Wars (Main Title)|1977|54hoKbTWon4|John Williams|S9260|Cinematic Classical;Film Score;Orchestral;Classical Music;Film Soundtrack;Soundtracks;Western Classical Music|",
-"Procol Harum|A Salty Dog|1969|5JASiTPhaBU|Procol Harum|S8020|Baroque Pop;Progressive Rock;Pop;Rock|",
+"Procol Harum|A Salty Dog|1969|5JASiTPhaBU|Procol Harum|S8020|Baroque Pop;Progressive Rock;Pop;Rock|A Salty Dog (song)",
 "Snowy White|Bird of Paradise|1983|hMAyGUYlX0E|Snowy White|S15882|Blues Rock;Rock|",
 "Fun Lovin' Criminals|Love Unlimited|1998|9xkC25fabRU|Fun Lovin' Criminals|S4238|Downtempo;Hip Hop;Electronic|",
 "Grateful Dead|Casey Jones|1970|CxCfnq7A56M|Grateful Dead|S10969|Country Rock;Rock|Casey Jones (song)",
