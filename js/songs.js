@@ -7797,7 +7797,7 @@ const songs = [
 "Led Zeppelin|Tangerine|1970|_0Auvlsv860|Led Zeppelin|S11393|Folk Rock;Rock|Tangerine (Led Zeppelin song)",
 "The Doors|Alabama Song (Whisky Bar)|1967|rY1ZwubOOm0|The Doors|S10635|Psychedelic Rock;Rock|Alabama Song",
 "Max Roach|Driva' Man|1961|IF6q6XKKrik|Max Roach|S7477|Avant-Garde Jazz;Vocal Jazz;Work Songs;Folk;Jazz;Regional Music;Traditional Folk Music|",
-"Markus Nikolai|Bushes|1999|NwcK0y_RhhE|https://www.discogs.com/artist/30429-Jallokin|S7436|House;Dance;Electronic;Electronic Dance Music|",
+"Markus Nikolai|Bushes|1999|42gBMtL9zhE|https://www.discogs.com/artist/30429-Jallokin|S7436|House;Dance;Electronic;Electronic Dance Music|",
 "Death in Vegas|Hands Around My Throat|2002|R8yrXn60aGY|Death in Vegas|S6005|Alternative Dance;Electroclash;Post-Punk Revival;Alternative Rock;Dance;Electronic;Electronic Dance Music;Indie Rock;Post-Punk;Rock|",
 "The Osmonds|One Bad Apple (Don't Spoil the Whole Bunch)|1970|L4CcgblWC8k|The Osmonds|S11812|Bubblegum;Teen Pop;Pop|Bad apples",
 "David Bowie|Loving the Alien|1984|ns2hmyP0mGY|David Bowie|S14282|Pop Reggae;Progressive Pop;Sophisti-Pop;Caribbean Music;Jamaican Music;Pop;Reggae;Regional Music|Loving the Alien",
