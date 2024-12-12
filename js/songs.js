@@ -8521,7 +8521,7 @@ const songs = [
 "Elastica|Waking Up|1995|WlOje4ly4hg|Elastica|S2103|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Waking Up (song)",
 "Snoop Dogg|Vato|2006|UXWFqxKU2qA|Snoop Dogg|S8471|West Coast Hip Hop;Hip Hop|Vato (song)",
 "Millie Jackson|If Loving You Is Wrong (I Don't Want To Be Right)|1974|cZ13jHp7_P4|Millie Jackson|S12811|Deep Soul;Smooth Soul;R&B;Soul;Southern Soul|(If Loving You Is Wrong) I Don't Want to Be Right",
-"Frank Sinatra|When Your Lover Has Gone|1955|3cwiNCOVPoU|Frank Sinatra|S2780|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop|",
+"Frank Sinatra|When Your Lover Has Gone|1955|FLhlHfnugYY|Frank Sinatra|S2780|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop|",
 "Tindersticks|Can We Start Again?|1999|CCD5BOyi7oM?start=8|Tindersticks|S13984|Chamber Pop;Baroque Pop;Indie Pop;Pop|",
 "Lana Del Rey|Brooklyn Baby|2014|T5xcnjAG8pE|Lana Del Rey|S9685|Art Pop;Dream Pop;Alternative Rock;Pop;Rock|Brooklyn Baby|",
 "Chris de Burgh|The Lady in Red|1986|Vt2YIpZWBqA|Chris de Burgh|S5795|Adult Contemporary;Pop|The Lady in Red (Chris de Burgh song)",
