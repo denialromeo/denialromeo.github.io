@@ -323,7 +323,7 @@ const songs = [
 "AC/DC|Back in Black|1980|pAgnJDJN4VA|AC/DC|S528|Hard Rock;Rock|Back in Black (song)",
 "The Rolling Stones|Tumbling Dice|1972|XAWjSTwvroY|The Rolling Stones|S787|Blues Rock;Rock|Tumbling Dice",
 "The Lovin' Spoonful|Summer in the City|1966|U7ofnHmxE-I|The Lovin' Spoonful|S968|Pop Rock;Psychedelic Pop;Sunshine Pop;Pop;Rock|Summer in the City (song)",
-"Hercules and Love Affair|Blind|2008|nnb0a-8OIB4|Hercules and Love Affair|S4720|Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House|Blind (Hercules and Love Affair song)",
+"Hercules and Love Affair|Blind|2008|9Trw75d5R-4|Hercules and Love Affair|S4720|Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House|Blind (Hercules and Love Affair song)",
 "Rage Against the Machine|Killing in the Name|1992|bWXazVhlyxQ|Rage Against the Machine|S133|Rap Metal;Alternative Metal;Metal;Rock|Killing in the Name",
 "Roy Orbison|Only the Lonely (Know the Way I Feel)|1960|UTR2IlAJEyQ|Roy Orbison|S1144|Pop|Only the Lonely",
 "The Cure|Just Like Heaven|1987|n3nPiBai66M|The Cure|S356|Jangle Pop;New Wave;Alternative Rock;Pop;Pop Rock;Rock|Just Like Heaven (The Cure song)",
