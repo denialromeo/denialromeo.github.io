@@ -7906,7 +7906,7 @@ const songs = [
 "Rihanna|What's My Name?|2010|s_LPsRHRXlk|Rihanna|S8164|Contemporary R&B;Dance-Pop;Dance;Pop;R&B|What's My Name%3F (Rihanna song)",
 "Traffic|Feeling Alright?|1968|xJcIjG9N1Qs|Traffic (band)|S8831|Baroque Pop;Psychedelic Pop;Psychedelic Rock;Pop;Rock|Feeling Alright",
 "James Brown|Think|1960|fpmpnVbfAXU|James Brown|S6844|Rhythm & Blues;R&B|Think (The \"5\" Royales song)",
-"The \"5\" Royales|Think|1957|j9hNRX-CbAI|The \"5\" Royales|S3406|Doo-Wop;R&B;Vocal Group|Think (The \"5\" Royales song)",
+"The \"5\" Royales|Think|1957|ikugCjrfcB8|The \"5\" Royales|S3406|Doo-Wop;R&B;Vocal Group|Think (The \"5\" Royales song)",
 "Vess L. Ossman|Yankee Doodle|1897|AFTB1LULy7o|Vess Ossman|S15977|American Folk Music;Folk;Regional Music;Traditional Folk Music|",
 "David Ruffin|My Whole World Ended (The Moment You Left Me)|1969|BHEY-QEWmUw|David Ruffin|S3787|Soul;R&B|",
 "The Afghan Whigs|Gentlemen|1993|l6ER2_4q5KQ|The Afghan Whigs|S3143|Grunge;Alternative Rock;Rock|",
