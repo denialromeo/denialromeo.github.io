@@ -8209,7 +8209,7 @@ const songs = [
 "Slime|Deutschland|1981|yLuB6EeQTc4|Slime (band)|S15875|Deutschpunk;Punk Rock;Rock|",
 "Stevie Nicks|Stand Back|1983|LLcPqpG4jps|Stevie Nicks|S12316|Dance-Pop;Pop Rock;Dance;Pop;Rock|Stand Back",
 "Das Bo|Türlich, türlich (Sicher, dicker)|2000|n-AUUWKgCX4|https://de.wikipedia.org/wiki/Das_Bo|S14275|Miami Bass;Pop Rap;Hip Hop|https://de.wikipedia.org/wiki/T%C3%BCrlich,_t%C3%BCrlich_(sicher,_Dicker)",
-"Shack|Comedy|1999|6FP_dGyCq7I|Shack (band)|S2178|Britpop;Chamber Pop;Alternative Rock;Baroque Pop;Indie Pop;Pop;Pop Rock;Rock|",
+"Shack|Comedy|1999|Pyku9BdybLQ|Shack (band)|S2178|Britpop;Chamber Pop;Alternative Rock;Baroque Pop;Indie Pop;Pop;Pop Rock;Rock|",
 "Daniel Johnston|Some Things Last a Long Time|1990|HryaTRxiSzw|Daniel Johnston|S4583|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop|",
 "Ice Cube feat. Don Jaguar|Wicked|1992|SsWsmH2d_Qg|Ice Cube|S11061|Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "The Plan|Mon amour|2001|itOux4cz8K4|The Plan (band)|S7977|Indie Rock;Alternative Rock;Rock|",
