@@ -758,7 +758,7 @@ const songs = [
 "Gil Scott-Heron|The Revolution Will Not Be Televised|1971|QnJFhuOWgXg|Gil Scott-Heron|S4170|Funk;Jazz Poetry;Jazz;Poetry;R&B;Spoken Word|The Revolution Will Not Be Televised",
 "Michael Jackson|Thriller|1982|sOnqjkJTMaA?start=254|Michael Jackson|S1907|Dance-Pop;Dance;Pop|Thriller (song)",
 "Robert Johnson|Hellhound on My Trail|1937|xATYYDMh6uE|Robert Johnson|S2709|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|Hellhound on My Trail",
-"Duke Ellington|Take the \"A\" Train|1941|cb2w2m1JmCY|Duke Ellington|S2679|Big Band;Swing;Jazz|",
+"Duke Ellington|Take the \"A\" Train|1941|cb2w2m1JmCY|Duke Ellington|S2679|Big Band;Swing;Jazz|Take the \"A\" Train",
 "The Knack|My Sharona|1979|g1T71PGd-J0|The Knack|S583|New Wave;Power Pop;Pop;Pop Rock;Rock|My Sharona",
 "Nancy Sinatra|Some Velvet Morning|1967|670YMraVnyk|Nancy Sinatra|S1698|Baroque Pop;Psychedelic Pop;Pop|Some Velvet Morning",
 "Elvis Costello|Watching the Detectives|1977|k1Qnt5bx1OI|Elvis Costello|S636|New Wave;Rock|Watching the Detectives (song)",
