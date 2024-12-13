@@ -559,7 +559,7 @@ const songs = [
 "David Bowie|Blackstar|2015|kszLwBaC4Sw|David Bowie|S9733|Art Rock;Experimental Rock;Rock|Blackstar (song)",
 "R.E.M.|The One I Love|1987|uaqSSMs3mEM|R.E.M.|S346|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|The One I Love (R.E.M. song)",
 "Madonna|Ray of Light|1998|x3ov9USxVxY|Madonna (entertainer)|S275|Art Pop;Dance-Pop;Dance;Pop|Ray of Light",
-"Fats Domino|Ain't That a Shame|1955|I6JZW7zMDfY|Fats Domino|S1295|New Orleans R&B;Rhythm & Blues;R&B|Ain't That a Shame",
+"Fats Domino|Ain't That a Shame|1955|GWkH_PQxL6k|Fats Domino|S1295|New Orleans R&B;Rhythm & Blues;R&B|Ain't That a Shame",
 "Ariana Grande|thank u, next|2018|nVEHVu5uUJg|Ariana Grande|S16521|Contemporary R&B;Electropop;Electronic;Pop;R&B|Thank U, Next (song)",
 "John Lennon|Working Class Hero|1970|iMewtlmkV6c|Plastic Ono Band|S2558|Contemporary Folk;Singer/Songwriter;Folk|Working Class Hero",
 "Aretha Franklin|Chain of Fools|1967|xroRNBvvF9M|Aretha Franklin|S941|Southern Soul;R&B;Soul|Chain of Fools",
