@@ -5405,7 +5405,7 @@ const songs = [
 "Kanye West Feat. Allan Kingdom, Theophilus London, Paul McCartney|All Day|2015|_ABk7TmjnVk|Kanye West|S9800|Pop Rap;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|All Day (Kanye West song)",
 "SOS Band|Just Be Good to Me|1983|6tRU8aIjlkg|The S.O.S. Band|S480|Contemporary R&B;Synth Funk;Funk;R&B|Just Be Good to Me",
 "The Pretty Things|S.F. Sorrow is Born|1968|0QVFHkWitGU|Pretty Things|S3726|Psychedelic Rock;Rock Opera;Rock|",
-"Mosca|Bax|2011|s1jp94Psx18|https://www.discogs.com/artist/1674765-Mosca-2|S7614|Speed Garage;Dance;Electronic;Electronic Dance Music;UK Garage|",
+"Mosca|Bax|2011|DoAi_xY0taU|https://www.discogs.com/artist/1674765-Mosca-2|S7614|Speed Garage;Dance;Electronic;Electronic Dance Music;UK Garage|",
 "Jean Ferrat|La Montagne|1964|cR1HNrjKwYg|Jean Ferrat|S11165|Chanson;Regional Music|",
 "Emmett Miller|Lovesick Blues|1928|otNICva63mQ|Emmett Miller|S4056|Vaudeville Blues;Vocal Jazz;Blues;Jazz;Musical Theatre and Entertainment;Vaudeville|Lovesick Blues",
 "Eno|St. Elmo's Fire|1975|s-3djUYgebU|Brian Eno|S12771|Art Pop;Art Rock;Experimental Rock;Pop;Rock|",
