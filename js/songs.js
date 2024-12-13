@@ -9943,7 +9943,7 @@ const songs = [
 "Genius/GZA feat. Ghostface Killah, Killah Priest & RZA|4th Chamber|1995|nkjait7wm4k|GZA|S11003|Boom Bap;East Coast Hip Hop;Hip Hop|",
 "Miss Kittin|Requiem for a Hit|2004|gm9IP6zX2UM|Miss Kittin|S7569|Electroclash;Dance;Electronic;Electronic Dance Music|",
 "Scott Walker|Duchess|1969|XprkIbphGf8|Scott Walker (singer)|S9347|Baroque Pop;Singer/Songwriter;Pop|",
-"Elvis Presley|Don't|1957|5nr_T1Ua83s?start=2|Elvis Presley|S13761|Doo-Wop;Pop;R&B;Vocal Group|Don't (Elvis Presley song)",
+"Elvis Presley|Don't|1957|cYPi6UdF6kQ|Elvis Presley|S13761|Doo-Wop;Pop;R&B;Vocal Group|Don't (Elvis Presley song)",
 "Bill Monroe & His Blue Grass Boys|In the Pines|1952|mNwZDy3xZPw|Bill Monroe|S15292|Bluegrass;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|",
 "Depeche Mode|A Question of Time|1986|9pt7EWFF_T8|Depeche Mode|S10573|Synthpop;Electronic;Pop|",
 "Michael McDonald|I Keep Forgettin' (Every Time You're Near)|1982|9gbQVj4MR3M|Michael McDonald (musician)|S11623|Blue Eyed Soul;Yacht Rock;Pop;Pop Rock;Rock|I Keep Forgettin' (Every Time You're Near)",
