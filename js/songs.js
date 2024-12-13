@@ -3725,7 +3725,7 @@ const songs = [
 "Los Lobos|Will the Wolf Survive?|1984|lJVsUMKftMo|Los Lobos|S3572|Alternative Rock;Americana;Tex-Mex;Country;Rock;Roots Rock|Will the Wolf Survive (song)",
 "Kate Bush|Suspended in Gaffa|1982|V3XAeg3B0To|Kate Bush|S7062|Art Pop;Baroque Pop;Progressive Pop;Pop|Suspended in Gaffa",
 "Bananarama|Cruel Summer|1983|l9ml3nyww80|Bananarama|S5307|Synthpop;Electronic;Pop|Cruel Summer (Bananarama song)",
-"Freda Payne|Bring the Boys Home|1970|--fFhunuUJM|Freda Payne|S3690|Soul;R&B|Bring the Boys Home",
+"Freda Payne|Bring the Boys Home|1970|CbBu55D0DW0|Freda Payne|S3690|Soul;R&B|Bring the Boys Home",
 "The Pursuit of Happiness|I'm an Adult Now|1987|pp83oq1BHWo|The Pursuit of Happiness (band)|S1969|Power Pop;Pop;Pop Rock;Rock|",
 "Ian Dury|Sweet Gene Vincent|1977|zM_q3k4TwpM|The Blockheads|S1799|New Wave;Pub Rock;Rock|Sweet Gene Vincent",
 "The Strokes|Under Cover of Darkness|2011|_l09H-3zzgA|The Strokes|S4989|Indie Rock;Alternative Rock;Rock|Under Cover of Darkness",
