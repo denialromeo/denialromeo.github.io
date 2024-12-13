@@ -5151,7 +5151,7 @@ const songs = [
 "Lynyrd Skynyrd|Saturday Night Special|1975|a_myvlIjfXg|Lynyrd Skynyrd|S11505|Hard Rock;Southern Rock;Rock|Saturday Night Special (Lynyrd Skynyrd song)",
 "Paul Simon with The Dixie Hummingbirds|Loves Me Like a Rock|1973|CjFzw8AxSBA|The Dixie Hummingbirds||Pop Rock;Singer/Songwriter;Pop;Rock|Loves Me Like a Rock",
 "Bruce Springsteen|Stolen Car|1980|f0RNWwXcQiU|Bruce Springsteen|S4193|Heartland Rock;Pop Rock;Singer/Songwriter;Pop;Rock|Stolen Car (Bruce Springsteen song)",
-"Hüsker Dü|I Apologize|1985|xkDIF9zSsc8|Hüsker Dü|S2616|Alternative Rock;Post-Hardcore;Punk Rock;Rock|I Apologize",
+"Hüsker Dü|I Apologize|1985|Dpdf6K83ri4|Hüsker Dü|S2616|Alternative Rock;Post-Hardcore;Punk Rock;Rock|I Apologize",
 "AC/DC|Thunderstruck|1990|v2AC41dglnM|AC/DC|S9923|Hard Rock;Rock|",
 "Kingdom|Bank Head|2013|0q9LcifnTV4|Kelela|S9478|UK Bass;Dance;Electronic;Electronic Dance Music;UK Garage|",
 "Simon and Garfunkel|My Little Town|1975|__Ro3eGuznI|Simon & Garfunkel|S9349|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|My Little Town",
