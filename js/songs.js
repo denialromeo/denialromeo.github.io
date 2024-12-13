@@ -3104,7 +3104,7 @@ const songs = [
 "Solange feat. Sampha|Don't Touch My Hair|2016|YTtrnDbOQAU|Solange Knowles|S16191|Neo-Soul;R&B;Soul|",
 "Plastilina Mosh|Mr. P Mosh|1998|2Qw9y06HSV4|Plastilina Mosh|S7978|Alternative Dance;Alternative Rock;Dance;Rock|",
 "Hole|Miss World|1994|mS1Ckczz0LQ|Hole (band)|S102|Grunge;Alternative Rock;Rock|Miss World (song)",
-"Caetano Veloso|Alegria, Alegria|1967|WL8l8olaMmI|Caetano Veloso|S5692|Psychedelic Pop;Tropicália;Brazilian Music;MPB;Pop;Regional Music|Alegria, Alegria",
+"Caetano Veloso|Alegria, Alegria|1967|he_ghOAXbSM|Caetano Veloso|S5692|Psychedelic Pop;Tropicália;Brazilian Music;MPB;Pop;Regional Music|Alegria, Alegria",
 "Busta Rhymes|Put Your Hands Where My Eyes Could See|1997|Qw8dRrInTk8|Busta Rhymes|S3758|Boom Bap;East Coast Hip Hop;Hip Hop|Put Your Hands Where My Eyes Could See",
 "Mac DeMarco|Ode to Viceroy|2012|I2_r94MwW18|Mac DeMarco|S11512|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|",
 "Weyes Blood|Andromeda|2019|Aki1Xn36eJ8|Weyes Blood|S16892|Art Pop;Psychedelic Pop;Pop|",
