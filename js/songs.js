@@ -3077,7 +3077,7 @@ const songs = [
 "Christina Aguilera|Ain't No Other Man|2006|8x7Ta89QLo4|Christina Aguilera|S4002|Contemporary R&B;Pop;R&B|Ain't No Other Man",
 "Charles Mingus|Goodbye Pork Pie Hat|1959|p-GPUEp_zUs|Charles Mingus|S10374|Cool Jazz;Jazz|",
 "Elmore James|The Sky Is Crying|1960|pd7b1Ye6Oc0|Elmore James|S1186|Chicago Blues;Blues;Electric Blues|",
-"Elton John|Daniel|1973|UA78e27R_J4|Elton John|S6237|Piano Rock;Pop;Pop Rock;Rock|Daniel (Elton John song)",
+"Elton John|Daniel|1973|x3QhLow5THk|Elton John|S6237|Piano Rock;Pop;Pop Rock;Rock|Daniel (Elton John song)",
 "t.A.T.u.|All the Things She Said|2002|8mGBaXPlri8|T.A.T.u.|S2392|Europop;Pop Rock;Pop;Rock|All the Things She Said",
 "Jacques Brel|Amsterdam|1964|V3BSj1cHX-M|Jacques Brel|S6833|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|Amsterdam (Jacques Brel song)",
 "John Waite|Missing You|1984|k9e157Ner90|John Waite|S442|AOR;Pop Rock;Pop;Rock|Missing You (John Waite song)",
