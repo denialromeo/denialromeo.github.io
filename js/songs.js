@@ -8986,7 +8986,7 @@ const songs = [
 "Angel Olsen|Forgiven/Forgotten|2014|PinTAGbIsV4|Angel Olsen|S9615|Indie Rock;Alternative Rock;Rock|",
 "Sammy Turner|Lavender Blue|1959|8_u347OAqmc|Sammy Turner|S8310|Rhythm & Blues;Soul;Traditional Pop;Pop;R&B|Lavender's Blue",
 "Daniel Johnston|True Love Will Find You in the End|1984|UUbEf67bbrA|Daniel Johnston|S15392|Lo-Fi / Slacker Rock;Singer/Songwriter;Alternative Rock;Indie Rock;Rock|1990 (Daniel Johnston album)",
-"The Cure|Primary|1981|8RV3UALgBr8|The Cure|S12743|Gothic Rock;Post-Punk;Rock|Primary (song)",
+"The Cure|Primary|1981|0xrZ61cuKLk|The Cure|S12743|Gothic Rock;Post-Punk;Rock|Primary (song)",
 "Parquet Courts|Total Football|2018|sP9l9HBJ1o0|Parquet Courts|S16588|Art Punk;Dance-Punk;Post-Punk;Punk Rock;Rock|",
 "Pantera|Cemetery Gates|1990|RVMvART9kb8|Pantera|S11836|Groove Metal;Thrash Metal;Metal;Rock|Cemetery Gates",
 "boygenius|Bite the Hand|2018|hZlR6DjehDc|Boygenius|S16595|Indie Rock;Singer/Songwriter;Alternative Rock;Rock|",
