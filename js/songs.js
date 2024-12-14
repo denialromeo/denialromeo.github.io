@@ -1759,7 +1759,7 @@ const songs = [
 "Joanna Newsom|Good Intentions Paving Company|2010|-Nb3117f8M4|Joanna Newsom|S4909|Chamber Folk;Progressive Folk;Singer/Songwriter;Contemporary Folk;Folk|",
 "Tom Waits|(Looking For) The Heart of Saturday Night|1974|lyyFLYNbQpg|Tom Waits|S8796|Singer/Songwriter|The Heart of Saturday Night",
 "The Chordettes|Mr. Sandman|1954|VNUgsbKisp8|The Chordettes|S2773|Girl Group;Traditional Pop;Vocal Group;Pop|Mr. Sandman",
-"AC/DC|Hells Bells|1980|etAIpkdhU9Q|AC/DC|S3131|Hard Rock;Rock|",
+"AC/DC|Hells Bells|1980|etAIpkdhU9Q|AC/DC|S3131|Hard Rock;Rock|Hells Bells (song)",
 "Spoon|The Way We Get By|2002|3ngjkPAAZBU|Spoon (band)|S2228|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|",
 "Pink Floyd|Interstellar Overdrive|1967|EJ2xIGTbtwE|Pink Floyd|S3703|Experimental Rock;Space Rock;Psychedelic Rock;Rock|Interstellar Overdrive",
 "Bessie Smith|Downhearted Blues|1923|4Ob_sW2_2Zw|Bessie Smith|S2742|Piano Blues;Vaudeville Blues;Blues;Musical Theatre and Entertainment;Vaudeville|",
