@@ -8704,7 +8704,7 @@ const songs = [
 "Danny O'Keefe|Good Time Charlie's Got the Blues|1971|ROXtgjasUQo|Danny O'Keefe|S5945|Country|Good Time Charlie's Got the Blues",
 "Tony Bennett|Stranger in Paradise|1953|YNDfEYMXBZ8|Tony Bennett|S8816|Traditional Pop;Vocal Jazz;Jazz;Pop|Stranger in Paradise (song)",
 "Rihanna, Kanye West, Paul McCartney|FourFiveSeconds|2015|bRz9gc-UKj0|Paul McCartney|S9832|Pop Soul;Pop;R&B;Soul|FourFiveSeconds",
-"Marian Anderson|Ave Maria|1936|GksRp42s3S8|Marian Anderson|S15681|Lieder;Classical Music;Western Classical Music|",
+"Marian Anderson|Ave Maria|1936|GksRp42s3S8|Marian Anderson|S15681|Lieder;Classical Music;Western Classical Music|Ave Maria (Schubert)",
 "The Cadillacs|Gloria|1954|KAUQb8TVo2U|The Cadillacs|S9174|Doo-Wop;R&B;Vocal Group|Gloria (Leon René song)",
 "Javiera Mena|Espada|2013|GqNTdNCU2y8|Javiera Mena|S13511|Electropop;Nu-Disco;Synthpop;Dance;Disco;Electronic;Electronic Dance Music;House;Pop|",
 "Serge Lama|Je suis malade|1973|HDbpZpm9j9c?start=3|Serge Lama|S12182|Chanson;Regional Music|Je suis malade (song)",
