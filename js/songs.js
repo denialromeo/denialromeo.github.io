@@ -3417,7 +3417,7 @@ const songs = [
 "Sonic Youth|The Diamond Sea|1995|VpfZ60wqyUo|Sonic Youth|S3830|Alternative Rock;Noise Rock;Rock|Washing Machine (album)",
 "Peter Gabriel|Don't Give Up|1986|VjEq-r2agqc|Peter Gabriel|S3433|Art Pop;Pop|Don't Give Up (Peter Gabriel and Kate Bush song)",
 "Fred Neil|Everybody's Talkin'|1966|V61hplKFVNc|Fred Neil|S3657|Contemporary Folk;Folk Rock;Singer/Songwriter;Folk;Rock|Everybody's Talkin'",
-"Sonic Youth|Schizophrenia|1987|rRLstSmWUno|Sonic Youth|S8488|Alternative Rock;Noise Rock;Rock|Sister (Sonic Youth album)",
+"Sonic Youth|Schizophrenia|1987|fWzFkVy3s14|Sonic Youth|S8488|Alternative Rock;Noise Rock;Rock|Sister (Sonic Youth album)",
 "Goldfrapp|Strict Machine|2003|YeawPUpTHJA|Goldfrapp|S6606|Electro-Disco;Electropop;Synthpop;Dance;Disco;Electronic;Electronic Dance Music;Pop|Strict Machine",
 "Julee Cruise|Falling|1989|PBdH6SjBEX8|Julee Cruise|S2425|Ambient Pop;Dream Pop;Alternative Rock;Pop;Rock|Falling (Julee Cruise song)",
 "Patti Smith|Free Money|1975|U-ZJGfA0UxY|Patti Smith|S7867|Proto-Punk;Singer/Songwriter;Rock|Free Money (song)",
