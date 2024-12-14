@@ -8227,7 +8227,7 @@ const songs = [
 "Michael Jackson|She's Out of My Life|1979|6DQJPL9Yuq0|Michael Jackson|S11619|Pop Soul;Pop;R&B;Soul|She's Out of My Life",
 "Eddie Cochran|Sittin' in the Balcony|1957|yZ1BmskTE6A|Eddie Cochran|S4372|Rock & Roll;Rock|",
 "Siouxsie and the Banshees|Spellbound|1981|TjvvK-Rj0WI|Siouxsie and the Banshees|S8430|Gothic Rock;Post-Punk;Rock|Spellbound (Siouxsie and the Banshees song)",
-"Kings of Leon|Red Morning Light|2003|_uPJbwfOo7M|Kings of Leon|S7115|Garage Rock Revival;Southern Rock;Garage Rock;Rock|",
+"Kings of Leon|Red Morning Light|2003|Dv7vr6oE3U8|Kings of Leon|S7115|Garage Rock Revival;Southern Rock;Garage Rock;Rock|",
 "Paul Simon|The Late Great Johnny Ace|1983|Kbq9ujlNvD0|Paul Simon|S4567|Pop Rock;Singer/Songwriter;Pop;Rock|The Late Great Johnny Ace",
 "James Taylor|Don't Let Me Be Lonely Tonight|1972|y8cPCYZz6uE|James Taylor|S13819|Singer/Songwriter|Don't Let Me Be Lonely Tonight",
 "Van Morrison|In the Garden|1986|pmDhTMdUGR0|Van Morrison|S3642|Pop Rock;Singer/Songwriter;Pop;Rock|In the Garden (Van Morrison song)",
