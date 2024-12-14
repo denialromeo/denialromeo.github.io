@@ -4356,7 +4356,7 @@ const songs = [
 "Nick Cave|Dig, Lazarus, Dig!!!|2008|PxWS1ufr5xI|Nick Cave|S4738|Alternative Rock;Rock|Dig, Lazarus, Dig!!! (song)",
 "Kaiser Chiefs|Ruby|2007|qObzgUfCl28|Kaiser Chiefs|S4331|Indie Rock;Pop Rock;Alternative Rock;Pop;Rock|Ruby (Kaiser Chiefs song)",
 "Weezer|Hash Pipe|2001|_9BGLtqqkVI|Weezer|S2216|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Hash Pipe",
-"The Shirelles|Tonight's the Night|1960|Z4HVksFJ_1s|The Shirelles|S1159|Girl Group;Pop|Tonight's the Night (The Shirelles song)",
+"The Shirelles|Tonight's the Night|1960|Pg_AI_BJ4pc|The Shirelles|S1159|Girl Group;Pop|Tonight's the Night (The Shirelles song)",
 "Bruce Springsteen|Glory Days|1984|6vQpW9XRiyM|Bruce Springsteen|S420|Heartland Rock;Pop Rock;Pop;Rock|Glory Days (Bruce Springsteen song)",
 "Koko Taylor|Wang Dang Doodle|1966|qyUHkY0K8HE|Koko Taylor|S7141|Chicago Blues;Soul Blues;Blues;Electric Blues|Wang Dang Doodle",
 "Sheck Wes|Mo Bamba|2017|VWoIpDVkOH0|Sheck Wes|S16557|East Coast Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|Mo Bamba (song)",
