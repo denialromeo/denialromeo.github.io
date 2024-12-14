@@ -7572,7 +7572,7 @@ const songs = [
 "Van Halen|Eruption|1978|M4Czx8EWXb0|Van Halen|S12538|Hard Rock;Rock|",
 "Lennie Tristano|Digression|1954|Pu45r6MGvUE|Lennie Tristano|S13223|Cool Jazz;Jazz|",
 "Ten Years After|I'm Going Home|1968|dVsbUGs6FU0|Ten Years After|S8718|Blues Rock;Rock|",
-"Plan B|Ill Manors|2012|s8GvLKTsTuI|Plan B|S5033|Conscious Hip Hop;UK Hip Hop;Hip Hop|",
+"Plan B|Ill Manors|2012|s8GvLKTsTuI|Plan B (musician)|S5033|Conscious Hip Hop;UK Hip Hop;Hip Hop|Ill Manors (song)",
 "Hank Williams|Ramblin' Man|1953|V41gDDWEPso|Hank Williams|S9239|Country|Ramblin' Man (Hank Williams song)",
 "Brian Hyland|Sealed With a Kiss|1962|pMTPhkOAqe0|Brian Hyland|S10292|Teen Pop;Pop|Sealed with a Kiss",
 "John Coltrane|Alabama|1964|saN1BwlxJxA|John Coltrane|S13213|Post-Bop;Bebop;Jazz|",
