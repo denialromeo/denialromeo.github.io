@@ -9150,7 +9150,7 @@ const songs = [
 "Chubby Checker|Let's Twist Again|1961|eh8eb_ACLl8|Chubby Checker|S2806|Rhythm & Blues;Rock & Roll;R&B;Rock|Let's Twist Again",
 "Donna Summer|MacArthur Park|1978|2XafQcDWBaY|Donna Summer|S13745|Disco;Dance|MacArthur Park (song)",
 "Charlie Rich|The Most Beautiful Girl|1973|qLbGeZSUrhg|Charlie Rich|S5768|Nashville Sound;Country;Country Pop;Pop|The Most Beautiful Girl",
-"Lucio Battisti|Il mio canto libero|1972|UKYohc4P21c|Lucio Battisti|S12954|Baroque Pop;Pop Rock;Progressive Pop;Pop;Rock|Il mio canto libero (song)",
+"Lucio Battisti|Il mio canto libero|1972|bNRvtWG9ApI|Lucio Battisti|S12954|Baroque Pop;Pop Rock;Progressive Pop;Pop;Rock|Il mio canto libero (song)",
 "Mark Ronson feat. Angel Olsen|True Blue|2019|FuJ2yitJI_U|Mark Ronson|S16829|Dance-Pop;New Wave;Synthpop;Dance;Electronic;Pop;Rock|",
 "Four Tet|Angel Echoes|2010|FiBBcHZ84i8|Four Tet|S6430|Ambient House;Folktronica;Microhouse;Dance;Electronic;Electronic Dance Music;House|",
 "The Chameleons|In Shreds|1982|CAN5Pjo0AYQ|The Chameleons|S5751|Post-Punk;Rock|",
