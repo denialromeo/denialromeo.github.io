@@ -2564,7 +2564,7 @@ const songs = [
 "Bob & Earl|Harlem Shuffle|1963|d5ecHB-c2wo|Bob & Earl|S3223|Soul;R&B|Harlem Shuffle",
 "Spoon|Do You|2014|kLxV_FtZSt8|Spoon (band)|S9561|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|They Want My Soul",
 "Michael Jackson|Human Nature|1982|LzmzYHQSJts|Michael Jackson|S7535|Contemporary R&B;Pop Soul;Pop;R&B;Soul|Human Nature (Michael Jackson song)",
-"Band Aid|Do They Know It's Christmas?|1984|bjQzJAKxTrE|Band Aid (band)|S3166|Christmas Music;Pop;Holiday Music|Do They Know It's Christmas%3F",
+"Band Aid|Do They Know It's Christmas?|1984|RH-xd5bPKTA|Band Aid (band)|S3166|Christmas Music;Pop;Holiday Music|Do They Know It's Christmas%3F",
 "Aretha Franklin|Do Right Woman - Do Right Man|1967|N1MW6xXjW8g?start=22|Aretha Franklin|S2514|Soul;R&B|Do Right Woman, Do Right Man",
 "Bon Iver|Hey, Ma|2019|HDAKS18Gv1U|Bon Iver|S16745|Art Pop;Pop|Hey, Ma (Bon Iver song)",
 "John Cage|4'33\"|1952|JTEFKFiXSx4|John Cage|S2768|Indeterminacy;Classical Music;Experimental;Modern Classical|4′33″",
