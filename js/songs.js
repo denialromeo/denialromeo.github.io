@@ -6731,7 +6731,7 @@ const songs = [
 "Divididos|Qué ves?|1993|seyCgb9FuHY|Divididos|S10606|Alternative Rock;Latin Rock;Hispanic Music;Latin American Music;Regional Music;Rock|La era de la boludez",
 "Kings of Tomorrow|Finally|2001|syPi_HXY1e0|Sandy Rivera|S2211|Deep House;Garage House;Dance;Electronic;Electronic Dance Music;House|Finally (Kings of Tomorrow song)",
 "Madvillain|America's Most Blunted|2003|jytxkJUM_7U|Madvillain|S7375|Abstract Hip Hop;Hip Hop|",
-"Spiritualized|Soul on Fire|2008|zgmoVaRbSIA|Spiritualized|S4747|Chamber Pop;Neo-Psychedelia;Psychedelic Pop;Baroque Pop;Indie Pop;Pop;Psychedelic Rock;Rock|",
+"Spiritualized|Soul on Fire|2008|s9hunPhi768|Spiritualized|S4747|Chamber Pop;Neo-Psychedelia;Psychedelic Pop;Baroque Pop;Indie Pop;Pop;Psychedelic Rock;Rock|",
 "Queen|Now I'm Here|1974|3OSd17ko3O4?start=5|Queen (band)|S11975|Hard Rock;Rock|Now I'm Here",
 "Cream|Tales of Brave Ulysses|1967|WRSbjpXZYEA|Cream (band)|S4104|Blues Rock;Psychedelic Rock;Rock|Tales of Brave Ulysses",
 "The Fall|Cruiser's Creek|1985|pem02CWn4Do|The Fall (band)|S417|Post-Punk;Rock|",
