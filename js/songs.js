@@ -3091,7 +3091,7 @@ const songs = [
 "The Boomtown Rats|I Don't Like Mondays|1979|qfH1Z0rkzCY|The Boomtown Rats|S2336|New Wave;Pop Rock;Pop;Rock|I Don't Like Mondays",
 "Blood, Sweat & Tears|Spinning Wheel|1969|P5jNJd7HRVU|Blood, Sweat & Tears|S896|Jazz-Rock;Rock|",
 "Alessia Cara|Here|2015|UKp2CrfmVfw|Alessia Cara|S9703|Contemporary R&B;R&B|Here (Alessia Cara song)",
-"Small Faces|All or Nothing|1966|NjEMHtSCU9M|Small Faces|S2504|Mod;Pop Rock;Pop;Rock|All or Nothing (Small Faces song)",
+"Small Faces|All or Nothing|1966|sa6rZjJ43Js|Small Faces|S2504|Mod;Pop Rock;Pop;Rock|All or Nothing (Small Faces song)",
 "The Rolling Stones|Fool to Cry|1976|B-2MenrnR2U|The Rolling Stones|S1778|Pop Rock;Pop;Rock|Fool to Cry",
 "The B-52's|Dance This Mess Around|1979|Qsb0HlSfUpg|The B-52's|S3159|New Wave;Rock|Dance This Mess Around",
 "Creedence Clearwater Revival|Born on the Bayou|1969|wIjUY3pjN8E|Creedence Clearwater Revival|S3307|Swamp Rock;Rock;Roots Rock|",
