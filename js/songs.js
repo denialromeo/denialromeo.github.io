@@ -4929,7 +4929,7 @@ const songs = [
 "Candi Staton|You Got the Love|1991|LQqqJgZi0fk|Candi Staton|S2031|Breakbeat;House;Pop Soul;Dance;Electronic;Electronic Dance Music;Pop;R&B;Soul|You Got the Love",
 "Cold Chisel|Khe Sanh|1978|dTjvG4WJD_A|Cold Chisel|S4437|Pub Rock;Rock|",
 "The Plimsouls|A Million Miles Away|1981|aIxgBMNhsKU|The Plimsouls|S7979|Power Pop;Pop;Pop Rock;Rock|A Million Miles Away",
-"Bo Diddley|Hey! Bo Diddley|1957|BKYSAfbOCPc|Bo Diddley|S3331|Electric Blues;Rhythm & Blues;Rock & Roll;Blues;R&B;Rock|",
+"Bo Diddley|Hey! Bo Diddley|1957|xpmGxUHJqkc|Bo Diddley|S3331|Electric Blues;Rhythm & Blues;Rock & Roll;Blues;R&B;Rock|",
 "Jr. Walker & The All Stars|(I'm a) Road Runner|1966|l_soeUaDVDw|Junior Walker|S1437|Rhythm & Blues;Soul;R&B|",
 "Jeanne Moreau|Le Tourbillon|1962|B4nHBn8zypc?start=4|Jeanne Moreau|S4393|Chanson;Regional Music|",
 "Bobby Bland|I Pity the Fool|1961|1--7K58_4ZQ|Bobby Bland|S1125|Rhythm & Blues;Soul Blues;Blues;R&B|I Pity the Fool",
