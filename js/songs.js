@@ -2251,7 +2251,7 @@ const songs = [
 "Public Image Ltd.|Rise|1986|jPj-8_wOZcA|Public Image Ltd|S364|Post-Punk;Rock|Rise (Public Image Ltd song)",
 "Men at Work|Down Under|1981|XfR9iY5y94s|Men at Work|S3618|Pop Reggae;Pop Rock;Caribbean Music;Jamaican Music;Pop;Reggae;Regional Music;Rock|Down Under (song)",
 "Led Zeppelin|Ramble On|1969|_h9MxNn8P7w|Led Zeppelin|S7202|Folk Rock;Rock|Ramble On",
-"Can|Yoo Doo Right|1969|gPXkIWYYVfQ|Can (band)|S5700|Krautrock;Psychedelic Rock;Experimental Rock;Progressive Rock;Rock|Yoo Doo Right",
+"Can|Yoo Doo Right|1969|QxX5ZORy95w|Can (band)|S5700|Krautrock;Psychedelic Rock;Experimental Rock;Progressive Rock;Rock|Yoo Doo Right",
 "Cream|Crossroads|1968|kbPmo5wPXzE|Cream (band)|S897|Blues Rock;Hard Rock;Rock|Cross Road Blues",
 "Maurice Williams and the Zodiacs|Stay|1960|mSI6zlUeeCA|Maurice Williams and the Zodiacs|S1145|Doo-Wop;R&B;Vocal Group|Stay (Maurice Williams song)",
 "Crosby, Stills, Nash (& Young)|Woodstock|1970|4lx86B6a3kc|Crosby, Stills, Nash & Young|S3311|Folk Rock;Rock|",
