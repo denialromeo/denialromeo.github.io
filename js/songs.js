@@ -3741,7 +3741,7 @@ const songs = [
 "The Diamonds|The Stroll|1957|UrGLNtZ0rEg|The Diamonds|S1254|Rhythm & Blues;Rock & Roll;R&B;Rock|The Stroll (song)",
 "Santigold|Disparate Youth|2012|mIMMZQJ1H6E|Santigold|S5035|Alternative Dance;Indietronica;Alternative Rock;Dance;Electronic;Rock|Disparate Youth",
 "Billie Holiday|Body and Soul|1940|wcnqnS1H9R0|Billie Holiday|S4062|Vocal Jazz;Jazz|",
-"Stereolab|French Disko|1993|IH3aQJj119Y|Stereolab|S8559|Indie Pop;Noise Pop;Alternative Rock;Pop;Rock|",
+"Stereolab|French Disko|1993|Ttq4RLTszWg|Stereolab|S8559|Indie Pop;Noise Pop;Alternative Rock;Pop;Rock|",
 "Annie Lennox|Why|1992|HG7I4oniOyA|Annie Lennox|S5209|Adult Contemporary;Sophisti-Pop;Pop|Why (Annie Lennox song)",
 "The Horrors|Still Life|2011|sJQk0jDZx8o|The Horrors|S4987|Neo-Psychedelia;Psychedelic Rock;Rock|",
 "The J. Geils Band|Centrefold|1981|BqDjMZKf-wg|The J. Geils Band|S6810|Pop Rock;Pop;Rock|",
