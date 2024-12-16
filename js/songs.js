@@ -7306,7 +7306,7 @@ const songs = [
 "Tom T. Hall|The Year That Clayton Delaney Died|1971|1NSVOyhWnXM|Tom T. Hall|S8795|Progressive Country;Singer/Songwriter;Country|The Year That Clayton Delaney Died",
 "Pat Benatar|We Belong|1984|qxZInIyOBXk|Pat Benatar|S11845|Pop Rock;Pop;Rock|We Belong",
 "Band of Horses|Laredo|2010|YH8QICzCO8g|Band of Horses|S5313|Indie Rock;Alternative Rock;Rock|Laredo (Band of Horses song)",
-"Sebadoh|On Fire|1996|dl-CcC7xRAw|Sebadoh|S2126|Indie Rock;Alternative Rock;Rock|",
+"Sebadoh|On Fire|1996|COMCG1p7GTk|Sebadoh|S2126|Indie Rock;Alternative Rock;Rock|",
 "The Jacksons|State of Shock|1984|B51442pIEV0|The Jackson 5|S11110|Contemporary R&B;Pop Rock;Pop;R&B;Rock|",
 "Babasónicos|Irresponsables|2003|eXkA1Cjr7cU|Babasónicos|S10057|Alternative Rock;Pop Rock;Pop;Rock|",
 "Teddy Pendergrass|Love T.K.O.|1980|j6wh4txopOA|Teddy Pendergrass|S8703|Philly Soul;Smooth Soul;R&B;Soul|Love T.K.O.",
