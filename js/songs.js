@@ -8145,7 +8145,7 @@ const songs = [
 "Major Lance|Um Um Um Um Um Um Um|1963|g02WmLzozs8|Major Lance|S7385|Chicago Soul;Pop Soul;Pop;R&B;Soul|Um, Um, Um, Um, Um, Um",
 "Al Stewart|Time Passages|1978|Q2g0hrrKLNw|Al Stewart|S12977|Singer/Songwriter;Soft Rock;Pop;Pop Rock;Rock|Time Passages (song)",
 "Madness|Night Boat to Cairo|1979|lLLL1KxpYMA|Madness (band)|S14708|2 Tone;Ska|Night Boat to Cairo",
-"Timi Yuro|What's a Matter Baby (Is It Hurting You?)|1962|9qjTQRscacs|Timi Yuro|S8764|Pop Soul;Pop;R&B;Soul|",
+"Timi Yuro|What's a Matter Baby (Is It Hurting You?)|1962|SCyjj9yGaOg|Timi Yuro|S8764|Pop Soul;Pop;R&B;Soul|",
 "Wilco|I Might|2011|7VGRv6uu0fo|Wilco|S9018|Indie Rock;Alternative Rock;Rock|Wilco|",
 "My Chemical Romance|Teenagers|2006|k6EQAOmJrbw|My Chemical Romance|S7650|Alternative Rock;Glam Rock;Rock|",
 "Traffic|Glad|1970|4v8YQ6sU6I4|Traffic (band)|S12477|Jazz-Rock;Pop Rock;Pop;Rock|John Barleycorn Must Die",
