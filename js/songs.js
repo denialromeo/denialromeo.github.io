@@ -3702,7 +3702,7 @@ const songs = [
 "Stereolab|Cybele's Reverie|1996|0JgxATTtROs|Stereolab|S4516|Art Pop;Chamber Pop;Baroque Pop;Indie Pop;Pop|",
 "Rihanna|Needed Me|2016|4pdBg88UOAk|Rihanna|S16176|Alternative R&B;Pop Rap;Contemporary R&B;Hip Hop;R&B|Needed Me",
 "The Temptations|(I Know) I'm Losing You|1966|4CbzHIVtRj0|The Temptations|S3886|Motown Sound;Pop;Pop Soul;R&B;Soul|",
-"Stereolab|Ping Pong|1994|tsumMcjEPtQ|Stereolab|S111|Art Pop;Indie Pop;Pop|",
+"Stereolab|Ping Pong|1994|Bq8u8E6r3DA|Stereolab|S111|Art Pop;Indie Pop;Pop|",
 "Wolf Parade|Shine a Light|2005|Kh8-r6O43Rw|Wolf Parade|S3047|Indie Rock;Alternative Rock;Rock|",
 "D'Angelo and the Vanguard|The Charade|2014|T3CunfPYkME|D'Angelo|S9878|Neo-Soul;Psychedelic Soul;R&B;Soul|",
 "Enrico Caruso|Vesti la giubba|1907|a_P1QdXMzfA|Enrico Caruso|S6288|Opera;Romanticism;Classical Music;Western Classical Music|Vesti la giubba",
