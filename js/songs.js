@@ -9299,7 +9299,7 @@ const songs = [
 "Simply Red|Fairground|1995|KiRyiVgWj6g|Simply Red|S8425|Dance-Pop;Pop Soul;Dance;Pop;R&B;Soul|Fairground (song)",
 "Cat Stevens|The Wind|1971|_x9UxdHNc10|Cat Stevens|S5740|Contemporary Folk;Singer/Songwriter;Folk|",
 "Bon Jovi|Bed of Roses|1992|NvR60Wg9R7Q|Bon Jovi|S14173|Hard Rock;Pop Rock;Pop;Rock|Bed of Roses (Bon Jovi song)",
-"UFO|Lights Out|1977|z-uFp0m2xNs|UFO (band)|S13997|Hard Rock;Rock|Lights Out (UFO album)",
+"UFO|Lights Out|1977|-HpSh5J4bvw|UFO (band)|S13997|Hard Rock;Rock|Lights Out (UFO album)",
 "Otis Redding|I've Got Dreams to Remember|1968|MOwNCKZeNOE|Otis Redding|S3750|Deep Soul;R&B;Soul;Southern Soul|",
 "Fela|Original Sufferhead|1981|eXDElcfSdy4|Fela Kuti|S10794|Afrobeat;African Music;Funk;R&B;Regional Music;West African Music;Yoruba Music|",
 "Bruce Springsteen|I'm Goin' Down|1985|j6-9p9O-nYw|Bruce Springsteen|S10311|Heartland Rock;Rock|I'm Goin' Down",
