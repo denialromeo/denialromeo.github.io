@@ -1881,7 +1881,7 @@ const songs = [
 "Young M.C.|Bust a Move|1989|tZQQGX24Teg|Young MC|S257|East Coast Hip Hop;Pop Rap;Hip Hop|Bust a Move (song)",
 "Stan Kenton|Artistry in Rhythm|1945|3MD3xasdQJo|Stan Kenton|S2714|Big Band;Jazz|",
 "The Sonics|Psycho|1965|W-_0V0IXEkc|The Sonics|S2274|Garage Rock;Proto-Punk;Rock|",
-"Terry Jacks|Seasons in the Sun|1973|ZJehPcqk_5I|Terry Jacks|S4417|Folk Pop;Contemporary Folk;Folk;Pop|",
+"Terry Jacks|Seasons in the Sun|1973|ZJehPcqk_5I|Terry Jacks|S4417|Folk Pop;Contemporary Folk;Folk;Pop|Seasons in the Sun",
 "The Waterboys|The Whole of the Moon|1985|8TON3PORRDQ|The Waterboys|S1939|Pop Rock;Pop;Rock|The Whole of the Moon",
 "Supergrass|Caught by the Fuzz|1994|GNIMuvbiZcc|Supergrass|S2100|Britpop;Pop Punk;Alternative Rock;Pop;Pop Rock;Punk Rock;Rock|",
 "Sade|Smooth Operator|1984|4TYv2PhG89A|Sade (band)|S2348|Smooth Jazz;Sophisti-Pop;Jazz;Pop|Smooth Operator",
