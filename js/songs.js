@@ -9550,7 +9550,7 @@ const songs = [
 "Bascom Lamar Lunsford|I Wish I Was a Mole in the Ground|1928|FOoKEqi5s5o|Bascom Lamar Lunsford|S14103|Appalachian Folk Music;Old-Time;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|I Wish I Was a Mole in the Ground",
 "Deana Carter|Strawberry Wine|1996|Up06CryWQpE|Deana Carter|S10548|Contemporary Country;Country|Strawberry Wine (Deana Carter song)",
 "Otis Redding|Change Gonna Come|1965|-M_wkYDE7PU|Otis Redding|S14828|Deep Soul;R&B;Soul;Southern Soul|A Change Is Gonna Come",
-"Nick Cave|The Carny|1986|VqfS7NdcwdM|Nick Cave|S7723|Dark Cabaret;Gothic Rock;Post-Punk;Rock|The Carny",
+"Nick Cave|The Carny|1986|bl89lL3wnhM|Nick Cave|S7723|Dark Cabaret;Gothic Rock;Post-Punk;Rock|The Carny",
 "Vess L. Ossman|A Bunch of Rags|1898|uGN1OsaxAJ0|Vess Ossman|S13258|Ragtime;American Folk Music;Folk;Regional Music;Traditional Folk Music|",
 "Sun Ra Arkestra|Nuclear War|1982|vrwAk875sIc|Sun Ra|S15088|Avant-Garde Jazz;Jazz|",
 "Tom Waits|I Don't Wanna Grow Up|1992|CWh4xHeFMIQ|Tom Waits|S3927|Folk Rock;Singer/Songwriter;Rock|https://en.wikipedia.org/wiki/Bone_Machine#I_Don't_Wanna_Grow_Up",
