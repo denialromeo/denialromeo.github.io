@@ -1748,7 +1748,7 @@ const songs = [
 "Billy Joel|Just the Way You Are|1977|tJWM5FmZyqU|Billy Joel|S650|Singer/Songwriter;Soft Rock;Pop;Pop Rock;Rock|Just the Way You Are (Billy Joel song)",
 "Plastic Bertrand|Ça plane pour moi|1977|Ln31raI2ezY|Plastic Bertrand|S3211|New Wave;Pop Punk;Punk Rock;Rock|Ça plane pour moi",
 "Kendrick Lamar|i|2014|8aShfolR6w8|Kendrick Lamar|S9560|Pop Rap;West Coast Hip Hop;Hip Hop|I (Kendrick Lamar song)",
-"The Rolling Stones|2,000 Light Years from Home|1967|nRc0yaMW7Mw|The Rolling Stones|S8214|Baroque Pop;Psychedelic Pop;Pop|",
+"The Rolling Stones|2000 Light Years from Home|1967|nRc0yaMW7Mw|The Rolling Stones|S8214|Baroque Pop;Psychedelic Pop;Pop|2000 Light Years from Home",
 "The Orioles|It's Too Soon to Know|1948|eaAL7xmq6aU|The Orioles|S2728|Doo-Wop;R&B;Vocal Group|",
 "Joy Orbison|Hyph Mngo|2009|Aa_PDKKc2_A|Joy Orbison|S4808|Future Garage;UK Bass;Dance;Electronic;Electronic Dance Music;UK Garage|Hyph Mngo",
 "Miley Cyrus|Wrecking Ball|2013|My2FRPA3Gf8|Miley Cyrus|S9492|Pop|Wrecking Ball (Miley Cyrus song)",
