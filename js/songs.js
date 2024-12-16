@@ -10304,7 +10304,7 @@ const songs = [
 "The Traveling Wilburys|End of the Line|1988|8HRXINr7aBI|Traveling Wilburys|S8836|Pop Rock;Roots Rock;Pop;Rock|End of the Line (Traveling Wilburys song)",
 "Mint Royale|Don't Falter|2000|tX1DWlKmMoE|Mint Royale|S2967|Big Beat;Indie Pop;Breakbeat;Dance;Electronic;Electronic Dance Music;Pop|",
 "Angel Haze|Werkin' Girls|2012|jL58vFNNV2I|Angel Haze|S9996|West Coast Hip Hop;Hip Hop|",
-"Simple Minds|Theme for Great Cities|1981|dslFf_FgXns|Simple Minds|S15020|New Wave;Post-Punk;Rock|",
+"Simple Minds|Theme for Great Cities|1981|9gUsXL_yWyg|Simple Minds|S15020|New Wave;Post-Punk;Rock|",
 "Explosions in the Sky|Your Hand in Mine|2003|uPMlmfEKcig|Explosions in the Sky|S14378|Post-Rock;Rock|",
 "SOPHIE|It's Okay to Cry|2017|m_S0qCeA-pc|Sophie (musician)|S16480|Art Pop;Synthpop;Electronic;Pop|",
 "The Chameleons|Up the Down Escalator|1983|XP7TxTAmKXU?start=13|The Chameleons|S5752|Post-Punk;Rock|",
