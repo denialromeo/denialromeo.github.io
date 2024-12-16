@@ -10042,7 +10042,7 @@ const songs = [
 "Green Day|Warning|2000|AGQeNOOjZhI|Green Day|S6640|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Warning (Green Day song)",
 "Oneohtrix Point Never|Returnal|2010|Ctk3n1V4VP0|Oneohtrix Point Never|S7811|Progressive Electronic;Electronic|",
 "Toro y Moi|Still Sound|2011|0Gqh4e1S6j0|Toro y Moi|S12469|Synth Funk;Funk;R&B|",
-"Youth Lagoon|Highway Patrol Stun Gun|2015|2U-Ya2LGaxs|Trevor Powers|S9874|Indie Pop;Pop|",
+"Youth Lagoon|Highway Patrol Stun Gun|2015|jKQrO5xO8QQ|Trevor Powers|S9874|Indie Pop;Pop|",
 "Kevin Gates|2 Phones|2015|oiY_iKSpWLM|Kevin Gates|S16124|Pop Rap;Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|2 Phones",
 "James Blake|Radio Silence|2016|TTglDb7qjvQ|James Blake (musician)|S16099|Alternative R&B;Art Pop;Contemporary R&B;Pop;R&B|Radio Silence (James Blake song)",
 "AC/DC|Shoot to Thrill|1980|D8LTCr3BQW8|AC/DC|S9919|Hard Rock;Rock|Shoot to Thrill",
