@@ -2989,7 +2989,7 @@ const songs = [
 "The Von Bondies|C'mon C'mon|2004|RFGo5cqcxP4|The Von Bondies|S2447|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|C'mon C'mon (The Von Bondies song)",
 "Eddie and the Hot Rods|Do Anything You Wanna Do|1977|bQJ0R57k7HQ|Eddie and the Hot Rods|S1556|Power Pop;Pub Rock;Pop;Pop Rock;Rock|Do Anything You Wanna Do",
 "Throbbing Gristle|Hot on the Heels of Love|1979|trEo8O_ZftI|Throbbing Gristle|S8753|Electro-Disco;Minimal Synth;Synthpop;Dance;Disco;Electronic;Electronic Dance Music;Minimal Wave;Pop|",
-"Adam and the Ants|Kings of the Wild Frontier|1980|EGDVg0NZQQI|Adam and the Ants|S2896|New Wave;Post-Punk;Rock|Kings of the Wild Frontier (Adam and the Ants song)",
+"Adam and the Ants|Kings of the Wild Frontier|1980|5hEn_rEDzp0|Adam and the Ants|S2896|New Wave;Post-Punk;Rock|Kings of the Wild Frontier (Adam and the Ants song)",
 "Café Tacvba|Eres|2003|98Akpf1ph2o|Café Tacuba|S5694|Alternative Rock;Pop Rock;Pop;Rock|Eres (Café Tacuba song)",
 "Scissor Sisters|Comfortably Numb|2003|SqIQzNNK9d0|Scissor Sisters|S2402|Dance-Pop;Electropop;Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House;Pop|Comfortably Numb",
 "Black Kids|I'm Not Gonna Teach Your Boyfriend How to Dance with You|2007|gzaSM0Ac1BQ|Black Kids|S4703|Indie Pop;Pop|I'm Not Gonna Teach Your Boyfriend How to Dance with You",
