@@ -6656,7 +6656,7 @@ const songs = [
 "Red Hot Chili Peppers|My Friends|1995|0kT5w27YxyI|Red Hot Chili Peppers|S12040|Alternative Rock;Pop Rock;Pop;Rock|My Friends (Red Hot Chili Peppers song)",
 "Five Man Electrical Band|Signs|1970|oeT5otk2R1g|Five Man Electrical Band|S6378|Pop Rock;Pop;Rock|Signs (Five Man Electrical Band song)",
 "Otis Rush|All Your Love (I Miss Loving)|1959|KGt3JAHxzJ0|Otis Rush|S13591|Chicago Blues;Blues;Electric Blues|",
-"Charlie Parker|Relaxing at Camarillo|1947|F22y1pHsCdo|Charlie Parker|S13167|Bebop;Jazz|",
+"Charlie Parker|Relaxin' at Camarillo|1947|iNLzPm7WlM0|Charlie Parker|S13167|Bebop;Jazz|Relaxin' at Camarillo",
 "Rod Stewart|Sailing|1975|FOt3oQ_k008|Rod Stewart|S8199|Soft Rock;Yacht Rock;Pop;Pop Rock;Rock|Sailing (Sutherland Brothers song)",
 "Yes|Heart of the Sunrise|1971|T5XWOOOCg-U|Yes (band)|S15212|Progressive Rock;Rock|Heart of the Sunrise",
 "Deafheaven|Canary Yellow|2018|w5eQuhBfDE0|Deafheaven|S16579|Blackgaze;Post-Metal;Atmospheric Black Metal;Black Metal;Metal;Rock|",
