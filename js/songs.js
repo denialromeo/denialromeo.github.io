@@ -10467,7 +10467,7 @@ const songs = [
 "Vanity Fare|Hitchin' a Ride|1969|88EykxITki8|Vanity Fare|S8930|Bubblegum;Pop Rock;Pop;Rock|Hitchin' a Ride (Vanity Fare song)",
 "The Ruts|West One (Shine on Me)|1980|PrwLmaqx1W0|The Ruts|S8286|Punk Rock;Rock|",
 "James Brown|Get Up Offa That Thing|1976|QVHUVh4f_xc|James Brown|S2880|Funk;R&B|Get Up Offa That Thing",
-"Eric Clapton|Blues Power|1970|k_IM9zUadqw|Eric Clapton|S10743|Blues Rock;Pop Rock;Pop;Rock|",
+"Eric Clapton|Blues Power|1970|c4DkP8MRQOQ|Eric Clapton|S10743|Blues Rock;Pop Rock;Pop;Rock|",
 "Sugar Pie DeSanto|Soulful Dress|1964|TVap-SkdMMs|Sugar Pie DeSanto|S13362|Rhythm & Blues;R&B|",
 "Split Enz|Six Months in a Leaky Boat|1982|cSGpLto1yxU|Split Enz|S8537|Art Pop;Pop Rock;Pop;Rock|Six Months in a Leaky Boat",
 "Fat Joe & Remy Ma feat. French Montana and Infared|All the Way Up (Remix feat. Jay-Z)|2016|2ODny2oztGY|Fat Joe|S16082|East Coast Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|All the Way Up (Fat Joe and Remy Ma song)",
