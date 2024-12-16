@@ -5536,7 +5536,7 @@ const songs = [
 "Little Walter|My Babe|1955|eLTZjTUOCno|Little Walter|S9279|Chicago Blues;Rhythm & Blues;Blues;Electric Blues;R&B|My Babe",
 "Metallica|Disposable Heroes|1986|NoVavpbhBfM|Metallica|S14740|Thrash Metal;Metal;Rock|Disposable Heroes",
 "Katerine|Je vous emmerde|1999|v5Y9wqiqI34|Philippe Katerine|S7066|French Pop;Indie Pop;Pop|",
-"Eagles|Best of My Love|1974|_aB_6q1yDUI|Eagles (band)|S6183|Country Rock;Soft Rock;Pop;Pop Rock;Rock|Best of My Love (Eagles song)",
+"Eagles|Best of My Love|1974|7VDuTGJ_ZQI|Eagles (band)|S6183|Country Rock;Soft Rock;Pop;Pop Rock;Rock|Best of My Love (Eagles song)",
 "Modjo|Lady (Hear Me Tonight)|2000|mMfxI3r_LyA|Modjo|S7585|French House;Dance;Electronic;Electronic Dance Music;House|Lady (Hear Me Tonight)",
 "Loudon Wainwright III|Motel Blues|1971|cdmQ7ydeglw|Loudon Wainwright III|S4153|Contemporary Folk;Singer/Songwriter;Folk|",
 "Max Tundra|Which Song|2008|boIOY5HjbFM|Max Tundra|S4780|Glitch Pop;Electronic;Pop|",
