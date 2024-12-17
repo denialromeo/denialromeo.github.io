@@ -963,7 +963,7 @@ const songs = [
 "Nick Cave|Into My Arms|1997|LnHoqHscTKE|Nick Cave|S28|Singer/Songwriter|Into My Arms",
 "Bob Dylan|Blind Willie McTell|1991|YaoiyLYdTVo|Bob Dylan|S3365|Singer/Songwriter|Blind Willie McTell (song)",
 "Klaxons|Golden Skans|2007|q-SJjFcnsGs|Klaxons|S4279|Indie Pop;Post-Punk Revival;Alternative Rock;Indie Rock;Pop;Post-Punk;Rock|Golden Skans",
-"The Beach Boys|Wouldn't It Be Nice|1966|h53Cnpb5hsM|The Beach Boys|S3175|Baroque Pop;Sunshine Pop;Pop|Wouldn't It Be Nice",
+"The Beach Boys|Wouldn't It Be Nice|1966|dmcNbsLCpBQ|The Beach Boys|S3175|Baroque Pop;Sunshine Pop;Pop|Wouldn't It Be Nice",
 "The Contours|Do You Love Me|1962|Bmgjc5Prdpw|The Contours|S1082|Pop Soul;Rhythm & Blues;Pop;R&B;Soul|Do You Love Me",
 "Sister Sledge|We Are Family|1979|uyGY2NfYpeE|Sister Sledge|S587|Disco;Pop Soul;Dance;Pop;R&B;Soul|We Are Family (song)",
 "Spice Girls|Wannabe|1996|gJLIiF15wjQ|Spice Girls|S44|Pop|",
