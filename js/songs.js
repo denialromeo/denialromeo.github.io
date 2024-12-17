@@ -7909,7 +7909,7 @@ const songs = [
 "Vess L. Ossman|Yankee Doodle|1897|AFTB1LULy7o|Vess Ossman|S15977|American Folk Music;Folk;Regional Music;Traditional Folk Music|",
 "David Ruffin|My Whole World Ended (The Moment You Left Me)|1969|BHEY-QEWmUw|David Ruffin|S3787|Soul;R&B|",
 "The Afghan Whigs|Gentlemen|1993|l6ER2_4q5KQ|The Afghan Whigs|S3143|Grunge;Alternative Rock;Rock|",
-"Bob Dylan|It Takes a Lot to Laugh, It Takes a Train to Cry|1965|0PfCKBTIP1I|Bob Dylan|S5542|Blues Rock;Singer/Songwriter;Rock|It Takes a Lot to Laugh, It Takes a Train to Cry",
+"Bob Dylan|It Takes a Lot to Laugh, It Takes a Train to Cry|1965|SN1ACh8lzHg|Bob Dylan|S5542|Blues Rock;Singer/Songwriter;Rock|It Takes a Lot to Laugh, It Takes a Train to Cry",
 "Marvin Gaye|How Sweet It Is (To Be Loved by You)|1964|beW9AH1Goxg|Marvin Gaye|S7456|Motown Sound;Pop;Pop Soul;R&B;Soul|How Sweet It Is (To Be Loved by You)",
 "Leonard Cohen|I'm Your Man|1988|-MlR6tFh8Gs|Leonard Cohen|S3292|Singer/Songwriter;Sophisti-Pop;Pop|I'm Your Man (Leonard Cohen song)",
 "Jennifer Paige|Crush|1998|EIhSnaqou0I|Jennifer Paige|S6892|Contemporary R&B;Dance-Pop;Dance;Pop;R&B|Crush (Jennifer Paige song)",
