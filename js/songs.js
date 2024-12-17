@@ -2537,7 +2537,7 @@ const songs = [
 "Peter Frampton|Show Me the Way|1975|o6xGqi5itxs|Peter Frampton|S3420|Pop Rock;Pop;Rock|Show Me the Way (Peter Frampton song)",
 "The Robins|Riot in Cell Block #9|1954|0ZE-BOfRi80|The Robins|S3766|Rhythm & Blues;R&B|Riot in Cell Block Number 9",
 "Foo Fighters|Monkey Wrench|1997|I7rCNiiNPxA|Foo Fighters|S2147|Post-Grunge;Alternative Rock;Rock|Monkey Wrench (song)",
-"Ram Jam|Black Betty|1977|I_2D8Eo15wE|Ram Jam|S8088|Boogie Rock;Hard Rock;Southern Rock;Blues Rock;Rock|",
+"Ram Jam|Black Betty|1977|I_2D8Eo15wE|Ram Jam|S8088|Boogie Rock;Hard Rock;Southern Rock;Blues Rock;Rock|Black Betty",
 "The Beatles|Sexy Sadie|1968|tSk5U4oHhu0|The Beatles|S3199|Pop Rock;Pop;Rock|Sexy Sadie",
 "Blink-182|All the Small Things|1999|9Ht5RZpzPqw|Blink-182|S2198|Pop Punk;Power Pop;Pop;Pop Rock;Punk Rock;Rock|All the Small Things",
 "Pink Floyd|Us and Them|1973|deU_uwlNpOo|Pink Floyd|S775|Art Rock;Progressive Rock;Rock|",
