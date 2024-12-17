@@ -4243,7 +4243,7 @@ const songs = [
 "Judy Garland|The Man That Got Away|1954|UzyPMRo8ZUQ|Judy Garland|S7017|Film Soundtrack;Traditional Pop;Pop;Soundtracks|The Man That Got Away",
 "Miles Davis|All Blues|1959|-488UORrfJ0|Miles Davis|S11645|Cool Jazz;Jazz|",
 "Them|Here Comes the Night|1965|UbdA1_X913k|Them (band)|S8734|Beat Music;British Rhythm & Blues;Pop;Pop Rock;R&B;Rhythm & Blues;Rock|Here Comes the Night",
-"Palma Violets|Best of Friends|2012|vVDQXsHyEVY|Palma Violets|S9500|Indie Rock;Alternative Rock;Rock|",
+"Palma Violets|Best of Friends|2012|vjit0AuZNiE|Palma Violets|S9500|Indie Rock;Alternative Rock;Rock|",
 "Serge Gainsbourg|Initials B.B|1967|NuZklVrHspM|Serge Gainsbourg|S8356|Baroque Pop;French Pop;Pop|Initials B.B. (song)",
 "Luiz Gonzaga|Asa Branca|1947|zsFSHg2hxbc|Luiz Gonzaga|S11497|Baião;Marchinha;Brazilian Music;Regional Music;Samba|",
 "Genesis|Carpet Crawlers|1974|23cUcLKc374|Genesis (band)|S6524|Progressive Rock;Rock|The Carpet Crawlers",
