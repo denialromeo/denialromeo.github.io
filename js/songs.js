@@ -6630,7 +6630,7 @@ const songs = [
 "Taylor Swift|I Knew You Were Trouble|2012|vNoKguSdy4Y|Taylor Swift|S12398|Dance-Pop;Electropop;Dance;Electronic;Pop|I Knew You Were Trouble",
 "Ce Ce Peniston|Finally|1991|xk8mm1Qmt-Y|CeCe Peniston|S3693|Dance-Pop;Garage House;Dance;Electronic;Electronic Dance Music;House;Pop|Finally (CeCe Peniston song)",
 "The Cars|Shake It Up|1981|K3SA5Z-cbC8|The Cars|S3264|New Wave;Rock|Shake It Up (The Cars song)",
-"The Slickers|Johnny Too Bad|1970|lRm7j2UL3YY|The Slickers|S4414|Reggae;Caribbean Music;Jamaican Music;Regional Music|",
+"The Slickers|Johnny Too Bad|1970|Sz_QVTejXdY|The Slickers|S4414|Reggae;Caribbean Music;Jamaican Music;Regional Music|",
 "Journey|Separate Ways (Worlds Apart)|1983|LatorN4P9aA|Journey (band)|S13844|AOR;Hard Rock;Rock|Separate Ways (Worlds Apart)",
 "Spoon|Hot Thoughts|2017|XrLVAQYfeZ4|Spoon (band)|S16481|Alternative Dance;Indie Rock;Alternative Rock;Dance;Rock|",
 "Rachid Taha|Rock El Casbah|2004|n1p_dkJo6Y8|Rachid Taha|S14916|Pop Raï;African Music;Arabic Music;North African Music;Pop;Raï;Regional Music|Rock the Casbah",
