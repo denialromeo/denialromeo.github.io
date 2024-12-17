@@ -7322,7 +7322,7 @@ const songs = [
 "Robert Palmer|Johnny and Mary|1980|7_SAMrDnXOE|Robert Palmer (singer)|S8178|New Wave;Synthpop;Electronic;Pop;Rock|Johnny and Mary",
 "Journey|Wheel in the Sky|1978|MxGEVIvSFeY|Journey (band)|S11259|AOR;Hard Rock;Rock|Wheel in the Sky",
 "Bob Dylan|Highlands|1997|MqTkfQtrr5o|Bob Dylan|S10228|Americana;Singer/Songwriter;Country|Highlands (song)",
-"King Biscuit Time|I Walk the Earth|2000|_cdDmqvkpV4|King Biscuit Time|S7105|Indietronica;Singer/Songwriter;Electronic|",
+"King Biscuit Time|I Walk the Earth|2000|8AMK2lixACs|King Biscuit Time|S7105|Indietronica;Singer/Songwriter;Electronic|",
 "Ce Ce Rogers|Someday|1987|PPveJo1MZWM|CeCe Rogers|S4474|Chicago House;Deep House;Garage House;Dance;Electronic;Electronic Dance Music;House|Finally (CeCe Peniston song)",
 "France Gall|Laisse tomber les filles|1964|FWRCJhsz5t4|France Gall|S6431|French Pop;Yé-yé;Pop|Laisse tomber les filles",
 "The Connells|'74-'75|1993|l-ITv4OBV9c|The Connells|S5861|Folk Pop;Jangle Pop;Alternative Rock;Contemporary Folk;Folk;Pop;Pop Rock;Rock|'74–'75",
