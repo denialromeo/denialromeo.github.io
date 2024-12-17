@@ -5289,7 +5289,7 @@ const songs = [
 "The Clash|Spanish Bombs|1979|17hbj5l4rIA|The Clash|S12777|New Wave;Rock|Spanish Bombs",
 "Rihanna|Kiss It Better|2016|49lY0HqqUVc|Rihanna|S16174|Alternative R&B;Contemporary R&B;R&B|Kiss It Better",
 "Dr. Feelgood|She Does It Right|1975|iHm7uIC84YM|Dr. Feelgood (band)|S6152|British Blues;Pub Rock;Blues;Electric Blues;Rock|She Does It Right",
-"Black Eyed Peas|I Gotta Feeling|2009|CwdrtwZiQ9E|The Black Eyed Peas|S4844|Dance-Pop;Electropop;Dance;Electronic;Pop|I Gotta Feeling",
+"Black Eyed Peas|I Gotta Feeling|2009|uSD4vsh1zDA|The Black Eyed Peas|S4844|Dance-Pop;Electropop;Dance;Electronic;Pop|I Gotta Feeling",
 "Gil Scott-Heron|Me and the Devil|2010|yrqjpnpkKJY|Gil Scott-Heron|S6557|Soul;Trip Hop;Downtempo;Electronic;R&B|",
 "Solange|Stay Flo|2019|_W14wK4QGh4|Solange Knowles|S16867|Alternative R&B;Contemporary R&B;R&B|",
 "Manfred Mann|Mighty Quinn (Quinn the Eskimo)|1968|qzTJEX4_Ssc|Manfred Mann|S3592|Pop Rock;Pop;Rock|Quinn the Eskimo (Mighty Quinn)",
