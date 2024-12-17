@@ -7273,7 +7273,7 @@ const songs = [
 "Led Zeppelin|Travelling Riverside Blues|1990|et3f_PgCEnc|Led Zeppelin|S11399|Blues Rock;Hard Rock;Rock|Travelling Riverside Blues",
 "Deerhunter|Revival|2010|bTNHpxb8bBE|Deerhunter|S6019|Indie Pop;Neo-Psychedelia;Pop;Psychedelic Rock;Rock|",
 "Chairlift|Bruises|2008|FdUf3jXqcko|Chairlift (band)|S4705|Indie Pop;Synthpop;Electronic;Pop|",
-"Sigur Rós|Glósóli|2005|Bz8iEJeh26E|Sigur Rós|S8409|Post-Rock;Rock|",
+"Sigur Rós|Glósóli|2005|Bz8iEJeh26E|Sigur Rós|S8409|Post-Rock;Rock|Glósóli",
 "Syd Barrett|Octopus|1969|hRegH4BPOuE|Syd Barrett|S8659|Psychedelic Folk;Psychedelic Rock;Singer/Songwriter;Contemporary Folk;Folk;Rock|Octopus (Syd Barrett song)",
 "Paul Van Dyk|For an Angel|1998|--3eIRSg2RY|Paul van Dyk|S14854|Uplifting Trance;Dance;Electronic;Electronic Dance Music;Trance|For an Angel",
 "The Gap Band|Burn Rubber (Why You Wanna Hurt Me)|1980|tmcncGirAU4|The Gap Band|S1579|Synth Funk;Funk;R&B|Burn Rubber (Why You Wanna Hurt Me)",
