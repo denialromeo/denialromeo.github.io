@@ -3576,7 +3576,7 @@ const songs = [
 "Pigbag|Papa's Got a Brand New Pigbag|1981|wmP4BEIzE4s|Pigbag|S525|Dance-Punk;Post-Punk;Rock|",
 "Aretha Franklin|Don't Play That Song|1970|6ktFUwPGWag|Aretha Franklin|S870|Southern Soul;R&B;Soul|Don't Play That Song (You Lied)",
 "Semisonic|Closing Time|1998|xGytDsqkQY8|Semisonic|S2163|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Closing Time (Semisonic song)",
-"The Soft Machine|Moon in June|1970|soQN0sMU0Ck?start=196|Soft Machine|S3828|Canterbury Scene;Jazz Fusion;Jazz-Rock;Jazz;Progressive Rock;Rock|Third (Soft Machine album)",
+"The Soft Machine|Moon in June|1970|Lntleb5zsFw|Soft Machine|S3828|Canterbury Scene;Jazz Fusion;Jazz-Rock;Jazz;Progressive Rock;Rock|Third (Soft Machine album)",
 "HEALTH|Die Slow|2009|EWZxThGh5wQ|Health (band)|S4805|Electro-Industrial;Noise Rock;Electronic;Industrial Music;Rock|",
 "Dizzy Gillespie|Salt Peanuts|1945|QnF0YyPgJTE|Dizzy Gillespie|S10617|Bebop;Jazz|Salt Peanuts",
 "The Rolling Stones|Salt of the Earth|1968|eOiLH-2hTPQ|The Rolling Stones|S9341|Roots Rock;Rock|Salt of the Earth (song)",
