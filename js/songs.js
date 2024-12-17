@@ -10568,7 +10568,7 @@ const songs = [
 "Young Thug feat. Wyclef Jean|Kanye West|2016|wAhNZO7Fwd0|Young Thug|S16221|Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
 "CSS|Music Is My Hot Hot Sex|2005|8_7ZE7hguLY|CSS (band)|S5921|Dance-Pop;Dance-Punk;Dance;Pop;Post-Punk;Rock|Music Is My Hot Hot Sex",
 "The Rolling Stones|That's How Strong My Love Is|1965|rc_xw2PnqJc|The Rolling Stones|S2988|British Rhythm & Blues;R&B;Rhythm & Blues;Rock|That's How Strong My Love Is",
-"R.E.M.|Bad Day|2003|RLMK6Lw42zQ|R.E.M.|S8063|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Bad Day (R.E.M. song)",
+"R.E.M.|Bad Day|2003|Hyk-Vdd_Qrk|R.E.M.|S8063|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Bad Day (R.E.M. song)",
 "Gorillaz feat. DRAM|Andromeda|2017|9W44NWYwa1g|Gorillaz|S16387|Electropop;Electronic;Pop|Andromeda (Gorillaz song)",
 "Wilco|Random Name Generator|2015|f5OYUAQU2TA|Wilco|S9869|Indie Rock;Alternative Rock;Rock|",
 "The Honeycombs|Have I the Right?|1964|LAvF6tfMCq8|The Honeycombs|S3478|Beat Music;Pop;Pop Rock;Rock|",
