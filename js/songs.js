@@ -1975,7 +1975,7 @@ const songs = [
 "The Strokes|12:51|2003|LPAVDHo1Elc|The Strokes|S2248|Garage Rock Revival;Post-Punk Revival;Alternative Rock;Garage Rock;Indie Rock;Post-Punk;Rock|12:51 (The Strokes song)",
 "Huey \"Piano\" Smith & The Clowns|Rockin' Pneumonia & the Boogie Woogie Flu|1957|-WWlwgoAxPE|Huey \"Piano\" Smith|S1248|New Orleans R&B;R&B|Rockin' Pneumonia and the Boogie Woogie Flu",
 "Bob Dylan|Idiot Wind|1975|eBLViMLws10|Bob Dylan|S2994|Folk Rock;Singer/Songwriter;Rock|Idiot Wind",
-"The Clash|The Guns of Brixton|1979|gVVqUuNG1ZI|The Clash|S4558|Post-Punk;Reggae;Caribbean Music;Jamaican Music;Regional Music;Rock|The Guns of Brixton",
+"The Clash|The Guns of Brixton|1979|6eneRB5z1XM|The Clash|S4558|Post-Punk;Reggae;Caribbean Music;Jamaican Music;Regional Music;Rock|The Guns of Brixton",
 "Phil Phillips with The Twilights|Sea of Love|1959|lrkNRcyvtF4|Phil Phillips|S1190|Doo-Wop;R&B;Vocal Group|Sea of Love (Phil Phillips song)",
 "The Stanley Brothers|Rank Strangers|1960|eRalJveqbvQ|The Stanley Brothers|S1161|Bluegrass Gospel;Close Harmony;American Folk Music;Bluegrass;Country;Country Gospel;Folk;Gospel;Regional Music;Traditional Country;Traditional Folk Music|",
 "Eddie Floyd|Knock on Wood|1966|jkF4K2xuSF4?start=3|Eddie Floyd|S1435|Southern Soul;R&B;Soul|Knock on Wood (Eddie Floyd song)",
