@@ -509,7 +509,7 @@ const songs = [
 "The Clash|Rock the Casbah|1982|bJ9r8LMU9bQ|The Clash|S488|Dance-Punk;New Wave;Post-Punk;Rock|Rock the Casbah",
 "Willie Mae \"Big Mama\" Thornton|Hound Dog|1953|yoHDrzw-RPg|Big Mama Thornton|S1321|Rhythm & Blues;R&B|",
 "Gorillaz|Clint Eastwood|2001|1V_xRb0x9aw|Gorillaz|S1457|Abstract Hip Hop;Hip Hop|Clint Eastwood (song)",
-"Nine Inch Nails|Closer|1994|ccY25Cb3im0|Nine Inch Nails|S119|EBM;Industrial Rock;Dance;Electronic;Electronic Dance Music;Industrial Music;Rock|Closer (Nine Inch Nails song)",
+"Nine Inch Nails|Closer|1994|PTFwQP86BRs|Nine Inch Nails|S119|EBM;Industrial Rock;Dance;Electronic;Electronic Dance Music;Industrial Music;Rock|Closer (Nine Inch Nails song)",
 "Bill Withers|Ain't No Sunshine|1971|CICIOJqEb5c|Bill Withers|S839|Deep Soul;Smooth Soul;R&B;Soul;Southern Soul|Ain't No Sunshine",
 "Lizzo|Juice|2019|XaCrQL_8eMY|Lizzo|S16825|Contemporary R&B;Dance-Pop;Disco Rap;Pop Rap;Dance;Hip Hop;Pop;R&B|Juice (Lizzo song)",
 "David Bowie|Lazarus|2015|y-JqH1M4Ya8|David Bowie|S16069|Art Rock;Rock|Lazarus (David Bowie song)",
