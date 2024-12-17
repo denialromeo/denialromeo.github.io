@@ -1646,7 +1646,7 @@ const songs = [
 "The Chantays|Pipeline|1962|4fc57tYou4U|The Chantays|S1062|Surf Rock;Rock;Surf Music|Pipeline (instrumental)",
 "Elliott Smith|Miss Misery|1997|gRUyC9veWtw|Elliott Smith|S3820|Indie Folk;Indie Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Miss Misery",
 "Sufjan Stevens|Should Have Known Better|2015|lJJT00wqlOo|Sufjan Stevens|S9840|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk|Should Have Known Better",
-"Nick Drake|Way to Blue|1969|gkjb9sUgqUM|Nick Drake|S2295|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk|",
+"Nick Drake|Way to Blue|1969|DW2m0wp8zO0|Nick Drake|S2295|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk|",
 "Squeeze|Up the Junction|1979|RQciegmLPAo|Squeeze (band)|S1599|New Wave;Power Pop;Pop;Pop Rock;Rock|Up the Junction (song)",
 "Fugees|Fu-gee-la|1996|MPlb9HoOCxs|Fugees|S57|Boom Bap;East Coast Hip Hop;Hip Hop|Fu-Gee-La",
 "Angel Olsen|Lark|2019|6uaN60k0-zY|Angel Olsen|S16731|Art Pop;Chamber Pop;Baroque Pop;Indie Pop;Pop|",
