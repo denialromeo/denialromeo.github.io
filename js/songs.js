@@ -6014,7 +6014,7 @@ const songs = [
 "Guns N' Roses|Don't Cry|1991|LD7Amf_SlK4|Guns N' Roses|S10989|Hard Rock;Pop Rock;Pop;Rock|Don't Cry",
 "Public Enemy|Shut 'Em Down|1991|0S2x1TT78iI|Public Enemy (band)|S11962|Conscious Hip Hop;East Coast Hip Hop;Hardcore Hip Hop;Political Hip Hop;Hip Hop|",
 "Julian Cope|World Shut Your Mouth|1986|DhRrr6ZqiXI|Julian Cope|S7019|New Wave;Power Pop;Pop;Pop Rock;Rock|World Shut Your Mouth (song)",
-"Wilco|Poor Places|2002|LSAI7HWkuzU|Wilco|S4681|Indie Rock;Alternative Rock;Rock|",
+"Wilco|Poor Places|2002|uPqukZXplVs|Wilco|S4681|Indie Rock;Alternative Rock;Rock|",
 "John Lennon|Power to the People|1971|4Epue9X8bpc|Plastic Ono Band|S6953|Pop Rock;Pop;Rock|Power to the People (song)",
 "Swan Silvertones|Oh Mary Don't You Weep|1958|caUJt_XZr3k|Swan Silvertones|S12383|Traditional Black Gospel;American Folk Music;Folk;Gospel;Regional Music;Traditional Folk Music|",
 "Deerhunter|Snakeskin|2015|CG6jk5Q90DA|Deerhunter|S9734|Indie Rock;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock|",
