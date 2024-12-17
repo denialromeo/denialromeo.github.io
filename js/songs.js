@@ -705,7 +705,7 @@ const songs = [
 "Amerie|1 Thing|2005|bbqVg_23otg|Amerie|S2999|Contemporary R&B;R&B|1 Thing",
 "Bon Jovi|Livin' on a Prayer|1986|lDK9QqIzhwk|Bon Jovi|S379|Hard Rock;Pop Rock;Pop;Rock|Livin' on a Prayer",
 "Gang of Four|Damaged Goods|1978|kPvVzyqNPQY|Gang of Four (band)|S626|Art Punk;Dance-Punk;Post-Punk;Punk Rock;Rock|Damaged Goods (song)",
-"Nirvana|Lithium|1991|nSFcLS9H4Go|Kurt Cobain|S171|Grunge;Alternative Rock;Rock|Lithium (Nirvana song)",
+"Nirvana|Lithium|1991|pkcJEvMcnEg|Kurt Cobain|S171|Grunge;Alternative Rock;Rock|Lithium (Nirvana song)",
 "Weezer|Buddy Holly|1994|kemivUKb4f4|Weezer|S110|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Buddy Holly (song)",
 "Jay-Z|Niggas in Paris|2011|gG_dA32oH44|Jay-Z|S4969|Hardcore Hip Hop;Hip Hop|Niggas in Paris",
 "Rob Base & DJ E-Z Rock|It Takes Two|1988|phOW-CZJWT0|Rob Base and DJ E-Z Rock|S301|East Coast Hip Hop;Pop Rap;Hip Hop|It Takes Two (Rob Base & DJ E-Z Rock song)",
