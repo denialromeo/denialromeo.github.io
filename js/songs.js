@@ -860,7 +860,7 @@ const songs = [
 "Mudhoney|Touch Me, I'm Sick|1988|_nGsT_qFMBs|Mudhoney|S1985|Garage Punk;Grunge;Alternative Rock;Garage Rock;Punk Rock;Rock|Touch Me I'm Sick",
 "George Jones|He Stopped Loving Her Today|1980|1R2F9f2Cl6Y|George Jones|S567|Nashville Sound;Country;Country Pop;Pop|He Stopped Loving Her Today",
 "The Beatles|I Saw Her Standing There|1963|oxwAB3SECtc|The Beatles|S2415|Merseybeat;Rock & Roll;Beat Music;Pop;Pop Rock;Rock|I Saw Her Standing There",
-"Fairport Convention|Who Knows Where the Time Goes|1969|OkOB57UcYk8|Fairport Convention|S2539|British Folk Rock;Folk Rock;Rock|",
+"Fairport Convention|Who Knows Where the Time Goes?|1969|OkOB57UcYk8|Fairport Convention|S2539|British Folk Rock;Folk Rock;Rock|Who Knows Where the Time Goes%3F",
 "Duke Ellington|Mood Indigo|1930|bZyVBVFnrm4|Duke Ellington|S2678|Dixieland;Jazz|Mood Indigo",
 "The Supremes|You Keep Me Hangin' On|1966|IjXiRN4I434|Diana Ross|S984|Girl Group;Motown Sound;Pop;Pop Soul;R&B;Soul|You Keep Me Hangin' On",
 "The Platters|Only You (And You Alone)|1955|rAUJSc6unAg|The Platters|S1292|Doo-Wop;R&B;Vocal Group|Only You (And You Alone)",
