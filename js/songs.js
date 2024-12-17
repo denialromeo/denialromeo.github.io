@@ -9860,7 +9860,7 @@ const songs = [
 "Paraíso|Para ti|1980|SdtAyT5fRUY|https://es.wikipedia.org/wiki/Para%C3%ADso_(banda)|S7848|Jangle Pop;New Wave;Alternative Rock;Pop;Pop Rock;Rock|",
 "Charly Bliss|Young Enough|2019|AwszMAktc-M|Charly Bliss|S16761|Indie Pop;Power Pop;Pop;Pop Rock;Rock|",
 "Tom Petty and the Heartbreakers|Listen to Her Heart|1978|G8SGZnOzzfk|Tom Petty|S12455|Heartland Rock;Power Pop;Pop;Pop Rock;Rock|",
-"Booker T. & The MG's|Hang 'Em High|1968|SkBO0-su9kA|Booker T. & the M.G.'s|S3226|Southern Soul;R&B;Soul|",
+"Booker T. & The MG's|Hang 'Em High|1968|SkBO0-su9kA|Booker T. & the M.G.'s|S3226|Southern Soul;R&B;Soul|Hang 'Em High (composition)",
 "Russ Morgan|So Tired|1948|VzQpt51WfoI|Russ Morgan|S8275|Traditional Pop;Pop|",
 "Herman's Hermits|A Must to Avoid|1965|-kXRpJh3UtY|Herman's Hermits|S6708|Beat Music;Pop;Pop Rock;Rock|A Must to Avoid",
 "Jane's Addiction|Ted, Just Admit It|1988|Ek6N_-O19do|Jane's Addiction|S6860|Alternative Metal;Art Rock;Hard Rock;Metal;Rock|",
