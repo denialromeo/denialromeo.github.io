@@ -3292,7 +3292,7 @@ const songs = [
 "Leonard Cohen|Bird on a Wire|1969|gDJ3Rts_XMA|Leonard Cohen|S7239|Contemporary Folk;Singer/Songwriter;Folk|Bird on the Wire",
 "Radiohead|Lotus Flower|2011|cfOa1a8hYP8|Radiohead|S4981|Art Pop;Electronic;Pop|Lotus Flower (song)",
 "Leonard Cohen|First We Take Manhattan|1988|JTTC_fD598A|Leonard Cohen|S3093|Singer/Songwriter;Synthpop;Electronic;Pop|First We Take Manhattan",
-"Deep Purple|Child in Time|1970|PfAWReBmxEs|Deep Purple|S6016|Hard Rock;Progressive Rock;Rock|Child in Time",
+"Deep Purple|Child in Time|1970|OorZcOzNcgE|Deep Purple|S6016|Hard Rock;Progressive Rock;Rock|Child in Time",
 "Missy Elliott|Lose Control|2005|na7lIb09898|Missy Elliott|S3035|Pop Rap;Hip Hop|Lose Control (Missy Elliott song)",
 "The Flying Lizards|Money|1979|E-P2qL3qkzk|The Flying Lizards|S1500|Art Pop;New Wave;Pop;Rock|Money (That's What I Want)",
 "Jessy Lanza|It Means I Love You|2016|m44r0c2A5qw|Jessy Lanza|S16105|Art Pop;Footwork;Dance;Electronic;Electronic Dance Music;Ghetto House;House;Juke;Pop|",
