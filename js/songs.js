@@ -10678,7 +10678,7 @@ const songs = [
 "Lower Dens|To Die In L.A.|2015|_lwFa2AO2rg|Lower Dens|S9812|Indie Pop;Synthpop;Electronic;Pop|",
 "The Rolling Stones|Connection|1967|NPTwQXT4CSk|The Rolling Stones|S15834|Pop Rock;Psychedelic Pop;Pop;Rock|Connection (Rolling Stones song)",
 "U2|Two Hearts Beat As One|1983|d4gccW3vnQs|U2|S8875|Post-Punk;Rock|Two Hearts Beat as One",
-"Death|The Philosopher|1993|k_cn9TVSi2o|Death (metal band)|S15409|Technical Death Metal;Death Metal;Metal;Rock|",
+"Death|The Philosopher|1993|PhQ1Fe0oKPM|Death (metal band)|S15409|Technical Death Metal;Death Metal;Metal;Rock|",
 "Bloc Party|The Prayer|2007|ogE4qbkwYVI|Bloc Party|S5500|Alternative Dance;Indietronica;Post-Punk Revival;Alternative Rock;Dance;Electronic;Indie Rock;Post-Punk;Rock|The Prayer (Bloc Party song)",
 "Jim Croce|I Got a Name|1973|q8Rk5NJtZ9I|Jim Croce|S11199|Chamber Folk;Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|I Got a Name (song)",
 "Metallica|Welcome Home (Sanitarium)|1986|Lqee-u7Uq2I|Metallica|S14741|Thrash Metal;Metal;Rock|Master of Puppets",
