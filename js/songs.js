@@ -6529,7 +6529,7 @@ const songs = [
 "Beatsteaks|I Don't Care as Long as You Sing|2004|iqlVPaZYOzQ|Beatsteaks|S14114|Alternative Rock;Rock|",
 "Christina Aguilera|Dirrty|2002|4Rg3sAb8Id8|Christina Aguilera|S5800|Contemporary R&B;Dance-Pop;Dance;Pop;R&B|Dirrty",
 "Danny Brown|Ain't It Funny|2016|bnH9ntEmJXk|Danny Brown|S16064|Experimental Hip Hop;Hardcore Hip Hop;Hip Hop|",
-"The Hold Steady|Chill Out Tent|2006|Mpp3DsIeeyk|The Hold Steady|S6719|Heartland Rock;Indie Rock;Pub Rock;Alternative Rock;Rock|",
+"The Hold Steady|Chillout Tent|2006|Mpp3DsIeeyk|The Hold Steady|S6719|Heartland Rock;Indie Rock;Pub Rock;Alternative Rock;Rock|",
 "Courtney Barnett|Need a Little Time|2018|TISIPNpRuoY|Courtney Barnett|S16594|Indie Rock;Singer/Songwriter;Alternative Rock;Rock|",
 "The Beatles|You Won't See Me|1965|OsjTO0yZQjk|The Beatles|S13396|Pop Rock;Pop;Rock|You Won't See Me",
 "Slipknot|Wait and Bleed|1999|B1zCN0YhW1s|Slipknot (band)|S12231|Nu Metal;Alternative Metal;Metal;Rock|Wait and Bleed",
