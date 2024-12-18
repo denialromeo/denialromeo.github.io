@@ -3587,7 +3587,7 @@ const songs = [
 "Eagles|Lyin' Eyes|1975|PqccEpqvwPY|Eagles (band)|S3381|Country Rock;Soft Rock;Pop;Pop Rock;Rock|Lyin' Eyes",
 "Barbara Lewis|Hello Stranger|1963|Yupq5dVNHlU|Barbara Lewis|S3560|Soul;R&B|Hello Stranger (song)",
 "Herbie Hancock|Maiden Voyage|1966|hwmRQ0PBtXU|Herbie Hancock|S11027|Modal Jazz;Jazz|",
-"John Martyn|Solid Air|1973|UikPQOaJpfU|John Martyn|S2580|Jazz-Rock;Singer/Songwriter;Rock|Solid Air",
+"John Martyn|Solid Air|1973|PCCWqYfZVi0|John Martyn|S2580|Jazz-Rock;Singer/Songwriter;Rock|Solid Air",
 "Billie Eilish|Bury a Friend|2019|HUHC9tYz8ik|Billie Eilish|S16743|Alternative R&B;Electropop;Contemporary R&B;Electronic;Pop;R&B|Bury a Friend",
 "Raspberries|Overnight Sensation (Hit Record)|1974|ARkj12Y6Uh4|Raspberries (band)|S728|Power Pop;Pop;Pop Rock;Rock|",
 "Bruce Springsteen|Nebraska|1982|Oy2dpbGhaz8?start=44|Bruce Springsteen|S10314|Americana;Contemporary Folk;Singer/Songwriter;Country;Folk|Nebraska (album)",
