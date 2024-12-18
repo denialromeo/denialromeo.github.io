@@ -9686,7 +9686,7 @@ const songs = [
 "ScHoolboy Q|Collard Greens|2013|VKyUdfDOom8|Schoolboy Q|S9520|West Coast Hip Hop;Hip Hop|Collard Greens (song)",
 "Blur|Go Out|2015|Sp1ks7PTzng|Blur (band)|S16304|Alternative Rock;Rock|Out of Time (Blur song)",
 "Manuel Göttsching|E2-E4|1984|Vq-kovIr2BE|Manuel Göttsching|S11540|Progressive Electronic;Electronic|E2-E4",
-"Wavves|King of the Beach|2010|g_ATVh3CkT4|Wavves|S12555|Indie Rock;Surf Punk;Alternative Rock;Punk Rock;Rock;Surf Music|",
+"Wavves|King of the Beach|2010|uDKh61eMMuE|Wavves|S12555|Indie Rock;Surf Punk;Alternative Rock;Punk Rock;Rock;Surf Music|",
 "DJ Koze|Zuviel Zeit?|2005|3vIlM5PaYHE|DJ Koze|S6105|House;Dance;Electronic;Electronic Dance Music|",
 "Jimmy Soul|If You Wanna Be Happy|1963|MH_PANCU9oQ|Jimmy Soul|S6918|Pop Soul;Pop;R&B;Soul|If You Wanna Be Happy",
 "The Slits|Instant Hit|1979|QgXnkXhnGvc|The Slits|S12828|Art Punk;Post-Punk;Punk Rock;Rock|",
