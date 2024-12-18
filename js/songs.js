@@ -8975,7 +8975,7 @@ const songs = [
 "Janis Joplin|Move Over|1971|YYWdiG1Bf0c|Janis Joplin|S6868|Blues Rock;Rock|",
 "Britney Spears|I'm a Slave 4 U|2001|Mzybwwf2HoQ|Britney Spears|S5624|Dance-Pop;Dance;Pop|I'm a Slave 4 U",
 "alt-J|Tessellate|2012|Qg6BwvDcANg|Alt-J|S5181|Art Pop;Indie Pop;Pop|",
-"Jerry Butler|Hey, Western Union Man|1968|ok1jl06-7c8|Jerry Butler|S6895|Philly Soul;Pop Soul;Pop;R&B;Soul|",
+"Jerry Butler|Hey, Western Union Man|1968|ok1jl06-7c8|Jerry Butler|S6895|Philly Soul;Pop Soul;Pop;R&B;Soul|Hey, Western Union Man",
 "Hervé Vilard|Capri c'est fini|1965|4TP3u0rNkys|Hervé Vilard|S11032|French Pop;Pop|Capri c'est fini",
 "Gary U.S. Bonds|School Is Out|1961|wnEbAcvMT9M|Gary U.S. Bonds|S6507|Rhythm & Blues;Rock & Roll;R&B;Rock|",
 "The Drums|Money|2011|IqYgNiZdfh4|The Drums|S6162|Indie Pop;Pop|Money (The Drums song)",
