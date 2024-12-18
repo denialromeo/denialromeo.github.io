@@ -10342,7 +10342,7 @@ const songs = [
 "James|Come Home|1990|jWq6DTQTB9w|James (band)|S6841|Baggy / Madchester;Alternative Rock;Rock|Come Home (James song)",
 "Korn|Falling Away from Me|1999|2s3iGpDqQpQ|Korn|S16241|Nu Metal;Alternative Metal;Metal;Rock|Falling Away from Me",
 "U2|The Unforgettable Fire|1984|s_rBqCxj3gU|U2|S8876|Alternative Rock;Pop Rock;Pop;Rock|The Unforgettable Fire (song)",
-"Ian Hunter|Cleveland Rocks|1979|tJzcS-mEfOg?start=5|Ian Hunter (singer)|S14498|Glam Rock;Rock|Cleveland Rocks",
+"Ian Hunter|Cleveland Rocks|1979|1qDkZnpOiS8|Ian Hunter (singer)|S14498|Glam Rock;Rock|Cleveland Rocks",
 "System of a Down|Toxicity|2001|iywaBOMvYLI|System of a Down|S8663|Alternative Metal;Metal;Rock|",
 "Kings of Leon|Fans|2007|_1gTt3JGBkQ|Kings of Leon|S13857|Alternative Rock;Rock|Fans (song)",
 "Sleater-Kinney|You're No Rock n' Roll Fun|2000|rCy1VIy8Hj0|Sleater-Kinney|S8445|Indie Rock;Alternative Rock;Rock|",
