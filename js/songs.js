@@ -7461,7 +7461,7 @@ const songs = [
 "The Dears|Lost in the Plot|2003|u0zRxxBKZ1A|The Dears|S5993|Indie Rock;Alternative Rock;Rock|",
 "Arcade Fire|Suburban War|2010|loONr92eyDY|Arcade Fire|S4887|Heartland Rock;Indie Rock;Alternative Rock;Rock|",
 "Vince Staples|Señorita|2015|5OAYMMod9Wo|Vince Staples|S9871|Trap;West Coast Hip Hop;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
-"Jewel|Who Will Save Your Soul|1995|_RVYEgGgDKs|Jewel (singer)|S12949|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Who Will Save Your Soul",
+"Jewel|Who Will Save Your Soul|1995|0wBDDAZkNtk|Jewel (singer)|S12949|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Who Will Save Your Soul",
 "Björk|New World|2000|UZt8eic_KNw|Björk|S4666|Art Pop;Baroque Pop;Film Soundtrack;Pop;Soundtracks|",
 "Hugo Montenegro|The Good, the Bad and the Ugly|1968|qd_7Bnxblo4|Hugo Montenegro|S6751|Easy Listening;Spaghetti Western;Cinematic Classical;Classical Music;Pop|",
 "The Rentals|Friends of P.|1995|wi-H6ohY37k|The Rentals|S8137|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Friends of P.",
