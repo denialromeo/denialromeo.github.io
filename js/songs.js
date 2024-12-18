@@ -816,7 +816,7 @@ const songs = [
 "The Beach Boys|California Girls|1965|7oRb9-mypxg|The Beach Boys|S1004|Pop Rock;Sunshine Pop;Pop;Rock|California Girls",
 "Tommy James and the Shondells|Crimson and Clover|1968|GpGEeneO-t0|Tommy James and the Shondells|S922|Psychedelic Pop;Sunshine Pop;Pop|Crimson and Clover",
 "The Beatles|Across the Universe|1969|90M60PzmxEE|The Beatles|S2551|Psychedelic Folk;Psychedelic Pop;Contemporary Folk;Folk;Pop|Across the Universe",
-"Bob Dylan|Masters of War|1963|KGFagK-LuQo|Bob Dylan|S2412|Contemporary Folk;Singer/Songwriter;Folk|Masters of War",
+"Bob Dylan|Masters of War|1963|JEmI_FT4YHU|Bob Dylan|S2412|Contemporary Folk;Singer/Songwriter;Folk|Masters of War",
 "Weezer|Say It Ain't So|1994|ENXvZ9YRjbo|Weezer|S2101|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Say It Ain't So",
 "The Walker Brothers|The Sun Ain't Gonna Shine Anymore|1966|Q11ium_-Lv8|The Walker Brothers|S979|Baroque Pop;Brill Building;Pop|The Sun Ain't Gonna Shine (Anymore)",
 "Green Day|American Idiot|2004|NYK--14vAvM|Green Day|S2474|Pop Punk;Punk Rock;Rock|American Idiot (song)",
