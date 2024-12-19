@@ -3594,7 +3594,7 @@ const songs = [
 "Luther Ingram|(If Loving You Is Wrong) I Don't Want to Be Right|1972|iYLVJqkErcI|Luther Ingram|S7353|Southern Soul;R&B;Soul|(If Loving You Is Wrong) I Don't Want to Be Right",
 "Pink|Get the Party Started|2001|mW1dbiD_zDk|Pink (singer)|S2223|Dance-Pop;Dance;Pop|Get the Party Started",
 "Charles Mingus|Track C - Group Dancers|1963|vv3DnIvCifI|Charles Mingus|S2818|Avant-Garde Jazz;Third Stream;Jazz|",
-"Henri Salvador|Syracuse|1963|y43iAdZ4txs|Henri Salvador|S4396|Chanson;French Pop;Pop;Regional Music|",
+"Henri Salvador|Syracuse|1963|QLprZrb0su0|Henri Salvador|S4396|Chanson;French Pop;Pop;Regional Music|",
 "Brownsville Station|Smokin' in the Boys Room|1973|5K59EMGgrUA|Brownsville Station (band)|S5634|Boogie Rock;Hard Rock;Blues Rock;Rock|Smokin' in the Boys Room",
 "Yeasayer|2080|2007|qGD656nAyYA|Yeasayer|S4662|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|",
 "Mark Morrison|Return of the Mack|1996|uB1D9wWxd2w|Mark Morrison|S59|Contemporary R&B;R&B|Return of the Mack",
