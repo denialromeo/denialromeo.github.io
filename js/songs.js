@@ -793,7 +793,7 @@ const songs = [
 "Rick James|Super Freak|1981|QYHxGBH6o4M|Rick James|S531|Synth Funk;Funk;R&B|Super Freak",
 "Red Hot Chili Peppers|Give It Away|1991|Mr_uHJPUlO8|Red Hot Chili Peppers|S196|Funk Rock;Rap Rock;Alternative Rock;Rock|Give It Away (Red Hot Chili Peppers song)",
 "Elton John|Tiny Dancer|1971|UroApoVbKn0|Elton John|S1551|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|Tiny Dancer",
-"Bob Dylan|A Hard Rain's A-Gonna Fall|1963|jWuk_R2_Iu4|Bob Dylan|S2983|Contemporary Folk;Singer/Songwriter;Folk|A Hard Rain's a-Gonna Fall",
+"Bob Dylan|A Hard Rain's A-Gonna Fall|1963|T5al0HmR4to|Bob Dylan|S2983|Contemporary Folk;Singer/Songwriter;Folk|A Hard Rain's a-Gonna Fall",
 "Elvis Presley|In the Ghetto|1969|2Ox1Tore9nw|Elvis Presley|S890|Blue Eyed Soul;Country Soul;Pop;R&B;Soul|",
 "David Bowie|Sound and Vision|1977|sW_4r2ks93s|David Bowie|S2326|Art Rock;Rock|Sound and Vision",
 "Mark Ronson|Uptown Funk|2014|OPf0YbXqDm0|Mark Ronson|S9667|Synth Funk;Funk;R&B|Uptown Funk",
