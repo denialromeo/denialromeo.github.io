@@ -1064,7 +1064,7 @@ const songs = [
 "Dizzee Rascal|I Luv You|2003|YH0KWX2a8zY|Dizzee Rascal|S2259|Grime;Electronic|",
 "Manu Dibango|Soul Makossa|1972|aWK_Josc0Og|Manu Dibango|S2867|Jazz-Funk;Makossa;African Music;Central African Music;Funk;Jazz;R&B;Regional Music|Soul Makossa",
 "New Order|Regret|1993|71ZHVmSuBJM|New Order (band)|S127|Alternative Dance;Pop Rock;Alternative Rock;Dance;Pop;Rock|Regret (New Order song)",
-"Duke Ellington|Black, Brown and Beige|1943|LmhcfWs3R0w|Duke Ellington|S2681|Big Band;Jazz|",
+"Duke Ellington|Black, Brown and Beige|1943|yJqTUc_rTIM|Duke Ellington|S2681|Big Band;Jazz|",
 "The Carter Family|Can the Circle Be Unbroken (By and By)|1935|aJabaB5eDlk|Carter Family|S2661|Appalachian Folk Music;Country Gospel;American Folk Music;Country;Folk;Gospel;Regional Music;Traditional Country;Traditional Folk Music|Can the Circle Be Unbroken (By and By)",
 "The Orb|Little Fluffy Clouds|1990|8Ecdn5SGT1E|The Orb|S2015|Ambient House;Breakbeat;Dance;Electronic;Electronic Dance Music;House|",
 "Wilbert Harrison|Kansas City|1959|UonBS_mvW-E?start=60|Wilbert Harrison|S1177|Rhythm & Blues;Rock & Roll;R&B;Rock|Kansas City (Leiber and Stoller song)",
