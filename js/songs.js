@@ -6484,7 +6484,7 @@ const songs = [
 "Girls|Hellhole Ratrace|2008|lcqwfFKagH4|Girls (band)|S4800|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|",
 "Jelly Roll Morton|Kansas City Stomp|1929|yLYyhQx4USA|Jelly Roll Morton|S13205|Dixieland;Jazz|Kansas City Stomp",
 "Rick James|Give It to Me Baby|1981|1dNIQVYGXbM|Rick James|S12063|Disco;Synth Funk;Dance;Funk;R&B|Give It to Me Baby",
-"Curtis Lee|Pretty Little Angel Eyes|1961|pZT__JFMUgU|Curtis Lee|S3554|Brill Building;Doo-Wop;Pop;R&B;Vocal Group|Pretty Little Angel Eyes",
+"Curtis Lee|Pretty Little Angel Eyes|1961|TK-XP4cCKPk|Curtis Lee|S3554|Brill Building;Doo-Wop;Pop;R&B;Vocal Group|Pretty Little Angel Eyes",
 "The Monroe Brothers|What Would You Give in Exchange|1936|BaVys6aPXNI|Bill Monroe|S9300|Close Harmony;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|",
 "Domenico Modugno|Piove (Ciao ciao bambina)|1959|h4SGnmV_BFg|Domenico Modugno|S12937|Italo Pop;Traditional Pop;Pop|Piove (Ciao, ciao bambina)",
 "Charles Trenet|La Folle complainte|1945|wHqFzwpidYQ?start=29|Charles Trenet|S5759|Chanson;Regional Music|https://fr.wikipedia.org/wiki/La_Folle_Complainte",
