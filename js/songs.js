@@ -1735,7 +1735,7 @@ const songs = [
 "Major Lazer|Get Free|2012|heVJ65Zqj6Y|Major Lazer|S5024|Art Pop;Downtempo;Dub;Caribbean Music;Electronic;Jamaican Music;Pop;Reggae;Regional Music|Get Free (Major Lazer song)",
 "Spiritualized|Ladies and Gentlemen We Are Floating in Space|1997|iB7E1D_3Na4|Spiritualized|S4864|Dream Pop;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock|",
 "La Roux|Bulletproof|2009|Kk8eJh4i8Lo|La Roux|S4811|Electropop;Synthpop;Electronic;Pop|Bulletproof (La Roux song)",
-"The Chantels|Maybe|1957|IePTH1PWzAs|The Chantels|S1210|Doo-Wop;Girl Group;Pop;R&B;Vocal Group|",
+"The Chantels|Maybe|1957|2kpnx6sl678|The Chantels|S1210|Doo-Wop;Girl Group;Pop;R&B;Vocal Group|",
 "boygenius|Me & My Dog|2018|Cb3nGYGQ0J4|Boygenius|S16536|Indie Rock;Singer/Songwriter;Alternative Rock;Rock|",
 "Steve Harley & Cockney Rebel|Make Me Smile (Come Up and See Me)|1975|dAoaVU3-ve0|Steve Harley & Cockney Rebel|S704|Glam Rock;Pop Rock;Pop;Rock|Make Me Smile (Come Up and See Me)",
 "Paul Robeson|Ol' Man River|1936|eh9WayN7R-s|Paul Robeson|S4871|Show Tunes;Spirituals;Standards;American Folk Music;Folk;Musical Theatre and Entertainment;Pop;Regional Music;Soundtracks;Traditional Folk Music;Traditional Pop|Ol' Man River",
