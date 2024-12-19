@@ -8679,7 +8679,7 @@ const songs = [
 "Léo Ferré|La Mémoire et la mer|1970|aDHu3r2VLv0|Léo Ferré|S7233|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "Jarabe de Palo|La Flaca|1996|R2rP8ZU52gU?start=12|Jarabe de Palo|S13510|Latin Pop;Latin Rock;Pop Rock;Hispanic Music;Latin American Music;Pop;Regional Music;Rock|",
 "Carpenters|Goodbye to Love|1972|HeaGeYp8h-Q|The Carpenters|S2313|Baroque Pop;Pop|Goodbye to Love",
-"Eagles|Heartache Tonight|1979|feduLprAAig|Eagles (band)|S6184|Country Rock;Pop Rock;Pop;Rock|Heartache Tonight",
+"Eagles|Heartache Tonight|1979|Kcrs6XxUAqE|Eagles (band)|S6184|Country Rock;Pop Rock;Pop;Rock|Heartache Tonight",
 "Mercury Rev|Car Wash Hair|1991|Zhh7A_gqr-g|Mercury Rev|S7517|Neo-Psychedelia;Psychedelic Rock;Rock|",
 "Paula Abdul|Rush, Rush|1991|yqyIaNWP0T0|Paula Abdul|S7906|Pop|Rush Rush (Paula Abdul song)",
 "Grateful Dead|Ripple|1970|5yJmBC7cMTM|Grateful Dead|S10971|Folk Rock;Rock|Ripple (song)",
