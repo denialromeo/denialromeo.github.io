@@ -3335,7 +3335,7 @@ const songs = [
 "Sharon Van Etten|Every Time the Sun Comes Up|2014|fDW-W2J84Hc|Sharon Van Etten|S9616|Indie Folk;Indie Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Are We There",
 "Paul Simon|Kodachrome|1973|8rlDTK6QI-w|Paul Simon|S1562|Americana;Folk Pop;Pop Rock;Singer/Songwriter;Contemporary Folk;Country;Folk;Pop;Rock|Kodachrome (song)",
 "Blue Cheer|Summertime Blues|1968|YXcYZsqkZ-g|Blue Cheer|S5511|Heavy Psych;Hard Rock;Psychedelic Rock;Rock|Summertime Blues",
-"Bruce Springsteen|Bobby Jean|1984|BWibbTCGazQ|Bruce Springsteen|S3844|Heartland Rock;Pop Rock;Pop;Rock|Bobby Jean",
+"Bruce Springsteen|Bobby Jean|1984|iGR_Rk74tOk|Bruce Springsteen|S3844|Heartland Rock;Pop Rock;Pop;Rock|Bobby Jean",
 "Newcleus|Jam On It|1984|uAEw_sX7CFA|Newcleus|S432|East Coast Hip Hop;Electro;Dance;Electronic;Electronic Dance Music;Hip Hop|",
 "The Style Council|Long Hot Summer|1983|1CAzwewVjZ0|The Style Council|S476|Blue Eyed Soul;Sophisti-Pop;Synth Funk;Funk;Pop;R&B|Long Hot Summer (The Style Council song)",
 "Luniz|I Got 5 On It|1995|me3CPl_i4C4|Luniz|S4510|G-Funk;Mobb Music;West Coast Hip Hop;Hip Hop|I Got 5 on It",
