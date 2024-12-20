@@ -7587,7 +7587,7 @@ const songs = [
 "The Beatles|Blue Jay Way|1967|Coz0TmK2ZIg|The Beatles|S10102|Art Rock;Psychedelic Rock;Rock|Blue Jay Way",
 "Vince Guaraldi|Linus and Lucy|1964|x6zypc_LhnM|Vince Guaraldi|S9039|Cool Jazz;Television Music;Jazz;Soundtracks|Linus and Lucy",
 "Shelly Manne|Abstract No. 1|1955|yYhpBTNhuAM|Shelly Manne|S13247|Avant-Garde Jazz;Cool Jazz;Jazz|",
-"Underworld|Cowgirl|1993|feWNvGpWHLM|Underworld (band)|S2374|Techno;Trance;Dance;Electronic;Electronic Dance Music|Cowgirl (song)",
+"Underworld|Cowgirl|1993|5TySnF_Pb3M|Underworld (band)|S2374|Techno;Trance;Dance;Electronic;Electronic Dance Music|Cowgirl (song)",
 "Girls|Honey Bunny|2011|IxuDoYhQI2o|Girls (band)|S6571|Indie Pop;Pop|",
 "Taylor Swift|Lover|2019|-BjZmE2gtdo|Taylor Swift|S16878|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Lover (Taylor Swift song)",
 "Dazz Band|Let It Whip|1982|Gd3gl5gnMeA?start=11|Dazz Band|S10539|Contemporary R&B;Synth Funk;Funk;R&B|Let It Whip",
