@@ -6906,7 +6906,7 @@ const songs = [
 "Charli XCX|Nuclear Seasons|2011|TGmM2l39LEs|Charli XCX|S10381|Electropop;Synthpop;Electronic;Pop|",
 "The Psychedelic Furs|Sister Europe|1980|-R96oxrDHWs|The Psychedelic Furs|S8027|Neo-Psychedelia;Post-Punk;Psychedelic Rock;Rock|Sister Europe",
 "Wham!|Freedom|1984|BFwOs-jy53A|Wham!|S8982|Pop Soul;Pop;R&B;Soul|Freedom (Wham! song)",
-"Lennie Tristano|Intuition|1950|NlrfIA8ADJ8|Lennie Tristano|S13224|Avant-Garde Jazz;Bebop;Jazz|",
+"Lennie Tristano|Intuition|1950|_mWxuxrbi5U|Lennie Tristano|S13224|Avant-Garde Jazz;Bebop;Jazz|",
 "De La Soul|Jenifa (Taught Me)|1988|3wYtCyAKbzE|De La Soul|S5986|Conscious Hip Hop;East Coast Hip Hop;Hip Hop|Me Myself and I (De La Soul song)",
 "Hot Chip|Need You Now|2015|lfH5LmhvQQk|Hot Chip|S9778|Deep House;Synthpop;Dance;Electronic;Electronic Dance Music;House;Pop|Need You Now (Hot Chip song)",
 "John Denver|Rocky Mountain High|1972|9hIEpcM4ui4?start=22|John Denver|S6941|Contemporary Folk;Country Pop;Country;Folk;Pop|Rocky Mountain High",
