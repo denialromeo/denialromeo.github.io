@@ -6134,7 +6134,7 @@ const songs = [
 "Fleetwood Mac|The Green Manalishi (With the Two Prong Crown)|1970|EKRfCkx8KCM|Fleetwood Mac|S6389|Heavy Psych;Hard Rock;Psychedelic Rock;Rock|The Green Manalishi (With the Two Prong Crown)",
 "Alaska y Dinarama|Ni tú ni nadie|1984|IWeyp0tpClQ|Alaska (singer)|S9962|New Wave;Pop Rock;Pop;Rock|",
 "Jermaine Jackson|Let's Get Serious|1980|uJjRWyqL7nA|Jermaine Jackson|S3503|Dance-Pop;Disco;Pop Soul;Dance;Pop;R&B;Soul|",
-"SL2|On a Ragga Tip|1992|gXCN1DhHTZA|SL2 (group)|S12224|Breakbeat Hardcore;Breakbeat;Dance;Electronic;Electronic Dance Music;Hardcore [EDM]|On a Ragga Tip",
+"SL2|On a Ragga Tip|1992|gXCN1DhHTZA|SL2 (musical group)|S12224|Breakbeat Hardcore;Breakbeat;Dance;Electronic;Electronic Dance Music;Hardcore [EDM]|On a Ragga Tip",
 "Chromatics|In the City|2006|tFOxribt3kA|Chromatics (band)|S9187|Dream Pop;Synthpop;Alternative Rock;Electronic;Pop;Rock|",
 "Jane's Addiction|Three Days|1990|78Y-v5twoGw|Jane's Addiction|S6861|Alternative Rock;Rock|Three Days (Jane's Addiction song)",
 "Teena Marie|Square Biz|1981|o9wotiDai5U|Teena Marie|S3596|Boogie;Funk;Pop Soul;Dance;Disco;Pop;R&B;Soul|Square Biz",
