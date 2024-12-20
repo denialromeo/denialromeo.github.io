@@ -4693,7 +4693,7 @@ const songs = [
 "Paul Simon|Me and Julio Down by the School Yard|1972|Z6VrKro8djw?start=26|Paul Simon|S7892|Folk Pop;Pop Rock;Singer/Songwriter;Contemporary Folk;Folk;Pop;Rock|Me and Julio Down by the Schoolyard",
 "Simon and Garfunkel|A Hazy Shade of Winter|1966|dVA-1iJxRQI|Simon & Garfunkel|S3804|Folk Pop;Folk Rock;Contemporary Folk;Folk;Pop;Rock|A Hazy Shade of Winter",
 "The Velvet Underground|Foggy Notion|1985|CiT_O90jkUI|The Velvet Underground|S1785|Art Rock;Rock|",
-"Stories|Brother Louie|1973|mUCcULhyN1I|Stories (band)|S3083|Pop Rock;Pop;Rock|Brother Louie (Hot Chocolate song)",
+"Stories|Brother Louie|1973|e3P-NZrPr_k?start=2761|Stories (band)|S3083|Pop Rock;Pop;Rock|Brother Louie (Hot Chocolate song)",
 "10cc|Dreadlock Holiday|1978|2p-CBLJHcT4|10cc|S5064|Pop Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|Dreadlock Holiday",
 "Traffic|John Barleycorn|1970|pnkHP_v3CYw|Traffic (band)|S13070|Psychedelic Rock;Rock|John Barleycorn",
 "Barbara|Ma plus belle histoire d'amour|1966|XoLcVzxwgvQ|Barbara (singer)|S5319|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
