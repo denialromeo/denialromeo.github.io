@@ -6950,7 +6950,7 @@ const songs = [
 "Garbage|Vow|1995|qZsVcoWRIkY|Garbage (band)|S84|Alternative Rock;Rock|Vow (song)",
 "The Smithereens|Behind the Wall of Sleep|1986|UNZbP3ZVem4|The Smithereens|S3823|Jangle Pop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|Behind the Wall of Sleep (The Smithereens song)",
 "Eagle-Eye Cherry|Save Tonight|1998|Nntd2fgMUYw|Eagle-Eye Cherry|S6181|Pop Rock;Pop;Rock|Save Tonight",
-"Add N to (X)|Plug Me In|2000|TcAdsYH5v9Y|Add N to (X)|S5100|Electronic|",
+"Add N to (X)|Plug Me In|2000|mKajFcsSQMA|Add N to (X)|S5100|Electronic|",
 "Patti Smith|Break It Up|1975|6QNOPYpIa3Q|Patti Smith|S14844|Art Rock;Proto-Punk;Singer/Songwriter;Rock|",
 "Christine and the Queens|Doesn't Matter|2018|UCwD5f1APTY|Christine and the Queens|S16575|Synthpop;Electronic;Pop|",
 "Fairport Convention|Meet on the Ledge|1968|avX5VlU7MXM|Fairport Convention|S6335|Folk Rock;Rock|Meet on the Ledge",
