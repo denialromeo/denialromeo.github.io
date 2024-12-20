@@ -10605,7 +10605,7 @@ const songs = [
 "Anthrax|I Am the Law|1987|2Bu5mnE65I8|Anthrax (American band)|S5212|Thrash Metal;Metal;Rock|I Am the Law (song)",
 "Rufus Wainwright|The Art Teacher|2004|Zr9NMQx0VzM|Rufus Wainwright|S8269|Art Pop;Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop|",
 "U2|City of Blinding Lights|2004|ZhCezZQqxx4|U2|S12502|Pop Rock;Pop;Rock|City of Blinding Lights",
-"Wilco|If I Ever Was a Child|2016|Z3qns8qGJI0|Wilco|S16215|Alt-Country;Folk Rock;Indie Folk;Contemporary Folk;Country;Folk;Rock|Schmilco",
+"Wilco|If I Ever Was a Child|2016|wf6LU6cKJSw|Wilco|S16215|Alt-Country;Folk Rock;Indie Folk;Contemporary Folk;Country;Folk;Rock|Schmilco",
 "Scandal|The Warrior|1984|47y5bo8wtqM|Scandal (American band)|S12166|Pop Rock;Pop;Rock|The Warrior (song)",
 "Future|Fuck Up Some Commas|2015|wKl6umkwKfU|Future (rapper)|S9770|Pop Rap;Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|Fuck Up Some Commas",
 "Tim Hutton|Been a Fool|2000|7WuYeP1B3eE|https://www.discogs.com/artist/12601-Tim-Hutton|S8759|Singer/Songwriter;Trip Hop;Downtempo;Electronic|",
