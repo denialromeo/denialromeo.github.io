@@ -7474,7 +7474,7 @@ const songs = [
 "Cheryl Lynn|Got to Be Real|1978|54HSk7-q960|Cheryl Lynn|S10391|Disco;Pop Soul;Dance;Pop;R&B;Soul|Got to Be Real",
 "Janet Kay|Silly Games|1979|qCVR5XR04Mo|Janet Kay|S9251|Lovers Rock;Caribbean Music;Jamaican Music;Reggae;Regional Music|Silly Games",
 "The Kalin Twins|When|1958|Ywnm0iQTMKY?start=27|Kalin Twins|S7043|Close Harmony;Rock & Roll;Vocal Group;American Folk Music;Country;Folk;Regional Music;Rock;Traditional Country;Traditional Folk Music|When (The Kalin Twins song)",
-"Disclosure feat. Lorde|Magnets|2015|t8EFuRlc2G4|Disclosure (band)|S9739|Synthpop;UK Bass;Dance;Electronic;Electronic Dance Music;Pop;UK Garage|Magnets (song)",
+"Disclosure feat. Lorde|Magnets|2015|b_KfnGBtVeA|Disclosure (band)|S9739|Synthpop;UK Bass;Dance;Electronic;Electronic Dance Music;Pop;UK Garage|Magnets (song)",
 "Lanark Artefax|Touch Absence|2017|eo0l0yQ2OsQ|https://www.discogs.com/artist/5166156-Lanark-Artefax|S16427|IDM;Electronic|",
 "Iron Maiden|Can I Play With Madness|1988|Kvqr366Op3k|Iron Maiden|S11090|Heavy Metal;Metal;Rock|Can I Play with Madness",
 "Kool & The Gang|Ladies Night|1979|TS8xzin7z28|Kool & the Gang|S12882|Disco;Funk;Dance;R&B|Ladies' Night (song)",
