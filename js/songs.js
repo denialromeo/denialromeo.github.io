@@ -10056,7 +10056,7 @@ const songs = [
 "The Cult|Fire Woman|1989|8g6h1vI4Xv0|The Cult|S5923|Hard Rock;Rock|Fire Woman",
 "M.I.A.|Bring the Noize|2013|RvUVxYndYuU|M.I.A. (rapper)|S9484|Experimental Hip Hop;UK Hip Hop;Hip Hop|Bring the Noize",
 "Deep Blue Something|Breakfast at Tiffany's|1996|1ClCpfeIELw|Deep Blue Something|S6012|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Breakfast at Tiffany's (song)",
-"The Who|Bargain|1971|Ka_pPf7OqiE|The Who|S12584|Hard Rock;Rock|Bargain (song)",
+"The Who|Bargain|1971|RL5f8awRGOU|The Who|S12584|Hard Rock;Rock|Bargain (song)",
 "New Order|Tutti Frutti|2015|koXE2TuQ1_c|New Order (band)|S9822|Alternative Dance;Synthpop;Alternative Rock;Dance;Electronic;Pop;Rock|Tutti Frutti (New Order song)",
 "Cat Power|Cherokee|2012|PDbPrOuXq2s|Cat Power|S10363|Art Pop;Singer/Songwriter;Pop|Sun (Cat Power album)",
 "Fleetwood Mac|Little Lies|1987|uCGD9dT12C0|Fleetwood Mac|S10827|Pop Rock;Pop;Rock|Little Lies",
