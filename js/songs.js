@@ -6036,7 +6036,7 @@ const songs = [
 "The Lovin' Spoonful|Daydream|1966|DpKFmabCjlw|The Lovin' Spoonful|S7340|Folk Pop;Sunshine Pop;Contemporary Folk;Folk;Pop|Daydream (The Lovin' Spoonful song)",
 "James Taylor|Handy Man|1977|A9HDyz6Mr4g|James Taylor|S1791|Adult Contemporary;Singer/Songwriter;Pop|Handy Man (song)",
 "Loretta Lynn|You Ain't Woman Enough (To Take My Man)|1966|wJJrUqBfH6A|Loretta Lynn|S4098|Honky Tonk;Country|You Ain't Woman Enough (To Take My Man)",
-"Stan Kenton|City of Glass (Suite)|1952|1HxuWh2ChMs|Stan Kenton|S13251|Experimental Big Band;Progressive Big Band;Avant-Garde Jazz;Big Band;Jazz|",
+"Stan Kenton|City of Glass (Suite)|1952|https://youtube.com/embed/playlist?list=OLAK5uy_lx1oqn7Iega_FOUfM4kIeKzFxWpf2X3jA|Stan Kenton|S13251|Experimental Big Band;Progressive Big Band;Avant-Garde Jazz;Big Band;Jazz|",
 "Eric Burdon|Spill the Wine|1970|W77Kwh6f0TE|War (American band)|S2856|Funk;Latin Rock;Psychedelic Rock;Hispanic Music;Latin American Music;R&B;Regional Music;Rock|",
 "Massive Attack|Risingson|1997|85E9Q5Wx210|Massive Attack|S14|Trip Hop;UK Hip Hop;Downtempo;Electronic;Hip Hop|Teardrop (song)",
 "Javiera Mena|Al siguiente nivel|2006|OnEQTFkakvU|Javiera Mena|S6875|Electropop;Synthpop;Electronic;Pop|",
