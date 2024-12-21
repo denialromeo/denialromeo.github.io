@@ -6704,7 +6704,7 @@ const songs = [
 "Julia Holter|I Shall Love 2|2018|k5uwPaCvbhA|Julia Holter|S16591|Art Pop;Pop|",
 "Ramones|Teenage Lobotomy|1977|4gjYqcwaklo|Ramones|S12024|Punk Rock;Rock|Teenage Lobotomy",
 "Let's Eat Grandma|Falling Into Me|2018|VGVv7SQ_jus|Let's Eat Grandma|S16569|Art Pop;Electropop;Indietronica;Electronic;Pop|",
-"Thelonious Monk|Straight No Chaser|1952|7naC7TF9OU0|Thelonious Monk|S13256|Bebop;Jazz|",
+"Thelonious Monk|Straight, No Chaser|1952|7naC7TF9OU0|Thelonious Monk|S13256|Bebop;Jazz|https://en.wikipedia.org/wiki/List_of_compositions_by_Thelonious_Monk#Straight,_No_Chaser",
 "Alex Gopher|The Child|1999|URbFjz4hWMY|Alex Gopher|S2179|Deep House;Downtempo;French House;Dance;Electronic;Electronic Dance Music;House|",
 "Element of Crime|Delmenhorst|2005|H5SrdnzuXPQ|Element of Crime|S14348|Indie Pop;Liedermacher;Pop;Singer/Songwriter|",
 "The Five Keys|The Glory of Love|1951|HwpecV7xfvk|The Five Keys|S4363|Doo-Wop;R&B;Vocal Group|The Glory of Love (song)",
