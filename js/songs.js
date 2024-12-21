@@ -1978,7 +1978,7 @@ const songs = [
 "The Clash|The Guns of Brixton|1979|6eneRB5z1XM|The Clash|S4558|Post-Punk;Reggae;Caribbean Music;Jamaican Music;Regional Music;Rock|The Guns of Brixton",
 "Phil Phillips with The Twilights|Sea of Love|1959|lrkNRcyvtF4|Phil Phillips|S1190|Doo-Wop;R&B;Vocal Group|Sea of Love (Phil Phillips song)",
 "The Stanley Brothers|Rank Strangers|1960|eRalJveqbvQ|The Stanley Brothers|S1161|Bluegrass Gospel;Close Harmony;American Folk Music;Bluegrass;Country;Country Gospel;Folk;Gospel;Regional Music;Traditional Country;Traditional Folk Music|",
-"Eddie Floyd|Knock on Wood|1966|jkF4K2xuSF4?start=3|Eddie Floyd|S1435|Southern Soul;R&B;Soul|Knock on Wood (Eddie Floyd song)",
+"Eddie Floyd|Knock on Wood|1966|dDloXGfNGus|Eddie Floyd|S1435|Southern Soul;R&B;Soul|Knock on Wood (Eddie Floyd song)",
 "Dizzy Gillespie|A Night in Tunisia|1946|gfLVVHxk4IM|Dizzy Gillespie|S2686|Bebop;Jazz|",
 "Bob Marley and the Wailers|Jamming|1977|RAW1wj3Lx0I|Bob Marley|S657|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
 "Hoagy Carmichael|Stardust|1927|JjMx_Dwm_08|Hoagy Carmichael|S2657|Jazz;Standards;Pop;Traditional Pop|Stardust (1927 song)",
