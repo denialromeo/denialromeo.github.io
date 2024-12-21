@@ -1517,7 +1517,7 @@ const songs = [
 "The Weavers|Goodnight Irene|1950|MSDyiUBrUSk|The Weavers|S1339|Contemporary Folk;Folk|Goodnight, Irene",
 "Los Fabulosos Cadillacs|Matador|1993|pjPA7CXutDw|Los Fabulosos Cadillacs|S7307|Batucada;Latin Alternative;Murga;Brazilian Music;Hispanic Music;Latin American Music;Musical Theatre and Entertainment;Regional Music;Samba|Matador (Los Fabulosos Cadillacs song)",
 "Three 6 Mafia|Stay Fly|2005|vBjzAdpZzf0|Three 6 Mafia|S3039|Dirty South;Southern Hip Hop;Hip Hop|",
-"Cypress Hill|How I Could Just Kill a Man|1991|Yg-RIOATCbU|Cypress Hill|S2034|Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
+"Cypress Hill|How I Could Just Kill a Man|1991|Yg-RIOATCbU|Cypress Hill|S2034|Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|How I Could Just Kill a Man",
 "Sampha|(No One Knows Me) Like the Piano|2017|_NSuIYwBxu4|Sampha|S16473|Neo-Soul;R&B;Soul|",
 "Creedence Clearwater Revival|Green River|1969|L5V9nK7-OkM|Creedence Clearwater Revival|S880|Swamp Rock;Rock;Roots Rock|Green River (song)",
 "This Mortal Coil|Song to the Siren|1983|HFWKJ2FUiAQ|This Mortal Coil|S478|Ambient Pop;Dream Pop;Ethereal Wave;Alternative Rock;Darkwave;Gothic Rock;Pop;Rock|",
