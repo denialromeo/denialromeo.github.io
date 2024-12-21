@@ -6585,7 +6585,7 @@ const songs = [
 "KC and the Sunshine Band|Please Don't Go|1979|PwrVePMx6t0|KC and the Sunshine Band|S12951|Pop Soul;Pop;R&B;Soul|Please Don't Go (KC and the Sunshine Band song)",
 "Tyler, the Creator feat. Frank Ocean & Steve Lacy|911/Mr. Lonely|2017|khMb3k-Wwvg|Tyler, the Creator|S16508|Neo-Soul;West Coast Hip Hop;Hip Hop;R&B;Soul|",
 "Shania Twain|That Don't Impress Me Much|1997|mqFLXayD6e8|Shania Twain|S12189|Country Pop;Dance-Pop;Country;Dance;Pop|That Don't Impress Me Much",
-"Jackson Browne|Fountain of Sorrow|1974|q5Cz8ppvGXk|Jackson Browne|S6827|Singer/Songwriter|Fountain of Sorrow",
+"Jackson Browne|Fountain of Sorrow|1974|k0vYnD6GGyU|Jackson Browne|S6827|Singer/Songwriter|Fountain of Sorrow",
 "Guided by Voices|Teenage FBI|1999|INN4DF2BgLs|Guided by Voices|S2184|Indie Rock;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|",
 "The Lightning Seeds|Three Lions|1996|RJqimlFcJsM|The Lightning Seeds|S5300|Britpop;Alternative Rock;Pop;Pop Rock;Rock|",
 "Pacific Gas & Electric|Are You Ready?|1970|5MR1LBEJ-ok|Pacific Gas & Electric (band)|S7839|Blues Rock;Rock|Are You Ready? (Pacific Gas & Electric song)",
