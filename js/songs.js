@@ -1641,7 +1641,7 @@ const songs = [
 "Peter, Paul and Mary|Blowin' in the Wind|1963|6R50K2BRvUw|Peter, Paul and Mary|S1075|Folk Pop;Contemporary Folk;Folk;Pop|Blowin' in the Wind",
 "The Go-Betweens|Cattle and Cane|1983|ZCbyByY-A6w|The Go-Betweens|S4198|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Cattle and Cane",
 "Crystal Castles|Not in Love|2010|32udqal_lyQ|Crystal Castles|S4896|Electropop;Synthpop;Electronic;Pop|",
-"The Cure|Killing an Arab|1978|OXZGSPyY6R8|The Cure|S4185|Post-Punk;Rock|",
+"The Cure|Killing an Arab|1978|O1MM_SEIBKU|The Cure|S4185|Post-Punk;Rock|",
 "Grimes|Genesis|2012|1FH-q0I1fJY|Grimes (musician)|S5014|Synthpop;Electronic;Pop|Genesis (Grimes song)",
 "The Chantays|Pipeline|1962|4fc57tYou4U|The Chantays|S1062|Surf Rock;Rock;Surf Music|Pipeline (instrumental)",
 "Elliott Smith|Miss Misery|1997|gRUyC9veWtw|Elliott Smith|S3820|Indie Folk;Indie Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Miss Misery",
