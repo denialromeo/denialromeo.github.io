@@ -6044,7 +6044,7 @@ const songs = [
 "Rihanna|Diamonds|2012|lWA2pjMjpBs|Rihanna|S12069|Contemporary R&B;Pop;R&B|Diamonds (Rihanna song)",
 "Jake Bugg|Lightning Bolt|2012|xCiQXsvPr1M|Jake Bugg|S11125|Folk Rock;Singer/Songwriter;Rock|Lightning Bolt (song)",
 "Elvis Presley|Tomorrow Is a Long Time|1966|i2zJKGxzdeI|Elvis Presley|S10720|Pop Rock;Pop;Rock|Tomorrow Is a Long Time",
-"Clarence \"Frogman\" Henry|But I Do|1961|UbfJ3t3CwBc|Clarence \"Frogman\" Henry|S3070|Pop|",
+"Clarence \"Frogman\" Henry|(I Don't Know Why) But I Do|1961|UbfJ3t3CwBc|Clarence \"Frogman\" Henry|S3070|Pop|(I Don't Know Why) But I Do",
 "Oasis|The Importance of Being Idle|2005|jySfU10IQu4|Oasis (band)|S7784|Britpop;Alternative Rock;Pop;Pop Rock;Rock|The Importance of Being Idle (song)",
 "ABBA|Money, Money, Money|1976|ETxmCCsMoD0|ABBA|S2879|Europop;Pop|Money, Money, Money",
 "The Stone Roses|One Love|1990|60qyfdcAOGE|The Stone Roses|S8594|Baggy / Madchester;Alternative Rock;Rock|",
