@@ -7425,7 +7425,7 @@ const songs = [
 "Tommy Roe|Sheila|1962|c_BwauaXAlc|Tommy Roe|S8808|Pop Rock;Rock & Roll;Pop;Rock|Sheila (Tommy Roe song)",
 "Micachu|Golden Phone|2008|cU6EMAgynGA|Micachu|S7529|Art Pop;Indie Pop;Noise Pop;Alternative Rock;Pop;Rock|",
 "Sloan|The Rest of My Life|2003|ygejqgBm9l0|Sloan (band)|S16010|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|The Rest of My Life (Sloan song)",
-"Spinto Band|Oh Mandy|2005|YykBPMHyLkU|The Spinto Band|S8530|Indie Pop;Pop|",
+"Spinto Band|Oh Mandy|2005|lYALZWFfPO0|The Spinto Band|S8530|Indie Pop;Pop|",
 "Blondie|Rip Her to Shreds|1976|WHsH_XLn-Zk|Debbie Harry|S10209|New Wave;Punk Rock;Rock|Rip Her to Shreds",
 "Surfer Blood|Swim (To Reach the End)|2009|QVkgNPK8EQE|Surfer Blood|S8652|Indie Pop;Noise Pop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|",
 "Neil Diamond|Girl, You'll Be a Woman Soon|1967|nGefv9sfnVk|Neil Diamond|S2835|Pop;Rock & Roll;Singer/Songwriter;Rock|Girl, You'll Be a Woman Soon",
