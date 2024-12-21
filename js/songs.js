@@ -6299,7 +6299,7 @@ const songs = [
 "The Passions|I'm in Love with a German Film Star|1981|JXhJbC-kvaw|The Passions (British band)|S7854|New Wave;Rock|I'm in Love with a German Film Star",
 "Justin Timberlake|What Goes Around...Comes Around|2006|wob4QgiOZeA|Justin Timberlake|S4314|Art Pop;Contemporary R&B;Pop;R&B|What Goes Around... Comes Around",
 "Serge Reggiani|Sarah|1967|B-8z3kSfPfM|Serge Reggiani|S8364|Chanson;Regional Music|",
-"Guns N' Roses|Knockin' on Heaven's Door|1990|DCQHfrqMKXA|Guns N' Roses|S10991|Hard Rock;Rock|Knockin' on Heaven's Door",
+"Guns N' Roses|Knockin' on Heaven's Door|1990|kyeIgneys0A|Guns N' Roses|S10991|Hard Rock;Rock|Knockin' on Heaven's Door",
 "Cliff Richard|Living Doll|1959|jNke99dm20Y|Cliff Richard|S1198|Country Pop;Country;Pop|Living Doll (song)",
 "The Beach Boys|I Can Hear Music|1969|EqhVI1lz3ng|The Beach Boys|S5347|Pop Rock;Sunshine Pop;Pop;Rock|I Can Hear Music",
 "Timbuk 3|The Future's So Bright, I Gotta Wear Shades|1986|8qrriKcwvlY|Timbuk 3|S3904|Pop Rock;Pop;Rock|The Future's So Bright, I Gotta Wear Shades",
