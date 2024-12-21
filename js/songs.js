@@ -8104,7 +8104,7 @@ const songs = [
 "Maxïmo Park|Books from Boxes|2007|8jmlWcItwxc|Maxïmo Park|S4334|Indie Rock;Alternative Rock;Rock|",
 "Sugarloaf|Green-Eyed Lady|1970|i_i7PKdQJU4|Sugarloaf (band)|S8628|Psychedelic Rock;Rock|Green-Eyed Lady",
 "Television|Friction|1977|vkXDUMQ6nLM|Television (band)|S15117|Art Punk;Art Rock;Post-Punk;Punk Rock;Rock|",
-"Guns N' Roses|Mr. Brownstone|1987|MMdX5mz3P3U|Guns N' Roses|S10993|Hard Rock;Rock|Mr. Brownstone",
+"Guns N' Roses|Mr. Brownstone|1987|27rKrR424cA|Guns N' Roses|S10993|Hard Rock;Rock|Mr. Brownstone",
 "The High Llamas|Checkin' In Checkin' Out|1994|ats3sUKmkjw|The High Llamas|S6714|Chamber Pop;Country Pop;Baroque Pop;Country;Indie Pop;Pop|",
 "Vibrations|My Girl Sloopy|1964|Z6l_wL12qQE|The Vibrations|S9005|Rhythm & Blues;Soul;R&B|Hang On Sloopy",
 "Eels|Last Stop: This Town|1998|0TfqbuTBqX8|Eels (band)|S10693|Alternative Rock;Indie Pop;Trip Hop;Downtempo;Electronic;Pop;Rock|Last Stop: This Town",
