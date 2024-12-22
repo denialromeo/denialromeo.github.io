@@ -715,7 +715,7 @@ const songs = [
 "Whitney Houston|I Wanna Dance with Somebody (Who Loves Me)|1987|eH3giaIzONA|Whitney Houston|S3481|Dance-Pop;Dance;Pop|I Wanna Dance with Somebody (Who Loves Me)",
 "James Brown|Say It Loud - I'm Black and I'm Proud|1968|7SQPbWGra6s|James Brown|S2416|Funk;R&B|Say It Loud – I'm Black and I'm Proud",
 "Snoop Dogg|Drop It Like It's Hot|2004|RaCodgL9cvk|Snoop Dogg|S2481|Pop Rap;West Coast Hip Hop;Hip Hop|Drop It Like It's Hot",
-"Santigold|L.E.S. Artistes|2008|cz0Qb5ws98k|Santigold|S4745|Indie Pop;Indietronica;Electronic;Pop|",
+"Santigold|L.E.S. Artistes|2008|ciJDA0tcQfs|Santigold|S4745|Indie Pop;Indietronica;Electronic;Pop|",
 "The Libertines|Can't Stand Me Now|2004|CqM11bt9QvI|The Libertines|S2439|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|Can't Stand Me Now",
 "Battles|Atlas|2007|IpGp-22t0lU|Battles (band)|S4277|Experimental Rock;Math Rock;Alternative Rock;Rock|Atlas (Battles song)",
 "Crosby, Stills, Nash (& Young)|Suite: Judy Blue Eyes|1969|ZGT0P0XJRFM|Crosby, Stills, Nash & Young|S882|Folk Rock;Rock|Suite: Judy Blue Eyes",
