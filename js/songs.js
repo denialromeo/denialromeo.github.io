@@ -6707,7 +6707,7 @@ const songs = [
 "Thelonious Monk|Straight, No Chaser|1952|7naC7TF9OU0|Thelonious Monk|S13256|Bebop;Jazz|https://en.wikipedia.org/wiki/List_of_compositions_by_Thelonious_Monk#Straight,_No_Chaser",
 "Alex Gopher|The Child|1999|URbFjz4hWMY|Alex Gopher|S2179|Deep House;Downtempo;French House;Dance;Electronic;Electronic Dance Music;House|",
 "Element of Crime|Delmenhorst|2005|H5SrdnzuXPQ|Element of Crime|S14348|Indie Pop;Liedermacher;Pop;Singer/Songwriter|",
-"The Five Keys|The Glory of Love|1951|HwpecV7xfvk|The Five Keys|S4363|Doo-Wop;R&B;Vocal Group|The Glory of Love (song)",
+"The Five Keys|The Glory of Love|1951|y_KeK-aazMQ|The Five Keys|S4363|Doo-Wop;R&B;Vocal Group|The Glory of Love (song)",
 "The Wannadies|You and Me Song|1996|t_e_45Szprk|The Wannadies|S8931|Indie Pop;Power Pop;Pop;Pop Rock;Rock|You and Me Song",
 "Oasis|Acquiesce|1995|N7xdHY8HK9Y|Oasis (band)|S12682|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Acquiesce",
 "D'Angelo|Shit, Damn, Motherfucker|1995|EWh7zJKUafw|D'Angelo|S2634|Neo-Soul;R&B;Soul|Brown Sugar (D'Angelo album)",
