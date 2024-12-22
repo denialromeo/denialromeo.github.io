@@ -10513,7 +10513,7 @@ const songs = [
 "Vox Dei|Presente (El momento en que estás)|1970|fYz80x6fY-k|Vox Dei (band)|S12624|Hard Rock;Rock|",
 "Liars|Scarecrows on a Killer Slant|2010|iNEijb9s3lU|Liars (band)|S7257|Noise Rock;Punk Rock;Rock|",
 "Elbow|Newborn|2000|w6teAV0cvv8|Elbow (band)|S6221|Alternative Rock;Art Rock;Rock|",
-"Beck|Gamma Ray|2008|NgzfncwjcCE|Beck|S5391|Alternative Rock;Rock|Gamma Ray (song)",
+"Beck|Gamma Ray|2008|NyiTo_r2kck|Beck|S5391|Alternative Rock;Rock|Gamma Ray (song)",
 "The Allman Brothers Band|Melissa|1972|71xvwVQABvw|The Allman Brothers Band|S5175|Blues Rock;Southern Rock;Rock|Melissa (song)",
 "Charles Aznavour|Hier encore|1964|GftJvYqCzBk|Charles Aznavour|S13422|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|Hier encore",
 "James Brown|Soul Power|1971|4N-NrucQcB8|James Brown|S6845|Funk;R&B|Soul Power",
