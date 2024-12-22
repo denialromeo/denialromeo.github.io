@@ -5920,7 +5920,7 @@ const songs = [
 "The Marvelettes|The Hunter Gets Captured by the Game|1966|W-vNHRExA7E|The Marvelettes|S7451|Girl Group;Motown Sound;Pop;Pop Soul;R&B;Soul|The Hunter Gets Captured by the Game",
 "The Smiths|Cemetry Gates|1986|D5cZ-oLVJzY|The Smiths|S2918|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Cemetry Gates",
 "The Jam|Strange Town|1979|AVJlOPDiZNI|The Jam|S582|Mod Revival;New Wave;Power Pop;Mod;Pop;Pop Rock;Rock|",
-"Tool|Sober|1993|u7lweNCCwS0|Tool (band)|S12465|Alternative Metal;Metal;Rock|Sober (Tool song)",
+"Tool|Sober|1993|nspxAG12Cpc|Tool (band)|S12465|Alternative Metal;Metal;Rock|Sober (Tool song)",
 "Boz Scaggs|Lido Shuffle|1977|nZrRS261Edw|Boz Scaggs|S5605|Blue Eyed Soul;Pop Rock;Pop;Rock|Lido Shuffle",
 "Jelly Roll Morton|Doctor Jazz-Stomp|1927|S5fC_MpjBWw|Jelly Roll Morton|S13204|Big Band;Jazz|",
 "War|The World Is a Ghetto|1972|mJ4USEMH_PQ|War (American band)|S3938|Funk;Soul;R&B|The World Is a Ghetto (War song)",
