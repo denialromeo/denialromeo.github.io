@@ -6322,7 +6322,7 @@ const songs = [
 "Lambchop|Is a Woman|2002|veMzZdEfkA4|Lambchop (band)|S13862|Alt-Country;Chamber Pop;Baroque Pop;Country;Indie Pop;Pop|",
 "Bob Dylan|She's Your Lover Now|1966|YAg5hs00F_8|Bob Dylan|S5546|Folk Rock;Singer/Songwriter;Rock|She's Your Lover Now",
 "John Fogerty|The Old Man Down the Road|1984|gzah7VD_PM4|John Fogerty|S3411|Swamp Rock;Rock;Roots Rock|The Old Man Down the Road",
-"Sparks|Never Turn Your Back on Mother Earth|1974|haf5s0b--zw|Sparks (band)|S8516|Art Pop;Baroque Pop;Glam Rock;Pop;Rock|Never Turn Your Back on Mother Earth",
+"Sparks|Never Turn Your Back on Mother Earth|1974|ZUKUQKW-tNA|Sparks (band)|S8516|Art Pop;Baroque Pop;Glam Rock;Pop;Rock|Never Turn Your Back on Mother Earth",
 "Billy Idol|Rebel Yell|1983|VdphvuyaV_I|Billy Idol|S10173|New Wave;Pop Rock;Pop;Rock|Rebel Yell (song)",
 "Sumo|La rubia tarada|1985|QuaGBNkdTso|Sumo|S8634|New Wave;Post-Punk;Rock|",
 "Beyoncé|Ring the Alarm|2006|eY_mrU8MPfI|Beyoncé|S4041|Contemporary R&B;Pop;R&B|Ring the Alarm",
