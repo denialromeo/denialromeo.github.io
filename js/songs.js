@@ -2800,7 +2800,7 @@ const songs = [
 "Van Halen|Ain't Talkin' 'Bout Love|1978|Y-IUB62zDlA|Van Halen|S3933|Hard Rock;Rock|Ain't Talkin' 'bout Love",
 "Bon Iver|Perth|2011|c3GN9CqxKAY?start=7|Bon Iver|S4948|Art Pop;Chamber Folk;Contemporary Folk;Folk;Pop|",
 "Benjamin Biolay|La Superbe|2009|xtmVTfGJUzA|Benjamin Biolay|S10142|Chamber Pop;French Pop;Nouvelle chanson française;Baroque Pop;Chanson;Indie Pop;Pop;Regional Music|",
-"Smokey Robinson and the Miracles|Going to a Go-Go|1965|sWt4Hz1KGcQ|The Miracles|S977|Motown Sound;Pop;Pop Soul;R&B;Soul|",
+"Smokey Robinson and the Miracles|Going to a Go-Go|1965|7Hor2JdLPmA|The Miracles|S977|Motown Sound;Pop;Pop Soul;R&B;Soul|",
 "Jackson Browne|Late for the Sky|1974|n3SJz9jujEA|Jackson Browne|S2583|Singer/Songwriter|Late for the Sky",
 "2Pac|Hail Mary|1996|vw-O1JdXcXk|Tupac Shakur|S5070|Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|Hail Mary (2Pac song)",
 "Elvis Presley|Blue Moon|1956|Ggi5Tq3XDRI|Elvis Presley|S1620|Pop|",
