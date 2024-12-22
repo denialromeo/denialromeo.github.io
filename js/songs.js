@@ -8828,7 +8828,7 @@ const songs = [
 "J Balvin and Bad Bunny|La canción|2019|LxOTsiV4tkQ|J Balvin|S16796|Reggaeton;Hispanic Music;Latin American Music;Regional Music|",
 "T.I.|Rubber Band Man|2003|xjDT3rMSQLQ|T.I.|S8666|Dirty South;Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|Rubber Band Man",
 "Interpol|Untitled|2002|e3z4mNDQj9E|Interpol (band)|S6790|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|Untitled",
-"Serge Reggiani|Il suffirait de presque rien|1968|l9KiGZqnvRk?start=3|Serge Reggiani|S12183|Chanson;Regional Music|",
+"Serge Reggiani|Il suffirait de presque rien|1968|12anZsSQUAs|Serge Reggiani|S12183|Chanson;Regional Music|",
 "Money Mark|Cry|1995|doqnU2c99xc|Money Mark|S7596|Lo-Fi / Slacker Rock;Alternative Rock;Indie Rock;Rock|",
 "Eric Clapton|Let It Grow|1974|YpDlmop0uYU|Eric Clapton|S10748|Blues Rock;Rock|461 Ocean Boulevard",
 "Morrissey|You Have Killed Me|2006|ChoEbSbeCU8|Morrissey|S7607|Alternative Rock;Pop Rock;Pop;Rock|You Have Killed Me",
