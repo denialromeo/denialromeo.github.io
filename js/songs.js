@@ -7821,7 +7821,7 @@ const songs = [
 "Captain Beefheart and His Magic Band|Sure 'Nuff 'n Yes I Do|1967|3sycZuJ_ox8?start=3|Captain Beefheart|S5710|Blues Rock;Garage Rock;Rock|Electricity (Captain Beefheart song)",
 "Dionne Warwick|That's What Friends Are For|1985|HyTpu6BmE88|Dionne Warwick|S6088|Adult Contemporary;Pop Soul;Pop;R&B;Soul|",
 "The Stooges|TV Eye|1970|BugSstDaVFc|The Stooges|S8598|Garage Rock;Hard Rock;Proto-Punk;Rock|",
-"Booka Shade|Mandarine Girl|2005|3pGHdbyf-Eo|Booka Shade|S5596|Tech House;Dance;Electronic;Electronic Dance Music;House;Techno|",
+"Booka Shade|Mandarine Girl|2005|FcFGXm0ySXs|Booka Shade|S5596|Tech House;Dance;Electronic;Electronic Dance Music;House;Techno|",
 "Mikal Cronin|Weight|2013|0S2eTV2v3V0|Mikal Cronin|S9490|Indie Rock;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|",
 "Iggy Pop|Real Wild Child (Wild One)|1986|def3ob2h-1s|Iggy Pop|S6775|New Wave;Pop Rock;Pop;Rock|Candy (Iggy Pop song)",
 "Baxter Dury|Miami|2017|HyILwv1KBT4|Baxter Dury|S16335|Synthpop;Electronic;Pop|",
