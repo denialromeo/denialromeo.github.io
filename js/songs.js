@@ -9489,7 +9489,7 @@ const songs = [
 "Duke Ellington|Never No Lament (Don't Get Around Much Anymore)|1940|JXgm_mESXeE|Duke Ellington|S14331|Big Band;Jazz|Don't Get Around Much Anymore",
 "Billy Joel|The River of Dreams|1993|hSq4B_zHqPM|Billy Joel|S5458|Pop|The River of Dreams",
 "Stevie Wonder|Part-Time Lover|1985|MpDM6ygsb20|Stevie Wonder|S12322|Contemporary R&B;Pop Soul;Pop;R&B;Soul|Part-Time Lover",
-"Barnt|Geffen|2012|6W6zniId77Y|https://www.discogs.com/artist/1908766-Barnt|S10078|Tech House;Dance;Electronic;Electronic Dance Music;House;Techno|",
+"Barnt|Geffen|2012|h7kQJUjt2pU|https://www.discogs.com/artist/1908766-Barnt|S10078|Tech House;Dance;Electronic;Electronic Dance Music;House;Techno|",
 "John Legend|Ordinary People|2004|PIh07c_P4hc|John Legend|S9258|Neo-Soul;Singer/Songwriter;R&B;Soul|Ordinary People (John Legend song)",
 "Gentleman|Dem Gone|2002|DzzRQclTYG4|Gentleman (musician)|S14428|Reggae;Caribbean Music;Jamaican Music;Regional Music|",
 "My Morning Jacket|Off the Record|2005|1QtKdLG7m5s|My Morning Jacket|S7652|Indie Rock;Alternative Rock;Rock|",
