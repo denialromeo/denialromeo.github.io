@@ -6386,7 +6386,7 @@ const songs = [
 "Fontaines D.C.|Boys in the Better Land|2018|abxGaMCDhmU|Fontaines D.C.|S16779|Post-Punk;Rock|",
 "Spice Girls|Say You'll Be There|1996|9ro0FW9Qt-4|Spice Girls|S9361|Contemporary R&B;Dance-Pop;Dance;Pop;R&B|Say You'll Be There",
 "John Fred and His Playboy Band|Judy in Disguise (With Glasses)|1967|TaWaQBxc0aI|John Fred|S6944|Bubblegum;Psychedelic Pop;Pop|Judy in Disguise (With Glasses)",
-"King Oliver|Chimes Blues|1923|aqgvo29Vwig|King Oliver|S9269|Dixieland;Jazz|Chimes of Freedom (song)",
+"King Oliver|Chimes Blues|1923|UtIz_nSd48Y|King Oliver|S9269|Dixieland;Jazz|",
 "King Cole Trio|Sweet Lorraine|1941|bl8xeunYuJc|Nat King Cole|S15730|Vocal Jazz;Jazz|",
 "Photek|The Hidden Camera|1996|EvsIrkvr6zo|Photek|S58|Atmospheric Drum and Bass;Dance;Drum and Bass;Electronic;Electronic Dance Music|",
 "Joan Armatrading|Love and Affection|1976|1gk4HzzYro8?start=180|Joan Armatrading|S1782|Pop;Singer/Songwriter|Love and Affection",
