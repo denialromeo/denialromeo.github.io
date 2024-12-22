@@ -2236,7 +2236,7 @@ const songs = [
 "Dionne Warwick|Do You Know the Way to San Jose|1968|-2UpwpTAd8U|Dionne Warwick|S4120|Pop Soul;Pop;R&B;Soul|Do You Know the Way to San Jose",
 "Jacques Dutronc|Et moi, et moi, et moi|1966|grn7SMp_EDs|Jacques Dutronc|S6835|Beat Music;French Pop;Pop;Pop Rock;Rock|Et moi, et moi, et moi",
 "Mannequin Pussy|Drunk II|2019|IZ0Xjl5KusI|Mannequin Pussy|S16828|Indie Rock;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|",
-"Snoop Dogg|What's My Name?|1993|2soGJXQAQec|Snoop Dogg|S147|G-Funk;Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
+"Snoop Dogg|What's My Name?|1993|2soGJXQAQec|Snoop Dogg|S147|G-Funk;Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|What's My Name? (Snoop Doggy Dogg song)",
 "Bob Dylan|Things Have Changed|2000|WJFkp9MGD8Y|Bob Dylan|S3379|Blues Rock;Folk Rock;Singer/Songwriter;Rock|Things Have Changed",
 "Roxy Music|In Every Dream Home a Heartache|1973|G56DaSAeZfM|Roxy Music|S4549|Art Rock;Rock|In Every Dream Home a Heartache",
 "Florence + The Machine|Shake It Out|2011|WbN0nX61rIs|Florence and the Machine|S4959|Art Pop;Pop|Shake It Out",
