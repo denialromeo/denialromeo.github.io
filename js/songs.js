@@ -4631,7 +4631,7 @@ const songs = [
 "Marvin Gaye|Ain't Nothing Like the Real Thing|1968|Jz_D-greh8Q|Tammi Terrell|S1697|Motown Sound;Pop;Pop Soul;R&B;Soul|",
 "Perfume Genius|Hood|2012|OOpkr8uNWpk|Perfume Genius|S5032|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop|",
 "Spoon|You Got Yr Cherry Bomb|2007|nkA-L3mK7q8|Spoon (band)|S4293|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|",
-"The Shangri-La's|Out in the Streets|1965|NHYFpLJbIgE|The Shangri-Las|S3802|Brill Building;Girl Group;Pop|",
+"The Shangri-La's|Out in the Streets|1965|0jDN2rBThwY|The Shangri-Las|S3802|Brill Building;Girl Group;Pop|",
 "Ray Charles|(The Night Time Is) The Right Time|1958|7eHTDfqavQg|Ray Charles|S1193|Rhythm & Blues;R&B|Night Time Is the Right Time",
 "Wilco|Handshake Drugs|2004|1WdaqKmvW54|Wilco|S9016|Alternative Rock;Rock|",
 "The White Stripes|Blue Orchid|2005|jW8UlrtcEac|The White Stripes|S3030|Alternative Rock;Garage Rock Revival;Garage Rock;Rock|",
