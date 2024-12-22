@@ -5839,7 +5839,7 @@ const songs = [
 "Aphrodite's Child|Rain and Tears|1968|2I7QG12ojg0|Aphrodite's Child|S10013|Baroque Pop;Psychedelic Pop;Pop|Rain and Tears",
 "Bon Jovi|You Give Love a Bad Name|1986|KrZHPOeOxQQ|Bon Jovi|S10270|Glam Metal;Hard Rock;Rock|You Give Love a Bad Name",
 "Aloe Blacc|I Need a Dollar|2010|nFZP8zQ5kzk|Aloe Blacc|S4883|Neo-Soul;R&B;Soul|I Need a Dollar",
-"Gladys Knight and the Pips|I've Got to Use My Imagination|1973|0kPFrQPdKPM|Gladys Knight & the Pips|S6577|Soul;R&B|",
+"Gladys Knight and the Pips|I've Got to Use My Imagination|1973|9VQ-YomaphA|Gladys Knight & the Pips|S6577|Soul;R&B|",
 "Alain Souchon|Foule sentimentale|1993|V_SNDGwwGFM|Alain Souchon|S9952|Chanson;Regional Music|Foule sentimentale",
 "Superorganism|Something for your M.I.N.D.|2017|RPS-Cq4uMFs|Superorganism (band)|S16487|Indie Pop;Indietronica;Neo-Psychedelia;Electronic;Pop;Psychedelic Rock;Rock|",
 "Steve Perry|Oh Sherrie|1984|5-WpsdC2-Cc|Steve Perry|S3694|AOR;Pop Rock;Pop;Rock|Oh Sherrie",
