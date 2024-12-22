@@ -10045,7 +10045,7 @@ const songs = [
 "Youth Lagoon|Highway Patrol Stun Gun|2015|jKQrO5xO8QQ|Trevor Powers|S9874|Indie Pop;Pop|",
 "Kevin Gates|2 Phones|2015|oiY_iKSpWLM|Kevin Gates|S16124|Pop Rap;Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|2 Phones",
 "James Blake|Radio Silence|2016|TTglDb7qjvQ|James Blake (musician)|S16099|Alternative R&B;Art Pop;Contemporary R&B;Pop;R&B|Radio Silence (James Blake song)",
-"AC/DC|Shoot to Thrill|1980|D8LTCr3BQW8|AC/DC|S9919|Hard Rock;Rock|Shoot to Thrill",
+"AC/DC|Shoot to Thrill|1980|Dgsjodya-_c|AC/DC|S9919|Hard Rock;Rock|Shoot to Thrill",
 "Led Zeppelin|The Rover|1975|qK_ZtN9K2EM|Led Zeppelin|S15647|Hard Rock;Rock|The Rover (Led Zeppelin song)",
 "Foals|This Orient|2010|52NNbxkniLk|Foals (band)|S6415|Indie Rock;Alternative Rock;Rock|",
 "Foxygen|No Destruction|2013|87jIdvGPDj4|Foxygen|S9452|Psychedelic Pop;Pop|",
