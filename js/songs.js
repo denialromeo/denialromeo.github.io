@@ -10675,7 +10675,7 @@ const songs = [
 "Shura|What's It Gonna Be?|2016|nJ4uBdmnKds|Shura (English singer)|S16186|Dance-Pop;Synthpop;Dance;Electronic;Pop|",
 "KC and the Sunshine Band|(Shake, Shake, Shake) Shake Your Booty|1976|aqoDrWXnld0|KC and the Sunshine Band|S13853|Disco;Funk;Dance;R&B|(Shake, Shake, Shake) Shake Your Booty",
 "Yeasayer|Henrietta|2012|vo4rbhR_vsk|Yeasayer|S9088|Indietronica;Psychedelic Pop;Electronic;Pop|",
-"Lower Dens|To Die In L.A.|2015|_lwFa2AO2rg|Lower Dens|S9812|Indie Pop;Synthpop;Electronic;Pop|",
+"Lower Dens|To Die In L.A.|2015|a2iSVHh_Wn8|Lower Dens|S9812|Indie Pop;Synthpop;Electronic;Pop|",
 "The Rolling Stones|Connection|1967|NPTwQXT4CSk|The Rolling Stones|S15834|Pop Rock;Psychedelic Pop;Pop;Rock|Connection (Rolling Stones song)",
 "U2|Two Hearts Beat As One|1983|d4gccW3vnQs|U2|S8875|Post-Punk;Rock|Two Hearts Beat as One",
 "Death|The Philosopher|1993|PhQ1Fe0oKPM|Death (metal band)|S15409|Technical Death Metal;Death Metal;Metal;Rock|",
