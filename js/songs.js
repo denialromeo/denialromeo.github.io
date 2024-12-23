@@ -10184,7 +10184,7 @@ const songs = [
 "AC/DC|Moneytalks|1990|2lqdErI9uss|AC/DC|S9916|Hard Rock;Rock|Moneytalks",
 "Laura Marling|Master Hunter|2013|fO2gm29rI7E|Laura Marling|S9481|Contemporary Folk;Folk Rock;Singer/Songwriter;Folk;Rock|",
 "Kevin Ayers and the Whole World|May I?|1970|BeWafu3KKD0|Kevin Ayers|S14619|Canterbury Scene;Psychedelic Rock;Progressive Rock;Rock|",
-"Georges Brassens|Les Trompettes de la renommée|1962|8N6-GDQWyTM|Georges Brassens|S13099|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
+"Georges Brassens|Les Trompettes de la renommée|1962|em3xBqjevTw|Georges Brassens|S13099|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "Gamine|Voilà les anges|1988|A8MPb2hQ11Y|https://fr.wikipedia.org/wiki/Gamine_(groupe)|S10894|Chanson;French Pop;Indie Pop;Pop;Regional Music|Cœur de pirate",
 "Duck Sauce|Barbra Streisand|2010|wWhtcU4-xAM|Duck Sauce|S6164|Funky House;Dance;Electronic;Electronic Dance Music;House|Barbra Streisand (song)",
 "The Rolling Stones|100 Years Ago|1973|CrciVFFw3iQ|The Rolling Stones|S12088|Rock|100 Years Ago",
