@@ -2790,7 +2790,7 @@ const songs = [
 "P.M. Dawn|Set Adrift on Memory Bliss|1991|0AOVf9p9ht4|P.M. Dawn|S185|Pop Rap;Hip Hop|Set Adrift on Memory Bliss",
 "Amy Winehouse|Love Is a Losing Game|2006|aatZ9VSF7Mc|Amy Winehouse|S9985|Brill Building;Neo-Soul;Pop Soul;Pop;R&B;Soul|Love Is a Losing Game",
 "Girls Aloud|Biology|2005|bBPtP4t2J1k|Girls Aloud|S4645|Dance-Pop;Dance;Pop|Biology (song)",
-"AC/DC|For Those About to Rock (We Salute You)|1981|RtMGoU9NcMo|AC/DC|S5089|Hard Rock;Rock|For Those About to Rock (We Salute You)",
+"AC/DC|For Those About to Rock (We Salute You)|1981|LAwUWig98A8|AC/DC|S5089|Hard Rock;Rock|For Those About to Rock (We Salute You)",
 "Led Zeppelin|No Quarter|1973|kW3xDZrlBQs|Led Zeppelin|S2579|Progressive Rock;Psychedelic Rock;Rock|No Quarter (song)",
 "The Kinks|Days|1968|5ih8y8arB7s|The Kinks|S7125|Pop Rock;Pop;Rock|Days (The Kinks song)",
 "The Rolling Stones|As Tears Go By|1965|2zLGxLfHgzs|The Rolling Stones|S9337|Baroque Pop;Pop|As Tears Go By (song)",
