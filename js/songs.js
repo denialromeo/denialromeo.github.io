@@ -3485,7 +3485,7 @@ const songs = [
 "Simon and Garfunkel|The Only Living Boy in New York|1970|5biEjyXNa2o|Simon & Garfunkel|S8418|Folk Pop;Pop Rock;Singer/Songwriter;Contemporary Folk;Folk;Pop;Rock|The Only Living Boy in New York",
 "David Bowie|Always Crashing in the Same Car|1977|_Nwmwy21rAY|David Bowie|S5971|Art Rock;Rock|Always Crashing in the Same Car",
 "Prince|Sexy M.F.|1992|bfHsF6FKgb4?start=91|Prince (musician)|S178|Hip Hop;P-Funk;Funk;R&B|Sexy MF",
-"Bill Withers|Lovely Day|1977|7s6VbOEnsgk|Bill Withers|S5447|Pop Soul;Smooth Soul;Pop;R&B;Soul|Lovely Day",
+"Bill Withers|Lovely Day|1977|bEeaS6fuUoA|Bill Withers|S5447|Pop Soul;Smooth Soul;Pop;R&B;Soul|Lovely Day",
 "Santana|Soul Sacrifice|1969|UKcI2mcsueM|Carlos Santana|S8317|Latin Rock;Hispanic Music;Latin American Music;Regional Music;Rock|",
 "The Aztec Mystic|Knights of the Jaguar|1999|C6xVKcvze74|DJ Rolando|S1372|Detroit Techno;Dance;Electronic;Electronic Dance Music;Techno|",
 "D.R.A.M. feat. Lil Yachty|Broccoli|2016|K44j-sb1SRY|DRAM (musician)|S16063|Pop Rap;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|Broccoli (song)",
