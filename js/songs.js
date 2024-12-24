@@ -8431,7 +8431,7 @@ const songs = [
 "The DeFranco Family|Heartbeat - It's a Lovebeat|1973|I3Iw2qYtN8A|The DeFranco Family|S13736|Bubblegum;Teen Pop;Pop|Heartbeat - It's a Lovebeat",
 "Lonnie Holley|I Woke Up in a Fucked-Up America|2018|Ss3cz9FgGnA|Lonnie Holley|S16630|Post-Industrial;Psychedelic Soul;Industrial Music;R&B;Soul|",
 "Dr. Feelgood|Roxette|1974|Yp2DvPKh118|Dr. Feelgood (band)|S6151|Pub Rock;Rock|",
-"Spiritualized|I Think I'm in Love|1997|KEXO15RX36Y|Spiritualized|S12279|Neo-Psychedelia;Space Rock;Psychedelic Rock;Rock|",
+"Spiritualized|I Think I'm in Love|1997|CyZ4IvOwJYI|Spiritualized|S12279|Neo-Psychedelia;Space Rock;Psychedelic Rock;Rock|",
 "Leo Sayer|You Make Me Feel Like Dancing|1976|VDlvPD9qCao|Leo Sayer|S7234|Blue Eyed Soul;Disco;Dance;Pop|You Make Me Feel Like Dancing",
 "Jarvis Cocker|Don't Let Him Waste Your Time|2006|ON5qhdt1jy4|Jarvis Cocker|S6872|Britpop;Indie Rock;Alternative Rock;Pop;Pop Rock;Rock|Don't Let Him Waste Your Time",
 "Marty Robbins|Begging to You|1963|nNNaOuo0tMQ|Marty Robbins|S7448|Country|Begging to You",
