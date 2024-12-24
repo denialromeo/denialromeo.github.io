@@ -7583,7 +7583,7 @@ const songs = [
 "Freeway|What We Do|2002|1swlUtEkXZ0|Freeway (rapper)|S6481|East Coast Hip Hop;Gangsta Rap;Hardcore Hip Hop;Hip Hop|What We Do (song)",
 "Count Basie|Every Day (I Have the Blues)|1955|xGaGaU4Gj5A|Count Basie Orchestra|S9194|Big Band;Jazz|Every Day I Have the Blues",
 "Cosmo Vitelli|Party Day|2001|ZGcxC8fdSI8|https://fr.wikipedia.org/wiki/Cosmo_Vitelli|S5876|Electro House;Dance;Electronic;Electronic Dance Music;House|",
-"Patty Pravo|Pensiero stupendo|1978|1dMLBPPjzkE|Patty Pravo|S12961|Italo Pop;Pop|Pensiero stupendo",
+"Patty Pravo|Pensiero stupendo|1978|C2SSJWzhNzg|Patty Pravo|S12961|Italo Pop;Pop|Pensiero stupendo",
 "The Beatles|Blue Jay Way|1967|Coz0TmK2ZIg|The Beatles|S10102|Art Rock;Psychedelic Rock;Rock|Blue Jay Way",
 "Vince Guaraldi|Linus and Lucy|1964|x6zypc_LhnM|Vince Guaraldi|S9039|Cool Jazz;Television Music;Jazz;Soundtracks|Linus and Lucy",
 "Shelly Manne|Abstract No. 1|1955|yYhpBTNhuAM|Shelly Manne|S13247|Avant-Garde Jazz;Cool Jazz;Jazz|",
