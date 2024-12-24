@@ -8531,7 +8531,7 @@ const songs = [
 "The Charlatans|One to Another|1996|uxyQ5ByKLfE|The Charlatans (English band)|S46|Britpop;Indie Rock;Alternative Rock;Pop;Pop Rock;Rock|One to Another",
 "Red Hot Chili Peppers|Dark Necessities|2016|Q0oIoR9mLwc|Red Hot Chili Peppers|S16173|Alternative Rock;Funk Rock;Rock|",
 "Tom Waits|Ruby's Arms|1980|n11Z98o54Rw|Tom Waits|S13990|Singer/Songwriter|",
-"Five Blind Boys|Our Father (Which Art in Heaven)|1950|0LaQR-HatxM|The Blind Boys of Alabama|S14402|Traditional Black Gospel;American Folk Music;Folk;Gospel;Regional Music;Traditional Folk Music|",
+"Five Blind Boys|Our Father (Which Art in Heaven)|1950|0LaQR-HatxM|Five Blind Boys of Mississippi|S14402|Traditional Black Gospel;American Folk Music;Folk;Gospel;Regional Music;Traditional Folk Music|",
 "Muse|Madness|2012|Ek0SgwWmF9w|Muse (band)|S15726|Pop Rock;Synthpop;Electronic;Pop;Rock|Madness (Muse song)",
 "Lee Hazlewood|Summer Wine|1967|nbtKHrI-OAs|Nancy Sinatra|S7217|Baroque Pop;Psychedelic Pop;Pop|Summer Wine",
 "Iron Maiden|Wrathchild|1981|io4ObwuO24w|Iron Maiden|S11093|NWOBHM;Heavy Metal;Metal;Rock|",
