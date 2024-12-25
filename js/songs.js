@@ -7204,7 +7204,7 @@ const songs = [
 "Bettye Swann|Today I Started Loving You Again|1969|8u0GcAY28y8|Bettye Swann|S14133|Soul;R&B|Today I Started Loving You Again",
 "Keith Sweat|I Want Her|1988|gMHa0oMp4k0|Keith Sweat|S1990|New Jack Swing;Contemporary R&B;R&B|I Want Her",
 "Tom Petty and the Heartbreakers|Mary Jane's Last Dance|1993|aowSGxim_O8|Tom Petty|S12456|Heartland Rock;Pop Rock;Pop;Rock|",
-"Bee Gees|Tragedy|1979|WJcozEOWgxI|Bee Gees|S5397|Disco;Dance|Tragedy (Bee Gees song)",
+"Bee Gees|Tragedy|1979|I248-SyRDnU|Bee Gees|S5397|Disco;Dance|Tragedy (Bee Gees song)",
 "The Rolling Stones|Let It Loose|1972|bnCkiNi_ssY|The Rolling Stones|S8224|Blues Rock;Rock|Let It Loose (Rolling Stones song)",
 "Nick Cave|In the Ghetto|1984|4ChE4c_g4B0|Nick Cave|S4463|Post-Punk;Punk Blues;Punk Rock;Rock|In the Ghetto",
 "Craig Finn|God in Chicago|2017|IfZt4JRKtN0|Craig Finn|S16357|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk|",
