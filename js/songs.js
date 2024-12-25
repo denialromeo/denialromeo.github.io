@@ -1407,7 +1407,7 @@ const songs = [
 "Michael Jackson|Man in the Mirror|1987|PivWY9wn5ps|Michael Jackson|S3505|Adult Contemporary;Pop Soul;Pop;R&B;Soul|Man in the Mirror",
 "Elvis Costello|Pump It Up|1978|3Y71iDvCYXA|Elvis Costello|S1533|New Wave;Rock|Pump It Up (Elvis Costello song)",
 "Bruce Springsteen|Badlands|1978|KDz62awS6qU|Bruce Springsteen|S5643|Heartland Rock;Singer/Songwriter;Rock|Badlands (song)",
-"Townes Van Zandt|Pancho and Lefty|1972|8SjwO17gsqU|Townes Van Zandt|S4172|Progressive Country;Singer/Songwriter;Country|Pancho and Lefty",
+"Townes Van Zandt|Pancho and Lefty|1972|cOctHMWoYyc|Townes Van Zandt|S4172|Progressive Country;Singer/Songwriter;Country|Pancho and Lefty",
 "The Rolling Stones|The Last Time|1965|ncRkWJmRzX8|The Rolling Stones|S1015|British Rhythm & Blues;Mod;R&B;Rhythm & Blues;Rock|The Last Time (Rolling Stones song)",
 "Biz Markie|Just a Friend|1989|9aofoBrFNdg|Biz Markie|S2002|Boom Bap;East Coast Hip Hop;Pop Rap;Hip Hop|Just a Friend",
 "James Blake|Limit to Your Love|2010|oOT2-OTebx0|James Blake (musician)|S4906|Alternative R&B;Art Pop;UK Bass;Contemporary R&B;Dance;Electronic;Electronic Dance Music;Pop;R&B;UK Garage|",
