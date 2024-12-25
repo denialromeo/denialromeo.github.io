@@ -1659,7 +1659,7 @@ const songs = [
 "Joni Mitchell|Both Sides, Now|1969|bcrEqIpi6sg|Joni Mitchell|S6997|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Both Sides Now (Joni Mitchell album)",
 "Robbie Williams|Angels|1997|luwAMFcc2f8|Robbie Williams|S2150|Adult Contemporary;Pop|Angels (Robbie Williams song)",
 "Lead Belly|Goodnight, Irene|1936|kFqAgGMTZ00|Lead Belly|S2715|Country Blues;Acoustic Blues;American Folk Music;Blues;Folk;Regional Music;Traditional Folk Music|Goodnight, Irene",
-"The Cure|Lovesong|1989|k6210vwnpqo|The Cure|S3098|Alternative Rock;New Wave;Post-Punk;Rock|Lovesong (The Cure song)",
+"The Cure|Lovesong|1989|ks_qOI0lzho|The Cure|S3098|Alternative Rock;New Wave;Post-Punk;Rock|Lovesong (The Cure song)",
 "Al Green|Call Me (Come Back Home)|1973|cX-e2jy7tGU|Al Green|S774|Smooth Soul;Southern Soul;R&B;Soul|Call Me (Come Back Home)",
 "Kraftwerk|Radioactivity|1975|X--F5b5IdqU|Kraftwerk|S7145|Synthpop;Electronic;Pop|Radioactivity (song)",
 "Dead Kennedys|California Über Alles|1979|R-rDQs5NOP4|Dead Kennedys|S1829|Hardcore Punk;Surf Punk;Punk Rock;Rock;Surf Music|California Über Alles",
