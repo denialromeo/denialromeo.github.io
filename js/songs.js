@@ -3007,7 +3007,7 @@ const songs = [
 "The Pop Group|She Is Beyond Good and Evil|1979|sL0tYowbIxE|The Pop Group|S589|Art Punk;Experimental Rock;Post-Punk;Punk Rock;Rock|She Is Beyond Good and Evil",
 "Bad Company|Can't Get Enough|1974|7p9mzYB--uI|Bad Company|S733|Blues Rock;Hard Rock;Rock|",
 "Ariel Pink|Put Your Number in My Phone|2014|TYoQ6WLuMq4|Ariel Pink|S9573|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Pom Pom (album)",
-"Green Day|Boulevard of Broken Dreams|2004|uPMDPiNG4TE|Green Day|S3118|Alternative Rock;Rock|Boulevard of Broken Dreams (Green Day song)",
+"Green Day|Boulevard of Broken Dreams|2004|Soa3gO7tL-c|Green Day|S3118|Alternative Rock;Rock|Boulevard of Broken Dreams (Green Day song)",
 "The Chemical Brothers|The Private Psychedelic Reel|1997|POcypMLbufw|The Chemical Brothers|S2141|Big Beat;Neo-Psychedelia;Breakbeat;Dance;Electronic;Electronic Dance Music;Psychedelic Rock;Rock|The Private Psychedelic Reel",
 "Georges Brassens|Les Copains d'abord|1964|L9oEcWFjF3M|Georges Brassens|S6543|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "Serge Gainsbourg|Ballade de Melody Nelson|1971|PsM68buT1mQ?start=3|Jane Birkin|S8363|Baroque Pop;French Pop;Pop|Histoire de Melody Nelson",
