@@ -462,7 +462,7 @@ const songs = [
 "Joy Division|Transmission|1979|FnWPGSQjFUc|Joy Division|S573|Post-Punk;Rock|Transmission (song)",
 "Nirvana|All Apologies|1993|aWmkuH1k7uA|Kurt Cobain|S144|Grunge;Alternative Rock;Rock|All Apologies",
 "The Beatles|A Hard Day's Night|1964|AMSiHdrHl0g|The Beatles|S1039|Merseybeat;Beat Music;Pop;Pop Rock;Rock|A Hard Day's Night (song)",
-"Bon Iver|Skinny Love|2007|ssdgFoHLwnk|Bon Iver|S4704|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk|Skinny Love",
+"Bon Iver|Skinny Love|2007|95FyXUHv8hk|Bon Iver|S4704|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk|Skinny Love",
 "Janis Joplin|Me and Bobby McGee|1971|sfjon-ZTqzU|Janis Joplin|S826|Blues Rock;Country Rock;Rock|",
 "Stardust|Music Sounds Better with You|1998|FQlAEiCb8m0|Stardust (band)|S272|French House;Dance;Electronic;Electronic Dance Music;House|Music Sounds Better with You",
 "Dinosaur Jr.|Freak Scene|1988|5eO6up9Gpv0|Dinosaur Jr.|S308|Indie Rock;Alternative Rock;Rock|Freak Scene",
