@@ -9211,7 +9211,7 @@ const songs = [
 "British Sea Power|Waving Flags|2008|w2n-7K0Ef6Y|British Sea Power|S5623|Indie Rock;Alternative Rock;Rock|",
 "Mel and Tim|Backfield in Motion|1969|X4qJYUHLtuU|Mel and Tim|S7506|Soul;R&B|",
 "Adriano Celentano|Azzurro|1968|HCyzGuipTd4|Adriano Celentano|S12928|Italo Pop;Pop|",
-"The Sensations|Let Me In|1961|oHcdE2Ppr3s|The Sensations|S8351|Doo-Wop;Rhythm & Blues;R&B;Vocal Group|Let Me In (The Sensations song)",
+"The Sensations|Let Me In|1961|A6elcOrIGK0|The Sensations|S8351|Doo-Wop;Rhythm & Blues;R&B;Vocal Group|Let Me In (The Sensations song)",
 "Destiny's Child|No No No|1998|-0wbtk6_vpE|Destiny's Child|S14296|Contemporary R&B;R&B|No, No, No (Destiny's Child song)",
 "Robert Johnson|Me and the Devil Blues|1938|UF5e_fmRPh4|Robert Johnson|S12073|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|Me and the Devil Blues",
 "X|Fourth of July|1987|BLInAn1LwZU|X (American band)|S9074|Alternative Rock;Rock|",
