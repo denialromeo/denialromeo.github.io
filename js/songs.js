@@ -3117,7 +3117,7 @@ const songs = [
 "Moloko|The Time Is Now|2000|-GY9DWIfpwc|Moloko|S2193|Dance-Pop;Dance;Pop|The Time Is Now (Moloko song)",
 "Lou Reed|Coney Island Baby|1976|t0dsDJFJ1jk|Lou Reed|S7323|Pop Rock;Singer/Songwriter;Pop;Rock|",
 "Neil Young|A Man Needs a Maid|1972|JOuQywiRUJo|Neil Young|S4547|Baroque Pop;Singer/Songwriter;Pop|A Man Needs a Maid (song)",
-"Can|Vitamin C|1972|9a1NhRbNJ_Y|Can (band)|S5703|Krautrock;Experimental Rock;Progressive Rock;Rock|Vitamin C (song)",
+"Can|Vitamin C|1972|YmN9oHa3ZIQ|Can (band)|S5703|Krautrock;Experimental Rock;Progressive Rock;Rock|Vitamin C (song)",
 "Steve Earle|John Walker's Blues|2002|_7zGbsDJs0s|Steve Earle|S4675|Alt-Country;Americana;Country Rock;Country;Rock|",
 "The Coasters|Searchin'|1957|CDrxqcxo-Ec?start=62|The Coasters|S1241|Doo-Wop;Rhythm & Blues;R&B;Vocal Group|Searchin'",
 "Wilson Pickett|Land of 1000 Dances|1966|3mz_EXHKGHs|Wilson Pickett|S1434|Southern Soul;R&B;Soul|Land of a Thousand Dances",
