@@ -7919,7 +7919,7 @@ const songs = [
 "De La Soul|The Magic Number|1989|pxkOWjZAPLs|De La Soul|S5988|East Coast Hip Hop;Hip Hop|Buddy (De La Soul song)",
 "College feat. Electric Youth|A Real Hero|2009|-DSVDcw6iW8|David Grellier|S10449|Synthpop;Synthwave;Electronic;Pop|",
 "AC/DC|Jailbreak|1976|WHtWs4wiFCs|AC/DC|S9915|Hard Rock;Rock|Jailbreak (AC/DC song)",
-"Metallica|...And Justice For All|1988|2lgGJRWUIvM|Metallica|S15700|Progressive Metal;Thrash Metal;Metal;Rock|",
+"Metallica|...And Justice For All|1988|2lgGJRWUIvM|Metallica|S15700|Progressive Metal;Thrash Metal;Metal;Rock|...And Justice for All (song)",
 "Lulu|To Sir with Love|1967|GUhJw6pyFUc|Lulu (singer)|S3577|Baroque Pop;Pop|To Sir with Love (song)",
 "Bob Seger & The Silver Bullet Band|Hollywood Nights|1978|l85SmjhBQz0|Bob Seger|S10255|Heartland Rock;Pop Rock;Pop;Rock|",
 "Little Boots|Stuck on Repeat|2008|B0mQBMI8HGk|Little Boots|S4729|Dance-Pop;Electropop;Dance;Electronic;Pop|Stuck on Repeat",
