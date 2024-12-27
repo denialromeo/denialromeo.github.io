@@ -9835,7 +9835,7 @@ const songs = [
 "The Jesus and Mary Chain|Darklands|1987|_w9sCTtZ9EA|The Jesus and Mary Chain|S6902|Indie Rock;Post-Punk;Alternative Rock;Rock|",
 "Super_Collider|Darn (Cold Way o' Lovin')|1999|eCDiTXumEXE|Super Collider (band)|S12362|IDM;Electronic|",
 "Tino Rossi|Marinella|1936|EpuaIQL0BFU|Tino Rossi|S12438|Chanson;Regional Music|",
-"Nina Simone|Strange Fruit|1965|BnuEMdUUrZQ|Nina Simone|S14808|Vocal Jazz;Jazz|Strange Fruit",
+"Nina Simone|Strange Fruit|1965|I-vBga68Xdc|Nina Simone|S14808|Vocal Jazz;Jazz|Strange Fruit",
 "Radio Futura|Veneno en la piel|1990|WbE1QLvYgQs|Radio Futura|S11997|Latin Rock;Pop Rock;Hispanic Music;Latin American Music;Pop;Regional Music;Rock|",
 "Harry James|You Made Me Love You (I Didn't Want to Do It)|1941|bMaCoxOGXPM|Harry James|S6685|Big Band;Standards;Vocal Jazz;Jazz;Pop;Traditional Pop|You Made Me Love You (I Didn't Want to Do It)",
 "Das Racist|Hahahaha jk?|2010|QVwnZMAgpT8|Das Racist|S10506|Abstract Hip Hop;East Coast Hip Hop;Hip Hop|",
