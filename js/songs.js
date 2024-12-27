@@ -4793,7 +4793,7 @@ const songs = [
 "Clipse|Wamp Wamp (What It Do)|2006|mZ0iUNI0ncc|Clipse|S4042|Gangsta Rap;Southern Hip Hop;Hardcore Hip Hop;Hip Hop|Wamp Wamp (What It Do)",
 "Everlast|What It's Like|1998|qA1nGPM9yHA|Everlast (musician)|S3398|Pop Rock;Pop;Rock|What It's Like",
 "The Beatles|From Me to You|1963|Dc1-W4KsHvE|The Beatles|S5361|Merseybeat;Beat Music;Pop;Pop Rock;Rock|From Me to You",
-"McLusky|To Hell with Good Intentions|2002|oqOp70ZQdkk|Mclusky|S4613|Noise Rock;Post-Hardcore;Punk Rock;Rock|To Hell with Good Intentions",
+"McLusky|To Hell with Good Intentions|2002|YbrT-_Ozm2w|Mclusky|S4613|Noise Rock;Post-Hardcore;Punk Rock;Rock|To Hell with Good Intentions",
 "Bon Iver|Flume|2007|62i9Sodwp5o|Bon Iver|S9169|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk|",
 "The Chemical Brothers|Got to Keep On|2019|rSYwtllbweY|The Chemical Brothers|S16880|Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House|",
 "Jay-Z|Brooklyn's Finest|1996|gwbUtfEJ8lE|Jay-Z|S6878|East Coast Hip Hop;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
