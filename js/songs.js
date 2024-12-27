@@ -5120,7 +5120,7 @@ const songs = [
 "Tommy Dorsey|I'll Never Smile Again|1940|rEn--T2hBXg|Tommy Dorsey|S8805|Traditional Pop;Pop|I'll Never Smile Again",
 "Tom Waits|Jersey Girl|1980|XBQPchkmGCo|Tom Waits|S8798|Singer/Songwriter|Jersey Girl (song)",
 "Rhoda Dakar|The Boiler|1982|021Jpv5JPEU|Rhoda Dakar|S508|2 Tone;New Wave;Spoken Word;Rock;Ska|The Boiler",
-"Dr. Dre|Let Me Ride|1993|zIG9BNugOEs|Dr. Dre|S6149|G-Funk;West Coast Hip Hop;Hip Hop|Let Me Ride",
+"Dr. Dre|Let Me Ride|1993|cKu3_3mp1U8|Dr. Dre|S6149|G-Funk;West Coast Hip Hop;Hip Hop|Let Me Ride",
 "Sleigh Bells|Crown on the Ground|2009|Lp9vupuAGRU|Sleigh Bells (band)|S8449|Lo-Fi / Slacker Rock;Noise Pop;Alternative Rock;Indie Rock;Rock|",
 "Timex Social Club|Rumors|1986|xHpc8zsEunQ|Timex Social Club|S3905|Contemporary R&B;Synth Funk;Funk;R&B|Rumors (Timex Social Club song)",
 "Built to Spill|Car|1994|6omZ5GsuGrI|Built to Spill|S5672|Indie Rock;Alternative Rock;Rock|",
