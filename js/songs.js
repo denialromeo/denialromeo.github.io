@@ -5617,7 +5617,7 @@ const songs = [
 "El Guincho|Palmitos Park|2007|mTJYj_uL1NQ|El Guincho|S6216|Neo-Psychedelia;Psychedelic Folk;Contemporary Folk;Folk;Psychedelic Rock;Rock|",
 "Time Zone|World Destruction|1984|4VgLkk_drx4|Time Zone (band)|S1912|East Coast Hip Hop;Electro;Political Hip Hop;Rap Rock;Alternative Rock;Dance;Electronic;Electronic Dance Music;Hip Hop;Rock|",
 "Illya Kuryaki & The Valderramas|Abarájame|1995|p3DRFGxq6EU|Illya Kuryaki and the Valderramas|S6777|Funk;Latin Rap;Hip Hop;R&B|",
-"Keith Jarrett|The Koln Concert Part I|1975|4BgQ_RZnZ4w|Keith Jarrett|S2874|ECM Style Jazz;Jazz|",
+"Keith Jarrett|The Köln Concert Part I|1975|Pd_Kti6jvy8|Keith Jarrett|S2874|ECM Style Jazz;Jazz|The Köln Concert",
 "Bettye LaVette|Let Me Down Easy|1965|JFpFxB4Wqcg|Bettye LaVette|S5427|Deep Soul;R&B;Soul;Southern Soul|Let Me Down Easy (Bettye LaVette song)",
 "Pet Shop Boys|Always on My Mind|1987|03BTFj29b4k|Pet Shop Boys|S11880|Dance-Pop;Synthpop;Dance;Electronic;Pop|",
 "100 Gecs|Money Machine|2019|z97qLNXeAMQ|100 gecs|S16725|Bubblegum Bass;Emo Rap;Pop Rap;Dance;Electronic;Electronic Dance Music;Hip Hop|",
