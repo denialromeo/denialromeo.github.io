@@ -8046,7 +8046,7 @@ const songs = [
 "Paramore|Ain't It Fun|2013|EFEmTsfFL5A|Paramore|S16934|Power Pop;Pop;Pop Rock;Rock|Ain't It Fun (Paramore song)",
 "The Jam|The Butterfly Collector|1979|H2bdh3oiqRo|The Jam|S11127|Mod Revival;New Wave;Power Pop;Mod;Pop;Pop Rock;Rock|",
 "Kaytranada feat. Anderson .Paak|Glowed Up|2016|yaWesK-nWts|Kaytranada|S16120|Pop Rap;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
-"Bravery|An Honest Mistake|2005|O8vzbezVru4|The Bravery|S3045|New Wave;Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|An Honest Mistake",
+"The Bravery|An Honest Mistake|2005|O8vzbezVru4|The Bravery|S3045|New Wave;Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|An Honest Mistake",
 "King Curtis|Soul Twist|1962|gMqKXGurWG8|King Curtis|S3314|Rhythm & Blues;R&B|",
 "José Alfredo Jiménez|Si nos dejan|1970|0bHgZ7IRZb8|José Alfredo Jiménez|S14602|Bolero;Mariachi;Ranchera;Folk;Hispanic Music;Latin American Music;Mexican Folk Music;Mexican Music;Regional Music;Traditional Folk Music|",
 "Happy Mondays|24 Hour Party People|1987|0zWpHxfQvtk|Happy Mondays|S6678|Alternative Dance;Baggy / Madchester;Alternative Rock;Dance;Rock|",
