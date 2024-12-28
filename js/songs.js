@@ -9201,7 +9201,7 @@ const songs = [
 "Thelonious Monk|Off Minor|1948|8JzGd7jzwtQ|Thelonious Monk|S13642|Bebop;Jazz|",
 "Magali Noël|Fais moi mal Johnny|1956|TI4WaO5ob1A|Magali Noël|S7377|Chanson;Regional Music|Fais-moi mal, Johnny",
 "R.E.M.|Can't Get There from Here|1985|vSe1dQBOuu4|R.E.M.|S8055|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|",
-"The Cure|All Cats Are Grey|1981|0W61lL4h9j4|The Cure|S9196|Gothic Rock;Post-Punk;Rock|Faith (The Cure album)",
+"The Cure|All Cats Are Grey|1981|4v7WUz3GSgk|The Cure|S9196|Gothic Rock;Post-Punk;Rock|Faith (The Cure album)",
 "Michel Sardou|La Maladie d'amour|1973|24h1nd2kJrE|Michel Sardou|S11632|Chanson;Regional Music|",
 "Disclosure|F for You|2013|amM0Upg_FUU|Disclosure (band)|S9671|Deep House;Future House;UK Garage;Dance;Electronic;Electronic Dance Music;House|F for You",
 "Tal Bachman|She's So High|1999|_ElORM9O-0U|Tal Bachman|S12394|Power Pop;Pop;Pop Rock;Rock|She's So High",
