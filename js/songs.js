@@ -6294,7 +6294,7 @@ const songs = [
 "The Cure|Charlotte Sometimes|1981|SExZz8SJ1NI|The Cure|S1864|Gothic Rock;Post-Punk;Rock|Charlotte Sometimes (song)",
 "MFSB|Love Is The Message|1973|M3wpG6Rw-tE|MFSB|S12884|Disco;Philly Soul;Dance;R&B;Soul|Love Is the Message (MFSB song)",
 "TV on the Radio|Dancing Choose|2008|Fb1FgBThazI|TV on the Radio|S8866|Indie Rock;Indietronica;Alternative Rock;Electronic;Rock|",
-"Lyle Lovett|If I Had a Boat|1988|PZIH-qyvBd0?start=38|Lyle Lovett|S11502|Contemporary Country;Country|",
+"Lyle Lovett|If I Had a Boat|1988|hpM8FjO4Vko|Lyle Lovett|S11502|Contemporary Country;Country|",
 "The White Stripes|You Don't Know What Love Is (You Just Do As You're Told)|2007|8xsF9fHdAfo|The White Stripes|S8992|Alternative Rock;Garage Rock Revival;Garage Rock;Rock|You Don't Know What Love Is (You Just Do as You're Told)",
 "The Passions|I'm in Love with a German Film Star|1981|JXhJbC-kvaw|The Passions (British band)|S7854|New Wave;Rock|I'm in Love with a German Film Star",
 "Justin Timberlake|What Goes Around...Comes Around|2006|wob4QgiOZeA|Justin Timberlake|S4314|Art Pop;Contemporary R&B;Pop;R&B|What Goes Around... Comes Around",
