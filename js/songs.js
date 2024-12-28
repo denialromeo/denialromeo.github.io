@@ -9405,7 +9405,7 @@ const songs = [
 "DJ Khaled|We Takin' Over|2007|ZXIA-U2mL3U|DJ Khaled|S6103|Pop Rap;Hip Hop|",
 "Nasty Habits|Shadow Boxing|1996|UJeU7MLE1cs|https://www.discogs.com/artist/1640-Nasty-Habits|S12730|Techstep;Dance;Drum and Bass;Electronic;Electronic Dance Music|",
 "Paula Cole|I Don't Want to Wait|1996|hJb5RvAs4BI|Paula Cole|S9315|Pop;Singer/Songwriter|I Don't Want to Wait",
-"Tocotronic|Drüben Auf Dem Hügel|1995|Z6IkRmEUTxw|Tocotronic|S15935|Hamburger Schule;Noise Pop;Alternative Rock;Indie Rock;Rock|",
+"Tocotronic|Drüben Auf Dem Hügel|1995|2Nu6AT0p2No|Tocotronic|S15935|Hamburger Schule;Noise Pop;Alternative Rock;Indie Rock;Rock|",
 "B.B. King|Please Love Me|1953|QW_9EmPv6eQ|B.B. King|S5282|Electric Blues;Jump-Blues;Blues|",
 "The Rolling Stones|Far Away Eyes|1978|1n-2vgbk6w4|The Rolling Stones|S12092|Pop Rock;Pop;Rock|",
 "Weeping Willows|True to You|1999|a-7W-wclm10|Weeping Willows|S8963|Pop Rock;Pop;Rock|",
