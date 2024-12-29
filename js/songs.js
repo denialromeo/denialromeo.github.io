@@ -5031,7 +5031,7 @@ const songs = [
 "The Byrds|My Back Pages|1967|qTkGCOKqzOg|The Byrds|S9173|Folk Rock;Rock|",
 "Flume feat. Kai|Never Be Like You|2016|-KPnyf8vwXI|Flume (musician)|S16085|Alternative R&B;Future Bass;Glitch Pop;Contemporary R&B;Dance;Electronic;Electronic Dance Music;Pop;R&B|Never Be like You",
 "AlunaGeorge|Your Drums, Your Love|2012|VfCSx5641U4|AlunaGeorge|S4997|Alternative R&B;Contemporary R&B;R&B|Your Drums, Your Love",
-"John Lee Hooker|I'm in the Mood|1951|7ECaXRkVhlE|John Lee Hooker|S6949|Electric Blues;Blues|I'm in the Mood (John Lee Hooker song)",
+"John Lee Hooker|I'm in the Mood|1951|2MOL7Hjeys8|John Lee Hooker|S6949|Electric Blues;Blues|I'm in the Mood (John Lee Hooker song)",
 "Eric Carmen|All by Myself|1975|iN9CjAfo5n0|Eric Carmen|S6299|Pop Rock;Pop;Rock|All by Myself",
 "Django Django|Default|2011|DDjpOrlfh0Y|Django Unchained|S5009|Indie Pop;Neo-Psychedelia;Pop;Psychedelic Rock;Rock|Default (Django Django song)",
 "Leon Russell|A Song for You|1970|37dw2r45Xzg|Leon Russell|S11417|Singer/Songwriter|A Song for You",
