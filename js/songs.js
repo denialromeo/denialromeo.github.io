@@ -9717,7 +9717,7 @@ const songs = [
 "Benny Goodman|Goody Goody|1936|4KxyAUoU_gg|Benny Goodman|S5413|Big Band;Jazz|Goody Goody",
 "Benny Goodman|Goodnight, My Love|1936|oOnnqxextuE|Benny Goodman|S5415|Big Band;Jazz|Goodnight My Love (1936 song)",
 "Fats Waller|It's a Sin to Tell a Lie|1936|C_Isu0g35lA|Fats Waller|S6361|Swing;Jazz|It's a Sin to Tell a Lie",
-"Georges Brassens|Il n'y a pas d'amour heureux|1953|SccKLmENjpk|Georges Brassens|S10920|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
+"Georges Brassens|Il n'y a pas d'amour heureux|1953|UECIcPk7kpI|Georges Brassens|S10920|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "Handy's Memphis Blues Band|St. Louis Blues|1922|cSuTTSOctGw|W. C. Handy|S15961|Blues|St. Louis Blues",
 "King Sunny Adé|Sunny Ti De|1972|9Gjo4DMKu-I|King Sunny Adé|S14625|Jùjú;African Music;Regional Music;West African Music;Yoruba Music|",
 "Glenn Miller|(I've Got a Gal in) Kalamazoo|1942|fFv_PoZ2iP0|Glenn Miller|S6583|Big Band;Vocal Jazz;Jazz|(I've Got a Gal In) Kalamazoo",
