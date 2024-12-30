@@ -9620,7 +9620,7 @@ const songs = [
 "Michel Polnareff|Lettre à France|1977|Fk2VBiMm9I4|Michel Polnareff|S11631|French Pop;Piano Rock;Pop;Pop Rock;Rock|",
 "FKA twigs|In Time|2015|0La8Cusqo1w|FKA Twigs|S9763|Alternative R&B;Art Pop;UK Bass;Contemporary R&B;Dance;Electronic;Electronic Dance Music;Pop;R&B;UK Garage|",
 "Oasis|I'm Outta Time|2008|bPm6f1HNzgw|Oasis (band)|S7785|Britpop;Psychedelic Pop;Alternative Rock;Pop;Pop Rock;Rock|I'm Outta Time",
-"Cigarettes After Sex|Apocalypse|2017|-mnH9-SX2Tg|Cigarettes After Sex|S16354|Dream Pop;Slowcore;Alternative Rock;Indie Rock;Rock|Apocalypse (Cigarettes After Sex song)",
+"Cigarettes After Sex|Apocalypse|2017|sElE_BfQ67s|Cigarettes After Sex|S16354|Dream Pop;Slowcore;Alternative Rock;Indie Rock;Rock|Apocalypse (Cigarettes After Sex song)",
 "The Lovin' Spoonful|You Didn't Have to Be So Nice|1965|BIM579H-f7Y|The Lovin' Spoonful|S3575|Pop Rock;Sunshine Pop;Pop;Rock|You Didn't Have to Be So Nice",
 "U2|A Sort of Homecoming|1984|ot-5qt-T-YQ|U2|S12501|Alternative Rock;Rock|A Sort of Homecoming (song)",
 "Paul Simon|American Tune|1973|AE3kKUEY5WU|Paul Simon|S9313|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|American Tune",
