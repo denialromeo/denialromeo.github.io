@@ -6684,7 +6684,7 @@ const songs = [
 "Metallica|Creeping Death|1984|B4kac2Y1Pu8|Metallica|S11602|Thrash Metal;Metal;Rock|Creeping Death",
 "James Brown|Mother Popcorn (You Got to Have a Mother For Me) (Part I)|1969|0D-wNcLAvo4|James Brown|S3244|Funk;R&B|Mother Popcorn",
 "Snow|Informer|1993|TSffz_bl6zo|Snow (musician)|S3826|Pop Rap;Pop Reggae;Caribbean Music;Hip Hop;Jamaican Music;Reggae;Regional Music|Informer (song)",
-"Sidney Bechet's Blue Note Jazz Men|Blue Horizon|1945|ZofoMLm6D-0|Sidney Bechet|S12202|Dixieland;Jazz|",
+"Sidney Bechet's Blue Note Jazz Men|Blue Horizon|1945|pupCrM7J4R4|Sidney Bechet|S12202|Dixieland;Jazz|",
 "Danzig|Mother|1988|zO6nRXPzX1A|Danzig (band)|S4856|Hard Rock;Heavy Metal;Metal;Rock|Mother (Danzig song)",
 "Son House|My Black Mama|1931|DX1jKXHqe-c|Son House|S9358|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|",
 "Nicki Minaj|Anaconda|2014|LDZX4ooRsWs|Nicki Minaj|S9613|Pop Rap;Hip Hop|Anaconda (song)",
