@@ -710,7 +710,7 @@ const songs = [
 "Jay-Z|Niggas in Paris|2011|gG_dA32oH44|Jay-Z|S4969|Hardcore Hip Hop;Hip Hop|Niggas in Paris",
 "Rob Base & DJ E-Z Rock|It Takes Two|1988|phOW-CZJWT0|Rob Base and DJ E-Z Rock|S301|East Coast Hip Hop;Pop Rap;Hip Hop|It Takes Two (Rob Base & DJ E-Z Rock song)",
 "Neil Young|Hey Hey, My My (Into the Black)|1979|LQ123T3zD2k|Neil Young|S590|Hard Rock;Singer/Songwriter;Rock|Hey Hey, My My (Into the Black)",
-"Bob Dylan|Hurricane|1975|HSmjDNWDdBs|Bob Dylan|S706|Folk Rock;Singer/Songwriter;Rock|Hurricane (Bob Dylan song)",
+"Bob Dylan|Hurricane|1975|bpZvg_FjL3Q|Bob Dylan|S706|Folk Rock;Singer/Songwriter;Rock|Hurricane (Bob Dylan song)",
 "Oasis|Don't Look Back in Anger|1995|cmpRLQZkTb8|Oasis (band)|S41|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Don't Look Back in Anger",
 "Whitney Houston|I Wanna Dance with Somebody (Who Loves Me)|1987|eH3giaIzONA|Whitney Houston|S3481|Dance-Pop;Dance;Pop|I Wanna Dance with Somebody (Who Loves Me)",
 "James Brown|Say It Loud - I'm Black and I'm Proud|1968|7SQPbWGra6s|James Brown|S2416|Funk;R&B|Say It Loud – I'm Black and I'm Proud",
