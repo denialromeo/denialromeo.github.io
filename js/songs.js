@@ -3838,7 +3838,7 @@ const songs = [
 "The Jesus and Mary Chain|April Skies|1987|OPPP3BXurHk|The Jesus and Mary Chain|S342|Alternative Rock;Indie Pop;Pop;Rock|",
 "Ciara|Oh|2004|Hr4wz4-27PY|Ciara|S4641|Contemporary R&B;R&B|Oh (Ciara song)",
 "Dusty Springfield|I Only Want to Be with You|1963|CL7t22rypew|Dusty Springfield|S1653|Blue Eyed Soul;Pop Soul;Pop;R&B;Soul|I Only Want to Be with You",
-"The Band|I Shall Be Released|1968|HfKCXmO_c3Y|The Band|S2524|Roots Rock;Rock|I Shall Be Released",
+"The Band|I Shall Be Released|1968|k9avKq94DGY|The Band|S2524|Roots Rock;Rock|I Shall Be Released",
 "Young Fathers|In My View|2018|qQFPikYSalg|Young Fathers|S16553|Alternative R&B;Indietronica;Contemporary R&B;Electronic;R&B|",
 "Gang of Four|To Hell with Poverty!|1981|QRjjVFC-oG4|Gang of Four (band)|S3435|Dance-Punk;Post-Punk;Rock|",
 "Cannonball Adderley|Mercy, Mercy, Mercy|1966|y7FFLYXEOqA|Cannonball Adderley|S3137|Soul Jazz;Jazz|",
