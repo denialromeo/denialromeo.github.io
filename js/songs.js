@@ -10187,7 +10187,7 @@ const songs = [
 "Georges Brassens|Les Trompettes de la renommée|1962|em3xBqjevTw|Georges Brassens|S13099|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "Gamine|Voilà les anges|1988|A8MPb2hQ11Y|https://fr.wikipedia.org/wiki/Gamine_(groupe)|S10894|Chanson;French Pop;Indie Pop;Pop;Regional Music|Cœur de pirate",
 "Duck Sauce|Barbra Streisand|2010|wWhtcU4-xAM|Duck Sauce|S6164|Funky House;Dance;Electronic;Electronic Dance Music;House|Barbra Streisand (song)",
-"The Rolling Stones|100 Years Ago|1973|CrciVFFw3iQ|The Rolling Stones|S12088|Rock|100 Years Ago",
+"The Rolling Stones|100 Years Ago|1973|ZQVfwiUr1EU|The Rolling Stones|S12088|Rock|100 Years Ago",
 "Screaming Trees|Nearly Lost You|1992|PE5f561Y1x4|Screaming Trees|S2375|Grunge;Alternative Rock;Rock|Nearly Lost You",
 "The Pretty Things|Defecting Grey|1967|uhAjEYqQp1U|Pretty Things|S13330|Garage Rock;Psychedelic Rock;Rock|",
 "Muse|Hysteria|2003|3dm_5qWWDV8|Muse (band)|S14788|Alternative Rock;Rock|Hysteria (Muse song)",
