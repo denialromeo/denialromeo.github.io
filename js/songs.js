@@ -7678,7 +7678,7 @@ const songs = [
 "Climax Blues Band|Couldn't Get It Right|1976|leJPJ764Bxs|Climax Blues Band|S3284|Blues Rock;Funk Rock;Pop Rock;Pop;Rock|Couldn't Get It Right",
 "How to Dress Well|Repeat Pleasure|2014|ZTkGTfsMRYE|How to Dress Well|S9646|Alternative R&B;Contemporary R&B;R&B|",
 "Angel Olsen|Hi-Five|2014|oL_3Y4zNnqg|Angel Olsen|S9609|Indie Folk;Indie Rock;Singer/Songwriter;Alternative Rock;Contemporary Folk;Folk;Rock|",
-"Cassius|Cassius 1999|1999|NDesnOyWzL0|Cassius (band)|S5730|French House;Dance;Electronic;Electronic Dance Music;House|",
+"Cassius|Cassius 1999|1999|AW--RGEGkUg|Cassius (band)|S5730|French House;Dance;Electronic;Electronic Dance Music;House|",
 "Blink-182|The Rock Show|2001|z7hhDINyBP0|Blink-182|S5493|Pop Punk;Punk Rock;Rock|",
 "Bruce Springsteen|Adam Raised a Cain|1978|PRRd78fqmIg|Bruce Springsteen|S10305|Hard Rock;Heartland Rock;Rock|Adam Raised a Cain",
 "Bastille|Pompeii|2013|F90Cw4l-8NY|Bastille (band)|S9411|Indie Pop;Pop Rock;Pop;Rock|Pompeii (song)",
