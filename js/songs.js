@@ -8073,7 +8073,7 @@ const songs = [
 "Sam Roberts|Brother Down|2002|71EnaOs-Xdk|Sam Roberts|S12153|Alternative Rock;Indie Pop;Pop;Rock|",
 "MC5|Sister Anne|1971|0VG_zEIPU38|MC5|S11590|Proto-Punk;Rock|",
 "Francis Cabrel|La Robe et l'echelle|2008|3G7HIBxRvW4|Francis Cabrel|S13468|Chanson;Folk Pop;French Pop;Contemporary Folk;Folk;Pop;Regional Music|",
-"The White Stripes|Hello Operator|2000|kiEoxktOoHg|The White Stripes|S8989|Alternative Rock;Blues Rock;Garage Rock Revival;Garage Rock;Rock|Hello Operator (song)",
+"The White Stripes|Hello Operator|2000|39NqfWklaAQ|The White Stripes|S8989|Alternative Rock;Blues Rock;Garage Rock Revival;Garage Rock;Rock|Hello Operator (song)",
 "Magnetic Man|I Need Air|2010|H8Id5jMKQh0|Magnetic Man|S7382|Dubstep;Dance;Electronic;Electronic Dance Music|",
 "The Pointer Sisters|Automatic|1983|hsA2UR42Pbw|The Pointer Sisters|S7983|Dance-Pop;Synth Funk;Dance;Funk;Pop;R&B|Automatic (Pointer Sisters song)",
 "David Bowie|Scary Monsters (And Super Creeps)|1980|N_6I3o-j2-I|David Bowie|S10528|Art Rock;New Wave;Pop Rock;Pop;Rock|Scary Monsters (And Super Creeps) (song)",
