@@ -1603,7 +1603,7 @@ const songs = [
 "Elvis Costello|Shipbuilding|1983|l_aLSsjZMr8|Elvis Costello|S3302|Singer/Songwriter|Shipbuilding (song)",
 "The Replacements|Bastards of Young|1985|fl9KQ1Mub6Q|The Replacements (band)|S2915|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Bastards of Young",
 "Pearl Jam|Daughter|1993|zgUwd2Gkb-E|Pearl Jam|S2069|Grunge;Alternative Rock;Rock|Daughter (song)",
-"Billy Ward & The Dominoes|Sixty Minute Man|1951|oXfJj8R3q20|Billy Ward and his Dominoes|S1592|Doo-Wop;Rhythm & Blues;R&B;Vocal Group|",
+"Billy Ward & The Dominoes|Sixty Minute Man|1951|09EarjR-UPU|Billy Ward and his Dominoes|S1592|Doo-Wop;Rhythm & Blues;R&B;Vocal Group|",
 "The Beatles|Dear Prudence|1968|wQA59IkCF5I|The Beatles|S3183|Pop Rock;Psychedelic Folk;Contemporary Folk;Folk;Pop;Rock|Dear Prudence",
 "Phoebe Bridgers|Motion Sickness|2017|9sfYpolGCu8|Phoebe Bridgers|S16464|Alt-Country;Indie Rock;Singer/Songwriter;Alternative Rock;Country;Rock|Motion Sickness (Phoebe Bridgers song)",
 "Gil Scott-Heron|The Bottle|1974|EdhoX1Xu6ZI|Gil Scott-Heron|S1780|Jazz-Funk;Soul;Funk;Jazz;R&B|",
