@@ -3942,7 +3942,7 @@ const songs = [
 "Digital Underground|Doowutchyalike|1989|31A6RjOxE74|Digital Underground|S255|West Coast Hip Hop;Hip Hop|Doowutchyalike",
 "Nine Inch Nails|The Hand That Feeds|2005|xwhBRJStz7w|Nine Inch Nails|S7749|Alternative Rock;Industrial Rock;Industrial Music;Rock|",
 "ABBA|Take a Chance on Me|1978|-crgQGdpZR0|ABBA|S3128|Europop;Pop|Take a Chance on Me",
-"Eddy Grant|Electric Avenue|1982|vtPk5IUbdH0|Eddy Grant|S1905|Electro-Disco;Pop Reggae;Synthpop;Caribbean Music;Dance;Disco;Electronic;Electronic Dance Music;Jamaican Music;Pop;Reggae;Regional Music|Electric Avenue (song)",
+"Eddy Grant|Electric Avenue|1982|Yxep-9BQ6Uo|Eddy Grant|S1905|Electro-Disco;Pop Reggae;Synthpop;Caribbean Music;Dance;Disco;Electronic;Electronic Dance Music;Jamaican Music;Pop;Reggae;Regional Music|Electric Avenue (song)",
 "Bob Seger|Against the Wind|1980|r5ZegCEmkN4|Bob Seger|S3798|Heartland Rock;Pop Rock;Pop;Rock|Against the Wind (Bob Seger song)",
 "The Doors|Roadhouse Blues|1970|BgQg3J7xU1k|The Doors|S6141|Blues Rock;Rock|Roadhouse Blues",
 "Barry White|Can't Get Enough of Your Love, Babe|1974|LBf6RErcQM0|Barry White|S1764|Smooth Soul;R&B;Soul|Can't Get Enough of Your Love, Babe",
