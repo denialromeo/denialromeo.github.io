@@ -7663,7 +7663,7 @@ const songs = [
 "IDLES|Samaritans|2018|si2pZRifgIo|Idles|S16582|Art Punk;Post-Punk;Punk Rock;Rock|",
 "Crusaders|Street Life|1979|2e7OHLqEyAA|The Crusaders|S5912|Disco;Funk;Smooth Soul;Dance;R&B;Soul|Street Life (The Crusaders song)",
 "Talking Heads|Wild Wild Life|1986|616-QGQyx-I|Talking Heads|S3883|New Wave;Pop Rock;Pop;Rock|Wild Wild Life",
-"The Heptones|Fattie Fattie|1966|zET1G9YPbWU|The Heptones|S14478|Rocksteady;Caribbean Music;Jamaican Music;Regional Music|",
+"The Heptones|Fattie Fattie|1966|OHUH7Y2CCqM|The Heptones|S14478|Rocksteady;Caribbean Music;Jamaican Music;Regional Music|",
 "Shame|One Rizla|2017|wkK5qTohwRc|Shame (band)|S16597|Indie Rock;Post-Punk;Alternative Rock;Rock|",
 "Burial|Come Down to Us|2013|RsF0BoJSeqA|Burial (musician)|S10328|Ambient Pop;Downtempo;Future Garage;Dance;Electronic;Electronic Dance Music;Pop;UK Garage|",
 "The Maytals|Bam-Bam|1966|gy26FHXFf7o|Toots and the Maytals|S11584|Jamaican Ska;Caribbean Music;Jamaican Music;Regional Music;Ska|Bam Bam (Sister Nancy song)",
