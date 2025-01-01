@@ -5899,7 +5899,7 @@ const songs = [
 "Edie Brickell|What I Am|1988|tDl3bdE3YQA|Edie Brickell & New Bohemians|S3239|Alternative Rock;Rock|What I Am",
 "Rancid|Salvation|1994|wPBV-jRVMYg|Rancid (band)|S4222|Punk Rock;Rock|Salvation (Rancid song)",
 "Animal Collective|For Reverend Green|2007|Vc2Av1dY1p4|Animal Collective|S5199|Art Pop;Neo-Psychedelia;Pop;Psychedelic Rock;Rock|",
-"The Vines|Highly Evolved|2002|ppJAAC69uE8|The Vines (band)|S1527|Garage Rock Revival;Grunge;Alternative Rock;Garage Rock;Rock|",
+"The Vines|Highly Evolved|2002|TmUmNbQj8Uw|The Vines (band)|S1527|Garage Rock Revival;Grunge;Alternative Rock;Garage Rock;Rock|",
 "Tom Waits|Hell Broke Luce|2011|0Fju9o8BVJ8|Tom Waits|S12458|Experimental Rock;Rock|",
 "Bad Company|Ready For Love|1974|ZUzZvaMYL60|Bad Company|S10064|Blues Rock;Rock|Ready for Love (Mott the Hoople song)",
 "A-ha|The Sun Always Shines on TV|1985|a3ir9HC9vYg|A-ha|S5117|Synthpop;Electronic;Pop|The Sun Always Shines on T.V.",
