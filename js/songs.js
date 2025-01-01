@@ -761,7 +761,7 @@ const songs = [
 "Duke Ellington|Take the \"A\" Train|1941|cb2w2m1JmCY|Duke Ellington|S2679|Big Band;Swing;Jazz|Take the \"A\" Train",
 "The Knack|My Sharona|1979|g1T71PGd-J0|The Knack|S583|New Wave;Power Pop;Pop;Pop Rock;Rock|My Sharona",
 "Nancy Sinatra|Some Velvet Morning|1967|670YMraVnyk|Nancy Sinatra|S1698|Baroque Pop;Psychedelic Pop;Pop|Some Velvet Morning",
-"Elvis Costello|Watching the Detectives|1977|k1Qnt5bx1OI|Elvis Costello|S636|New Wave;Rock|Watching the Detectives (song)",
+"Elvis Costello|Watching the Detectives|1977|snPDoXl9ZPs|Elvis Costello|S636|New Wave;Rock|Watching the Detectives (song)",
 "Everything But the Girl|Missing (Todd Terry Remix)|1995|IAkY5m00rpY|Everything but the Girl|S75|Dance-Pop;Deep House;Garage House;Dance;Electronic;Electronic Dance Music;House;Pop|Missing (Everything but the Girl song)",
 "Smokey Robinson and the Miracles|The Tears of a Clown|1967|tcd9N62nOLg|The Miracles|S847|Motown Sound;Pop;Pop Soul;R&B;Soul|The Tears of a Clown",
 "Bruce Springsteen|Atlantic City|1982|M3eu1gW-bQ8|Bruce Springsteen|S4455|Contemporary Folk;Singer/Songwriter;Folk|Atlantic City (song)",
