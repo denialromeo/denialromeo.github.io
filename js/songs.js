@@ -2421,7 +2421,7 @@ const songs = [
 "Queen|Somebody to Love|1976|kijpcUv-b8M?start=5|Queen (band)|S8043|Art Rock;Glam Rock;Pop Rock;Pop;Rock|Somebody to Love (Queen song)",
 "Kool and the Gang|Celebration|1980|3GwjfUFyY6M|Kool & the Gang|S1836|Disco;Dance|Celebration (Kool & the Gang song)",
 "Eddie Cochran|Somethin' Else|1959|Hi36ukbbTbw|Eddie Cochran|S3286|Rockabilly;Rock;Rock & Roll|Somethin' Else (song)",
-"Jr. Walker & The All Stars|Shotgun|1965|FI7CtxlisCk|Junior Walker|S1430|Funk;Soul;R&B|Shotgun (Junior Walker & the All Stars song)",
+"Jr. Walker & The All Stars|Shotgun|1965|x8_xSZMTuKo|Junior Walker|S1430|Funk;Soul;R&B|Shotgun (Junior Walker & the All Stars song)",
 "Fats Domino|I'm Walkin'|1957|Y29RZpHnkq8?start=5|Fats Domino|S1255|New Orleans R&B;Rock & Roll;R&B;Rock|I'm Walkin'",
 "Beyoncé|Love On Top|2011|Ob7vObnFUJc|Beyoncé|S14134|Contemporary R&B;Pop Soul;Pop;R&B;Soul|",
 "Earth, Wind & Fire|Boogie Wonderland|1979|god7hAPv8f0|Earth, Wind & Fire|S592|Disco;Dance|Boogie Wonderland",
