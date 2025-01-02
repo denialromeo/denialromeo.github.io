@@ -1896,7 +1896,7 @@ const songs = [
 "My Chemical Romance|Welcome to the Black Parade|2006|RRKJiM9Njr8|My Chemical Romance|S4007|Alternative Rock;Pop Punk;Rock Opera;Punk Rock;Rock|Welcome to the Black Parade",
 "Nat King Cole|The Christmas Song (Merry Christmas to You)|1946|wKhRnZZ0cJI|Nat King Cole|S2665|Christmas Music;Traditional Pop;Holiday Music;Pop|The Christmas Song",
 "Yaeji|Raingurl|2017|_3T8KznhThQ|Yaeji|S16515|Deep House;Hip House;Dance;Electronic;Electronic Dance Music;Hip Hop;House|",
-"Bruce Springsteen|Racing in the Street|1978|fT4pSt4kie8|Bruce Springsteen|S5645|Heartland Rock;Singer/Songwriter;Rock|Racing in the Street",
+"Bruce Springsteen|Racing in the Street|1978|yYf3mCEVAnU|Bruce Springsteen|S5645|Heartland Rock;Singer/Songwriter;Rock|Racing in the Street",
 "The Sons of the Pioneers|Tumbling Tumbleweeds|1934|c-YLGUHIqhU|Sons of the Pioneers|S2747|Cowboy;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|Tumbling Tumbleweeds",
 "Björk|All Is Full of Love|1997|b_VFWR7aB60|Björk|S4529|Art Pop;Trip Hop;Downtempo;Electronic;Pop|All Is Full of Love",
 "King Oliver|Dipper Mouth Blues|1923|BEF9QeHxrYw|King Oliver|S4593|Dixieland;Jazz|Dippermouth Blues",
