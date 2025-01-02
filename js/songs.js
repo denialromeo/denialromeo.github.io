@@ -3825,7 +3825,7 @@ const songs = [
 "Mitch Ryder and the Detroit Wheels|Jenny Take a Ride|1965|Zf1KiQuW2BE|Mitch Ryder|S4402|Blue Eyed Soul;Garage Rock;Rhythm & Blues;Rock & Roll;Pop;R&B;Rock|",
 "The Very Best|Warm Heart of Africa|2009|3MDYTkdVT8M|The Very Best|S4837|East African Music;African Music;Regional Music|The Very Best (band)",
 "Scorpions|Rock You Like a Hurricane|1984|I3ZL8ZVWVz8|Scorpions (band)|S8328|Glam Metal;Hard Rock;Rock|Rock You like a Hurricane",
-"Roy Ayers|Everybody Loves the Sunshine|1976|9Q0yHqKU2pY|Roy Ayers|S12118|Soul Jazz;Jazz|",
+"Roy Ayers|Everybody Loves the Sunshine|1976|SSBWiFGzsyU|Roy Ayers|S12118|Soul Jazz;Jazz|",
 "Charlie Christian|Swing to Bop|1941|Ce9Jtl9D6FQ|Charlie Christian|S5762|Big Band;Swing;Jazz|",
 "Fleetwood Mac|Sara|1979|ScSsOA4UVr8|Fleetwood Mac|S6395|Pop Rock;Pop;Rock|Sara (Fleetwood Mac song)",
 "Puff Daddy|It's All About the Benjamins|1997|0c58ppLPJcQ|Sean Combs|S3737|East Coast Hip Hop;Pop Rap;Hip Hop|It's All About the Benjamins",
