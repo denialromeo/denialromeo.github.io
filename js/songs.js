@@ -6958,7 +6958,7 @@ const songs = [
 "MGMT|Flash Delirium|2010|_NHyY22Nx4U|MGMT|S7527|Indie Pop;Neo-Psychedelia;Progressive Pop;Psychedelic Pop;Pop;Psychedelic Rock;Rock|Flash Delirium",
 "Daryl Hall & John Oates|Out of Touch|1984|D00M2KZH1J0|Hall & Oates|S11005|New Wave;Pop Rock;Pop;Rock|Out of Touch",
 "Pras|Ghetto Supastar (That Is What You Are)|1998|MnWogQTfSIY|Pras|S298|East Coast Hip Hop;Film Soundtrack;Pop Rap;Hip Hop;Soundtracks|Ghetto Supastar (That Is What You Are)",
-"The Swinging Blue Jeans|Hippy Hippy Shake|1963|1Ke8mzgex4U|The Swinging Blue Jeans|S2816|Merseybeat;Rock & Roll;Beat Music;Pop;Pop Rock;Rock|",
+"The Swinging Blue Jeans|Hippy Hippy Shake|1963|w-DMuIvyJss|The Swinging Blue Jeans|S2816|Merseybeat;Rock & Roll;Beat Music;Pop;Pop Rock;Rock|",
 "Shakira|She Wolf|2009|booKP974B0k|Shakira|S8373|Dance-Pop;Electropop;Dance;Electronic;Pop|She Wolf (Shakira song)",
 "The Four Seasons|The Night|1972|V5wsT9StFS4|The Four Seasons (band)|S6467|Pop Soul;Pop;R&B;Soul|The Night (Frankie Valli and the Four Seasons song)",
 "Noir Désir|Un jour en France|1996|c6fgYhgd4YY|Noir Désir|S7765|Alternative Rock;Rock|",
