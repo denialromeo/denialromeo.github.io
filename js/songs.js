@@ -3994,7 +3994,7 @@ const songs = [
 "Jackson C. Frank|Blues Run the Game|1965|RyI7ph709x4|Jackson C. Frank|S9247|Contemporary Folk;Singer/Songwriter;Folk|Blues Run the Game",
 "Clarence Carter|Patches|1970|ITFYEgCdI-0|Clarence Carter|S2296|Southern Soul;R&B;Soul|Patches (Chairmen of the Board song)",
 "The Paragons|The Tide Is High|1967|SQXqkiKXiHc|The Paragons|S7847|Rocksteady;Caribbean Music;Jamaican Music;Regional Music|The Tide Is High",
-"Janis Ian|Society's Child (Baby I've Been Thinking)|1966|YbVFy7nx88Q|Janis Ian|S3490|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|",
+"Janis Ian|Society's Child (Baby I've Been Thinking)|1966|YbVFy7nx88Q|Janis Ian|S3490|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Society's Child",
 "Cat Stevens|Wild World|1970|Jta56wBl7SM?start=21|Cat Stevens|S5737|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Wild World (song)",
 "Crowded House|Weather with You|1991|NZ3Ck43m_ZY|Crowded House|S2054|Pop Rock;Pop;Rock|Weather with You",
 "YG feat. Nipsey Hussle|FDT (Fuck Donald Trump)|2016|BlIREcAu0PI|YG (rapper)|S16218|Hardcore Hip Hop;Political Hip Hop;West Coast Hip Hop;Hip Hop|",
