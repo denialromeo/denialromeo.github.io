@@ -10755,7 +10755,7 @@ const songs = [
 "Kid Creole and the Coconuts|Stool Pigeon|1982|C3xU0fnjUcg|Kid Creole and the Coconuts|S7093|Latin Disco;Dance;Disco;Hispanic Music;Latin American Music;Regional Music|",
 "Graham Parker|Local Girls|1979|taXvBivGcMo|Graham Parker|S6623|New Wave;Power Pop;Pub Rock;Pop;Pop Rock;Rock|Local Girls",
 "Mott the Hoople|Roll Away the Stone|1973|4MyJHh451Y4|Mott the Hoople|S2320|Glam Rock;Rock|Roll Away the Stone",
-"Black Box Recorder|The Facts of Life|2000|vIGclxIQlbo|Black Box Recorder|S2189|Downtempo;Indie Pop;Electronic;Pop|",
+"Black Box Recorder|The Facts of Life|2000|0d3vhHe-zSM|Black Box Recorder|S2189|Downtempo;Indie Pop;Electronic;Pop|",
 "Chic|My Feet Keep Dancing|1979|s4H6kjH8I8Y|Chic (band)|S5778|Disco;Dance|",
 "Hercules and Love Affair|Hercules Theme|2008|OTiMLdB9v8I|Hercules and Love Affair|S4779|Dance-Pop;Electro-Disco;Dance;Disco;Electronic;Electronic Dance Music;Pop|",
 "Lightnin' Hopkins|Baby Please Don't Go|1949|qgoiowZJJFY|Lightnin' Hopkins|S9278|Acoustic Texas Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|Baby, Please Don't Go",
