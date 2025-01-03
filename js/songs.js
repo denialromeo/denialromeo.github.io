@@ -3922,7 +3922,7 @@ const songs = [
 "Sloan|Money City Maniacs|1998|bCTZB0eGD54|Sloan (band)|S8456|Power Pop;Pop;Pop Rock;Rock|Money City Maniacs",
 "Louis Armstrong|(What Did I Do to Be So) Black and Blue|1929|2LDPUfbXRLM|Louis Armstrong|S11484|Vocal Jazz;Jazz|",
 "Hunters & Collectors|Throw Your Arms Around Me|1984|5-hDK76bIps|Hunters & Collectors|S6757|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Throw Your Arms Around Me",
-"Jeff Mills|The Bells|1997|VWlcVRmfUXo|Jeff Mills|S11183|Detroit Techno;Dance;Electronic;Electronic Dance Music;Techno|",
+"Jeff Mills|The Bells|1997|VEaVhHxDIzY|Jeff Mills|S11183|Detroit Techno;Dance;Electronic;Electronic Dance Music;Techno|",
 "The Strokes|Reptilia|2003|b8-tXG8KrWs|The Strokes|S2457|Garage Rock Revival;Post-Punk Revival;Alternative Rock;Garage Rock;Indie Rock;Post-Punk;Rock|Reptilia (song)",
 "Ike and Tina Turner|A Fool in Love|1960|mKpISNtgJMs|Ike & Tina Turner|S1170|Rhythm & Blues;R&B|",
 "Charlie Parker|A Night in Tunisia|1946|Pkn2rDQx0Ok|Charlie Parker|S10384|Bebop;Jazz|",
