@@ -917,7 +917,7 @@ const albums = [
 "Mitski|Puberty 2|2016|OLAK5uy_lTAc_QwnPLntKJx_2W69T41iC2ydk3Lyk|A5777|Puberty 2|Mitski|Indie Rock;Alternative Rock;Rock",
 "Ghostface Killah|Fishscale|2006|OLAK5uy_nP8AJVkugzgjfOfdwPK30osuBg8jnNIro|A2089|Fishscale|Ghostface Killah|Hardcore Hip Hop;Hip Hop",
 "Ride|Nowhere|1990|OLAK5uy_nBamR1W0HaY1e6pfrxl3fHtmtkjErADKE|A1702|Nowhere (album)|Ride (band)|Shoegaze;Alternative Rock;Rock",
-"Soft Cell|Non-Stop Erotic Cabaret|1981|OLAK5uy_mfNuDuDEPUHX8DmxT9yep2IspdGSz0BxI|A521|Non-Stop Erotic Cabaret|Soft Cell|New Wave;Synthpop;Electronic;Pop;Rock",
+"Soft Cell|Non-Stop Erotic Cabaret|1981|OLAK5uy_nWpjSQS-SBp1gdyshXAEwIiKKL_cXPFPE|A521|Non-Stop Erotic Cabaret|Soft Cell|New Wave;Synthpop;Electronic;Pop;Rock",
 "David Bowie|Young Americans|1975|OLAK5uy_ntERq_t9Vo4qFWsDmrN_HbV5wP09AiFQo|A336|Young Americans|David Bowie|Blue Eyed Soul;Pop Rock;Soul;Pop;R&B;Rock",
 "Leonard Cohen|Songs from a Room|1969|OLAK5uy_nnqj5JDRGGq295L6EM1jp9jOGPSAQtNVE|A179|Songs from a Room|Leonard Cohen|Contemporary Folk;Singer/Songwriter;Folk",
 "Guns N' Roses|Use Your Illusion I|1991|OLAK5uy_kaueFscwZLW5eh2di3wmeerRd-uMPbH1E|A838|Use Your Illusion I|Guns N' Roses|Hard Rock;Rock",
