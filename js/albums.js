@@ -2996,7 +2996,7 @@ const albums = [
 "Ladysmith Black Mambazo|Shaka Zulu|1987|OLAK5uy_nUhANQ5rWQOw21qt_lYT8QOb1uBK5Rg-4|A3176|Shaka Zulu (album)|Ladysmith Black Mambazo|Mbube;Nguni Folk Music;A cappella;African Folk Music;African Music;Descriptor;Folk;Regional Music;Southern African Folk Music;Southern African Music;Traditional Folk Music",
 "John Cale|The Academy in Peril|1972|OLAK5uy_kb9-RI1LL9BxjLMMOLJuSO4MYLoPK1cJs|A1375|The Academy in Peril|John Cale|Experimental;Modern Classical;Classical Music",
 "Gilberto Gil|Expresso 2222|1972|OLAK5uy_n30JMcB-fiI3PpiniqGMAKiHmle_uZU7s|A2450|Expresso 2222|Gilberto Gil|Tropicália;Brazilian Music;MPB;Regional Music",
-"Motorpsycho|Demon Box|1993|OLAK5uy_lig8vr6BBpH2Dol3saUDcnwj1Wlqhdbbg|A3482|Demon Box (album)|Motorpsycho|Alternative Rock;Rock",
+"Motorpsycho|Demon Box|1993|OLAK5uy_kLYj-lQNOKIMLF9ZMIv7FfPDUr4eiBKsM|A3482|Demon Box (album)|Motorpsycho|Alternative Rock;Rock",
 "The Woodentops|Giant|1986|OLAK5uy_lLdEP7eNWNKrE1Q4Z43KeOG6DNd1csn0s|A1516|Giant (The Woodentops album)|The Woodentops|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock",
 "Whitesnake|Whitesnake|1987|OLAK5uy_ldApaGtW3qFpnURHPastfPhpYF78em_es|A2886|Whitesnake (album)|Whitesnake|Hard Rock;Rock",
 ] 
