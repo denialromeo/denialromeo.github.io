@@ -9408,7 +9408,7 @@ const songs = [
 "Tocotronic|Drüben Auf Dem Hügel|1995|2Nu6AT0p2No|Tocotronic|S15935|Hamburger Schule;Noise Pop;Alternative Rock;Indie Rock;Rock|",
 "B.B. King|Please Love Me|1953|QW_9EmPv6eQ|B.B. King|S5282|Electric Blues;Jump-Blues;Blues|",
 "The Rolling Stones|Far Away Eyes|1978|1n-2vgbk6w4|The Rolling Stones|S12092|Pop Rock;Pop;Rock|",
-"Weeping Willows|True to You|1999|a-7W-wclm10|Weeping Willows|S8963|Pop Rock;Pop;Rock|",
+"Weeping Willows|True to You|1999|a-7W-wclm10|Weeping Willows|S8963|Pop Rock;Pop;Rock|Weeping Willows (band)",
 "Love Unlimited Orchestra|Walkin' in the Rain With the One I Love|1972|wfQHSwZX4sg|The Love Unlimited Orchestra|S14692|Smooth Soul;R&B;Soul|",
 "Stompin' Tom Connors|The Hockey Song|1973|UxJvrD80nJ4|Stompin' Tom Connors|S8591|Country|The Hockey Song",
 "John McCormack|The Star Spangled Banner|1917|p2vbm_JsQWk|John McCormack (tenor)|S15603|Standards;Pop;Traditional Pop|The Star-Spangled Banner",
