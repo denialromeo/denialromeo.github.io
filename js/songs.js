@@ -384,7 +384,7 @@ const songs = [
 "Queens of the Stone Age|No One Knows|2002|s88r_q7oufE|Queens of the Stone Age|S1503|Alternative Rock;Stoner Rock;Hard Rock;Rock|No One Knows",
 "Pixies|Monkey Gone to Heaven|1989|EHC9HE7vazI|Pixies (band)|S245|Indie Rock;Alternative Rock;Rock|Monkey Gone to Heaven",
 "Jefferson Airplane|Somebody to Love|1967|a-C9pUGszsw|Jefferson Airplane|S947|Pop Rock;Psychedelic Pop;Psychedelic Rock;Pop;Rock|Somebody to Love (Jefferson Airplane song)",
-"Guns N' Roses|Welcome to the Jungle|1987|cF2b-nRQwiA|Guns N' Roses|S339|Glam Metal;Hard Rock;Rock|Welcome to the Jungle",
+"Guns N' Roses|Welcome to the Jungle|1987|o1tj2zJ2Wvg|Guns N' Roses|S339|Glam Metal;Hard Rock;Rock|Welcome to the Jungle",
 "Primal Scream|Loaded|1990|vDK2svrGG_c|Primal Scream|S217|Alternative Dance;Baggy / Madchester;Neo-Psychedelia;Alternative Rock;Dance;Psychedelic Rock;Rock|Loaded (Primal Scream song)",
 "The Jam|Going Underground|1980|AE1ct5yEuVY|The Jam|S544|Mod Revival;New Wave;Mod;Rock|",
 "Thelonious Monk|'Round Midnight|1946|1gQuSdoN1nA|Thelonious Monk|S2721|Bebop;Jazz|",
