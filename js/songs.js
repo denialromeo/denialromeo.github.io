@@ -5020,7 +5020,7 @@ const songs = [
 "Steve Winwood|While You See a Chance|1980|0j6g_uUhH2c|Steve Winwood|S8578|Pop Rock;Singer/Songwriter;Pop;Rock|While You See a Chance",
 "Al Green|Let's Get Married|1973|SOrHdFXfXds?start=971|Al Green|S4418|Smooth Soul;Southern Soul;R&B;Soul|Let's Get Married",
 "Ohio Players|Love Rollercoaster|1975|aBkVV9xxCHE|Ohio Players|S3677|Funk;R&B|Love Rollercoaster",
-"JVC Force|Strong Island|1988|BWqcFy74Iec|JVC Force|S1983|East Coast Hip Hop;Hip Hop|",
+"JVC Force|Strong Island|1988|10UbCWXSTgk|JVC Force|S1983|East Coast Hip Hop;Hip Hop|",
 "Glen Campbell|Gentle On My Mind|1967|D442il1Wm-I|Glen Campbell|S6578|Country Pop;Country;Pop|Gentle on My Mind",
 "Hurray for the Riff Raff|Pa'lante|2017|LilVDjLaZSE|Hurray for the Riff Raff|S16393|Nueva canción latinoameric;Singer/Songwriter|",
 "Cat Stevens|Matthew & Son|1966|2aZE6IUT408|Cat Stevens|S2279|Baroque Pop;Folk Pop;Contemporary Folk;Folk;Pop|Matthew and Son",
