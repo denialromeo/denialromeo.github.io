@@ -959,7 +959,7 @@ const songs = [
 "Naughty by Nature|O.P.P.|1991|idx3GSL2KWs|Naughty by Nature|S188|East Coast Hip Hop;Hip Hop|O.P.P. (song)",
 "Eddie Cochran|C'mon Everybody|1958|hw8MXhFupno|Eddie Cochran|S1218|Rock & Roll;Rock|C'mon Everybody",
 "Yeah Yeah Yeahs|Zero|2009|pmGNo8RL5kM|Yeah Yeah Yeahs|S4832|Alternative Dance;Electropop;Alternative Rock;Dance;Electronic;Pop;Rock|",
-"Little Willie John|Fever|1956|szz27BuDgeU|Little Willie John|S1272|Rhythm & Blues;R&B|Fever (Little Willie John song)",
+"Little Willie John|Fever|1956|Hukf7u3Y4A0|Little Willie John|S1272|Rhythm & Blues;R&B|Fever (Little Willie John song)",
 "Nick Cave|Into My Arms|1997|LnHoqHscTKE|Nick Cave|S28|Singer/Songwriter|Into My Arms",
 "Bob Dylan|Blind Willie McTell|1991|YaoiyLYdTVo|Bob Dylan|S3365|Singer/Songwriter|Blind Willie McTell (song)",
 "Klaxons|Golden Skans|2007|q-SJjFcnsGs|Klaxons|S4279|Indie Pop;Post-Punk Revival;Alternative Rock;Indie Rock;Pop;Post-Punk;Rock|Golden Skans",
