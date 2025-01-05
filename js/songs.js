@@ -3823,7 +3823,7 @@ const songs = [
 "Iggy Pop|Nightclubbing|1977|XOSajEshJWA|Iggy Pop|S6774|Art Rock;Rock|Nightclubbing (song)",
 "Lefty Frizzell|If You've Got the Money (I've Got the Time)|1950|AJbShe2zEqI|Lefty Frizzell|S1414|Honky Tonk;Country|If You've Got the Money I've Got the Time",
 "Mitch Ryder and the Detroit Wheels|Jenny Take a Ride|1965|Zf1KiQuW2BE|Mitch Ryder|S4402|Blue Eyed Soul;Garage Rock;Rhythm & Blues;Rock & Roll;Pop;R&B;Rock|",
-"The Very Best|Warm Heart of Africa|2009|3MDYTkdVT8M|The Very Best|S4837|East African Music;African Music;Regional Music|The Very Best (band)",
+"The Very Best|Warm Heart of Africa|2009|3MDYTkdVT8M|The Very Best (band)|S4837|East African Music;African Music;Regional Music|Warm Heart of Africa",
 "Scorpions|Rock You Like a Hurricane|1984|I3ZL8ZVWVz8|Scorpions (band)|S8328|Glam Metal;Hard Rock;Rock|Rock You like a Hurricane",
 "Roy Ayers|Everybody Loves the Sunshine|1976|SSBWiFGzsyU|Roy Ayers|S12118|Soul Jazz;Jazz|",
 "Charlie Christian|Swing to Bop|1941|Ce9Jtl9D6FQ|Charlie Christian|S5762|Big Band;Swing;Jazz|",
