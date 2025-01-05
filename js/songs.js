@@ -429,7 +429,7 @@ const songs = [
 "Sly and the Family Stone|Dance to the Music|1967|Jn2PNlhvy8E|Sly and the Family Stone|S909|Psychedelic Soul;R&B;Soul|",
 "The Doors|The End|1967|6FMGYycBAMU?start=50|The Doors|S2520|Art Rock;Psychedelic Rock;Rock|The End (The Doors song)",
 "Bessie Smith|St. Louis Blues|1925|3rd9IaA_uJI|Bessie Smith|S2743|Vaudeville Blues;Blues;Musical Theatre and Entertainment;Vaudeville|Saint Louis Blues (song)",
-"Little Eva|The Loco-Motion|1962|7BuZGe4aXD0|Little Eva|S1083|Brill Building;Girl Group;Pop|The Loco-Motion",
+"Little Eva|The Loco-Motion|1962|eKpVQm41f8Y|Little Eva|S1083|Brill Building;Girl Group;Pop|The Loco-Motion",
 "Vampire Weekend|Hannah Hunt|2013|Td7VQnWWWzI|Vampire Weekend|S9542|Indie Pop;Pop|",
 "Eric B. & Rakim|Paid in Full|1987|E7t8eoA_1jQ|Eric B. & Rakim|S335|Boom Bap;East Coast Hip Hop;Hip Hop|Paid in Full (Eric B. & Rakim song)",
 "The Postal Service|Such Great Heights|2003|0wrsZog8qXg|The Postal Service|S2405|Indie Pop;Indietronica;Electronic;Pop|Such Great Heights",
