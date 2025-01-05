@@ -6570,7 +6570,7 @@ const songs = [
 "Fleetwood Mac|Big Love|1987|4hPv6EuV7dM|Fleetwood Mac|S6398|Pop Rock;Pop;Rock|Big Love (Fleetwood Mac song)",
 "Gary Puckett & the Union Gap|Young Girl|1968|qJFVPxBpezk|Gary Puckett & The Union Gap|S6505|Pop|",
 "Haim|Want You Back|2017|yPQfcG-eimk|Haim (band)|S16391|Pop Rock;Pop;Rock|Want You Back (Haim song)",
-"Scott Walker|Farmer in the City|1995|T5xjyUKL308|Scott Walker (singer)|S9346|Art Pop;Baroque Pop;Pop|",
+"Scott Walker|Farmer in the City|1995|T5xjyUKL308|Scott Walker (singer)|S9346|Art Pop;Baroque Pop;Pop|Tilt (Scott Walker album)",
 "Alanis Morissette|Hand in My Pocket|1995|CUjIY_XxF1g|Alanis Morissette|S5142|Alternative Rock;Pop Rock;Singer/Songwriter;Pop;Rock|Hand in My Pocket",
 "Marley Marl|The Symphony|1988|yZ82kNPgqpc|Marley Marl|S7437|Boom Bap;East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|The Symphony (song)",
 "Lloyd Price|Personality|1959|c81O18PkcNM|Lloyd Price|S1199|New Orleans R&B;Pop Soul;Pop;R&B;Soul|Personality (Lloyd Price song)",
