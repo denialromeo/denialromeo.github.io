@@ -3279,7 +3279,7 @@ const songs = [
 "Battles|Ice Cream|2011|dFggLJxv9zA|Battles (band)|S4943|Math Rock;Progressive Pop;Alternative Rock;Pop;Rock|Ice Cream (Battles song)",
 "Alice Cooper|Elected!|1972|e_qtQ52eFB0|Alice Cooper|S5156|Glam Rock;Hard Rock;Rock|",
 "Rufus & Chaka Khan|Tell Me Something Good|1974|cm_cFzVAoo8|Rufus (band)|S724|Funk;Soul;R&B|Tell Me Something Good",
-"The El Dorados|At My Front Door|1955|xAP_z-kEhgk|El Dorado|S1594|Doo-Wop;Rock & Roll;R&B;Rock;Vocal Group|At My Front Door",
+"The El Dorados|At My Front Door|1955|sDECIZYZKvA|El Dorado|S1594|Doo-Wop;Rock & Roll;R&B;Rock;Vocal Group|At My Front Door",
 "Pulp|Do You Remember the First Time?|1994|sPGepgWupTw|Pulp (band)|S4507|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Do You Remember the First Time%3F",
 "Duran Duran|Ordinary World|1993|FqIACCH20JU|Duran Duran|S3362|Pop Rock;Pop;Rock|Come Undone (Duran Duran song)",
 "Aerosmith|Janie's Got a Gun|1989|RqQn2ADZE1A|Aerosmith|S3140|Hard Rock;Pop Rock;Pop;Rock|Janie's Got a Gun",
