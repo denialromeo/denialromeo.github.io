@@ -2025,7 +2025,7 @@ const songs = [
 "T. Rex|Children of the Revolution|1972|ayv0vU74soM|T. Rex (band)|S810|Glam Rock;Rock|Children of the Revolution (song)",
 "Sam Cooke|Cupid|1961|n4Rw4A7BDQA|Sam Cooke|S1139|Pop Soul;Pop;R&B;Soul|Cupid (Sam Cooke song)",
 "Prince|Controversy|1981|4gazNwzC4H0|Prince (musician)|S530|Synth Funk;Funk;R&B|Controversy (song)",
-"Brian Eno|Baby's on Fire|1973|nItuhuY1U04|Brian Eno|S4163|Art Rock;Experimental Rock;Glam Rock;Rock|",
+"Brian Eno|Baby's on Fire|1973|fbU1zYzD-Tw|Brian Eno|S4163|Art Rock;Experimental Rock;Glam Rock;Rock|",
 "The Ting Tings|That´s Not My Name|2007|v1c2OfAzDTI|The Ting Tings|S4755|Indie Pop;Pop|That's Not My Name",
 "Tricky|Black Steel|1995|9ZJTM03UByU|Tricky (musician)|S69|Alternative Rock;Trip Hop;Downtempo;Electronic;Rock|Black Steel in the Hour of Chaos",
 "Twista|Slow Jamz|2003|raWSH1KrgFI|Twista|S2463|Neo-Soul;Pop Rap;Hip Hop;R&B;Soul|Slow Jamz",
