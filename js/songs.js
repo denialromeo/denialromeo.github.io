@@ -755,7 +755,7 @@ const songs = [
 "Simon and Garfunkel|America|1968|X-DVFSD4CK8|Simon & Garfunkel|S3805|Folk Pop;Folk Rock;Contemporary Folk;Folk;Pop;Rock|America (Simon & Garfunkel song)",
 "The Beach Boys|Surf's Up|1971|S22a1CITgj0|The Beach Boys|S1729|Art Pop;Baroque Pop;Progressive Pop;Psychedelic Pop;Pop|Surf's Up (song)",
 "Althea and Donna|Uptown Top Ranking|1977|VE-A5JULvRM|Althea & Donna|S1558|Reggae;Caribbean Music;Jamaican Music;Regional Music|Uptown Top Ranking",
-"Gil Scott-Heron|The Revolution Will Not Be Televised|1971|QnJFhuOWgXg|Gil Scott-Heron|S4170|Funk;Jazz Poetry;Jazz;Poetry;R&B;Spoken Word|The Revolution Will Not Be Televised",
+"Gil Scott-Heron|The Revolution Will Not Be Televised|1971|vwSRqaZGsPw|Gil Scott-Heron|S4170|Funk;Jazz Poetry;Jazz;Poetry;R&B;Spoken Word|The Revolution Will Not Be Televised",
 "Michael Jackson|Thriller|1982|sOnqjkJTMaA?start=254|Michael Jackson|S1907|Dance-Pop;Dance;Pop|Thriller (song)",
 "Robert Johnson|Hellhound on My Trail|1937|xATYYDMh6uE|Robert Johnson|S2709|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|Hellhound on My Trail",
 "Duke Ellington|Take the \"A\" Train|1941|cb2w2m1JmCY|Duke Ellington|S2679|Big Band;Swing;Jazz|Take the \"A\" Train",
