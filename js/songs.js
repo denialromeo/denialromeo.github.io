@@ -8259,7 +8259,7 @@ const songs = [
 "Fountains of Wayne|Sink to the Bottom|1996|FgLZMvnWxRU|Fountains of Wayne|S6422|Indie Rock;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|Sink to the Bottom",
 "Pavement|Grounded|1995|VPW4UW8lDZI|Pavement (band)|S14857|Indie Rock;Alternative Rock;Rock|",
 "Vince Staples|Yeah Right|2017|C6iAzyhm0p0|Vince Staples|S16512|Experimental Hip Hop;Hardcore Hip Hop;West Coast Hip Hop;Hip Hop|Yeah, right",
-"Grace Jones|Private Life|1980|yvLn_qC7QAs|Grace Jones|S2345|Art Pop;Dub;New Wave;Caribbean Music;Jamaican Music;Pop;Reggae;Regional Music;Rock|Private Life (song)",
+"Grace Jones|Private Life|1980|B7mzAZOgkE0|Grace Jones|S2345|Art Pop;Dub;New Wave;Caribbean Music;Jamaican Music;Pop;Reggae;Regional Music;Rock|Private Life (song)",
 "Los Twist|Pensé que se trataba de cieguitos|1983|qTqomimd6jk|Los Twist|S11479|Comedy Rock;Rock & Roll;Comedy;Musical Comedy;Rock|",
 "Coolio|Fantastic Voyage|1994|ibcDHmTCt-I|Coolio|S100|West Coast Hip Hop;Hip Hop|Fantastic Voyage (Coolio song)",
 "Jacques Higelin|Pars|1978|eNmoKIIwoWQ|Jacques Higelin|S6836|Blues;Chanson;Pop Rock;Pop;Regional Music;Rock|No Man's Land (Jacques Higelin album)",
