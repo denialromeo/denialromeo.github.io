@@ -944,7 +944,7 @@ const classical = [
 "Dmitri Shostakovich|Symphony No. 15|1971|N0iZGMXpquQ|Dmitri Shostakovich|Symphony No. 15 (Shostakovich)",
 "Morton Feldman|Cello and Orchestra|1972|UY-Nsz9XSe8|Morton Feldman|",
 "Harrison Birtwistle|The Triumph of Time|1972|uDoEjFZsSA4|Harrison Birtwistle|The Triumph of Time (Birtwistle)",
-"Bruno Maderna|Aura|1972|iqXLRB4Ooho|Bruno Maderna|",
+"Bruno Maderna|Aura|1972|Y9fwwDnTW6c|Bruno Maderna|",
 "Einojuhani Rautavaara|Cantus arcticus|1972|8X2FU1KU4_U|Einojuhani Rautavaara|Cantus Arcticus",
 "Benjamin Britten|Death in Venice|1973|bIm4jDmnKMQ|Benjamin Britten|Death in Venice",
 "Dmitri Shostakovich|String Quartet No. 15|1974|QccUkIhrrO8|Dmitri Shostakovich|String Quartet No. 15 (Shostakovich)",
