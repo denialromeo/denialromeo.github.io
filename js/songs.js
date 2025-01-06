@@ -654,7 +654,7 @@ const songs = [
 "Paul McCartney|Maybe I'm Amazed|1970|cdDPR8GzXy8|Paul McCartney|S651|Pop Rock;Singer/Songwriter;Pop;Rock|Maybe I'm Amazed",
 "New Order|True Faith|1987|mfI1S0PKJR8|New Order (band)|S336|Alternative Dance;Synthpop;Alternative Rock;Dance;Electronic;Pop;Rock|True Faith (song)",
 "Vampire Weekend|A-Punk|2007|_XC2mqcMMGQ|Vampire Weekend|S4760|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|A-Punk",
-"Grandmaster Flash and the Furious Five|White Lines (Don't Don't Do It)|1983|7bCdrDhUjPo|Melle Mel|S460|Conscious Hip Hop;Disco Rap;East Coast Hip Hop;Hip Hop|",
+"Grandmaster Flash and the Furious Five|White Lines (Don't Don't Do It)|1983|DwRXI-y6M9o|Melle Mel|S460|Conscious Hip Hop;Disco Rap;East Coast Hip Hop;Hip Hop|",
 "The Chemical Brothers|Block Rockin' Beats|1997|iTxOKsyZ0Lw|The Chemical Brothers|S5|Big Beat;Breakbeat;Dance;Electronic;Electronic Dance Music|Block Rockin' Beats",
 "Donna Summer|Love to Love You Baby|1975|kt0ZUCAI6pc|Donna Summer|S714|Disco;Smooth Soul;Dance;R&B;Soul|Love to Love You Baby (song)",
 "Daft Punk|Digital Love|2001|ECC9fVomlJU|Daft Punk|S1476|French House;Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House|Digital Love (Daft Punk song)",
