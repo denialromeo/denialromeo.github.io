@@ -22,7 +22,7 @@ const songs = [
 "The Clash|London Calling|1979|EfK-WX2pa8c|The Clash|S571|Punk Rock;Rock|London Calling (song)",
 "The Rolling Stones|Sympathy for the Devil|1968|Jwtyn-L-2gQ|The Rolling Stones|S1705|Blues Rock;Rock|Sympathy for the Devil",
 "The Beatles|Strawberry Fields Forever|1967|HtUH9z_Oey8|The Beatles|S931|Progressive Pop;Psychedelic Pop;Pop|Strawberry Fields Forever",
-"Little Richard|Tutti Frutti|1955|F13JNjpNW6c|Little Richard|S1296|Rock & Roll;Rock|Tutti Frutti (song)",
+"Little Richard|Tutti Frutti|1955|Cj059o9OwqY|Little Richard|S1296|Rock & Roll;Rock|Tutti Frutti (song)",
 "Led Zeppelin|Stairway to Heaven|1971|Ly6ZhQVnVow|Led Zeppelin|S2567|Folk Rock;Hard Rock;Progressive Rock;Rock|Stairway to Heaven",
 "Grandmaster Flash and the Furious Five|The Message|1982|PobrSpMwKk4|Grandmaster Flash and the Furious Five|S481|Conscious Hip Hop;East Coast Hip Hop;Hip Hop|The Message (Grandmaster Flash and the Furious Five song)",
 "Ray Charles|What'd I Say|1959|jBYq0AYTj-Y|Ray Charles|S1171|Rhythm & Blues;R&B|What'd I Say",
