@@ -6058,7 +6058,7 @@ const songs = [
 "Elton John|Someone Saved My Life Tonight|1975|2TfuRv4Wa_g|Elton John|S6241|Piano Rock;Pop;Pop Rock;Rock|Someone Saved My Life Tonight",
 "Glenn Miller|Tuxedo Junction|1940|yZ1TEqpMgZs|Glenn Miller|S6581|Big Band;Swing;Jazz|Tuxedo Junction",
 "Throbbing Gristle|United|1978|5XpqCxJZdGs|Throbbing Gristle|S8752|Industrial;Minimal Synth;Electronic;Experimental;Industrial Music;Minimal Wave|United/Zyklon B Zombie",
-"Badfinger|Day After Day|1971|-LZxP2ID0G0|Badfinger|S5302|Power Pop;Pop;Pop Rock;Rock|Day After Day (Badfinger song)",
+"Badfinger|Day After Day|1971|HDXgApToUSQ|Badfinger|S5302|Power Pop;Pop;Pop Rock;Rock|Day After Day (Badfinger song)",
 "Julieta Venegas|De mis pasos|1997|kcwfjNduQok|Julieta Venegas|S13529|Alternative Rock;Latin Alternative;Hispanic Music;Latin American Music;Regional Music;Rock|",
 "Steve Reich|Come Out|1968|aVXc9Veo_B8|Steve Reich|S15071|Spoken Word;Tape Music;Experimental|",
 "Belle and Sebastian|This Is Just Another Modern Rock Song|1998|HT0grH_H-_M|Belle and Sebastian|S10139|Chamber Pop;Twee Pop;Baroque Pop;Indie Pop;Pop|Jonas Brothers",
