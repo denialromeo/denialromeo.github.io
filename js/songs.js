@@ -2049,7 +2049,7 @@ const songs = [
 "Panjabi MC|Mundian to Bach Ke / Beware of the Boys|2003|x9WO2ieJMYk|Panjabi MC|S2252|Bhangra;Hip Hop;Regional Music;South Asian Music|Mundian To Bach Ke",
 "Hank Ballard and the Midnighters|Work with Me Annie|1954|bvzSlCH9AsM|Hank Ballard|S1333|Doo-Wop;Rhythm & Blues;R&B;Vocal Group|",
 "Whitney Houston|How Will I Know|1985|m3-hY-hlhBg|Whitney Houston|S1952|Dance-Pop;Dance;Pop|How Will I Know",
-"Jimi Hendrix|Star Spangled Banner|1970|BZMQJy53lBg|Jimi Hendrix|S3473|Film Soundtrack;Psychedelic Rock;Rock;Soundtracks|The Star-Spangled Banner",
+"Jimi Hendrix|Star Spangled Banner|1970|GDd-fPBDsnM|Jimi Hendrix|S3473|Film Soundtrack;Psychedelic Rock;Rock;Soundtracks|The Star-Spangled Banner",
 "Nirvana|Where Did You Sleep Last Night?|1994|hEMm7gxBYSc|Kurt Cobain|S3668|Acoustic Rock;Alternative Rock;Rock|In the Pines",
 "The Libertines|What a Waster|2002|VDdHnd1lL1s|The Libertines|S1507|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|What a Waster",
 "Air|All I Need|1998|EozcNss6A8U|Air (French band)|S2152|Ambient Pop;Downtempo;Electronic;Pop|All I Need (Air song)",
