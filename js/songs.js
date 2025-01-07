@@ -6717,7 +6717,7 @@ const songs = [
 "Hard-Fi|Hard to Beat|2005|ch6qy0qdifc|Hard-Fi|S3034|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|",
 "Neon Indian|Deadbeat Summer|2009|sBVHH9Gg2mA|Neon Indian|S7696|Chillwave;Hypnagogic Pop;Synthpop;Electronic;Indietronica;Neo-Psychedelia;Pop;Psychedelic Rock;Rock|",
 "Belle and Sebastian|I Want the World to Stop|2010|wjW3tZhdnyw?start=32|Belle and Sebastian|S5407|Twee Pop;Indie Pop;Pop|",
-"Merle Haggard|Workin' Man Blues|1969|6EwK0NsKdDY|Merle Haggard|S7521|Bakersfield Sound;Country;Honky Tonk|Workin' Man Blues",
+"Merle Haggard|Workin' Man Blues|1969|EVA35dI0MTk|Merle Haggard|S7521|Bakersfield Sound;Country;Honky Tonk|Workin' Man Blues",
 "Alphabeat|Fascination|2007|-8UxX5STKL4|Alphabeat|S4765|Power Pop;Sunshine Pop;Pop;Pop Rock;Rock|",
 "Shut Up And Dance|Raving I'm Raving|1992|dZnanvrPj2I|Shut Up and Dance (duo)|S2940|Breakbeat Hardcore;Breakbeat;Dance;Electronic;Electronic Dance Music;Hardcore [EDM]|",
 "Justin Hinds & The Dominoes|Carry, Go, Bring, Home|1964|AReCWfFdXm8|Justin Hinds|S7033|Jamaican Ska;Caribbean Music;Jamaican Music;Regional Music;Ska|",
