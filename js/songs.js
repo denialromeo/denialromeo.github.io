@@ -10666,7 +10666,7 @@ const songs = [
 "Generationals|Ten-Twenty-Ten|2011|waD2WxEFUlk|Generationals|S6522|Indie Pop;Pop|",
 "Pearl Jam|Rearviewmirror|1993|bf2LDmkzmwo|Pearl Jam|S7919|Grunge;Alternative Rock;Rock|Rearviewmirror",
 "Sagittarius|My World Fell Down|1967|xYol-vW_brI|Sagittarius (band)|S14984|Baroque Pop;Psychedelic Pop;Pop|My World Fell Down",
-"T99|Anasthasia|1991|Mx3LccRvidg|T99|S12393|Breakbeat Hardcore;Techno;Breakbeat;Dance;Electronic;Electronic Dance Music;Hardcore [EDM]|",
+"T99|Anasthasia|1991|1v2oLxr2EZ8|T99|S12393|Breakbeat Hardcore;Techno;Breakbeat;Dance;Electronic;Electronic Dance Music;Hardcore [EDM]|",
 "jj|Ecstasy|2009|bKwkxM0dZ8Q|JJ (Swedish band)|S11214|Balearic Beat;Indie Pop;Dance;Electronic;Electronic Dance Music;House;Pop|",
 "Jackie DeShannon|Put a Little Love in Your Heart|1969|CZ8K1sRibCY|Jackie DeShannon|S11104|Blue Eyed Soul;Pop|Put a Little Love in Your Heart",
 "Jack Scott|What in the World's Come Over You|1959|iksyruTrYZc|Jack Scott (singer)|S11101|Rock & Roll;Teen Pop;Pop;Rock|What in the World's Come Over You",
