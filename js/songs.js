@@ -7403,7 +7403,7 @@ const songs = [
 "The Wrens|She Sends Kisses|2003|2jK5qC6jdzY|The Wrens|S4685|Indie Rock;Alternative Rock;Rock|",
 "The Sabres of Paradise|Wilmot|1994|VK4lDJRkHYw|The Sabres of Paradise|S115|Dub;Electronic;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
 "The Beatles|Free As a Bird|1995|ODIvONHPqpk|The Beatles|S5383|Pop Rock;Pop;Rock|Free as a Bird",
-"Argent|Hold Your Head Up|1971|k5fYPz8dKbg|Argent|S5232|Hard Rock;Progressive Rock;Rock|Hold Your Head Up",
+"Argent|Hold Your Head Up|1971|q7ECmSUD2xw|Argent|S5232|Hard Rock;Progressive Rock;Rock|Hold Your Head Up",
 "Frankie Knuckles|Baby Wants to Ride|1987|2EtEPT3DvdM|Jamie Principle|S6455|Chicago House;Dance;Electronic;Electronic Dance Music;House|Frankie Knuckles",
 "Emerson, Lake & Palmer|Karn Evil 9 - First Impression, Part 1|1973|EKAEqeHeDSo|Emerson, Lake & Palmer|S6271|Symphonic Prog;Progressive Rock;Rock|",
 "The Decemberists|Here I Dreamt I Was an Architect|2002|qkWrnWRKDJQ?start=38|The Decemberists|S4674|Folk Rock;Indie Folk;Indie Pop;Contemporary Folk;Folk;Pop;Rock|",
