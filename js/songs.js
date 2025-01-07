@@ -7762,7 +7762,7 @@ const songs = [
 "Bruce Springsteen|Tougher Than the Rest|1987|_91hNV6vuBY|Bruce Springsteen|S5653|Heartland Rock;Rock|Tougher Than the Rest",
 "Three Dog Night|Joy to the World|1970|as8K3H7Rros|Three Dog Night|S3902|Pop Rock;Pop;Rock|Joy to the World (Three Dog Night song)",
 "Kacey Musgraves|Space Cowboy|2018|Kw0ih4jPOBo|Kacey Musgraves|S16571|Contemporary Country;Country Pop;Singer/Songwriter;Country;Pop|Space Cowboy (Kacey Musgraves song)",
-"Double Exposure|Ten Percent|1976|tGrKcqcHHcE|Double Exposure (band)|S12867|Disco;Philly Soul;Dance;R&B;Soul|Ten Percent (song)",
+"Double Exposure|Ten Percent|1976|rP0EPsS3OdQ|Double Exposure (band)|S12867|Disco;Philly Soul;Dance;R&B;Soul|Ten Percent (song)",
 "Buddy Holly & The Crickets|Well All Right|1958|P5AnUctpQXI|Buddy Holly|S5667|Pop;Rock & Roll;Rock|The Crickets",
 "tUnE-yArDs|Gangsta|2011|EbkMPHW67xM|Tune-Yards|S12484|Art Pop;Indie Pop;Pop|",
 "Cyndi Lauper|All Through the Night|1983|ZONKoKIQ9RY|Cyndi Lauper|S5933|Synthpop;Electronic;Pop|All Through the Night (Jules Shear song)",
