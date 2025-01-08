@@ -10705,7 +10705,7 @@ const songs = [
 "Deftones|Be Quiet and Drive (Far Away)|1997|_t1vqLwqbyA|Deftones|S297|Alternative Metal;Metal;Rock|",
 "Jonathan Richman/The Modern Lovers|She Cracked|1976|oJfPGgr8080|The Modern Lovers|S3635|Garage Rock;Proto-Punk;Rock|Jonathan Richman",
 "Badly Drawn Boy|I Need a Sign|1998|TPm7BxTmp98|Badly Drawn Boy|S10068|Indie Pop;Singer/Songwriter;Pop|",
-"Die Türen|Indie Stadt|2007|H9LhAyz8txQ|Die Türen|S6070|Indie Pop;Pop|",
+"Die Türen|Indie Stadt|2007|h6GbWb9oLi4|Die Türen|S6070|Indie Pop;Pop|",
 "Los Punsetes|Tus amigos|2010|48PDX5J22LQ|Los Punsetes|S7313|Indie Pop;Pop|",
 "Mouloudji|Le Déserteur|1955|5uPxyRYI4K0?start=3|https://fr.wikipedia.org/wiki/Marcel_Mouloudji|S7623|Chanson;Regional Music|Le Déserteur (Boris Vian song)",
 "Johnny Hallyday|Retiens la nuit|1961|6P99T_R0EQw|Johnny Hallyday|S6981|Film Soundtrack;Yé-yé;Pop;Soundtracks|Retiens la nuit",
