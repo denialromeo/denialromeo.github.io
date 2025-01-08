@@ -1224,7 +1224,7 @@ const songs = [
 "Todd Terje|Inspector Norse|2012|ebjXsc0UjdQ|Todd Terje|S5046|Nu-Disco;Space Disco;Dance;Disco;Electro-Disco;Electronic;Electronic Dance Music;House|",
 "Desmond Dekker|007 (Shanty Town)|1967|kpVxwWQjIy0|Desmond Dekker|S960|Jamaican Ska;Rocksteady;Caribbean Music;Jamaican Music;Regional Music;Ska|007 (Shanty Town)",
 "Nat King Cole|(Get Your Kicks On) Route 66|1946|dCYApJtsyd0|Nat King Cole|S2664|Vocal Jazz;Jazz|(Get Your Kicks on) Route 66",
-"ANOHNI|Drone Bomb Me|2016|SE_ecAywZhs|Anohni|S16027|Art Pop;Electropop;Electronic;Pop|Drone Bomb Me",
+"ANOHNI|Drone Bomb Me|2016|aUEoic7ro_o|Anohni|S16027|Art Pop;Electropop;Electronic;Pop|Drone Bomb Me",
 "Gotye|Somebody That I Used to Know|2011|8UVNT4wvIGY|Gotye|S5012|Art Pop;Indie Pop;Pop|Somebody That I Used to Know",
 "U2|I Will Follow|1980|-sLzV00gNUo|U2|S570|Post-Punk;Rock|I Will Follow",
 "The Chiffons|He's So Fine|1963|MGkhe0DW5Oc|The Chiffons|S1056|Brill Building;Girl Group;Pop|He's So Fine",
