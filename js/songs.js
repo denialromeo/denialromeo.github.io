@@ -3398,7 +3398,7 @@ const songs = [
 "Soda Stereo|Cuando pase el temblor|1985|ZNzYr4U7Zs8|Soda Stereo|S8476|Latin Alternative;New Wave;Hispanic Music;Latin American Music;Regional Music;Rock|",
 "Jethro Tull|Locomotive Breath|1971|eSUdlUmtg3Q|Jethro Tull (band)|S6906|Progressive Rock;Rock|Locomotive Breath",
 "Dennis Brown|Money In My Pocket|1979|O1VbRLBY6vA|Dennis Brown|S2598|Dub;Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
-"Mory Kanté|Yé ké yé ké|1987|bJNiMNUSrw8|Mory Kanté|S7609|Mande Music;African Music;Regional Music;West African Music|Yé ké yé ké",
+"Mory Kanté|Yé ké yé ké|1987|AriwmsYtRUk|Mory Kanté|S7609|Mande Music;African Music;Regional Music;West African Music|Yé ké yé ké",
 "Jarvis Cocker|Running the World|2006|ahzNnXex5fY|Jarvis Cocker|S4024|Britpop;Singer/Songwriter;Alternative Rock;Pop;Pop Rock;Rock|",
 "Frank Zappa|Trouble Comin' Every Day|1966|oo4EnABWB4Y|Frank Zappa|S4101|Blues Rock;Experimental Rock;Garage Rock;Rock|",
 "Annie|Chewing Gum|2004|uutT2pMEPqk|Annie (singer)|S2462|Dance-Pop;Electropop;Dance;Electronic;Pop|Chewing Gum (song)",
