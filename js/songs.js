@@ -4999,7 +4999,7 @@ const songs = [
 "Sarah McLachlan|Possession|1993|itydwcyywBc|Sarah McLachlan|S8319|Pop Rock;Singer/Songwriter;Pop;Rock|Possession (Sarah McLachlan song)",
 "Willie Colón & Ruben Blades|Pedro Navaja|1978|k62zZBeevWQ|Rubén Blades|S13648|Salsa Dura;Hispanic Music;Latin American Music;Regional Music;Salsa|Pedro Navaja",
 "Bright Eyes|Lua|2004|TSBs-hiapo4|Bright Eyes (band)|S4629|Folk Pop;Indie Folk;Singer/Songwriter;Contemporary Folk;Folk;Pop|Lua (song)",
-"The Rolling Stones|Emotional Rescue|1980|PTxQ601mlAY|The Rolling Stones|S1847|Funk Rock;Pop Rock;Pop;Rock|",
+"The Rolling Stones|Emotional Rescue|1980|9iw_BE_X9sA|The Rolling Stones|S1847|Funk Rock;Pop Rock;Pop;Rock|",
 "Erasure|A Little Respect|1988|RiKVjS3gR88|Erasure|S6293|Synthpop;Electronic;Pop|A Little Respect",
 "Jim Europe's 369th Infantry \"Hellfighters\" Band|Memphis Blues|1919|4CUkTUZbTpE|James Reese Europe|S13519|Ragtime;American Folk Music;Folk;Regional Music;Traditional Folk Music|",
 "Belle and Sebastian|Step into My Office, Baby|2003|xhHsrWXX1I8|Belle and Sebastian|S5404|Twee Pop;Indie Pop;Pop|Step into My Office, Baby",
