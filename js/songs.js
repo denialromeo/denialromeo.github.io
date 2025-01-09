@@ -7700,7 +7700,7 @@ const songs = [
 "Led Zeppelin|Houses of the Holy|1975|ohDQ1FUUjPs|Led Zeppelin|S11387|Hard Rock;Rock|",
 "Andy Kim|Rock Me Gently|1974|9ym3RlvVR9M?start=5|Andy Kim|S9993|Pop Rock;Pop;Rock|Rock Me Gently (Andy Kim song)",
 "Steely Dan|The Boston Rag|1973|j3HBfcFPTFI|Steely Dan|S3852|Pop Rock;Progressive Pop;Pop;Rock|",
-"Ruby and the Romantics|Our Day Will Come|1963|qw9RVjEN9OI|Ruby & the Romantics|S8263|Pop Soul;Pop;R&B;Soul|Our Day Will Come",
+"Ruby and the Romantics|Our Day Will Come|1963|i6FpsXojEoQ|Ruby & the Romantics|S8263|Pop Soul;Pop;R&B;Soul|Our Day Will Come",
 "Doughboys|Shine|1993|Ez3iGG51MiA|The Doughboys (band)|S6146|Alternative Rock;Melodic Hardcore;Hardcore Punk;Punk Rock;Rock|Crush (Doughboys album)",
 "Rollins Band|Liar|1994|awY1MRlMKMc|Rollins Band|S12105|Alternative Metal;Alternative Rock;Metal;Rock|Liar (Rollins Band song)",
 "Ghost|Dance Macabre|2018|7Gr63DiEUxw|Ghost (Swedish band)|S16913|AOR;Hard Rock;Rock|Dance Macabre (song)",
