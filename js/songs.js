@@ -2892,7 +2892,7 @@ const songs = [
 "Suede|Trash|1996|WaCY1Lf5VUw|Suede (band)|S39|Britpop;Glam Rock;Alternative Rock;Pop;Pop Rock;Rock|",
 "Bobby Shmurda|Hot Nigga|2014|vJwKKKd2ZYE|Bobby Shmurda|S9633|East Coast Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
 "Dr. John|Right Place Wrong Time|1973|nnLP3ht8yP8|Dr. John|S1561|Funk;New Orleans R&B;R&B|Right Place, Wrong Time (song)",
-"Slade|Coz I Luv You|1971|4BqJUiaINGg|Slade|S2310|Glam Rock;Rock|Coz I Luv You",
+"Slade|Coz I Luv You|1971|fEFoJp1bS4c|Slade|S2310|Glam Rock;Rock|Coz I Luv You",
 "MC Hammer|U Can't Touch This|1990|otCpCn0l4Wo|MC Hammer|S2013|Pop Rap;West Coast Hip Hop;Hip Hop|U Can't Touch This",
 "Tommy Tucker|Hi-Heel Sneakers|1964|K9lIEyWYwvo|Tommy Tucker (singer)|S3911|Electric Blues;Soul Blues;Blues|Hi-Heel Sneakers",
 "Elvis Costello|Pills & Soap|1983|aTn4qGHgzFE|Elvis Costello|S459|New Wave;Post-Punk;Rock|",
