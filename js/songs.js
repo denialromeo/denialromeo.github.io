@@ -9528,7 +9528,7 @@ const songs = [
 "Paul Robeson|Ballad for Americans|1940|LHCQGQdeL68|Paul Robeson|S15776|Traditional Pop;Pop|Ballad for Americans",
 "Madonna|This Used to Be My Playground|1992|RhXDO2a3-sE|Madonna (entertainer)|S7372|Adult Contemporary;Pop|This Used to Be My Playground",
 "The Fiery Furnaces|Here Comes the Summer|2005|d7cnThecz_E|The Fiery Furnaces|S10807|Art Pop;Indietronica;Progressive Pop;Electronic;Pop|Remember (The Fiery Furnaces album)",
-"Blood, Sweat & Tears|God Bless the Child|1969|1gF3S79nQiQ|Blood, Sweat & Tears|S13159|Blue Eyed Soul;Jazz-Rock;Pop;Rock|",
+"Blood, Sweat & Tears|God Bless the Child|1969|1gF3S79nQiQ|Blood, Sweat & Tears|S13159|Blue Eyed Soul;Jazz-Rock;Pop;Rock|God Bless the Child (Billie Holiday song)",
 "Jim Ed Brown|Pop a Top|1967|xo1Fxt3pc1A|Jim Ed Brown|S14557|Honky Tonk;Country|",
 "Laura Nyro & Labelle|The Bells|1971|PtAskI1gq2U|Labelle|S11374|Pop Soul;Rhythm & Blues;Pop;R&B;Soul|Laura Nyro",
 "Phil Collins|You Can't Hurry Love|1982|Ao9SIKC48vg|Phil Collins|S13923|Blue Eyed Soul;Pop Soul;Pop;R&B;Soul|You Can't Hurry Love",
