@@ -1613,7 +1613,7 @@ const songs = [
 "Dion|I Wonder Why|1958|pAPEfdjvTqE|Dion and the Belmonts|S1216|Doo-Wop;R&B;Vocal Group|I Wonder Why",
 "Clarence \"Pine Top\" Smith|Pinetop's Boogie Woogie|1928|gwj04mvn0Oc|Pinetop Smith|S2744|Boogie Woogie;American Folk Music;Blues;Folk;Regional Music;Traditional Folk Music|",
 "Dick Dale|Miserlou|1962|sYjo__4COIo|Dick Dale|S3315|Surf Rock;Rock;Surf Music|Misirlou",
-"Nick Cave|Jubilee Street|2013|QyRFAw5La38|Nick Cave|S9499|Art Rock;Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop;Rock|Jubilee Street (song)",
+"Nick Cave|Jubilee Street|2013|kf_zVzvYWuw|Nick Cave|S9499|Art Rock;Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop;Rock|Jubilee Street (song)",
 "Ariana Grande|no tears left to cry|2018|ffxKSjUwKdU|Ariana Grande|S16531|Contemporary R&B;Dance-Pop;Electropop;Synthpop;Dance;Electronic;Pop;R&B|No Tears Left to Cry",
 "The Isley Brothers|It's Your Thing|1969|Tqc_EhmL8-E|The Isley Brothers|S883|Funk;Soul;R&B|",
 "XTC|Dear God|1987|p554R-Jq43A|XTC|S1974|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|Dear God (XTC song)",
