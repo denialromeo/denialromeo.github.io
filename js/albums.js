@@ -2141,7 +2141,7 @@ const albums = [
 "Shivkumar Sharma, Brijbushan Kabra & Hariprasad Chaurasia|Call of the Valley|1968|OLAK5uy_lxD8S3r_kjKiMkIeVQ1BsNrmjN2pYAbys|A2175|Call of the Valley|Shivkumar Sharma|Hindustani Classical Music;Classical Music;Regional Music;South Asian Classical Music;South Asian Music",
 "Hop Along|Painted Shut|2015|OLAK5uy_mPgWDYCKhuuGqF4KWwk3TknwFTOyxW-OY|A5612|Painted Shut|Hop Along|Indie Rock;Alternative Rock;Rock",
 "Elvis Costello and The Attractions|Punch the Clock|1983|OLAK5uy_mRQT5FBfZ18m9x2aY4R1dxa6Vr23KDB30|A576|Punch the Clock|Elvis Costello|New Wave;Pop Soul;Pop;R&B;Rock;Soul",
-"Bat for Lashes|The Haunted Man|2012|PLJUZg_3PHtTx1Z9yEqiPhr3j5LpiHTS44|A5193|The Haunted Man (album)|Bat for Lashes|Art Pop;Pop",
+"Bat for Lashes|The Haunted Man|2012|OLAK5uy_nBv5Y6-PLoZwg3yBTiINXO_uGscU1FAwY|A5193|The Haunted Man (album)|Bat for Lashes|Art Pop;Pop",
 "Pet Shop Boys|Please|1986|OLAK5uy_k4hEC-21MeJiwIq-UjbV8NK-FPkP6Yzt0|A676|Please (Pet Shop Boys album)|Pet Shop Boys|Dance-Pop;Synthpop;Dance;Electronic;Pop",
 "Radio Futura|La canción de Juan Perro|1987|OLAK5uy_l9su2wn5UHARFu6H5XnZJIvxKX75HqBVU|A4722|https://en.wikipedia.org/wiki/Radio_Futura#Quintet:_%22La_Canci%C3%B3n_de_Juan_Perro%22|Radio Futura|New Wave;Pop Rock;Pop;Rock",
 "Kurt Vile|b'lieve i'm goin down|2015|OLAK5uy_nTmBo8pvzipI10Ez4Z-n8qGtpCb2lU0gU|A5554|B'lieve I'm Goin Down...|Kurt Vile|Folk Rock;Singer/Songwriter;Rock",
