@@ -1097,7 +1097,7 @@ const songs = [
 "Bob Dylan|I Want You|1966|4oSorUr94PA|Bob Dylan|S1432|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|I Want You (Bob Dylan song)",
 "Arcade Fire|The Suburbs|2010|5Euj9f3gdyM|Arcade Fire|S5227|Art Rock;Indie Rock;Alternative Rock;Rock|",
 "King Krule|Dum Surfer|2017|K5-f1Bnltu8|King Krule|S16423|Art Rock;Indie Rock;Post-Punk;Alternative Rock;Rock|",
-"Duke Ellington|Black and Tan Fantasy|1927|GN3_c1OnA3s|Duke Ellington|S2677|Big Band;Jazz|Black and Tan Fantasy",
+"Duke Ellington|Black and Tan Fantasy|1927|TdcFbqhgI4w|Duke Ellington|S2677|Big Band;Jazz|Black and Tan Fantasy",
 "Madness|Our House|1982|oXA6CLTDekw|Madness (band)|S499|New Wave;Pop Rock;Pop;Rock|Our House (Madness song)",
 "The Doobie Brothers|What a Fool Believes|1978|qKYQNtF11eg|The Doobie Brothers|S1573|Blue Eyed Soul;Yacht Rock;Pop;Pop Rock;Rock|What a Fool Believes",
 "Warren G|Regulate|1994|1plPyJdXKIY|Warren G|S97|G-Funk;West Coast Hip Hop;Hip Hop|Regulate (song)",
