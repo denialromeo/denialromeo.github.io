@@ -2988,7 +2988,7 @@ const albums = [
 "Wayne Shorter|The All Seeing Eye|1966|OLAK5uy_nBm8UC7XfAi3on2pirbUD1KY6a2w7jbLA|A2360|The All Seeing Eye|Wayne Shorter|Avant-Garde Jazz;Jazz",
 "Canned Heat|Boogie with Canned Heat|1968|OLAK5uy_mDI7gh6Xa54j_TfvAzbbU77eBXSTR8qzw|A1657|Boogie with Canned Heat|Canned Heat|Boogie Rock;Blues Rock;Rock",
 "Ol' Dirty Bastard|Return to the 36 Chambers: The Dirty Version|1995|OLAK5uy_m-dn_O_kguFShQ4LTkQBTlvga1eOdjcV0|A1720|Return to the 36 Chambers: The Dirty Version|Ol' Dirty Bastard|Hardcore Hip Hop;Hip Hop",
-"Don Henley|Building the Perfect Beast|1984|PLSJPquRLE0wT8v6LMDicMWOZvw7CGoidB|A630|Building the Perfect Beast|Don Henley|Pop Rock;Pop;Rock",
+"Don Henley|Building the Perfect Beast|1984|OLAK5uy_ly5zR4htIJHySUQr6I_iyCZJSfpjsUCHk|A630|Building the Perfect Beast|Don Henley|Pop Rock;Pop;Rock",
 "Blondie|Plastic Letters|1977|OLAK5uy_l_qiV_crW5svh_ZASPKOAMXhyocIgldd4|A1434|Plastic Letters|Debbie Harry|New Wave;Pop Rock;Pop;Rock",
 "Ulrich Schnauss|A Strangely Isolated Place|2003|OLAK5uy_kHic1jnFHYnIwlpLwhtOx9mUOAq2yBDWg|A4966|A Strangely Isolated Place|Ulrich Schnauss|Downtempo;Electronic",
 "Nick Lowe|Labour of Lust|1979|OLAK5uy_nQcl3JFHwV2NqtyCer4YWPtZIBqwbz870|A478|Labour of Lust|Nick Lowe|Power Pop;Pub Rock;Pop;Pop Rock;Rock",
