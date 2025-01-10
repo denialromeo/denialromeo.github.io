@@ -1552,7 +1552,7 @@ const albums = [
 "Underworld|Second Toughest in the Infants|1996|OLAK5uy_n87_tujzscISac_VLcYLnR6-Ay-q05M_U|A967|Second Toughest in the Infants|Underworld (band)|Techno;Dance;Electronic;Electronic Dance Music",
 "David Sylvian|Brilliant Trees|1984|OLAK5uy_lZDgAzsShgBuySm0WMZ92dhQSCQuf4XRo|A628|Brilliant Trees|David Sylvian|Art Pop;Pop",
 "Nicolas Jaar|Space Is Only Noise|2011|OLAK5uy_lPZ0NSNkSoPRIgghc7Oejf8Bpo5aR2m_w|A5153|Space Is Only Noise|Nicolas Jaar|Microhouse;Dance;Electronic;Electronic Dance Music;House",
-"Stereolab|Transient Random-Noise Bursts with Announcements|1993|PL755430DE8FA17338|A1716|Transient Random-Noise Bursts with Announcements|Stereolab|Experimental Rock;Noise Pop;Alternative Rock;Rock",
+"Stereolab|Transient Random-Noise Bursts with Announcements|1993|OLAK5uy_lsZfKhBVB6tU1kS3O2386bFkBpVJod9TI|A1716|Transient Random-Noise Bursts with Announcements|Stereolab|Experimental Rock;Noise Pop;Alternative Rock;Rock",
 "Bunny Wailer|Blackheart Man|1976|OLAK5uy_k2mQzaYdIjGL8Xjn4wZZEsmdUbDBuwP7Y|A365|Blackheart Man|Bunny Wailer|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Four Tops|Reach Out|1967|OLAK5uy_l_WLQNCsAkkJ5fO8GU1yXPQ4T3xXEcGdY|A1231|Reach Out (Four Tops album)|Four Tops|Soul;R&B",
 "Bad Company|Bad Company|1974|OLAK5uy_kLJwdJol3qTCRujrVkTJctelJNS8ZzWgY|A1182|Bad Company (album)|Bad Company|Blues Rock;Hard Rock;Rock",
