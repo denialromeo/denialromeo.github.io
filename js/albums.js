@@ -455,7 +455,7 @@ const albums = [
 "Deep Purple|Deep Purple in Rock|1970|OLAK5uy_nqVaYvdE___OMWs7Hu58WMEZJln-xhVmM|A197|Deep Purple in Rock|Deep Purple|Hard Rock;Rock",
 "Elliott Smith|XO|1998|OLAK5uy_kO6YipcR0bwlJu0HLMhNMGLbea2KYgkfA|A1034|XO (Elliott Smith album)|Elliott Smith|Indie Pop;Singer/Songwriter;Pop",
 "Fairport Convention|Liege and Lief|1969|OLAK5uy_mBym1ep-QysZNmHOxPo3-MaPIVFFeNj8E|A177|Liege & Lief|Fairport Convention|British Folk Rock;Folk Rock;Rock",
-"Run the Jewels|Run the Jewels 2|2014|PLx4ScG2RIdEq1wY9XbTpwNTtULahtb3dc|A5392|Run the Jewels 2|Run the Jewels|Hardcore Hip Hop;Hip Hop",
+"Run the Jewels|Run the Jewels 2|2014|OLAK5uy_k5FUBCbrMBf9hLnmZy8DkFq06M8ejpIkw|A5392|Run the Jewels 2|Run the Jewels|Hardcore Hip Hop;Hip Hop",
 "The Clash|Sandinista!|1980|OLAK5uy_nRYHmzH9v6SZyoEFHswMeYp-np0x_dNaE|A490|Sandinista!|The Clash|Punk Rock;Rock",
 "X|Los Angeles|1980|OLAK5uy_lSsQHGzFpBUGiskbh2RxVIeuzB4SSsbtk|A498|Los Angeles (X album)|X (American band)|Punk Rock;Rock",
 "Grateful Dead|Workingman's Dead|1970|OLAK5uy_ko_3E6rJJE0FxW4Yh5wCBdbk_PVENlY7k|A194|Workingman's Dead|Grateful Dead|Country Rock;Folk Rock;Rock",
