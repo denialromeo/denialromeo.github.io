@@ -3136,7 +3136,7 @@ const songs = [
 "Dusty Springfield|Wishin' and Hopin'|1964|vbAoOeXC2Sg?start=5|Dusty Springfield|S4398|Pop Soul;Pop;R&B;Soul|Wishin' and Hopin'",
 "Chvrches|Recover|2013|SQc7b-nKsLo|Chvrches|S9420|Electropop;Synthpop;Electronic;Pop|",
 "Bob Marley and the Wailers|Could You Be Loved|1980|CRkfqH1r714|Bob Marley|S2894|Reggae;Caribbean Music;Jamaican Music;Regional Music|",
-"Ted Nugent|Stranglehold|1975|4kBIhOn_9CM|Ted Nugent|S12404|Hard Rock;Rock|Stranglehold (Ted Nugent song)",
+"Ted Nugent|Stranglehold|1975|yo8N-ziyu5I|Ted Nugent|S12404|Hard Rock;Rock|Stranglehold (Ted Nugent song)",
 "Smashing Pumpkins|Mayonaise|1993|s7-30i1f5e0|The Smashing Pumpkins|S12239|Shoegaze;Alternative Rock;Rock|Mayonaise (song)",
 "The Diamonds|Little Darlin'|1957|ysVLzXWnTzA|The Diamonds|S1242|Doo-Wop;R&B;Vocal Group|Little Darlin'",
 "A Certain Ratio|Shack Up|1980|cKvXQVilZ8U|A Certain Ratio|S568|Dance-Punk;Post-Punk;Rock|",
