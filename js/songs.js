@@ -2413,7 +2413,7 @@ const songs = [
 "Interpol|NYC|2002|5GRNCNZ_TL4|Interpol (band)|S4612|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|Say Hello to the Angels / NYC",
 "Harry Nilsson|One|1968|DYzY7-V5vxY|Harry Nilsson|S3666|Baroque Pop;Pop|One (Harry Nilsson song)",
 "Elvis Presley|Blue Moon of Kentucky|1954|Ggi5Tq3XDRI|Elvis Presley|S1602|Rockabilly;Rock;Rock & Roll|Blue Moon of Kentucky",
-"Heart|Barracuda|1977|p6v6wWmEYvY|Heart (band)|S6695|Hard Rock;Rock|Barracuda (song)",
+"Heart|Barracuda|1977|ykvgo0XcKxg|Heart (band)|S6695|Hard Rock;Rock|Barracuda (song)",
 "Happy Mondays|Hallelujah|1989|dAk6Euat-6A|Happy Mondays|S2000|Alternative Dance;Baggy / Madchester;Alternative Rock;Dance;Rock|",
 "The Jesus and Mary Chain|Some Candy Talking|1986|oIIdLAQ3nvc|The Jesus and Mary Chain|S366|Noise Pop;Post-Punk;Alternative Rock;Rock|",
 "Camera Obscura|Lloyd, I'm Ready to Be Heartbroken|2006|9gnsWamIB4s|Camera Obscura (band)|S4005|Chamber Pop;Twee Pop;Baroque Pop;Indie Pop;Pop|",
