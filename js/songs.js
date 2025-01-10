@@ -3523,7 +3523,7 @@ const songs = [
 "Drake|Know Yourself|2015|IV-XT27UOHo|Drake (musician)|S9743|Pop Rap;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|If You're Reading This It's Too Late",
 "The Platters|My Prayer|1956|DE0UMnrQBD0|The Platters|S3709|Doo-Wop;Traditional Pop;Pop;R&B;Vocal Group|",
 "Christina Aguilera|Beautiful|2002|eAfyFTzZDMM|Christina Aguilera|S2979|Adult Contemporary;Pop|Beautiful (Christina Aguilera song)",
-"Rich Gang|Lifestyle|2014|Mi2BVYj2Q7M|Rich Gang (album)|S9631|Pop Rap;Southern Hip Hop;Hip Hop|Lifestyle (Rich Gang song)",
+"Rich Gang|Lifestyle|2014|nGt_JGHYEO4|Rich Gang (album)|S9631|Pop Rap;Southern Hip Hop;Hip Hop|Lifestyle (Rich Gang song)",
 "Tom Petty|Learning to Fly|1991|s5BJXwNeKsQ|Tom Petty|S8791|Heartland Rock;Pop Rock;Pop;Rock|Learning to Fly (Tom Petty and the Heartbreakers song)",
 "The Beatles|If I Fell|1964|F_80s6S_7Vw|The Beatles|S4851|Merseybeat;Beat Music;Pop;Pop Rock;Rock|If I Fell",
 "Bon Iver|Calgary|2011|0KrmxavLIRM|Bon Iver|S4947|Art Pop;Pop|",
