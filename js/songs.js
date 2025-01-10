@@ -1879,7 +1879,7 @@ const songs = [
 "Electric Six|Danger! High Voltage|2002|2a4gyJsY0mc|Electric Six|S2227|Dance-Punk;Funk Rock;Post-Punk;Rock|Danger! High Voltage",
 "Prince|I Wanna Be Your Lover|1979|Rp8WL621uGM|Prince (musician)|S3729|Disco;Funk;Dance;R&B|I Wanna Be Your Lover",
 "Young M.C.|Bust a Move|1989|tZQQGX24Teg|Young MC|S257|East Coast Hip Hop;Pop Rap;Hip Hop|Bust a Move (song)",
-"Stan Kenton|Artistry in Rhythm|1945|3MD3xasdQJo|Stan Kenton|S2714|Big Band;Jazz|",
+"Stan Kenton|Artistry in Rhythm|1945|2cwzPW-e9Ro|Stan Kenton|S2714|Big Band;Jazz|",
 "The Sonics|Psycho|1965|W-_0V0IXEkc|The Sonics|S2274|Garage Rock;Proto-Punk;Rock|",
 "Terry Jacks|Seasons in the Sun|1973|ZJehPcqk_5I|Terry Jacks|S4417|Folk Pop;Contemporary Folk;Folk;Pop|Seasons in the Sun",
 "The Waterboys|The Whole of the Moon|1985|8TON3PORRDQ|The Waterboys|S1939|Pop Rock;Pop;Rock|The Whole of the Moon",
