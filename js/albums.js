@@ -2868,7 +2868,7 @@ const albums = [
 "Broken Social Scene|Broken Social Scene|2005|OLAK5uy_l2_Rc6RdKJxJm6HPDtTMo59rHZvZ4dCn0|A4211|Broken Social Scene (album)|Broken Social Scene|Indie Rock;Alternative Rock;Rock",
 "Stevie Nicks|Bella Donna|1981|OLAK5uy_n4uuWmzau9XmBg_YGCixbJqYSQN1OwEEA|A2798|Bella Donna (album)|Stevie Nicks|Soft Rock;Pop;Pop Rock;Rock",
 "The Impressions|Keep On Pushing|1964|OLAK5uy_ltp5u_KJZzfPkmjhl51WQ_s7qpcT7bVkM|A1289|Keep On Pushing|The Impressions|Chicago Soul;R&B;Soul",
-"Skip James|Today!|1966|PLbtUxWDPU_VL3Lt-eJPIrhXHc9nGaOkSA|A60|Today! (Skip James album)|Skip James|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music",
+"Skip James|Today!|1966|OLAK5uy_mR93EdF6EVr4t-cNs5yJvW99icAopmUz8|A60|Today! (Skip James album)|Skip James|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music",
 "Oneohtrix Point Never|R Plus Seven|2013|OLAK5uy_lXsrKRsW8Jy7di_px51wCsvIAwtnC-pY0|A5350|R Plus Seven|Oneohtrix Point Never|Progressive Electronic;Vaporwave;Electronic;Experimental;Plunderphonics;Sound Collage;Tape Music",
 "Os Novos Baianos|Acabou Chorare|1972|OLAK5uy_l2OBKh2G9f6_axy9DPeW8WiLb76xwiUek|A4532|Acabou Chorare|Novos Baianos|MPB;Samba;Brazilian Music;Regional Music",
 "Earth, Wind & Fire|Gratitude|1975|OLAK5uy_myRbZg7H8rDoOTvBd2zDcYTn4JfnobHSQ|A2568|Gratitude (Earth, Wind & Fire album)|Earth, Wind & Fire|Funk;Soul;R&B",
