@@ -10823,7 +10823,7 @@ const songs = [
 "Beth Ditto|I Wrote the Book|2011|UECeJzd-G30|Beth Ditto|S5423|Dance-Pop;Electropop;Synthpop;Dance;Electronic;Pop|I Wrote the Book (Beth Ditto song)",
 "Blumfeld|Verstärker|1994|cK3vcahVMAw|Blumfeld|S10219|Hamburger Schule;Alternative Rock;Indie Rock;Rock|",
 "Waxahatchee|Air|2015|O2BpdpmqkDA|Waxahatchee|S9868|Indie Rock;Alternative Rock;Rock|",
-"L7|Shove|1990|vSYHZbSBP7Q|L7 (band)|S7161|Grunge;Alternative Rock;Rock|Shove",
+"L7|Shove|1990|vSYHZbSBP7Q|L7 (band)|S7161|Grunge;Alternative Rock;Rock|Shove (song)",
 "Redskins|Bring It Down (This Insane Thing)|1985|OaACUnN5XTQ|The Redskins|S8131|Blue Eyed Soul;Funk Rock;New Wave;Pop Rock;Pop;Rock|",
 "Kendrick Lamar|Untitled 03 05.28.2013|2015|04HPkc6zRu0|Kendrick Lamar|S16122|Conscious Hip Hop;Jazz Rap;West Coast Hip Hop;Hip Hop|Untitled 03 – 05.28.2013.",
 "Ray Stevens|The Streak|1974|XtzoUu7w-YM?start=6|Ray Stevens|S13940|Country Pop;Novelty;Country;Pop|The Streak (song)",
