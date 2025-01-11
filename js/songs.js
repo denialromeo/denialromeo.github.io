@@ -3234,7 +3234,7 @@ const songs = [
 "The Bucketheads|The Bomb! (These Sounds Fall into My Mind)|1995|vvoUuKS6alg|Kenny \"Dope\" Gonzalez|S79|Funky House;Dance;Electronic;Electronic Dance Music;House|",
 "Radiohead|15 Step|2007|xpqk9MD6vLM|Radiohead|S4324|Art Rock;Electronic;Rock|",
 "Fever Ray|To the Moon and Back|2017|fJjGZkPl9Tw|Karin Dreijer|S16375|Art Pop;Synthpop;Electronic;Pop|To the Moon and Back (Fever Ray song)",
-"Duke Ellington|East St. Louis Toodle-oo|1926|q6LmSj26RRc|Duke Ellington|S9210|Dixieland;Jazz|",
+"Duke Ellington|East St. Louis Toodle-oo|1926|Esde8kvzBD4|Duke Ellington|S9210|Dixieland;Jazz|",
 "Dionne Warwick|Anyone Who Had a Heart|1963|qMsiGMKHJ8k|Dionne Warwick|S6086|Brill Building;Pop Soul;Pop;R&B;Soul|Anyone Who Had a Heart (song)",
 "Gene Austin|My Blue Heaven|1927|SLNDB0B5LuI|Gene Austin|S6514|Traditional Pop;Pop|My Blue Heaven (song)",
 "The Sundays|Here's Where the Story Ends|1990|FHsip5xOenQ|The Sundays|S4860|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Here's Where the Story Ends",
