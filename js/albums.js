@@ -2705,7 +2705,7 @@ const albums = [
 "Bob Dylan|Tempest|2012|OLAK5uy_mfkPxdNYeHrh199TwgefR02Q9dtSHj0P0|A5210|Tempest (Bob Dylan album)|Bob Dylan|Singer/Songwriter",
 "The Raconteurs|Consolers of the Lonely|2008|OLAK5uy_l42hATJ5_tTv19ZwAYD5ZBMEsyTxqJLYM|A4372|Consolers of the Lonely|The Raconteurs|Alternative Rock;Garage Rock Revival;Garage Rock;Rock",
 "Plastikman|Musik|1994|OLAK5uy_ktstEtLEt9DfvxP7lrunkgwPZlllc9Jk8|A3523|Musik (album)|Richie Hawtin|Minimal Techno;Dance;Electronic;Electronic Dance Music;Techno",
-"Cate Le Bon|Reward|2019|OLAK5uy_kVzOh-ZDlycE5iBGkDr8wbFUN-KiChBWU|A6235|Reward (album)|Cate Le Bon|Art Pop;Pop",
+"Cate Le Bon|Reward|2019|OLAK5uy_k7tSRlB5okRJHFGepbeRa1i0JAHS4ukmc|A6235|Reward (album)|Cate Le Bon|Art Pop;Pop",
 "The Futureheads|The Futureheads|2004|OLAK5uy_lqnduUQ1oriGKukBgGJX6iH_z9nehnHCM|A4073|The Futureheads (album)|The Futureheads|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock",
 "Merle Haggard|Mama Tried|1968|OLAK5uy_keEVYYWh9znMCUaIk_WS93RrqGupSIg9E|A4468|Mama Tried (album)|Merle Haggard|Bakersfield Sound;Country;Honky Tonk",
 "Elton John|Madman Across the Water|1971|OLAK5uy_njCy4lpTzT8Xhzy4PFpFhDcqIlGk6j8lY|A2396|Madman Across the Water|Elton John|Piano Rock;Pop;Pop Rock;Rock",
