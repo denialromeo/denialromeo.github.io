@@ -607,7 +607,7 @@ const songs = [
 "Simon and Garfunkel|The Boxer|1969|l3LFML_pxlY|Simon & Garfunkel|S893|Folk Pop;Folk Rock;Singer/Songwriter;Contemporary Folk;Folk;Pop;Rock|The Boxer",
 "Massive Attack|Teardrop|1998|u7K72X4eo_s|Massive Attack|S283|Trip Hop;Downtempo;Electronic|Teardrop (song)",
 "Mazzy Star|Fade into You|1993|ImKY6TZEyrI|Mazzy Star|S3607|Dream Pop;Alternative Rock;Rock|Fade into You",
-"Depeche Mode|Personal Jesus|1989|i2GEOcEcRtY|Depeche Mode|S2009|Alternative Dance;Synthpop;Alternative Rock;Dance;Electronic;Pop;Rock|Personal Jesus",
+"Depeche Mode|Personal Jesus|1989|u1xrNaTO1bI|Depeche Mode|S2009|Alternative Dance;Synthpop;Alternative Rock;Dance;Electronic;Pop;Rock|Personal Jesus",
 "Big Star|Thirteen|1972|mmDOQVQGGI0|Big Star|S3082|Folk Pop;Pop Rock;Contemporary Folk;Folk;Pop;Rock|Thirteen (song)",
 "U2|Where the Streets Have No Name|1987|GzZWSrr5wFI|U2|S340|Alternative Rock;Pop Rock;Pop;Rock|Where the Streets Have No Name",
 "Soul II Soul|Back to Life|1989|TB54dZkzZOY|Soul II Soul|S246|Contemporary R&B;Dance-Pop;Dance;Pop;R&B|",
