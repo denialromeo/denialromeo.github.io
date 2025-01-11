@@ -6449,7 +6449,7 @@ const songs = [
 "The Supremes|Back in My Arms Again|1965|ZTTlbr-oXtg|Diana Ross|S8648|Girl Group;Motown Sound;Pop;Pop Soul;R&B;Soul|Back in My Arms Again",
 "Charles Aznavour|La Mamma|1963|BkiktZub8ts|Charles Aznavour|S10373|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|La mamma (song)",
 "The Andrews Sisters|Rum and Coca-Cola|1944|C05O12yzDX4|The Andrews Sisters|S14065|Calypso;Vocal Group;Caribbean Music;Regional Music|",
-"Grace Jones|Nightclubbing|1981|grJiFTEGWAg|Grace Jones|S4561|Art Pop;Dub;Caribbean Music;Jamaican Music;Pop;Reggae;Regional Music|Nightclubbing (Grace Jones album)",
+"Grace Jones|Nightclubbing|1981|iylCE1vFsXM|Grace Jones|S4561|Art Pop;Dub;Caribbean Music;Jamaican Music;Pop;Reggae;Regional Music|Nightclubbing (song)",
 "Wild Beasts|Wanderlust|2014|9IIbbFIQTKI|Wild Beasts|S9589|Art Pop;Synthpop;Electronic;Pop|",
 "Supertramp|Bloody Well Right|1974|LAuSRnTXZeg|Supertramp|S8642|Progressive Rock;Rock|Bloody Well Right",
 "Eurythmics|Sisters Are Doin' It for Themselves|1985|drGx7JkFSp4|Eurythmics|S6313|Pop Soul;Pop;R&B;Soul|Sisters Are Doin' It for Themselves",
