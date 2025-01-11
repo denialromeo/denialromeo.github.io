@@ -404,7 +404,7 @@ const classical = [
 "Amilcare Ponchielli|La Gioconda|1876|EKxFcD8cFPI?start=27|Amilcare Ponchielli|La Gioconda (opera)",
 "Bedrich Smetana|String Quartet No. 1, \"From My Life\"|1876|ZWW0dXCpTuA|Bedřich Smetana|String Quartet No. 1 (Smetana)",
 "Pyotr Ilyich Tchaikovsky|Variations on a Rococo Theme|1876|_591VkMY4iQ|Pyotr Ilyich Tchaikovsky|Variations on a Rococo Theme",
-"Pyotr Ilyich Tchaikovsky|The Seasons|1876|OLAK5uy_mEkjXexzva_ItaG6Cr4IxjJAGHvUvi-ZQ|Pyotr Ilyich Tchaikovsky|The Seasons (Tchaikovsky)",
+"Pyotr Ilyich Tchaikovsky|The Seasons|1876|PLADD448E0C1C4BCB7|Pyotr Ilyich Tchaikovsky|The Seasons (Tchaikovsky)",
 "Pyotr Ilyich Tchaikovsky|Swan Lake|1876|9rJoB7y6Ncs?start=3486|Pyotr Ilyich Tchaikovsky|Swan Lake",
 "Johannes Brahms|Symphony No. 2|1877|qbcfuMlNRWg?start=15|Johannes Brahms|Symphony No. 2 (Brahms)",
 "Camille Saint-Saens|Samson and Delilah|1877|X67Cguz5J0s?start=5|Camille Saint-Saëns|Samson and Delilah (opera)",
