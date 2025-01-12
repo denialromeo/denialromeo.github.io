@@ -3534,7 +3534,7 @@ const songs = [
 "The Knife|We Share Our Mother's Health|2006|gtdE7yMDdiA|The Knife|S4017|Electropop;Synthpop;Electronic;Pop|We Share Our Mothers' Health",
 "Neil Young|Ambulance Blues|1974|EA2BNB_4m3g|Neil Young|S1760|Contemporary Folk;Country Rock;Folk Rock;Singer/Songwriter;Folk;Rock|On the Beach (Neil Young album)",
 "The Flaming Lips|She Don't Use Jelly|1993|cvfxKbpoxRE|The Flaming Lips|S3407|Indie Rock;Noise Pop;Alternative Rock;Rock|She Don't Use Jelly",
-"Janis Joplin|Summertime|1968|A24JZkgvNv4|Big Brother and the Holding Company|S5434|Blues Rock;Psychedelic Rock;Rock|",
+"Janis Joplin|Summertime|1968|A24JZkgvNv4|Janis Joplin|S5434|Blues Rock;Psychedelic Rock;Rock|Summertime (George Gershwin song)",
 "The Rolling Stones|Love in Vain|1969|_d8uhWPcyTs|The Rolling Stones|S4133|Acoustic Blues;Blues Rock;Blues;Rock|Love in Vain",
 "Röyksopp|Eple|2001|KkD7a82mTvY|Röyksopp|S2214|Downtempo;Electronic|Eple",
 "Method Man|Bring the Pain|1994|T0BlXy3Roj4|Method Man|S4221|Boom Bap;East Coast Hip Hop;Hip Hop|Bring the Pain",
