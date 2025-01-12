@@ -4027,7 +4027,7 @@ const songs = [
 "Bing Crosby|I'll Be Seeing You|1944|_r05WxNH_kw|Bing Crosby|S5467|Traditional Pop;Pop|I'll Be Seeing You (song)",
 "I-F|Space Invaders Are Smoking Grass|1997|tIAZTV_sYtk|I-F|S30|Electro;Electroclash;Dance;Electronic;Electronic Dance Music|",
 "Frank Sinatra|I Get a Kick out of You|1955|wSrHvNr8QQQ?start=5|Frank Sinatra|S9222|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop|I Get a Kick Out of You",
-"Yeah Yeah Yeahs|Gold Lion|2006|jMMkP_ofpXg|Yeah Yeah Yeahs|S4014|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|",
+"Yeah Yeah Yeahs|Gold Lion|2006|jMMkP_ofpXg|Yeah Yeah Yeahs|S4014|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|Gold Lion",
 "Lee Morgan|The Sidewinder|1964|qJi03NqXfk8|Lee Morgan|S11400|Hard Bop;Soul Jazz;Bebop;Jazz|",
 "War|Why Can't We Be Friends?|1975|OHmmjnEdtx8|War (American band)|S3937|Pop Reggae;Soul;Caribbean Music;Jamaican Music;R&B;Reggae;Regional Music|Why Can't We Be Friends%3F (song)",
 "Sister Nancy|Bam Bam|1982|OcaPu9JPenU|Sister Nancy|S8434|Dancehall;Deejay;Caribbean Music;Jamaican Music;Reggae;Regional Music|Bam Bam (Sister Nancy song)",
