@@ -113,7 +113,7 @@ const songs = [
 "Chic|Good Times|1979|7j7rcSutYAQ|Chic (band)|S572|Disco;Dance|Good Times (Chic song)",
 "Frank Ocean|Pyramids|2012|dMV31MWIjLE|Frank Ocean|S5027|Alternative R&B;Electropop;Contemporary R&B;Electronic;Pop;R&B|Pyramids (song)",
 "The Temptations|My Girl|1964|eepLY8J4E6c|The Temptations|S1026|Motown Sound;Pop;Pop Soul;R&B;Soul|My Girl (The Temptations song)",
-"The Rolling Stones|Paint It, Black|1966|O4irXQhgMqg|The Rolling Stones|S980|Mod;Psychedelic Rock;Rock|Paint It Black",
+"The Rolling Stones|Paint It Black|1966|O4irXQhgMqg|The Rolling Stones|S980|Mod;Psychedelic Rock;Rock|Paint It Black",
 "Lana Del Rey|Video Games|2011|cE6wxDqdOV0|Lana Del Rey|S4972|Chamber Pop;Baroque Pop;Indie Pop;Pop|Lana Del Rey (EP)",
 "Amy Winehouse|Rehab|2006|KUmZp8pR1uc|Amy Winehouse|S4050|Neo-Soul;Pop Soul;Pop;R&B;Soul|Rehab (Amy Winehouse song)",
 "The Sugarhill Gang|Rapper's Delight|1979|ZjRi-S7J70Y|The Sugarhill Gang|S578|Disco Rap;East Coast Hip Hop;Hip Hop|Rapper's Delight",
