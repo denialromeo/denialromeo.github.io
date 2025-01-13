@@ -230,7 +230,7 @@ const songs = [
 "Elvis Presley|Don't Be Cruel|1956|arTAfHu-pvs|Elvis Presley|S2489|Rockabilly;Rock;Rock & Roll|Don't (Elvis Presley song)",
 "The Temptations|Papa Was a Rolling Stone|1972|S5xAtsXb8Vs|The Temptations|S783|Psychedelic Soul;R&B;Soul|Papa Was a Rollin' Stone",
 "Adele|Rolling in the Deep|2010|rYEDA3JcQqw|Adele|S4940|Blue Eyed Soul;Pop Soul;Pop;R&B;Soul|Rolling in the Deep",
-"Stevie Wonder|Living for the City|1973|7_RgaYueeh4|Stevie Wonder|S757|Funk;Soul;R&B|",
+"Stevie Wonder|Living for the City|1973|7_RgaYueeh4|Stevie Wonder|S757|Funk;Soul;R&B|Living for the City",
 "Them|Gloria|1964|AhYTb5J2rNc|Them (band)|S1040|British Rhythm & Blues;Garage Rock;R&B;Rhythm & Blues;Rock|Gloria (Them song)",
 "Otis Redding|Try a Little Tenderness|1966|azpUTXntVag|Otis Redding|S971|Deep Soul;R&B;Soul;Southern Soul|",
 "The Stooges|I Wanna Be Your Dog|1969|3gsWt7ey6bo|The Stooges|S888|Garage Rock;Hard Rock;Proto-Punk;Rock|I Wanna Be Your Dog",
