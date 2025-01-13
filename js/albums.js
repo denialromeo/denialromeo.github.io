@@ -779,7 +779,7 @@ const albums = [
 "SOPHIE|Oil of Every Pearl's Un-Insides|2018|OLAK5uy_kEz3qYiBeY4soruK0ZcLk3JApSG1QLz9k|A6028|Oil of Every Pearl's Un-Insides|Sophie (musician)|Bubblegum Bass;Deconstructed Club;Dance;Electronic;Electronic Dance Music;Experimental;Industrial;Industrial Music",
 "Sly and the Family Stone|Fresh|1973|OLAK5uy_ke9rB2vByFYQ0X8DiVWC-2g3OxJc0sk9w|A292|Fresh (Sly and the Family Stone album)|Sly and the Family Stone|Funk;Psychedelic Soul;R&B;Soul",
 "The Jam|Sound Affects|1980|OLAK5uy_lKZN1g-MMmYl-xVTVyEAHwE4PM5_2UCAE|A491|Sound Affects|The Jam|Mod Revival;New Wave;Post-Punk;Mod;Rock",
-"Sugar|Copper Blue|1992|PLtGOOlh1MPT8Yc39PqxCYIMxr5gB5jZvd|A844|Copper Blue|Sugar (American band)|Alternative Rock;Power Pop;Pop;Pop Rock;Rock",
+"Sugar|Copper Blue|1992|OLAK5uy_lTAx8EVG4SwSij_86wXTuEdmxZClmaQ5g|A844|Copper Blue|Sugar (American band)|Alternative Rock;Power Pop;Pop;Pop Rock;Rock",
 "Can|Future Days|1973|OLAK5uy_mNSQ_Da91HX54WVnscpFiyjY0BbihdYqs|A1150|Future Days|Can (band)|Krautrock;Experimental Rock;Progressive Rock;Rock",
 "The Incredible String Band|The Hangman's Beautiful Daughter|1968|OLAK5uy_kk1NNhmGX3GhUG5RKnkwBaFYGQwdADs_Q|A1237|The Hangman's Beautiful Daughter|The Incredible String Band|Psychedelic Folk;Contemporary Folk;Folk",
 "Black Sabbath|Master of Reality|1971|OLAK5uy_kMMzX_9vTtzEq2NhqWwziqvb2RxurNVmE|A1348|Master of Reality|Black Sabbath|Hard Rock;Heavy Metal;Metal;Rock",
