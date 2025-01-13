@@ -6211,7 +6211,7 @@ const songs = [
 "Bob Dylan|Can You Please Crawl Out Your Window?|1965|UdveFExDOIQ|Bob Dylan|S5541|Folk Rock;Singer/Songwriter;Rock|Can You Please Crawl Out Your Window%3F",
 "The Nashville Teens|Tobacco Road|1964|eGuZY6NVXqU|The Nashville Teens|S3656|British Rhythm & Blues;Garage Rock;R&B;Rhythm & Blues;Rock|Tobacco Road (song)",
 "Ghostface Killah|Nutmeg|2000|JS0XhXsmCRs|Ghostface Killah|S6552|Boom Bap;East Coast Hip Hop;Hip Hop|",
-"Janis Joplin|Kozmic Blues|1969|vuoE95Dme8k|Janis Joplin|S6867|Blues Rock;Rock|",
+"Janis Joplin|Kozmic Blues|1969|vuoE95Dme8k|Janis Joplin|S6867|Blues Rock;Rock|Kozmic Blues",
 "Phoenix|Trying to Be Cool|2013|OePvsCfKHJg|Phoenix (band)|S9507|Indie Pop;New Wave;Synthpop;Electronic;Pop;Rock|Trying to Be Cool",
 "Pet Shop Boys|Can You Forgive Her?|1993|Me4AhOi6LYE|Pet Shop Boys|S7939|Synthpop;Electronic;Pop|Can You Forgive Her%3F (song)",
 "Pixies|Alec Eiffel|1991|y0ugnZfHHCE|Pixies (band)|S7968|Indie Rock;Alternative Rock;Rock|Alec Eiffel",
