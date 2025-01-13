@@ -7392,7 +7392,7 @@ const songs = [
 "Prefab Sprout|Faron Young|1985|wsqIyCP6G5g|Prefab Sprout|S7997|Indie Pop;Pop Rock;Sophisti-Pop;Pop;Rock|",
 "The Bluetones|Slight Return|1996|B-3UpL6MkZ0|The Bluetones|S2122|Britpop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Slight Return",
 "The Who|Boris the Spider|1966|bvFuUaCe8eY|The Who|S15185|Freakbeat;Mod;Beat Music;Pop;Pop Rock;Rock|Boris the Spider",
-"Jaco Pastorius|Donna Lee|1976|-0NNA6w8Zk4|Jaco Pastorius|S13203|Jazz Fusion;Jazz|",
+"Jaco Pastorius|Donna Lee|1976|2Maj7Z-KNzU|Jaco Pastorius|S13203|Jazz Fusion;Jazz|",
 "Madonna|Cherish|1989|8q2WS6ahCnY|Madonna (entertainer)|S11514|Dance-Pop;Synthpop;Dance;Electronic;Pop|Cherish (Madonna song)",
 "Disclosure|Help Me Lose My Mind|2013|k4weSc8QQgk|Disclosure (band)|S9434|Deep House;Dance;Electronic;Electronic Dance Music;House|Help Me Lose My Mind",
 "Duke Ellington|Creole Love Call|1928|BzSrkVvS8RA|Duke Ellington|S13189|Dixieland;Jazz|Creole Love Call",
