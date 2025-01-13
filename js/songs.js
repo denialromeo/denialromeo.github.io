@@ -5700,7 +5700,7 @@ const songs = [
 "Sonny and Cher|The Beat Goes On|1967|to0irFedGqc|Sonny & Cher|S8495|Pop Rock;Sunshine Pop;Pop;Rock|The Beat Goes On (Sonny & Cher song)",
 "Noir Désir|L'homme pressé|1997|Ms7WWPLEkgU|Noir Désir|S7766|Indie Rock;Alternative Rock;Rock|",
 "Carmen Miranda|O que é que a Bahiana tem|1939|nC0zsd-X4-I|Carmen Miranda|S15343|Marchinha;Brazilian Music;Regional Music;Samba|O Que É Que A Baiana Tem%3F",
-"The Farm|Groovy Train|1990|RFgnaogJ9EI|The Farm (British band)|S2012|Alternative Dance;Baggy / Madchester;Alternative Rock;Dance;Rock|",
+"The Farm|Groovy Train|1990|RFgnaogJ9EI|The Farm (British band)|S2012|Alternative Dance;Baggy / Madchester;Alternative Rock;Dance;Rock|Groovy Train",
 "Basement Jaxx|Raindrops|2009|T7Cili9vegU|Basement Jaxx|S4787|Electro House;Funky House;Dance;Electronic;Electronic Dance Music;House|Raindrops (Basement Jaxx song)",
 "Frank Zappa|Willie the Pimp (Parts I and II)|1969|KHiclrHm-ig|Frank Zappa|S3989|Blues Rock;Jazz-Rock;Rock|Willie the Pimp",
 "King Sunny Adé|Ja funmi|1982|nGmbyRaauog|King Sunny Adé|S14626|Jùjú;African Music;Regional Music;West African Music;Yoruba Music|",
