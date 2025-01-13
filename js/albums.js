@@ -1557,7 +1557,7 @@ const albums = [
 "Four Tops|Reach Out|1967|OLAK5uy_l_WLQNCsAkkJ5fO8GU1yXPQ4T3xXEcGdY|A1231|Reach Out (Four Tops album)|Four Tops|Soul;R&B",
 "Bad Company|Bad Company|1974|OLAK5uy_kLJwdJol3qTCRujrVkTJctelJNS8ZzWgY|A1182|Bad Company (album)|Bad Company|Blues Rock;Hard Rock;Rock",
 "Therapy?|Troublegum|1994|OLAK5uy_kTR9LTVGXXYNJObs2VIq2StRW7blJ35E0|A927|Troublegum|Therapy%3F|Alternative Metal;Alternative Rock;Metal;Rock",
-"Flamin' Groovies|Shake Some Action|1976|PLmwiuq6S4xIAFf2VhHS1Gxcj0CHRN7NwW|A1418|Shake Some Action|Flamin' Groovies|Power Pop;Rock & Roll;Pop;Pop Rock;Rock",
+"Flamin' Groovies|Shake Some Action|1976|OLAK5uy_ndEbgb6Yea-clXeaJQBYHza5nkCQkzF4I|A1418|Shake Some Action|Flamin' Groovies|Power Pop;Rock & Roll;Pop;Pop Rock;Rock",
 "Dire Straits|Making Movies|1980|OLAK5uy_kIhNMHBFI8pc-r9bTCxnXcm0MO-cUebxY|A496|Making Movies|Dire Straits|Pop Rock;Pop;Rock",
 "Kris Kristofferson|Kristofferson|1970|OLAK5uy_kVzXZsVKduU2UiHcS-x2fJ_PN3gKlYAS8|A2341|Kristofferson (album)|Kris Kristofferson|Outlaw Country;Singer/Songwriter;Country;Progressive Country",
 "Kanye West|The Life of Pablo|2016|OLAK5uy_keyJA-JsoAdfCylvyyIQMRjenzX6MzmnE|A5754|The Life of Pablo|Kanye West|Pop Rap;Hip Hop",
