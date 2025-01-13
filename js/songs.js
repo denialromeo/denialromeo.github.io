@@ -9175,7 +9175,7 @@ const songs = [
 "Cibo Matto|Birthday Cake|1995|PmGyACG5K0E?start=57|Cibo Matto|S5816|Alternative Dance;Art Pop;Alternative Rock;Dance;Pop;Rock|",
 "The Flaming Lips|Silver Trembling Hands|2009|WTCpumkw4Kk|The Flaming Lips|S10821|Experimental Rock;Neo-Psychedelia;Psychedelic Rock;Rock|",
 "Michel Delpech|Quand j'étais chanteur|1975|9Z27xAaE_dU|Michel Delpech|S13572|Chanson;Regional Music|",
-"Jacques Brel|Vesoul|1968|VakkMDarFDQ?start=3|Jacques Brel|S12927|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
+"Jacques Brel|Vesoul|1968|VakkMDarFDQ?start=3|Jacques Brel|S12927|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|Vesoul (song)",
 "The Five Du-Tones|Shake a Tail Feather|1963|n5EeoTa6qpg|The Five Du-Tones|S14403|Rhythm & Blues;Rock & Roll;R&B;Rock|Shake a Tail Feather",
 "Ann Peebles|I'm Gonna Tear Your Playhouse Down|1973|cyMsvE8UcbI|Ann Peebles|S14069|Southern Soul;R&B;Soul|I'm Gonna Tear Your Playhouse Down",
 "Canibus|Second Round K.O.|1998|z63cQKWlDgQ|Canibus|S5705|East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|Second Round K.O.",
