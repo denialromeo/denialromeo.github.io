@@ -721,7 +721,7 @@ const songs = [
 "Crosby, Stills, Nash (& Young)|Suite: Judy Blue Eyes|1969|ZGT0P0XJRFM|Crosby, Stills, Nash & Young|S882|Folk Rock;Rock|Suite: Judy Blue Eyes",
 "The Who|Substitute|1966|eswQl-hcvU0|The Who|S982|Beat Music;British Rhythm & Blues;Mod;Pop;Pop Rock;R&B;Rhythm & Blues;Rock|Substitute (The Who song)",
 "The Sugarcubes|Birthday|1987|149Fln0DtUc|The Sugarcubes|S334|Art Pop;Dream Pop;Indie Pop;Alternative Rock;Pop;Rock|Birthday (The Sugarcubes song)",
-"Count Basie|One O'Clock Jump|1937|g3JyQnYPkZk|Count Basie|S2647|Big Band;Swing;Jazz|",
+"Count Basie|One O'Clock Jump|1937|aT5NKGgKjyo|Count Basie|S2647|Big Band;Swing;Jazz|",
 "Bloc Party|Banquet|2004|vdkmhquF60o|Bloc Party|S2477|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|Banquet (song)",
 "Martha and the Vandellas|Heat Wave|1963|XE2fnYpwrng?start=3|Martha and the Vandellas|S1058|Girl Group;Motown Sound;Pop;Pop Soul;R&B;Soul|Heat Wave (1963 song)",
 "Gary Numan|Cars|1979|Im3JzxlatUs|Gary Numan|S1497|New Wave;Synthpop;Electronic;Pop;Rock|Cars (song)",
