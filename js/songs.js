@@ -7049,7 +7049,7 @@ const songs = [
 "The Jacksons|Blame It on the Boogie|1978|nqxVMLVe62U|The Jackson 5|S11109|Disco;Pop Soul;Dance;Pop;R&B;Soul|Blame It on the Boogie",
 "Félix Leclerc|Le p'tit bonheur|1951|VwOvjAy7EF8|Félix Leclerc|S10797|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "Lethal Bizzle|Pow! (Forward)|2004|KSgoH1zrPD0|Lethal Bizzle|S11427|Grime;Electronic|",
-"Burial|Kindred|2012|wC16FJTI6XM|Burial (musician)|S5678|2-Step;Future Garage;Dance;Electronic;Electronic Dance Music;UK Garage|",
+"Burial|Kindred|2012|4Y8SiZ9UjmQ|Burial (musician)|S5678|2-Step;Future Garage;Dance;Electronic;Electronic Dance Music;UK Garage|",
 "Billy Joel|Allentown|1982|BHnJp0oyOxs|Billy Joel|S3517|Heartland Rock;Piano Rock;Pop;Pop Rock;Rock|Allentown (song)",
 "The Doors|Love Me Two Times|1967|MsP6EKAzEjI|The Doors|S10639|Blues Rock;Psychedelic Rock;Rock|Love Me Two Times",
 "Chromatics|Shadow|2015|IGUboLZx3Tk|Chromatics (band)|S16305|Dream Pop;Synthpop;Alternative Rock;Electronic;Pop;Rock|",
