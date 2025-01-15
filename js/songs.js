@@ -10120,7 +10120,7 @@ const songs = [
 "Todd Terje|Snooze 4 Love|2011|rQx5EAfirhc|Todd Terje|S12445|Nu-Disco;Space Disco;Dance;Disco;Electro-Disco;Electronic;Electronic Dance Music;House|",
 "John Cougar|Hurts So Good|1982|4dOsbsuhYGQ|John Mellencamp|S11232|Heartland Rock;Roots Rock;Rock|Hurts So Good",
 "Rich Homie Quan|Flex (Ooh, Ooh, Ooh)|2015|bWMw4vE3J8s|Rich Homie Quan|S9830|Pop Rap;Southern Hip Hop;Hip Hop|",
-"Frank Zappa|Joe's Garage|1979|VX8415wWqU4|Frank Zappa|S10867|Pop Rock;Pop;Rock|",
+"Frank Zappa|Joe's Garage|1979|KINj7I42PlU|Frank Zappa|S10867|Pop Rock;Pop;Rock|",
 "Dire Straits|Walk of Life|1985|Sys9LCUo-AU|Dire Straits|S10599|Heartland Rock;Pop Rock;Pop;Rock|Walk of Life",
 "Bloc Party|I Still Remember|2007|5R-9IgWD36A|Bloc Party|S10208|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|I Still Remember",
 "Drangsal|Allan Align|2016|99o3AkxzTcQ|https://de.wikipedia.org/wiki/Drangsal_(Musiker)|S16078|New Wave;Synthpop;Electronic;Pop;Rock|",
