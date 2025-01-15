@@ -4328,7 +4328,7 @@ const songs = [
 "The Divine Comedy|Tonight We Fly|1994|4NUfjBbyFPg|The Divine Comedy (band)|S9204|Chamber Pop;Baroque Pop;Indie Pop;Pop|",
 "The Jackson 5|Never Can Say Goodbye|1971|snihdG1rE0Y|The Jackson 5|S6825|Pop Soul;Pop;R&B;Soul|Never Can Say Goodbye",
 "Human Resource|Dominator|1991|Q--79iGN_t8|Human Resource (band)|S4490|Hardcore [EDM];Techno;UK Hard House;Dance;Electronic;Electronic Dance Music;House|Dominator (Human Resource song)",
-"George Thorogood & The Destroyers|Bad to the Bone|1982|IyhJ69mD7xI|George Thorogood|S6541|Blues Rock;Hard Rock;Rock|",
+"George Thorogood & The Destroyers|Bad to the Bone|1982|IyhJ69mD7xI|George Thorogood|S6541|Blues Rock;Hard Rock;Rock|Bad to the Bone",
 "Unknown Mortal Orchestra|Multi-Love|2015|bEtDVy55shI|Unknown Mortal Orchestra|S9866|Psychedelic Pop;Pop|",
 "Frank Ocean|Pink + White|2016|uzS3WG6__G4|Frank Ocean|S16089|Contemporary R&B;Neo-Soul;R&B;Soul|Pink + White",
 "Wilco|Misunderstood|1996|uFet3_kpr2s|Wilco|S9008|Alt-Country;Country Rock;Roots Rock;Country;Rock|Being There (Wilco album)",
