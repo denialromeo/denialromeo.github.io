@@ -5321,7 +5321,7 @@ const songs = [
 "Lee Dorsey|Ya Ya|1961|C1YusSmtBU0|Lee Dorsey|S7214|New Orleans R&B;Rhythm & Blues;R&B|Ya Ya",
 "Shaggy|Oh Carolina|1993|BtLqmWt2h2g|Shaggy (musician)|S2067|Dancehall;Pop Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|Oh Carolina",
 "Charlie Parker|Lover Man|1946|HMaykUgR4_4|Charlie Parker|S5766|Bebop;Jazz|Lover Man (Oh, Where Can You Be%3F)",
-"Public Image Ltd.|Poptones|1979|IQtO6R4qkg0|Public Image Ltd|S8031|Experimental Rock;Post-Punk;Rock|",
+"Public Image Ltd.|Poptones|1979|7JL5LyaFaEM|Public Image Ltd|S8031|Experimental Rock;Post-Punk;Rock|",
 "Les Rita Mitsouko|Andy|1986|Ae-tP-rFJl0|Les Rita Mitsouko|S7250|French Pop;Pop|Andy (song)",
 "Mark Dinning|Teen Angel|1959|22oY2CuNCO4|Mark Dinning|S1169|Country Pop;Teen Pop;Country;Pop|Teen Angel (song)",
 "Mistinguett|Mon homme|1916|BFvYjlgqh4Q|Mistinguett|S7574|Chanson réaliste;Chanson;Regional Music|Mon Homme",
