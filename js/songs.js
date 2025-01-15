@@ -5054,7 +5054,7 @@ const songs = [
 "Iggy Pop|Gardenia|2016|1m8TmlS20ZA|Iggy Pop|S16096|Alternative Rock;Rock|Gardenia (Iggy Pop song)",
 "Crosby, Stills, Nash (& Young)|Marrakesh Express|1969|0TYq9RjdYYU|Crosby, Stills, Nash & Young|S5902|Folk Rock;Soft Rock;Pop;Pop Rock;Rock|",
 "Gin Blossoms|Hey Jealousy|1992|ah5gAkna3jI|Gin Blossoms|S6563|Jangle Pop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|Hey Jealousy",
-"David Bowie|The Stars (Are Out Tonight)|2013|YAEznabMnV8|David Bowie|S9430|Alternative Rock;Art Rock;Rock|The Stars (Are Out Tonight)",
+"David Bowie|The Stars (Are Out Tonight)|2013|gH7dMBcg-gE|David Bowie|S9430|Alternative Rock;Art Rock;Rock|The Stars (Are Out Tonight)",
 "Beastie Boys|Ch-Check It Out|2004|6iuGp9gUeNk|Beastie Boys|S2470|East Coast Hip Hop;Hip Hop|Ch-Check It Out",
 "Bee Gees|I've Gotta Get a Message to You|1968|Pfs_NpfY8SU|Bee Gees|S5395|Pop Rock;Pop;Rock|I've Gotta Get a Message to You",
 "The Cure|Fascination Street|1989|iRwPZjV1PqY|The Cure|S5929|Alternative Rock;Gothic Rock;Post-Punk;Rock|",
