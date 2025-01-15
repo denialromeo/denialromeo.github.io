@@ -10156,7 +10156,7 @@ const songs = [
 "Eric Clapton|Let It Rain|1970|z22Nuq7-oYw|Eric Clapton|S10749|Rock|Let It Rain (Eric Clapton song)",
 "Teenage Fanclub|Baby Lee|2010|qP0q-cazlvk|Teenage Fanclub|S8707|Power Pop;Pop;Pop Rock;Rock|",
 "Led Zeppelin|Friends|1970|Vl_2uqYW6FM|Led Zeppelin|S11386|Folk Rock;Rock|",
-"Bob Seger & The Silver Bullet Band|Rock and Roll Never Forgets|1976|QZ_kYEDZVno|Bob Seger|S10256|Heartland Rock;Rock|",
+"Bob Seger & The Silver Bullet Band|Rock and Roll Never Forgets|1976|s8bFzQ_u0Ts|Bob Seger|S10256|Heartland Rock;Rock|",
 "Royal Blood|Out of the Black|2013|VnTkH7ZvKKs|Royal Blood (band)|S13951|Alternative Rock;Garage Rock Revival;Hard Rock;Garage Rock;Rock|Figure It Out (Royal Blood song)",
 "Supertramp|School|1974|BznKC3Umc8A|Supertramp|S12372|Art Rock;Progressive Rock;Rock|School (Supertramp song)",
 "Stephan Eicher|Déjeuner en paix|1991|S7cP8jGMtAE|Stephan Eicher|S13633|Pop Rock;Pop;Rock|Déjeuner en paix",
