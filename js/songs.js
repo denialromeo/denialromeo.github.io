@@ -4907,7 +4907,7 @@ const songs = [
 "Huggy Bear|Her Jazz|1993|gYT0gtjd60A|Huggy Bear (band)|S2945|Riot Grrrl;Punk Rock;Rock|",
 "The Temptations|Since I Lost My Baby|1965|HSgqO7LIFL8|The Temptations|S8716|Motown Sound;Pop;Pop Soul;R&B;Soul|",
 "The Beach Boys|Do It Again|1968|fmHEX7QI4KU|The Beach Boys|S5346|Pop Rock;Sunshine Pop;Pop;Rock|Do It Again (The Beach Boys song)",
-"Nick Cave|There She Goes, My Beautiful World|2004|8NmR-oKdkGw|Nick Cave|S4260|Alternative Rock;Rock|",
+"Nick Cave|There She Goes, My Beautiful World|2004|kkvtF7mvnsw|Nick Cave|S4260|Alternative Rock;Rock|",
 "Radiohead|Nude|2007|BbWBRnDK_AE|Radiohead|S8080|Art Pop;Dream Pop;Alternative Rock;Pop;Rock|Nude (song)",
 "The Beach Boys|Don't Talk (Put Your Head on My Shoulder)|1966|RyComJz4ZFw|The Beach Boys|S3173|Baroque Pop;Sunshine Pop;Pop|Don't Talk (Put Your Head on My Shoulder)",
 "Alice Cooper|Halo of Flies|1971|fGOD1-NtxH8|Alice Cooper|S9968|Garage Rock;Glam Rock;Hard Rock;Rock|",
