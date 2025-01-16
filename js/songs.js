@@ -3851,7 +3851,7 @@ const songs = [
 "John Mellencamp|Small Town|1985|0CVLVaBECuc|John Mellencamp|S3616|Heartland Rock;Pop Rock;Pop;Rock|Small Town",
 "Rick Nelson|Travelin' Man|1961|YUv2xzvxLT8|Ricky Nelson|S3658|Rockabilly;Teen Pop;Pop;Rock;Rock & Roll|Travelin' Man",
 "Betty Hutton|It Had to Be You|1944|NZqoH6qLkSg|Betty Hutton|S5425|Big Band;Vocal Jazz;Jazz|",
-"Clifford Brown|Joy Spring|1954|dnK6OHPQZbA|Clifford Brown|S9191|Hard Bop;Bebop;Jazz|",
+"Clifford Brown|Joy Spring|1954|fYdCeSHq11Q|Clifford Brown|S9191|Hard Bop;Bebop;Jazz|",
 "John Grant|GMF|2013|ekFWPsXXcg0|John Grant (musician)|S9465|Americana;Indie Folk;Singer/Songwriter;Contemporary Folk;Country;Folk|GMF",
 "The Rolling Stones|All Down the Line|1972|B51A6bcMeDY|The Rolling Stones|S2573|Blues Rock;Rock|All Down the Line",
 "Ryan Adams|Come Pick Me Up|2000|PmM2C6RHPwk|Ryan Adams|S2637|Americana;Singer/Songwriter;Country|Heartbreaker (Ryan Adams album)",
