@@ -497,7 +497,7 @@ const songs = [
 "Justin Timberlake|Cry Me a River|2002|DksSPZTZES0|Justin Timberlake|S2246|Contemporary R&B;Pop;R&B|Cry Me a River (Justin Timberlake song)",
 "The Velvet Underground|Rock and Roll|1970|1Dahqz-R49I|The Velvet Underground|S2546|Pop Rock;Pop;Rock|Rock & Roll (The Velvet Underground song)",
 "PJ Harvey|Rid of Me|1993|73cY3ft7h5s|PJ Harvey|S2073|Alternative Rock;Rock|Rid of Me",
-"Nancy Sinatra|These Boots Are Made for Walkin'|1965|SbyAZQ45uww|Nancy Sinatra|S2277|Pop|These Boots Are Made for Walkin'",
+"Nancy Sinatra|These Boots Are Made for Walkin'|1965|GM1kzbAgo_E|Nancy Sinatra|S2277|Pop|These Boots Are Made for Walkin'",
 "Sly and the Family Stone|Thank You (Falettinme Be Mice Elf Agin)|1969|-cKkrD1jHcg|Sly and the Family Stone|S877|Funk;Psychedelic Soul;R&B;Soul|Thank You (Falettinme Be Mice Elf Agin)",
 "Soundgarden|Black Hole Sun|1994|3mbBbFH9fAg|Soundgarden|S107|Grunge;Alternative Rock;Rock|Black Hole Sun",
 "The Supremes|You Can't Hurry Love|1966|Itn438i30hk|Diana Ross|S987|Girl Group;Motown Sound;Pop;Pop Soul;R&B;Soul|You Can't Hurry Love",
