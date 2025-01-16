@@ -10497,7 +10497,7 @@ const songs = [
 "Warren Zevon|Excitable Boy|1978|IDlpETyqweE|Warren Zevon|S8936|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|",
 "MC5|Shakin' Street|1970|UxvTIGbYIM0|MC5|S7490|Garage Rock;Proto-Punk;Rock|Shakin' Street",
 "George Michael|Too Funky|1992|JQ2DVwSVIIo|George Michael|S6538|Contemporary R&B;Dance-Pop;Dance;Pop;R&B|Too Funky",
-"Graham Coxon|Freakin' Out|2004|tBG2_MYdTS4|Graham Coxon|S2485|Indie Rock;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|Freakin' Out",
+"Graham Coxon|Freakin' Out|2004|BgDJR-W7DMk|Graham Coxon|S2485|Indie Rock;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|Freakin' Out",
 "Angel Olsen|Intern|2016|r248o_rUfKE|Angel Olsen|S16023|Art Pop;Synthpop;Electronic;Pop|",
 "The Band|King Harvest (Has Surely Come)|1969|JXVl1F_IuXw|The Band|S4122|Roots Rock;Rock|King Harvest (Has Surely Come)",
 "Lou Reed|Romeo Had Juliette|1989|ibbBFEH-C_o?start=96|Lou Reed|S7325|Rock;Singer/Songwriter|",
