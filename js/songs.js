@@ -1671,7 +1671,7 @@ const songs = [
 "Slayer|Raining Blood|1986|cbyswHABG3Q|Slayer|S1948|Thrash Metal;Metal;Rock|Raining Blood",
 "S'Express|Theme from S-Express|1988|kAc7ZUcVj3Y|S'Express|S316|Acid House;Dance;Electronic;Electronic Dance Music;House|Theme from S-Express",
 "Garbage|Stupid Girl|1995|2GhPUAVgHZc|Garbage (band)|S43|Alternative Rock;Rock|Stupid Girl (Garbage song)",
-"Bob Dylan|It's All Over Now, Baby Blue|1965|zcWaHBOFkUw|Bob Dylan|S1667|Contemporary Folk;Singer/Songwriter;Folk|It's All Over Now, Baby Blue",
+"Bob Dylan|It's All Over Now, Baby Blue|1965|L4HW33SgZlM|Bob Dylan|S1667|Contemporary Folk;Singer/Songwriter;Folk|It's All Over Now, Baby Blue",
 "Leo Reisman|Night and Day|1932|ofz4he-EMZQ|Leo Reisman|S2735|Standards;Pop;Traditional Pop|Night and Day (song)",
 "Lionel Richie|All Night Long (All Night)|1983|nqAvFx3NxUM|Lionel Richie|S470|Pop Soul;Pop;R&B;Soul|All Night Long (All Night)",
 "Elvis Costello|I Want You|1986|wY71zqHfHKI|Elvis Costello|S387|Art Rock;Singer/Songwriter;Rock|I Want You (Elvis Costello song)",
