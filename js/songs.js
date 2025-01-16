@@ -7603,7 +7603,7 @@ const songs = [
 "The Police|Spirits in the Material World|1981|BHOevX4DlGk|The Police|S11933|New Wave;Pop Rock;Pop;Rock|Spirits in the Material World",
 "Justin Timberlake|Suit & Tie|2013|IsUsVbTj2AY|Justin Timberlake|S9469|Contemporary R&B;R&B|Suit & Tie",
 "The Chips|Rubber Biscuit|1956|zTZFPgCMLRw|The Chips|S5790|Doo-Wop;R&B;Vocal Group|Rubber Biscuit",
-"Mötley Crüe|Shout at the Devil|1983|djsaJKNpPYo|Mötley Crüe|S11706|Glam Metal;Heavy Metal;Hard Rock;Metal;Rock|Shout at the Devil",
+"Mötley Crüe|Shout at the Devil|1983|djsaJKNpPYo|Mötley Crüe|S11706|Glam Metal;Heavy Metal;Hard Rock;Metal;Rock|Shout at the Devil (song)",
 "The Replacements|Kiss Me on the Bus|1985|yg9WUm3mYAs?start=19|The Replacements (band)|S8138|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Tim (The Replacements album)",
 "Sheryl Crow|My Favorite Mistake|1998|AmIlUKo4dQc|Sheryl Crow|S8390|Pop Rock;Singer/Songwriter;Pop;Rock|",
 "Randy Newman|You Can Leave Your Hat On|1972|C99ZPoKkGmg|Randy Newman|S4546|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|You Can Leave Your Hat On",
