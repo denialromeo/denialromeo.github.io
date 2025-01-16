@@ -10218,7 +10218,7 @@ const songs = [
 "UB40|Food for Thought|1980|IXWBeWf185E|UB40|S8885|Dub;Pop Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|Food for Thought (song)",
 "Gorillaz feat. Vince Staples|Ascension|2017|CNBZYSedvG0|Gorillaz|S16389|Hip Hop|",
 "Black Grape|In the Name of the Father|1995|prLFqx1fR-k|Black Grape|S5483|Alternative Dance;Baggy / Madchester;Alternative Rock;Dance;Rock|",
-"Lupe Fiasco|Superstar|2007|K4moMXMCN4w|Lupe Fiasco|S7350|Conscious Hip Hop;Pop Rap;Hip Hop|Superstar (Lupe Fiasco song)",
+"Lupe Fiasco|Superstar|2007|hVkBlsgthLg|Lupe Fiasco|S7350|Conscious Hip Hop;Pop Rap;Hip Hop|Superstar (Lupe Fiasco song)",
 "Katy Perry|Roar|2013|CevxZvSJLk8|Katy Perry|S9476|Pop|Roar (song)",
 "Eagles of Death Metal|I Only Want You|2004|BYQ4E0SwPP4|Eagles of Death Metal|S15441|Garage Rock Revival;Garage Rock;Rock|",
 "Alice Cooper|Billion Dollar Babies|1973|z2kBG5dcVtU|Alice Cooper|S5157|Glam Rock;Hard Rock;Rock|",
