@@ -363,7 +363,7 @@ const songs = [
 "Led Zeppelin|Dazed and Confused|1969|w772GXG5LnE|Led Zeppelin|S2542|Blues Rock;Hard Rock;Rock|Dazed and Confused (song)",
 "Phoenix|1901|2009|RulP4OXxFbM?start=6|Phoenix (band)|S4822|Indie Pop;Synthpop;Electronic;Pop|1901 (song)",
 "Beastie Boys|(You Gotta) Fight for Your Right (To Party!)|1986|ny997LNZ9zw|Beastie Boys|S380|East Coast Hip Hop;Rap Rock;Alternative Rock;Hip Hop;Rock|(You Gotta) Fight for Your Right (To Party!)",
-"Burial|Archangel|2007|afyABj8oFVI|Burial (musician)|S4698|Dubstep;Future Garage;Dance;Electronic;Electronic Dance Music;UK Garage|One Wish (Ray J song)",
+"Burial|Archangel|2007|afyABj8oFVI|Burial (musician)|S4698|Dubstep;Future Garage;Dance;Electronic;Electronic Dance Music;UK Garage|",
 "The Beatles|Ticket to Ride|1965|SyNt5zm3U_M|The Beatles|S1001|Folk Rock;Pop Rock;Pop;Rock|Ticket to Ride (song)",
 "Dire Straits|Sultans of Swing|1978|8Pa9x9fZBtY|Dire Straits|S611|Pub Rock;Roots Rock;Rock|Sultans of Swing",
 "The Stone Roses|Fools Gold|1989|NSD11dnphg0|The Stone Roses|S253|Alternative Dance;Baggy / Madchester;Alternative Rock;Dance;Rock|Fools Gold (song)",
