@@ -1640,7 +1640,7 @@ const songs = [
 "Kendrick Lamar|Swimming Pools (Drank)|2012|B5YNiCfWC3A?start=10|Kendrick Lamar|S5021|Conscious Hip Hop;West Coast Hip Hop;Hip Hop|Swimming Pools (Drank)",
 "Peter, Paul and Mary|Blowin' in the Wind|1963|6R50K2BRvUw|Peter, Paul and Mary|S1075|Folk Pop;Contemporary Folk;Folk;Pop|Blowin' in the Wind",
 "The Go-Betweens|Cattle and Cane|1983|ZCbyByY-A6w|The Go-Betweens|S4198|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Cattle and Cane",
-"Crystal Castles|Not in Love|2010|32udqal_lyQ|Crystal Castles|S4896|Electropop;Synthpop;Electronic;Pop|",
+"Crystal Castles|Not in Love|2010|32udqal_lyQ|Crystal Castles|S4896|Electropop;Synthpop;Electronic;Pop|Not in Love (Crystal Castles song)",
 "The Cure|Killing an Arab|1978|O1MM_SEIBKU|The Cure|S4185|Post-Punk;Rock|Killing an Arab",
 "Grimes|Genesis|2012|1FH-q0I1fJY|Grimes (musician)|S5014|Synthpop;Electronic;Pop|Genesis (Grimes song)",
 "The Chantays|Pipeline|1962|4fc57tYou4U|The Chantays|S1062|Surf Rock;Rock;Surf Music|Pipeline (instrumental)",
