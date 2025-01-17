@@ -3215,7 +3215,7 @@ const songs = [
 "Johnny Thunders|You Can't Put Your Arms Around a Memory|1978|TknY89kECq0|Johnny Thunders|S6991|Glam Rock;Punk Rock;Rock|You Can't Put Your Arms Around a Memory",
 "Kansas|Dust in the Wind|1977|tH2w6Oxx0kQ|Kansas (band)|S7045|Folk Rock;Soft Rock;Pop;Pop Rock;Rock|Dust in the Wind",
 "Lyn Collins|Think (About It)|1972|e1pdOYkUc3g|Lyn Collins|S4416|Funk;Soul;R&B|Think (About It)",
-"Alannah Myles|Black Velvet|1989|Cudk-kOQ7vM|Alannah Myles|S5144|AOR;Pop Rock;Pop;Rock|Black Velvet (song)",
+"Alannah Myles|Black Velvet|1989|qSCillVi9hw|Alannah Myles|S5144|AOR;Pop Rock;Pop;Rock|Black Velvet (song)",
 "Boogie Down Productions|The Bridge Is Over|1987|r0Sy4twXSn0|Boogie Down Productions|S2366|Boom Bap;East Coast Hip Hop;Hip Hop|",
 "Count Basie|April in Paris|1955|enijgnO_UA8|Count Basie|S2777|Big Band;Rhythm & Blues;Jazz;R&B|April in Paris (song)",
 "Benny Goodman|King Porter Stomp|1935|eagc-z_Xyg4|Benny Goodman|S10146|Big Band;Swing;Jazz|King Porter Stomp",
