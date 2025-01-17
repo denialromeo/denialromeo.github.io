@@ -4294,7 +4294,7 @@ const songs = [
 "Wu-Tang Clan|Gravel Pit|2000|Of-lpfsBR8U|Wu-Tang Clan|S2383|Boom Bap;East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "Kylie Minogue|Slow|2003|Omrp4QR_Rpo|Kylie Minogue|S4257|Electropop;Electronic;Pop|Slow (Kylie Minogue song)",
 "Lucienne Boyer|Parlez-moi d'amour|1930|50lG76_11vI|Lucienne Boyer|S7342|Chanson;Regional Music|Parlez-moi d'amour (song)",
-"The Jesus and Mary Chain|Sidewalking|1988|W1AL2oTiTU0|The Jesus and Mary Chain|S323|Noise Pop;Alternative Rock;Rock|",
+"The Jesus and Mary Chain|Sidewalking|1988|W1AL2oTiTU0|The Jesus and Mary Chain|S323|Noise Pop;Alternative Rock;Rock|Sidewalking",
 "Patsy Cline|She's Got You|1962|owNATIdymvs|Patsy Cline|S1644|Nashville Sound;Country;Country Pop;Pop|",
 "Souls of Mischief|93 'Til Infinity|1993|fXJc2NYwHjw|Souls of Mischief|S8501|Jazz Rap;West Coast Hip Hop;Hip Hop|",
 "ABBA|Gimme Gimme Gimme (A Man After Midnight)|1979|XEjLoHdbVeE|ABBA|S5086|Euro-Disco;Europop;Dance;Disco;Pop|Gimme! Gimme! Gimme! (A Man After Midnight)",
