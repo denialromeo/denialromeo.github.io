@@ -2860,7 +2860,7 @@ const songs = [
 "The Prodigy|Out of Space|1992|a4eav7dFvc8|The Prodigy|S8022|Breakbeat Hardcore;Breakbeat;Dance;Electronic;Electronic Dance Music;Hardcore [EDM]|Out of Space",
 "Pulp|Sorted for E's & Wizz|1995|PbcR0x60WN0|Pulp (band)|S71|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Sorted for E's & Wizz",
 "The Coral|Dreaming of You|2002|QXt723fN1ss|The Coral|S1524|Indie Pop;Mod Revival;Mod;Pop;Rock|Dreaming of You (The Coral song)",
-"Fred Astaire|Fascinating Rhythm|1926|HNEqwmI5p7Y|Fred Astaire|S6474|Show Tunes;Traditional Pop;Musical Theatre and Entertainment;Pop;Soundtracks|Fascinating Rhythm",
+"Fred Astaire|Fascinating Rhythm|1926|-iO3p1i3uG0|Fred Astaire|S6474|Show Tunes;Traditional Pop;Musical Theatre and Entertainment;Pop;Soundtracks|Fascinating Rhythm",
 "The Pogues|A Pair of Brown Eyes|1985|zNtQ5AnRlz8|The Pogues|S412|Celtic Rock;Folk Rock;Rock|",
 "Cults|Go Outside|2010|eAM9diyVRiM|Cults (band)|S4952|Twee Pop;Indie Pop;Pop|",
 "Beck|Lost Cause|2002|qkNa5xzOe5U|Beck|S4609|Folk Pop;Indie Folk;Singer/Songwriter;Contemporary Folk;Folk;Pop|Lost Cause (Beck song)",
