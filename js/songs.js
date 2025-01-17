@@ -9642,7 +9642,7 @@ const songs = [
 "Chromatics|Back from the Grave|2012|SwLwLQnInfE|Chromatics (band)|S5804|Dream Pop;Synthpop;Alternative Rock;Electronic;Pop;Rock|",
 "Amanda Lear|Follow Me|1978|b9YyPIiT2pM|Amanda Lear|S12848|Electro-Disco;Euro-Disco;Dance;Disco;Electronic;Electronic Dance Music|Follow Me (Amanda Lear song)",
 "Paul Weller|Uh Huh Oh Yeh|1992|16u4zoD6b7s|Paul Weller|S7900|Mod Revival;Pop Rock;Mod;Pop;Rock|",
-"The Hombres|Let It Out (Let It All Hang Out)|1967|XWN65nAkk20|The Hombres|S11039|Garage Rock;Psychedelic Rock;Rock|Let It Out (Let It All Hang Out)",
+"The Hombres|Let It Out (Let It All Hang Out)|1967|XJUse5Qc7Ic|The Hombres|S11039|Garage Rock;Psychedelic Rock;Rock|Let It Out (Let It All Hang Out)",
 "Rufus Wainwright|The One You Love|2004|tFenIIR47VU|Rufus Wainwright|S8270|Indie Pop;Pop Rock;Singer/Songwriter;Pop;Rock|The One You Love (Rufus Wainwright song)",
 "Alaska y Los Pegamoides|Bailando|1982|R2EnbNk4wIc|Alaska (singer)|S9963|Dance-Pop;New Wave;Dance;Pop;Rock|",
 "Tegan and Sara|Boyfriend|2016|HJOHoiPGpac|Tegan and Sara|S16193|Electropop;Synthpop;Electronic;Pop|Boyfriend (Tegan and Sara song)",
