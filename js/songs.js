@@ -6588,7 +6588,7 @@ const songs = [
 "Jackson Browne|Fountain of Sorrow|1974|k0vYnD6GGyU|Jackson Browne|S6827|Singer/Songwriter|Fountain of Sorrow",
 "Guided by Voices|Teenage FBI|1999|INN4DF2BgLs|Guided by Voices|S2184|Indie Rock;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|",
 "The Lightning Seeds|Three Lions|1996|RJqimlFcJsM|The Lightning Seeds|S5300|Britpop;Alternative Rock;Pop;Pop Rock;Rock|",
-"Pacific Gas & Electric|Are You Ready?|1970|5MR1LBEJ-ok|Pacific Gas & Electric (band)|S7839|Blues Rock;Rock|Are You Ready? (Pacific Gas & Electric song)",
+"Pacific Gas & Electric|Are You Ready?|1970|QXBQDali51g|Pacific Gas & Electric (band)|S7839|Blues Rock;Rock|Are You Ready? (Pacific Gas & Electric song)",
 "R. Kelly|I'm a Flirt (Remix)|2007|czBZeP8UR-g|R. Kelly|S4297|Contemporary R&B;R&B|I'm a Flirt",
 "Andrew Bird|Fake Palindromes|2005|6NIiWU9d1KI|Andrew Bird|S4692|Chamber Pop;Indie Folk;Singer/Songwriter;Baroque Pop;Contemporary Folk;Folk;Indie Pop;Pop|",
 "Charly García|Nos siguen pegando abajo \"pecado mortal\"|1983|X-j3vl7SsrY|Charly García|S13428|Art Rock;New Wave;Rock|",
