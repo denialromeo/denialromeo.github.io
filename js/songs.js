@@ -3961,7 +3961,7 @@ const songs = [
 "Los Lobos|La Bamba|1987|nLAWPrCUQQ0|Los Lobos|S1958|Latin Rock;Rock & Roll;Hispanic Music;Latin American Music;Regional Music;Rock|",
 "Nelly|Country Grammar|2000|Y5qKNlcUwKs|Nelly|S1392|Pop Rap;Southern Hip Hop;Hip Hop|",
 "Ratt|Round and Round|1984|0u8teXR8VE4|Ratt|S4203|Glam Metal;Hard Rock;Rock|Round and Round (Ratt song)",
-"Chuck Willis|C.C. Rider|1957|-7R-ck2LRWo|Chuck Willis|S1244|Jump-Blues;Rhythm & Blues;Blues;R&B|",
+"Chuck Willis|C.C. Rider|1957|Hv_sNsNnSys|Chuck Willis|S1244|Jump-Blues;Rhythm & Blues;Blues;R&B|",
 "Placebo|Nancy Boy|1996|PBxuq_eWW94|Placebo (band)|S4517|Noise Pop;Alternative Rock;Rock|Nancy Boy",
 "Fuck Buttons|Surf Solar|2009|rKd7WQSk-1Y|Fuck Buttons|S4799|Electronic;Neo-Psychedelia;Psychedelic Rock;Rock|",
 "Rick Astley|Never Gonna Give You Up|1987|dQw4w9WgXcQ|Rick Astley|S8151|Dance-Pop;Dance;Pop|Never Gonna Give You Up",
