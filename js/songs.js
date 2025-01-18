@@ -6151,7 +6151,7 @@ const songs = [
 "Pérez Prado|Cherry Pink and Apple Blossom White|1955|ggSDeyPu_e4|Pérez Prado|S9320|Mambo;Cuban Music;Hispanic Music;Latin American Music;Regional Music|",
 "Fugazi|Merchandise|1990|-jidupajVTM|Fugazi|S4582|Post-Hardcore;Punk Rock;Rock|",
 "Black|Wonderful Life|1986|VNNTKZ4hEyw|Black (singer)|S5478|Sophisti-Pop;Pop|Wonderful Life (Black song)",
-"Major Lance|The Monkey Time|1963|V9jdPrME7Mw|Major Lance|S3550|Chicago Soul;R&B;Soul|The Monkey Time",
+"Major Lance|The Monkey Time|1963|K5xow3fmD9U|Major Lance|S3550|Chicago Soul;R&B;Soul|The Monkey Time",
 "Dave Edmunds|Girls Talk|1979|S4TzjRFfsJs|Dave Edmunds|S1574|New Wave;Power Pop;Pop;Pop Rock;Rock|Girls Talk (Elvis Costello song)",
 "The Police|Invisible Sun|1981|1VuDjJ9KIxM|The Police|S11931|New Wave;Pop Rock;Pop;Rock|Invisible Sun",
 "Kay Starr|Wheel of Fortune|1952|GqdUhlBwvx8|Kay Starr|S2770|Traditional Pop;Vocal Jazz;Jazz;Pop|Wheel of Fortune (1951 song)",
