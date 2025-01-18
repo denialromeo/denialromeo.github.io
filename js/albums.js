@@ -1564,7 +1564,7 @@ const albums = [
 "Dexys Midnight Runners|Don't Stand Me Down|1985|OLAK5uy_njvflOFHDDdjNAuCo2vpVfurlAlmSSsVY|A638|Don't Stand Me Down|Dexys Midnight Runners|Blue Eyed Soul;New Wave;Pop;Rock",
 "Willie Colón & Rubén Blades|Siembra|1978|OLAK5uy_k_fDM8eajRPOHa4n4UWt75ktogXzrsPVg|A2737|Siembra|Rubén Blades|Salsa Dura;Hispanic Music;Latin American Music;Regional Music;Salsa",
 "Oscar Peterson|Night Train|1963|OLAK5uy_kIY84BQbVFhSQVxwwA5dmq4MBryI9YdBs|A2319|Night Train (Oscar Peterson album)|Oscar Peterson|Cool Jazz;Jazz",
-"The Hold Steady|Separation Sunday|2005|ERROR: Suitable playlist not found|A4175|Separation Sunday|The Hold Steady|Indie Rock;Pub Rock;Alternative Rock;Rock",
+"The Hold Steady|Separation Sunday|2005|OLAK5uy_mJes7jC-XwqHqUipwNz2YgYBkbidMd5es|A4175|Separation Sunday|The Hold Steady|Indie Rock;Pub Rock;Alternative Rock;Rock",
 "Jon Hopkins|Immunity|2013|OLAK5uy_ntbNbZWJMYOfpOe-c6lFvz8N78dkvC3lM|A5320|Immunity (Jon Hopkins album)|Jon Hopkins|IDM;Microhouse;Dance;Electronic;Electronic Dance Music;House",
 "Chuck Berry|After School Session|1957|OLAK5uy_mJ8zG_wnf8fS3IXek_uA0y9dzGJYfIg5w|A1262|After School Session|Chuck Berry|Rhythm & Blues;Rock & Roll;R&B;Rock",
 "Caetano Veloso|Estrangeiro|1989|OLAK5uy_m24TJ-cNeBTYd_F0vTL6SnhgiyGyIFecc|A2904|Estrangeiro|Caetano Veloso|MPB;Singer/Songwriter;Brazilian Music;Regional Music",
