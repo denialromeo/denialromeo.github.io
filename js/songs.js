@@ -4994,7 +4994,7 @@ const songs = [
 "Martin Denny|Quiet Village|1959|OJK2LwD_nEY|Martin Denny|S4075|Exotica;Easy Listening;Pop|Quiet Village",
 "The Proclaimers|I'm Gonna Be (500 Miles)|1988|tbNlMtqrYS0|The Proclaimers|S8019|Folk Pop;Pop Rock;Contemporary Folk;Folk;Pop;Rock|I'm Gonna Be (500 Miles)",
 "Urge Overkill|Sister Havana|1993|yzFlPdHt1Gk|Urge Overkill|S138|Alternative Rock;Rock|",
-"Rubén Blades|Desapariciones|1984|UMdZ_8N7BIw|Rubén Blades|S2911|Reggae;Singer/Songwriter;Caribbean Music;Jamaican Music;Regional Music|Matador (Los Fabulosos Cadillacs song)",
+"Rubén Blades|Desapariciones|1984|Bpo2BkmgUMU|Rubén Blades|S2911|Reggae;Singer/Songwriter;Caribbean Music;Jamaican Music;Regional Music|Matador (Los Fabulosos Cadillacs song)",
 "Queens of the Stone Age|Little Sister|2005|hGRqnNEOpe0|Queens of the Stone Age|S8048|Alternative Rock;Hard Rock;Rock|",
 "Sarah McLachlan|Possession|1993|itydwcyywBc|Sarah McLachlan|S8319|Pop Rock;Singer/Songwriter;Pop;Rock|Possession (Sarah McLachlan song)",
 "Willie Colón & Ruben Blades|Pedro Navaja|1978|k62zZBeevWQ|Rubén Blades|S13648|Salsa Dura;Hispanic Music;Latin American Music;Regional Music;Salsa|Pedro Navaja",
