@@ -3056,7 +3056,7 @@ const songs = [
 "Celine Dion|My Heart Will Go On|1997|F2RnxZnubCM|Celine Dion|S2162|Adult Contemporary;Film Soundtrack;Pop;Soundtracks|Immortality (Celine Dion song)|The Reason (Celine Dion song)",
 "Noir Désir|Le Vent nous portera|2001|NrgcRvBJYBE|Noir Désir|S7767|Folk Rock;Nouvelle chanson française;Chanson;Regional Music;Rock|Le vent nous portera",
 "Arctic Monkeys|Four Out of Five|2018|71Es-8FfATo|Arctic Monkeys|S16533|Art Rock;Psychedelic Pop;Pop;Rock|Four Out of Five",
-"Richard and Linda Thompson|I Want to See the Bright Lights Tonight|1974|60Kdf17Btrs?start=492|Richard Thompson (musician)|S736|British Folk Rock;Folk Rock;Rock|",
+"Richard and Linda Thompson|I Want to See the Bright Lights Tonight|1974|8NoVJo0dlZ0|Richard Thompson (musician)|S736|British Folk Rock;Folk Rock;Rock|",
 "Al Green|How Can You Mend a Broken Heart|1972|K9YIq0oNiSM|Al Green|S9127|Smooth Soul;Southern Soul;R&B;Soul|How Can You Mend a Broken Heart",
 "Big Audio Dynamite|E=MC2|1986|cHTDkJ-bQqM|Big Audio Dynamite|S4206|Alternative Dance;New Wave;Alternative Rock;Dance;Rock|",
 "Scritti Politti|The Sweetest Girl|1981|Q7xyLXO0Utk|Scritti Politti|S535|Art Pop;New Wave;Pop;Rock|The \"Sweetest Girl\"",
