@@ -5748,7 +5748,7 @@ const songs = [
 "The Lemon Pipers|Green Tambourine|1967|WGjvgvqOx7c|The Lemon Pipers|S11402|Psychedelic Pop;Pop|",
 "Sigrid|Don't Kill My Vibe|2017|xzonQoON9eo|Sigrid (singer)|S16477|Electropop;Electronic;Pop|Don't Kill My Vibe",
 "Heaven 17|Temptation|1983|RivufkpZDW0|Heaven 17|S2612|New Wave;Synthpop;Electronic;Pop;Rock|",
-"Ory's Sunshine Orchestra|Ory's Creole Trombone|1922|g88KV2sSWU8|Kid Ory|S13220|Dixieland;Jazz|",
+"Ory's Sunshine Orchestra|Ory's Creole Trombone|1922|rVGQlqF-vhU|Kid Ory|S13220|Dixieland;Jazz|",
 "Maria Muldaur|Midnight at the Oasis|1973|8bjzuSO27fA|Maria Muldaur|S4167|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Midnight at the Oasis",
 "The Ohio Express|Yummy Yummy Yummy|1968|VECljlG--gE|Ohio Express|S7796|Bubblegum;Pop Rock;Pop;Rock|Yummy Yummy Yummy",
 "Little Feat|Dixie Chicken|1973|3z-GwdaKrn8|Little Feat|S4166|Southern Rock;Rock|",
