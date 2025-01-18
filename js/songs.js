@@ -6361,7 +6361,7 @@ const songs = [
 "My Bloody Valentine|Feed Me with Your Kiss|1988|9rxE0Mr_U8U|My Bloody Valentine (band)|S7649|Noise Pop;Shoegaze;Alternative Rock;Rock|Feed Me with Your Kiss",
 "Free|Wishing Well|1972|AdWz2fbiSno|Free (band)|S6480|Hard Rock;Rock|Wishing Well (Free song)",
 "John Coltrane|Ascension|1966|S0gIATXhsGQ|John Coltrane|S11226|Free Jazz;Spiritual Jazz;Avant-Garde Jazz;Jazz|Ascension (John Coltrane album)",
-"Chapterhouse|Pearl|1991|Yn_HcXkP8iY|Chapterhouse|S2931|Dream Pop;Shoegaze;Alternative Rock;Rock|",
+"Chapterhouse|Pearl|1991|Yn_HcXkP8iY|Chapterhouse (band)|S2931|Dream Pop;Shoegaze;Alternative Rock;Rock|",
 "Joni Mitchell|This Flight Tonight|1971|iTfB8Q6DpZ0|Joni Mitchell|S7000|Contemporary Folk;Singer/Songwriter;Folk|This Flight Tonight",
 "Paul Kelly|From Little Things Big Things Grow|1991|v8tHiQtLzp8|Paul Kelly (Australian musician)|S14847|Folk Rock;Rock|From Little Things Big Things Grow",
 "Lloyd Cole and the Commotions|Forest Fire|1984|ATzIuDRSLsE?start=29|Lloyd Cole and the Commotions|S7288|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|",
