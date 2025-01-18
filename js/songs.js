@@ -9882,7 +9882,7 @@ const songs = [
 "Tim Dog|Fuck Compton|1991|AwzeM2J3Emk|Tim Dog|S12433|Boom Bap;East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "The Young Rascals|A Girl Like You|1967|gJw_fz2MUdw|The Rascals|S13374|Blue Eyed Soul;Pop|",
 "The Smiths|Meat Is Murder|1985|eviyEJRZX30|The Smiths|S15034|Post-Punk;Rock|",
-"Kate Tempest|Europe Is Lost|2016|-YCcL0aj-9Y|Kate Tempest|S16118|Conscious Hip Hop;Political Hip Hop;UK Hip Hop;Hip Hop|",
+"Kate Tempest|Europe Is Lost|2016|P49gs27p8ps|Kate Tempest|S16118|Conscious Hip Hop;Political Hip Hop;UK Hip Hop;Hip Hop|",
 "Daughters|Satan in the Wait|2018|JRhjaFThxSM|Daughters (band)|S16689|Art Punk;Noise Rock;Punk Rock;Rock|",
 "The Sugarhill Gang|8th Wonder|1980|qB7O6c5Uycw|The Sugarhill Gang|S8627|Disco Rap;East Coast Hip Hop;Hip Hop|",
 "Larry Clinton & His Orchestra|My Reverie|1938|6p0ojyOFm5o|Larry Clinton|S7178|Traditional Pop;Vocal Jazz;Jazz;Pop|",
