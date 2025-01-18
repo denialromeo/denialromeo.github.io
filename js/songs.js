@@ -3373,7 +3373,7 @@ const songs = [
 "The Killers|Human|2008|RIZdjT1472Y|The Killers|S4751|Pop Rock;Synthpop;Electronic;Pop;Rock|Human (The Killers song)",
 "Nick Cave|From Her to Eternity|1984|QSia5QE3rZ0|Nick Cave|S4568|Experimental Rock;Post-Punk;Rock|",
 "Mano Negra|Señor Matanza|1994|eBB7HeShhAg|Mano Negra (band)|S7407|Latin Alternative;Hispanic Music;Latin American Music;Regional Music|",
-"The Pains of Being Pure at Heart|Young Adult Friction|2009|xFFx5KHxzlw|The Pains of Being Pure at Heart|S4828|Twee Pop;Indie Pop;Pop|",
+"The Pains of Being Pure at Heart|Young Adult Friction|2009|dGFI66g8xrM|The Pains of Being Pure at Heart|S4828|Twee Pop;Indie Pop;Pop|",
 "Steppenwolf|The Pusher|1968|LmdDMGp8IS8|Steppenwolf (band)|S8558|Acid Rock;Blues Rock;Psychedelic Rock;Rock|The Pusher",
 "Chicago|If You Leave Me Now|1976|j1ykMNtzMT8|Chicago (band)|S3275|Soft Rock;Pop;Pop Rock;Rock|If You Leave Me Now",
 "Big Maceo|Worried Life Blues|1941|CqSPsJFUt_g|Big Maceo Merriweather|S3062|Acoustic Chicago Blues;Piano Blues;Acoustic Blues;Blues|Worried Life Blues",
