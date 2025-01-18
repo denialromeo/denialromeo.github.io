@@ -5312,7 +5312,7 @@ const songs = [
 "Moby|Natural Blues|1999|SC6-TiN19uE|Moby|S7577|Downtempo;Electronic|Natural Blues",
 "Al Green|Look What You Done for Me|1972|ZOV8ybtAsFI|Al Green|S1741|Smooth Soul;Southern Soul;R&B;Soul|Look What You Done for Me",
 "Salt 'n' Pepa|Shoop|1993|4vaN01VLYSQ|Salt-N-Pepa|S2075|East Coast Hip Hop;Pop Rap;Hip Hop|Shoop (song)",
-"The Teardrop Explodes|Treason (It's Just a Story)|1980|C8brlUfhwBk|The Teardrop Explodes|S1843|New Wave;Post-Punk;Rock|",
+"The Teardrop Explodes|Treason (It's Just a Story)|1980|aAaVUKnDF40|The Teardrop Explodes|S1843|New Wave;Post-Punk;Rock|",
 "Henry Mancini|Peter Gunn|1958|MIKSQT-oXfc|Henry Mancini|S4074|Big Band;Television Music;Jazz;Soundtracks|Peter Gunn (song)",
 "Gerry and the Pacemakers|Ferry Cross the Mersey|1964|MKD9L9ypwSM|Gerry and the Pacemakers|S6551|Merseybeat;Beat Music;Pop;Pop Rock;Rock|Ferry Cross the Mersey",
 "Half Pint|Greetings|1986|GpPvZivhzIA|Half Pint|S6670|Dancehall;Deejay;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
