@@ -4543,7 +4543,7 @@ const songs = [
 "Oasis|Stand by Me|1997|maTP315XZCQ|Oasis (band)|S7782|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Stand by Me (Oasis song)",
 "EPMD|Strictly Business|1988|5aCYQ1fRQc8|EPMD|S3393|Boom Bap;East Coast Hip Hop;Hip Hop|Strictly Business (EPMD song)",
 "Tears for Fears|Sowing the Seeds of Love|1989|VAtGOESO7W8|Tears for Fears|S8696|Art Pop;Pop Rock;Progressive Pop;Psychedelic Pop;Pop;Rock|Sowing the Seeds of Love",
-"Thelonious Monk|Brilliant Corners|1957|0TLEPQZIVOg|Thelonious Monk|S12419|Hard Bop;Bebop;Jazz|",
+"Thelonious Monk|Brilliant Corners|1957|AwlbjCzO9KU|Thelonious Monk|S12419|Hard Bop;Bebop;Jazz|",
 "The Rolling Stones|Stray Cat Blues|1968|oOSYB38y2xA|The Rolling Stones|S3779|Roots Rock;Rock|Stray Cat Blues",
 "Suzanne Vega|Marlene on the Wall|1985|CXb6Lb_h0Oo|Suzanne Vega|S8653|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Marlene on the Wall",
 "Big Star|Holocaust|1978|aAF36fypHQc|Big Star|S9143|Art Pop;Singer/Songwriter;Pop|",
