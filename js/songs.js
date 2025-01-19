@@ -9703,7 +9703,7 @@ const songs = [
 "Neil Sedaka|Laughter in the Rain|1974|1LShXj3BqVE|Neil Sedaka|S13905|Adult Contemporary;Pop|Laughter in the Rain",
 "John Coltrane|India|1963|lK9qYISTzLw|John Coltrane|S13215|Avant-Garde Jazz;Jazz|",
 "Mantronix|Who Is It?|1986|jVC7NjRgHvQ|Mantronix|S4472|East Coast Hip Hop;Electro;Dance;Electronic;Electronic Dance Music;Hip Hop|",
-"Ariel Pink|Hang On to life|2013|YGb13leBllI|Ariel Pink|S9408|Psychedelic Pop;Soft Rock;Sophisti-Pop;Pop;Pop Rock;Rock|",
+"Ariel Pink|Hang On to Life|2013|YGb13leBllI|Ariel Pink|S9408|Psychedelic Pop;Soft Rock;Sophisti-Pop;Pop;Pop Rock;Rock|",
 "Twisted Sister|I Wanna Rock|1984|qwlSMmmdVcA|Twisted Sister|S13996|Glam Metal;Hard Rock;Rock|I Wanna Rock",
 "Neil Young|Out on the Weekend|1972|Hn1BapsppXM|Neil Young|S11727|Country Rock;Folk Rock;Singer/Songwriter;Rock|Out on the Weekend",
 "The Cranberries|Ode to My Family|1994|Zz-DJr1Qs54|The Cranberries|S5883|Dream Pop;Pop Rock;Alternative Rock;Pop;Rock|Ode to My Family",
