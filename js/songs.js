@@ -7444,7 +7444,7 @@ const songs = [
 "Spike Jones|All I Want for Christmas (Is My Two Front Teeth)|1948|e-t2pWzTvqM|Spike Jones|S8525|Christmas Music;Musical Comedy;Novelty;Comedy;Holiday Music|All I Want for Christmas Is My Two Front Teeth",
 "Paul Weller|You Do Something to Me|1995|tM1rSTOs7Zs|Paul Weller|S7903|Blue Eyed Soul;Pop Rock;Pop;Rock|You Do Something to Me (Paul Weller song)",
 "Empress Of|When I'm With Him|2018|D4dtT-Pvrkk|Empress Of|S16573|Alternative R&B;Synthpop;Contemporary R&B;Electronic;Pop;R&B|",
-"Sham 69|If the Kids Are United|1978|2GQMIXGRjaw|Sham 69|S8375|Oi!;Punk Rock;Rock|If the Kids Are United",
+"Sham 69|If the Kids Are United|1978|xprnuOGSZbA|Sham 69|S8375|Oi!;Punk Rock;Rock|If the Kids Are United",
 "Sleater-Kinney|Entertain|2005|MbxRu7fwR24|Sleater-Kinney|S8447|Indie Rock;Punk Rock;Alternative Rock;Rock|",
 "GoldLink feat. Brent Faiyaz & Shy Glizzy|Crew|2016|nhNqbe6QENY|GoldLink|S16386|East Coast Hip Hop;Pop Rap;Hip Hop|",
 "Fountains of Wayne|Stacy's Mom|2003|dZLfasMPOU4|Fountains of Wayne|S2256|Power Pop;Pop;Pop Rock;Rock|Stacy's Mom",
