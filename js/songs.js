@@ -9911,7 +9911,7 @@ const songs = [
 "Fratellis|Flathead|2006|Fz2ZDeTYgTs|The Fratellis|S6470|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|Flathead",
 "Frank Ocean|Moon River|2018|mXiFHDfvn4A|Frank Ocean|S16616|Neo-Soul;R&B;Soul|Moon River",
 "The Chocolate Watchband|Let's Talk About Girls|1967|rBWB4K7Fz50?start=5|The Chocolate Watchband|S5791|Garage Rock;Psychedelic Rock;Rock|",
-"Aerosmith|Last Child|1976|n3VGkc3JZC0|Aerosmith|S9934|Funk Rock;Hard Rock;Rock|Last Child",
+"Aerosmith|Last Child|1976|DzVwt-1LpxE|Aerosmith|S9934|Funk Rock;Hard Rock;Rock|Last Child",
 "Scorpions|Wind of Change|1990|n4RjJKxsamQ|Scorpions (band)|S12171|Pop Rock;Pop;Rock|Wind of Change (Scorpions song)",
 "Sarah Vaughan|Broken-Hearted Melody|1959|RMO6H2qvfcU|Sarah Vaughan|S8321|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop|Broken Hearted Melody",
 "Bauhaus|Dark Entries|1980|N8n6k8QcU3k|Bauhaus (band)|S13672|Gothic Rock;Post-Punk;Rock|Dark Entries",
