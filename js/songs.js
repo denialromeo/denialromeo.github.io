@@ -2489,7 +2489,7 @@ const songs = [
 "EMA|California|2011|RjSOcoDJYQg|Erika M. Anderson|S4957|Dream Pop;Experimental Rock;Alternative Rock;Rock|",
 "Nas|New York State of Mind|1994|q4GEze_lHsk|Nas|S3655|Boom Bap;East Coast Hip Hop;Hip Hop|N.Y. State of Mind",
 "Madonna|Erotica|1992|WyhdvRWEWRw|Madonna (entertainer)|S2051|Dance-Pop;New Jack Swing;Contemporary R&B;Dance;Pop;R&B|Erotica (song)",
-"Howlin' Wolf|Evil|1954|mRlbgi82tss|Howlin' Wolf|S3482|Chicago Blues;Blues;Electric Blues|Evil (Howlin' Wolf song)",
+"Howlin' Wolf|Evil|1954|fE-yuA4QuVI|Howlin' Wolf|S3482|Chicago Blues;Blues;Electric Blues|Evil (Howlin' Wolf song)",
 "Lupe Fiasco|Kick Push|2006|Gl83mI69nX4|Lupe Fiasco|S4000|Hip Hop|",
 "Hank Williams|Hey Good Lookin'|1951|bjCoKslQOEs|Hank Williams|S1413|Honky Tonk;Country|Hey, Good Lookin' (song)",
 "Go-Go's|We Got the Beat|1980|f55KlPe81Yw|The Go-Go's|S562|New Wave;Power Pop;Pop;Pop Rock;Rock|We Got the Beat",
