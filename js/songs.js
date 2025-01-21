@@ -3304,7 +3304,7 @@ const songs = [
 "Pavement|Here|1992|3DRBYrYj144|Pavement (band)|S9316|Lo-Fi / Slacker Rock;Alternative Rock;Indie Rock;Rock|",
 "The Impressions|Gypsy Woman|1961|um7jdzcc2H4|The Impressions|S1123|Pop Soul;Pop;R&B;Soul|Gypsy Woman (The Impressions song)",
 "Selena Gomez|Bad Liar|2017|NZKXkD6EgBk|Selena Gomez|S16475|Dance-Pop;Dance;Pop|Bad Liar (Selena Gomez song)",
-"Giorgio Moroder|Chase|1978|mpW3C_k0WMY|Giorgio Moroder|S6568|Film Score;Space Disco;Dance;Disco;Electro-Disco;Electronic;Electronic Dance Music;Film Soundtrack;Soundtracks|",
+"Giorgio Moroder|Chase|1978|mpW3C_k0WMY|Giorgio Moroder|S6568|Film Score;Space Disco;Dance;Disco;Electro-Disco;Electronic;Electronic Dance Music;Film Soundtrack;Soundtracks|Chase (instrumental)",
 "LCD Soundsystem|All I Want|2010|AAGZ9xFosNA|LCD Soundsystem|S4917|Alternative Dance;Indietronica;Post-Punk Revival;Alternative Rock;Dance;Electronic;Indie Rock;Post-Punk;Rock|I Can Change (LCD Soundsystem song)",
 "Aterciopelados|Bolero falaz|1995|GEe-G4w0ifc|Aterciopelados|S5265|Alternative Rock;Latin Alternative;Hispanic Music;Latin American Music;Regional Music;Rock|",
 "Def Leppard|Pour Some Sugar on Me|1987|0UIB9Y4OFPs|Def Leppard|S3325|Glam Metal;Hard Rock;Rock|Pour Some Sugar on Me",
