@@ -9246,7 +9246,7 @@ const songs = [
 "The Beatles|She Came in Through the Bathroom Window|1969|NVv7IzEVf3M|The Beatles|S10119|Pop Rock;Pop;Rock|She Came In Through the Bathroom Window",
 "Led Zeppelin|How Many More Times|1969|y-5o2f9wzmw|Led Zeppelin|S11388|Blues Rock;Hard Rock;Rock|How Many More Times",
 "De La Soul|Potholes in My Lawn|1988|k-Hb0NlYzco|De La Soul|S10542|East Coast Hip Hop;Hip Hop|Potholes in My Lawn",
-"The Men|Open Your Heart|2012|8NEjJJYp9fo|The Men (punk band)|S5025|Garage Punk;Indie Rock;Alternative Rock;Garage Rock;Punk Rock;Rock|Open Your Heart (Madonna song)",
+"The Men|Open Your Heart|2012|B9_HwDoc2n0|The Men (punk band)|S5025|Garage Punk;Indie Rock;Alternative Rock;Garage Rock;Punk Rock;Rock|Open Your Heart (Madonna song)",
 "Sonic Youth|Youth Against Fascism|1992|eWzIlCJAw-o|Sonic Youth|S8491|Noise Rock;Punk Rock;Rock|Youth Against Fascism",
 "Ray Price|Make the World Go Away|1963|gwmSF2ZIElY|Ray Price (musician)|S2411|Nashville Sound;Country;Country Pop;Pop|Make the World Go Away",
 "Otis Redding|Shake|1965|Qv_U26M4yyI|Otis Redding|S4534|Southern Soul;R&B;Soul|Shake (Sam Cooke song)",
