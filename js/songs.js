@@ -4116,7 +4116,7 @@ const songs = [
 "The Impressions|It's All Right|1963|KOmd-WkJrSI|The Impressions|S3495|Chicago Soul;R&B;Soul|It's All Right (The Impressions song)",
 "T La Rock & Jazzy Jay|It's Yours|1984|LjiSQDla_Dc|T La Rock|S2349|East Coast Hip Hop;Hip Hop|",
 "Tyrone Davis|Can I Change My Mind|1968|atlfJwaDnsc|Tyrone Davis|S2852|Chicago Soul;R&B;Soul|Can I Change My Mind",
-"Fairport Convention|A Sailor's Life|1969|Ygi8v7UcNMs|Fairport Convention|S4126|British Folk Rock;Progressive Folk;Contemporary Folk;Folk;Folk Rock;Rock|",
+"Fairport Convention|A Sailor's Life|1969|Ygi8v7UcNMs|Fairport Convention|S4126|British Folk Rock;Progressive Folk;Contemporary Folk;Folk;Folk Rock;Rock|A Sailor's Life",
 "Sister Sledge|He's The Greatest Dancer|1978|VB4JPQKr9bQ|Sister Sledge|S4438|Disco;Dance|He's the Greatest Dancer",
 "Todd Terje|Strandbar|2013|uEhge2_L9tI|Todd Terje|S9538|Electro-Disco;Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House|",
 "Joe Simon|Drowning in the Sea of Love|1971|veyKdMzF2xs|Joe Simon (musician)|S1315|Philly Soul;R&B;Soul|Drowning in the Sea of Love",
