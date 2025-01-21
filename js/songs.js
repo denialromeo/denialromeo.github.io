@@ -9961,7 +9961,7 @@ const songs = [
 "Jeanette MacDonald & Nelson Eddy|Indian Love Call|1936|IyT-VSE6M1k|Jeanette MacDonald|S6886|Operetta;Classical Music;Musical Theatre and Entertainment;Opera;Show Tunes;Soundtracks;Western Classical Music|",
 "Gang of Four|Natural's Not In It|1979|_QAIX8410zs|Gang of Four (band)|S6496|Art Punk;Post-Punk;Punk Rock;Rock|",
 "Lady Sovereign|Random|2005|8MvMRdX2k5g|Lady Sovereign|S4264|Pop Rap;Hip Hop|",
-"Wynonie Harris|All She Wants to Do Is Rock|1949|T_vgfavJ50E|Wynonie Harris|S9072|Jump-Blues;Blues|",
+"Wynonie Harris|All She Wants to Do Is Rock|1949|7Kd2lNExHrU|Wynonie Harris|S9072|Jump-Blues;Blues|",
 "Cake|I Will Survive|1996|cvsI3jc4pPA|Cake (band)|S5695|Alternative Rock;Rock|I Will Survive",
 "DJ Jazzy Jeff & The Fresh Prince|Parents Just Don't Understand|1988|jW3PFC86UNI|DJ Jazzy Jeff & The Fresh Prince|S3339|Boom Bap;Comedy Rap;East Coast Hip Hop;Pop Rap;Comedy;Hip Hop;Musical Comedy|Parents Just Don't Understand",
 "Whirlpool Productions|From: Disco To: Disco|1996|9_gidanrIFc|Whirlpool Productions|S8985|Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House|From Disco to Disco",
