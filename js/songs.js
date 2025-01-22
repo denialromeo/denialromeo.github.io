@@ -3274,7 +3274,7 @@ const songs = [
 "Jessie Ware|Running|2012|kvlFWmvgeVI|Jessie Ware|S5050|Alternative R&B;Contemporary R&B;R&B|Running (Jessie Ware song)",
 "Elbow|Grounds for Divorce|2008|jxczVhG0os8|Elbow (band)|S6223|Art Rock;Indie Rock;Alternative Rock;Rock|Grounds for Divorce (song)",
 "Survivor|Eye of the Tiger|1982|btPJPFnesV4|Survivor (band)|S3875|Hard Rock;Rock|Eye of the Tiger",
-"Primitive Radio Gods|Standing Outside a Broken Phone Booth with Money in My Hand|1996|4XJxFAoiWSY|Primitive Radio Gods|S31|Downtempo;Electronic|Standing Outside a Broken Phone Booth with Money in My Hand",
+"Primitive Radio Gods|Standing Outside a Broken Phone Booth with Money in My Hand|1996|LTz88cmXie4|Primitive Radio Gods|S31|Downtempo;Electronic|Standing Outside a Broken Phone Booth with Money in My Hand",
 "Thundercat feat. Kenny Loggins & Michael McDonald|Show You the Way|2017|Z-zdIGxOJ4M|Thundercat (musician)|S16505|Neo-Soul;Smooth Soul;R&B;Soul|",
 "Battles|Ice Cream|2011|dFggLJxv9zA|Battles (band)|S4943|Math Rock;Progressive Pop;Alternative Rock;Pop;Rock|Ice Cream (Battles song)",
 "Alice Cooper|Elected!|1972|e_qtQ52eFB0|Alice Cooper|S5156|Glam Rock;Hard Rock;Rock|",
