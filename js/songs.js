@@ -5338,7 +5338,7 @@ const songs = [
 "Sweet|Blockbuster|1973|Y64211sjSko|The Sweet|S2318|Glam Rock;Rock|Blockbuster",
 "Blur|To the End|1994|0DjHKqb365A|Blur (band)|S2950|Britpop;Chamber Pop;Alternative Rock;Baroque Pop;Indie Pop;Pop;Pop Rock;Rock|To the End (Blur song)",
 "Archie Roach|Took the Children Away|1990|IL_DBNkkcSE|Archie Roach|S10017|Contemporary Folk;Folk|Took the Children Away",
-"Art Tatum|Tiger Rag|1933|TZAPas2VrzE|Art Tatum|S10031|Stride;American Folk Music;Folk;Jazz;Ragtime;Regional Music;Traditional Folk Music|",
+"Art Tatum|Tiger Rag|1933|TZAPas2VrzE|Art Tatum|S10031|Stride;American Folk Music;Folk;Jazz;Ragtime;Regional Music;Traditional Folk Music|Tiger Rag",
 "Lana Del Rey|Blue Jeans|2011|JRWox-i6aAk|Lana Del Rey|S7176|Art Pop;Chamber Pop;Trip Hop;Baroque Pop;Downtempo;Electronic;Indie Pop;Pop|Blue Jeans (Lana Del Rey song)",
 "Guns N' Roses|Civil War|1990|KuBD8qm6rMI|Guns N' Roses|S10988|Hard Rock;Rock|Civil War (song)",
 "The Move|Blackberry Way|1969|ELRHD4UCo74|The Move|S3645|Baroque Pop;Psychedelic Pop;Pop|",
