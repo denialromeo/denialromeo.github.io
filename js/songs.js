@@ -6839,7 +6839,7 @@ const songs = [
 "Swans|A Little God in My Hands|2014|vfmi0v5vIGo|Swans (band)|S9626|Art Rock;Experimental Rock;Rock|",
 "Love & Rockets|So Alive|1989|-L41MhFPU9s|Love and Rockets (band)|S2003|Alternative Dance;Post-Punk;Alternative Rock;Dance;Rock|So Alive (Love and Rockets song)",
 "Was (Not Was)|Out Come the Freaks|1981|2F3SP9gweac|Was (Not Was)|S3939|Disco;Dance|Out Come the Freaks",
-"The Delmore Brothers|Blues Stay Away from Me|1949|YUk9UDoVyKk|The Delmore Brothers|S4067|Bluegrass;Close Harmony;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|",
+"The Delmore Brothers|Blues Stay Away from Me|1949|mg4KJwVAR_E|The Delmore Brothers|S4067|Bluegrass;Close Harmony;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|",
 "The Amboy Dukes|Journey to the Center of the Mind|1968|a_J-sNBnaaY|The Amboy Dukes (band)|S5185|Psychedelic Rock;Rock|Journey to the Center of the Mind (song)",
 "Étienne de Crécy|Prix Choc|1997|IUNS6xU-kt0|Étienne de Crécy|S10761|Deep House;French House;Dance;Electronic;Electronic Dance Music;House|",
 "Kent|Musik non stop|1999|4NRCR1QIhB4|Kent (band)|S7090|Alternative Rock;Pop Rock;Pop;Rock|Musik non stop",
