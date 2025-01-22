@@ -8016,7 +8016,7 @@ const songs = [
 "Billy Murray|The Yankee Doodle Boy|1905|lV-oWJ1dRTM|Billy Murray (singer)|S9148|Classical March;Traditional Pop;Classical Music;Pop;Western Classical Music|The Yankee Doodle Boy",
 "Los Prisioneros|El baile de los que sobran|1986|uPJrZFBiy-A|Los Prisioneros|S13550|New Wave;Pop Rock;Synthpop;Electronic;Pop;Rock|",
 "Sloan|The Good in Everyone|1996|Qffy6uHkcTU|Sloan (band)|S12232|Power Pop;Pop;Pop Rock;Rock|The Good in Everyone",
-"GQ|Disco Nights (Rock-Freak)|1979|wPITlS9DEqU|GQ (band)|S12874|Disco;Dance|Disco Nights (Rock-Freak)",
+"GQ|Disco Nights (Rock-Freak)|1979|1pSAsYz-z0c|GQ (band)|S12874|Disco;Dance|Disco Nights (Rock-Freak)",
 "Mon Laferte|Tu falta de querer|2015|WT-VE9OyAJk|Mon Laferte|S16932|Latin Pop;Singer/Songwriter;Hispanic Music;Latin American Music;Pop;Regional Music|Tu falta de querer",
 "Freddy Cannon|Way Down Yonder in New Orleans|1959|IfucBZRsy4U|Freddy Cannon|S1188|Rock & Roll;Rock|Way Down Yonder in New Orleans",
 "Sean Paul|Like Glue|2002|0zZ2bifb338|Sean Paul|S8340|Dancehall;Caribbean Music;Jamaican Music;Regional Music|Like Glue",
