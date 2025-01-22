@@ -5012,7 +5012,7 @@ const songs = [
 "Grateful Dead|St. Stephen|1969|xZ5TftMTPOE|Grateful Dead|S6636|Psychedelic Rock;Rock|St. Stephen (song)",
 "Wire|Three Girl Rhumba|1977|ctpzzTR15yo|Wire (band)|S2595|Art Punk;Punk Rock;Rock|",
 "The Fall|Lost in Music|1993|nwt3q_Fq3w0|The Fall (band)|S9218|Indie Rock;Alternative Rock;Rock|",
-"James Brown|Lost Someone|1962|0QbEd9cuRBI|James Brown|S1089|Soul;R&B|Lost Someone",
+"James Brown|Lost Someone|1962|1KEsLZHyYIc|James Brown|S1089|Soul;R&B|Lost Someone",
 "P. P. Arnold|The First Cut Is the Deepest|1967|ujeUrXWJXBY|P. P. Arnold|S3157|Baroque Pop;Pop Soul;Pop;R&B;Soul|The First Cut Is the Deepest",
 "New Order|Love Vigilantes|1985|-VFWqLmVWx4|New Order (band)|S3661|New Wave;Rock|Love Vigilantes",
 "Ghostface Killah|Daytona 500|1996|1G03xA3SMKo|Ghostface Killah|S3445|Boom Bap;East Coast Hip Hop;Hip Hop|",
