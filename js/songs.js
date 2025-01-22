@@ -5349,7 +5349,7 @@ const songs = [
 "The Fleetwoods|Come Softly to Me|1959|nIivzJ90M0s?start=21|The Fleetwoods|S6400|Doo-Wop;R&B;Vocal Group|Come Softly to Me",
 "The Lemonheads|My Drug Buddy|1992|DCOKAYIBmng|The Lemonheads|S4219|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|",
 "Nick Cave|Higgs Boson Blues|2013|1GWsdqCYvgw|Nick Cave|S9498|Art Rock;Blues Rock;Singer/Songwriter;Rock|",
-"The Clash|Stay Free|1978|FuYzsrYSQx4|The Clash|S4184|Punk Rock;Rock|Stay Free",
+"The Clash|Stay Free|1978|jDa8T9EM4Tg|The Clash|S4184|Punk Rock;Rock|Stay Free",
 "Wah!|The Story of the Blues|1982|TvNHXZhyxFs|Pete Wylie|S4456|Blue Eyed Soul;Pop Soul;Pop;R&B;Soul|The Story of the Blues (song)",
 "The Notorious B.I.G.|One More Chance (Stay with Me Remix)|1995|542Am04RsDs|The Notorious B.I.G.|S7773|Boom Bap;East Coast Hip Hop;Hip Hop|One More Chance (The Notorious B.I.G. song)",
 "Glass Candy|Warm in the Winter|2011|2C7aay7Qkgc|Glass Candy|S9455|Electro-Disco;Synthwave;Dance;Disco;Electronic;Electronic Dance Music|",
