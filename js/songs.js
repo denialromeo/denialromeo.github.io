@@ -3107,7 +3107,7 @@ const songs = [
 "Busta Rhymes|Put Your Hands Where My Eyes Could See|1997|Qw8dRrInTk8|Busta Rhymes|S3758|Boom Bap;East Coast Hip Hop;Hip Hop|Put Your Hands Where My Eyes Could See",
 "Mac DeMarco|Ode to Viceroy|2012|I2_r94MwW18|Mac DeMarco|S11512|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|",
 "Weyes Blood|Andromeda|2019|Aki1Xn36eJ8|Weyes Blood|S16892|Art Pop;Psychedelic Pop;Pop|",
-"The Beach Boys|Help Me, Rhonda|1965|QPnBrK6D26g|The Beach Boys|S1454|Sunshine Pop;Vocal Surf;Pop;Pop Rock;Rock;Surf Music|Help Me, Rhonda",
+"The Beach Boys|Help Me, Rhonda|1965|j1THDLgL_bs|The Beach Boys|S1454|Sunshine Pop;Vocal Surf;Pop;Pop Rock;Rock;Surf Music|Help Me, Rhonda",
 "Joe Jackson|Steppin' Out|1982|PJwt2dxx9yg|Joe Jackson (musician)|S3504|New Wave;Synthpop;Electronic;Pop;Rock|Steppin' Out (Joe Jackson song)",
 "My Bloody Valentine|To Here Knows When|1991|pgTX42rWg74|My Bloody Valentine (band)|S4491|Dream Pop;Shoegaze;Alternative Rock;Rock|",
 "Public Image Ltd.|Death Disco|1979|ZB0NdM1HyOU|Public Image Ltd|S595|Dance-Punk;Post-Punk;Rock|Death Disco",
