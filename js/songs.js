@@ -8945,7 +8945,7 @@ const songs = [
 "Funkadelic|Cosmic Slop|1973|jn52ojCCPWI|Funkadelic|S2578|Funk;Funk Rock;Psychedelic Soul;R&B;Rock;Soul|",
 "Aimee Mann|4th of July|1993|3S7HAvibdvc|Aimee Mann|S14048|Pop Rock;Singer/Songwriter;Pop;Rock|",
 "2Pac|How Do U Want It|1996|PJWpyKvHZAk|Tupac Shakur|S5071|G-Funk;Pop Rap;West Coast Hip Hop;Hip Hop|How Do U Want It",
-"The Who|Happy Jack|1966|JY3hUdK56IM|The Who|S12587|Freakbeat;Mod;Beat Music;Pop;Pop Rock;Rock|Happy Jack (song)",
+"The Who|Happy Jack|1966|52cQeFBU2Kw|The Who|S12587|Freakbeat;Mod;Beat Music;Pop;Pop Rock;Rock|Happy Jack (song)",
 "Pop Smoke|Welcome to the Party|2019|usu0XY4QNB0|Pop Smoke|S16847|East Coast Hip Hop;UK Drill;Drill;Gangsta Rap;Hardcore Hip Hop;Hip Hop;Trap|Welcome to the Party (Pop Smoke song)",
 "1910 Fruitgum Company|1, 2, 3, Red Light|1968|840hgKbdIeg|1910 Fruitgum Company|S4109|Bubblegum;Pop|",
 "Alanis Morissette|Head Over Feet|1995|4iuO49jbovg|Alanis Morissette|S14055|Pop Rock;Singer/Songwriter;Pop;Rock|Head over Feet",
