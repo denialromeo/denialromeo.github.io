@@ -9004,7 +9004,7 @@ const songs = [
 "Spin Doctors|Little Miss Can't Be Wrong|1991|cXWbMu4PtpE|Spin Doctors|S2937|Funk Rock;Pop Rock;Pop;Rock|Little Miss Can't Be Wrong",
 "The Kooks|Seaside|2006|rxbV_pxbWuU|The Kooks|S7142|Indie Pop;Pop|Jungkook",
 "Los Prisioneros|We Are South American Rockers|1988|NZB6KeU-6AM|Los Prisioneros|S13551|New Wave;Pop Rock;Pop;Rock|",
-"Roberta Flack|Where Is the Love|1972|MBT1neIA0tc|Roberta Flack|S8185|Smooth Soul;R&B;Soul|Where Is the Love (Roberta Flack and Donny Hathaway song)",
+"Roberta Flack|Where Is the Love|1972|sI7UOwOhKEs|Roberta Flack|S8185|Smooth Soul;R&B;Soul|Where Is the Love (Roberta Flack and Donny Hathaway song)",
 "Fugazi|Margin Walker|1989|QiEeKOLzWNE|Fugazi|S10882|Post-Hardcore;Punk Rock;Rock|",
 "Johnny Mercer|Zip-A-Dee-Doo-Dah|1946|LHM1gHVTMMQ|Johnny Mercer|S4595|Vocal Jazz;Jazz|Zip-a-Dee-Doo-Dah",
 "Bruce Springsteen|My Hometown|1984|77gKSp8WoRg|Bruce Springsteen|S10313|Heartland Rock;Rock|",
