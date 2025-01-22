@@ -1306,7 +1306,7 @@ const songs = [
 "Nick Cave|Where the Wild Roses Grow|1995|lDpnjE1LUvE|Nick Cave|S76|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop|Where the Wild Roses Grow",
 "The Strokes|Someday|2001|knU9gRUWCno|The Strokes|S1519|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|Someday (The Strokes song)",
 "Talking Heads|Life During Wartime|1979|jLwZvg46jms|Talking Heads|S579|New Wave;Post-Punk;Rock|Life During Wartime (song)",
-"Johnny Kidd and the Pirates|Shakin' All Over|1960|n327ncoU_ZU|Johnny Kidd & the Pirates|S1142|Rock & Roll;Rock|Shakin' All Over",
+"Johnny Kidd and the Pirates|Shakin' All Over|1960|vZTjKYDscJE|Johnny Kidd & the Pirates|S1142|Rock & Roll;Rock|Shakin' All Over",
 "Smashing Pumpkins|Today|1993|xmUZ6nCFNoU|The Smashing Pumpkins|S142|Alternative Rock;Rock|Today (The Smashing Pumpkins song)",
 "New Order|Ceremony|1981|kkASIx9Xk6s|New Order (band)|S533|Post-Punk;Rock|Ceremony (New Order song)",
 "Thunderclap Newman|Something in the Air|1969|RTZoJ01FpD8|Thunderclap Newman|S881|Pop Rock;Psychedelic Pop;Pop;Rock|Something in the Air",
