@@ -2269,7 +2269,7 @@ const songs = [
 "Kate Bush|Cloudbusting|1985|pllRW9wETzw|Kate Bush|S7063|Art Pop;Baroque Pop;Progressive Pop;Pop|Cloudbusting",
 "Iron Maiden|Hallowed Be Thy Name|1982|_BFXCgm5270|Iron Maiden|S6800|NWOBHM;Heavy Metal;Metal;Rock|Hallowed Be Thy Name (song)",
 "Louis Armstrong|Struttin' with Some Barbeque|1928|SsuNN6kr2Rc|Louis Armstrong|S7328|Dixieland;Jazz|",
-"Lenny Kravitz|Are You Gonna Go My Way|1993|8LhCd1W2V0Q|Lenny Kravitz|S2074|Hard Rock;Rock|",
+"Lenny Kravitz|Are You Gonna Go My Way|1993|8LhCd1W2V0Q|Lenny Kravitz|S2074|Hard Rock;Rock|Are You Gonna Go My Way (song)",
 "James Brown|Try Me|1958|bfHnL_FSa3Y|James Brown|S1224|Rhythm & Blues;Soul;R&B|Try Me (James Brown song)",
 "Dinah Washington|What a Diff'rence a Day Makes|1959|upJ3OgMRiUA|Dinah Washington|S3940|Jazz Pop;Traditional Pop;Pop|What a Diff'rence a Day Makes",
 "Marvin Gaye|I Want You|1975|bGobofgSM3Q|Marvin Gaye|S7460|Smooth Soul;R&B;Soul|I Want You (Marvin Gaye song)",
