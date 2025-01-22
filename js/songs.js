@@ -6492,7 +6492,7 @@ const songs = [
 "Spandau Ballet|Chant No. 1 (I Don't Need This Pressure On)|1981|VIqMk5PvhT0|Spandau Ballet|S1862|New Romantic;New Wave;Rock|Chant No. 1 (I Don't Need This Pressure On)",
 "Fred Astaire|A Fine Romance (A Sarcastic Love Song)|1936|sRqK-KxNLAY|Fred Astaire|S6471|Traditional Pop;Vocal Jazz;Jazz;Pop|A Fine Romance (song)",
 "Element of Crime|Weißes Papier|1993|U_j6q6GB0ZI|Element of Crime|S6232|Deutschrock;Indie Pop;Liedermacher;Pop;Rock;Singer/Songwriter|",
-"Dead Kennedys|Too Drunk to Fuck|1981|8Jzdikbi9yE|Dead Kennedys|S1858|Hardcore Punk;Punk Rock;Rock|Too Drunk to Fuck",
+"Dead Kennedys|Too Drunk to Fuck|1981|_dGcI9wwckk|Dead Kennedys|S1858|Hardcore Punk;Punk Rock;Rock|Too Drunk to Fuck",
 "Jelly Roll Morton|The Pearls|1924|SNqIjFobMr8|Jelly Roll Morton|S13206|Dixieland;Ragtime;American Folk Music;Folk;Jazz;Regional Music;Traditional Folk Music|",
 "Patsy Cline|Sweet Dreams (Of You)|1963|imafHIq2210|Patsy Cline|S1654|Nashville Sound;Country;Country Pop;Pop|",
 "Renaud|Mistral Gagnant|1985|_YqzuE-5RE8|Renaud|S8136|Chanson;Regional Music|Mistral gagnant (song)",
