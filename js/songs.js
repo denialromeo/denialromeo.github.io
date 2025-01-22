@@ -6560,7 +6560,7 @@ const songs = [
 "M.I.A.|Born Free|2010|YeTkxy-sid8|M.I.A. (rapper)|S7363|Synth Punk;Electronic;Punk Rock;Rock|Born Free (M.I.A. song)",
 "Jamie Lidell|Multiply|2005|fkqIsSTWSsc|Jamie Lidell|S6852|Blue Eyed Soul;Pop Soul;Pop;R&B;Soul|",
 "Kula Shaker|Tattva|1996|2bYj2o7y4rk|Kula Shaker|S56|Britpop;Neo-Psychedelia;Raga Rock;Alternative Rock;Pop;Pop Rock;Psychedelic Rock;Rock|",
-"Lil Wayne|Georgia...Bush|2006|wkA3p3YqH9U|Lil Wayne|S7263|Political Hip Hop;Hip Hop|",
+"Lil Wayne|Georgia Bush|2006|wkA3p3YqH9U|Lil Wayne|S7263|Political Hip Hop;Hip Hop|",
 "Fiona Apple|Sleep to Dream|1996|L9Wnh0V4HMM|Fiona Apple|S6373|Art Pop;Singer/Songwriter;Pop|Sleep to Dream",
 "Depeche Mode|Behind the Wheel|1987|VEAuMiKqP-4|Depeche Mode|S6042|Synthpop;Electronic;Pop|Behind the Wheel",
 "Jay-Z|I Just Wanna Love U (Give It 2 Me)|2000|nG8o_9RliwU|Jay-Z|S4603|East Coast Hip Hop;Pop Rap;Hip Hop|I Just Wanna Love U (Give It 2 Me)",
