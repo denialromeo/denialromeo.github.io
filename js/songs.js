@@ -5876,7 +5876,7 @@ const songs = [
 "Journey|Any Way You Want It|1980|atxUuldUcfI|Journey (band)|S11255|AOR;Rock|Any Way You Want It",
 "Late of the Pier|Space and the Woods|2007|q2d5VeE22uU|Late of the Pier|S7182|Dance-Punk;Post-Punk;Rock|Space and the Woods",
 "Aaliyah|More Than a Woman|2001|xgYUj_pAD-w|Aaliyah|S5081|Contemporary R&B;Dance-Pop;Dance;Pop;R&B|More Than a Woman (Aaliyah song)",
-"Josephine Baker|J'ai deux amours|1930|gRfrUdsL4Pk|Josephine Baker|S7007|Chanson;Regional Music|",
+"Josephine Baker|J'ai deux amours|1930|LcXPvwgu4ro|Josephine Baker|S7007|Chanson;Regional Music|",
 "Laurent Garnier|Crispy Bacon|1996|fki4TySQqc0|Laurent Garnier|S7190|Techno;Dance;Electronic;Electronic Dance Music|",
 "Puff Daddy|I'll Be Missing You|1997|NKMtZm2YuBE|Sean Combs|S8034|East Coast Hip Hop;Pop Rap;Hip Hop|I'll Be Missing You",
 "Can|Moonshake|1973|_ZUCxG3I01I|Can (band)|S5704|Krautrock;Experimental Rock;Progressive Rock;Rock|Moonshake (song)",
