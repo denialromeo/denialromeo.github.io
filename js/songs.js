@@ -4048,7 +4048,7 @@ const songs = [
 "La Ley|El duelo|1995|zeUBevkD5l8|La Ley (band)|S7167|Pop Rock;Pop;Rock|Invisible (La Ley album)",
 "Them|Baby, Please Don't Go|1964|dL60VXOXtSQ|Them (band)|S3893|British Rhythm & Blues;Garage Rock;R&B;Rhythm & Blues;Rock|Baby, Please Don't Go",
 "Stone Temple Pilots|Plush|1992|V5UOC0C0x8Q|Stone Temple Pilots|S8595|Grunge;Alternative Rock;Rock|Plush (song)",
-"Faust|It's a Rainy Day, Sunshine Girl|1972|GRxvQmTTz5I|Faust (band)|S10790|Krautrock;Experimental Rock;Progressive Rock;Rock|",
+"Faust|It's a Rainy Day, Sunshine Girl|1972|8Z4ahue-pSo|Faust (band)|S10790|Krautrock;Experimental Rock;Progressive Rock;Rock|",
 "Pascal Comelade|Love Too Soon|1998|lBvJpl_0ZME|PJ Harvey|S7852|Art Pop;Tango Nuevo;Hispanic Music;Latin American Music;Pop;Regional Music;Tango|",
 "Jamie T|Sheila|2006|4-L7Cadb-c0|Jamie T|S6854|UK Hip Hop;Hip Hop|",
 "Jay-Z|Roc Boys (And the Winner Is)…|2007|Revmkhxu7dk|Jay-Z|S4312|East Coast Hip Hop;Hip Hop|Roc Boys (And the Winner Is)...",
