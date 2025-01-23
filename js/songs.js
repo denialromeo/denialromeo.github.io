@@ -5286,7 +5286,7 @@ const songs = [
 "Del Shannon|Hats Off to Larry|1961|Xk_FR3341bA|Del Shannon|S1639|Pop Rock;Rock & Roll;Pop;Rock|Hats Off to Larry",
 "Nazareth|Love Hurts|1974|_yGM_EBvQVs|Nazareth (band)|S2324|AOR;Hard Rock;Soft Rock;Pop;Pop Rock;Rock|Love Hurts",
 "The Jam|English Rose|1978|omXvnvhclMw|The Jam|S4555|Contemporary Folk;Singer/Songwriter;Folk|English rose (epithet)",
-"The Clash|Spanish Bombs|1979|17hbj5l4rIA|The Clash|S12777|New Wave;Rock|Spanish Bombs",
+"The Clash|Spanish Bombs|1979|O6LQQWZYiqk|The Clash|S12777|New Wave;Rock|Spanish Bombs",
 "Rihanna|Kiss It Better|2016|49lY0HqqUVc|Rihanna|S16174|Alternative R&B;Contemporary R&B;R&B|Kiss It Better",
 "Dr. Feelgood|She Does It Right|1975|iHm7uIC84YM|Dr. Feelgood (band)|S6152|British Blues;Pub Rock;Blues;Electric Blues;Rock|She Does It Right",
 "Black Eyed Peas|I Gotta Feeling|2009|uSD4vsh1zDA|The Black Eyed Peas|S4844|Dance-Pop;Electropop;Dance;Electronic;Pop|I Gotta Feeling",
