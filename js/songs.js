@@ -3648,7 +3648,7 @@ const songs = [
 "Jody Reynolds|Endless Sleep|1958|6acvhYcPWB8|Jody Reynolds|S3067|Rockabilly;Rock;Rock & Roll|Endless Sleep",
 "The Five Stairsteps|O-o-h Child|1970|dguz0IsCuKU|Five Stairsteps|S1725|Chicago Soul;Pop Soul;Pop;R&B;Soul|",
 "Chic|I Want Your Love|1978|rpuPCcw-cDU|Chic (band)|S12776|Disco;Dance|I Want Your Love (Chic song)",
-"Grandaddy|The Crystal Lake|2000|eTIWM4Yy2hA|Grandaddy|S4245|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|The Crystal Lake",
+"Grandaddy|The Crystal Lake|2000|BW_ZpgczAjI|Grandaddy|S4245|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|The Crystal Lake",
 "(Sandy) Alex G|Gretel|2019|nPuxLpVus-k|Alex G|S16723|Indie Folk;Indie Rock;Alternative Rock;Contemporary Folk;Folk;Rock|",
 "Neko Case|This Tornado Loves You|2009|d7ubXQvxDp8|Neko Case|S4836|Alt-Country;Singer/Songwriter;Country|",
 "Superchunk|Slack Motherfucker|1990|PCzazYAcd3Y|Superchunk|S3870|Lo-Fi / Slacker Rock;Alternative Rock;Indie Rock;Rock|Slack Motherfucker",
