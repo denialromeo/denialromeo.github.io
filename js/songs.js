@@ -6237,7 +6237,7 @@ const songs = [
 "Belinda Carlisle|Heaven Is a Place on Earth|1987|j2F4INQFjEI|Belinda Carlisle|S5402|Pop Rock;Pop;Rock|",
 "Snoop Dogg|Beautiful|2002|_FE194VN6c4|Snoop Dogg|S2404|Pop Rap;West Coast Hip Hop;Hip Hop|Beautiful (Snoop Dogg song)",
 "Steve Miller Band|Abracadabra|1982|tY8B0uQpwZs|Steve Miller Band|S8576|New Wave;Pop Rock;Pop;Rock|Abracadabra (Steve Miller Band song)",
-"Mary Wells|You Beat Me to the Punch|1962|bzFfG5nXYr0|Mary Wells|S7466|Motown Sound;Pop;Pop Soul;R&B;Soul|",
+"Mary Wells|You Beat Me to the Punch|1962|bzFfG5nXYr0|Mary Wells|S7466|Motown Sound;Pop;Pop Soul;R&B;Soul|You Beat Me to the Punch",
 "Kris Kristofferson|Help Me Make It Through the Night|1970|HKh6ZqVKmN4|Kris Kristofferson|S4543|Progressive Country;Singer/Songwriter;Country|",
 "M. Ward|Chinese Translation|2006|cUfIKX5ReKQ|M. Ward|S11509|Folk Rock;Indie Folk;Singer/Songwriter;Contemporary Folk;Folk;Rock|",
 "Waylon Jennings|Good Hearted Woman|1971|xI-KOqRKlcs|Waylon Jennings|S12557|Outlaw Country;Country;Progressive Country|Good Hearted Woman (song)",
