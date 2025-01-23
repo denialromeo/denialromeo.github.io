@@ -10224,7 +10224,7 @@ const songs = [
 "Alice Cooper|Billion Dollar Babies|1973|z2kBG5dcVtU|Alice Cooper|S5157|Glam Rock;Hard Rock;Rock|",
 "Townes Van Zandt|Tecumseh Valley|1968|5LgR2v3gCos|Townes Van Zandt|S4135|Contemporary Folk;Country;Singer/Songwriter;Folk|",
 "Pearl Jam|Dissident|1993|yvAjQthw2gs|Pearl Jam|S3692|Grunge;Alternative Rock;Rock|Dissident (song)",
-"James Blunt|You're Beautiful|2004|GLxYO9HqcNI|James Blunt|S9249|Pop;Singer/Songwriter|You're Beautiful",
+"James Blunt|You're Beautiful|2004|oofSnsGkops|James Blunt|S9249|Pop;Singer/Songwriter|You're Beautiful",
 "Wanda|Meine beiden Schwestern|2015|_TZB0jFDHTE|Wanda (band)|S9867|Pop Rock;Pop;Rock|",
 "Cake|Short Skirt/Long Jacket|2001|X5KmB8Laemg|Cake (band)|S10342|Alternative Rock;Funk Rock;Rock|",
 "Kevin Ayers|Lady Rachel|1969|iFxd3tKmN4o|Kevin Ayers|S13031|Art Rock;Psychedelic Rock;Rock|Joy of a Toy",
