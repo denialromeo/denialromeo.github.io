@@ -7012,7 +7012,7 @@ const songs = [
 "Sting|Fortress Around Your Heart|1985|OiPiRKbNCWY|Sting (musician)|S9369|Pop Rock;Sophisti-Pop;Pop;Rock|",
 "Dexys Midnight Runners|Dance Stance|1979|Um-7TL-D1Qc|Dexys Midnight Runners|S6062|Blue Eyed Soul;New Wave;Pop;Rock|",
 "Miley Cyrus|We Can't Stop|2013|LrUvu1mlWco|Miley Cyrus|S9491|Electropop;Electronic;Pop|We Can't Stop",
-"Claude Nougaro|Une Petite Fille|1961|Ru1pwbHaVz0|Claude Nougaro|S9190|Chanson;Regional Music|",
+"Claude Nougaro|Une Petite Fille|1961|Sf4eb0XQb2o|Claude Nougaro|S9190|Chanson;Regional Music|",
 "Jefferson Starship|Miracles|1975|7m8izf-oXY4|Jefferson Starship|S6890|Soft Rock;Pop;Pop Rock;Rock|Miracles (Jefferson Starship song)",
 "Joy Division|Heart and Soul|1980|atXB3qQ5CPU|Joy Division|S14605|Gothic Rock;Post-Punk;Rock|Closer (Joy Division album)",
 "Afroman|Because I Got High|2000|WeYsTmIzjkw|Afroman|S5113|Comedy Rap;Novelty;West Coast Hip Hop;Comedy;Hip Hop;Musical Comedy|Because I Got High",
