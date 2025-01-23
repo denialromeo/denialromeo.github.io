@@ -1869,7 +1869,7 @@ const songs = [
 "Jimi Hendrix|Foxey Lady|1967|_PVjcIO4MT4|Jimi Hendrix|S1493|Acid Rock;Blues Rock;Psychedelic Rock;Rock|Angel (Jimi Hendrix song)",
 "The Standells|Dirty Water|1965|Pvhbm3AKgMI|The Standells|S1431|Garage Rock;Proto-Punk;Rock|Dirty Water",
 "The Specials|Too Much Too Young|1979|rdu8VOWk3pg|The Specials|S2600|2 Tone;Ska|",
-"The Isley Brothers|Twist and Shout|1962|cTaqn8_gMR0|The Isley Brothers|S1093|Rhythm & Blues;Rock & Roll;R&B;Rock|Shout (Isley Brothers song)",
+"The Isley Brothers|Twist and Shout|1962|iCotxq6o6r8|The Isley Brothers|S1093|Rhythm & Blues;Rock & Roll;R&B;Rock|Shout (Isley Brothers song)",
 "Nat King Cole|Nature Boy|1947|Iq0XJCJ1Srw|Nat King Cole|S2663|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop|Nature Boy",
 "U2|Bad|1984|LCdltGg4EzM|U2|S4880|Alternative Rock;Rock|Bad (U2 song)",
 "The Drums|Let's Go Surfing|2009|XGyTWvOf8fU|The Drums|S4838|Indie Pop;Post-Punk Revival;Alternative Rock;Indie Rock;Pop;Post-Punk;Rock|",
