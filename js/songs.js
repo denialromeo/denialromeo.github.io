@@ -3340,7 +3340,7 @@ const songs = [
 "The Style Council|Long Hot Summer|1983|1CAzwewVjZ0|The Style Council|S476|Blue Eyed Soul;Sophisti-Pop;Synth Funk;Funk;Pop;R&B|Long Hot Summer (The Style Council song)",
 "Luniz|I Got 5 On It|1995|me3CPl_i4C4|Luniz|S4510|G-Funk;Mobb Music;West Coast Hip Hop;Hip Hop|I Got 5 on It",
 "The Black Crowes|Remedy|1992|BYyRLTveFJQ|The Black Crowes|S5481|Blues Rock;Southern Rock;Rock|Remedy (The Black Crowes song)",
-"R.E.M.|Shiny Happy People|1991|IhdCpJGuZQ4|R.E.M.|S208|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Shiny Happy People",
+"R.E.M.|Shiny Happy People|1991|YYOKMUTTDdA|R.E.M.|S208|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Shiny Happy People",
 "Kacey Musgraves|High Horse|2018|fbNDJRwXKGc|Kacey Musgraves|S16535|Dance-Pop;Dance;Pop|High Horse (Kacey Musgraves song)",
 "Super Furry Animals|Ice Hockey Hair|1998|Djto0wzCefY|Super Furry Animals|S293|Indie Rock;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock|",
 "Farley Jackmaster Funk|Love Can't Turn Around|1986|UzqhRicKCLM|Farley Keith|S367|Chicago House;Dance;Electronic;Electronic Dance Music;House|",
