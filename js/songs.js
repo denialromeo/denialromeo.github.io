@@ -477,7 +477,7 @@ const songs = [
 "Fela Kuti|Zombie|1976|-3j0nugz1Pw|Fela Kuti|S4876|Afrobeat;African Music;Funk;R&B;Regional Music;West African Music;Yoruba Music|",
 "Beck|Where It's At|1996|EPfmNxKLDG4|Beck|S37|Alternative Dance;Funk Rock;Alternative Rock;Dance;Rock|Where It's At (Beck song)",
 "Nirvana|Come As You Are|1991|EU-Hd_dsg4c|Kurt Cobain|S2041|Grunge;Alternative Rock;Rock|Come as You Are (Nirvana song)",
-"R.E.M.|Everybody Hurts|1992|k2hGmoWFzaA|R.E.M.|S130|Alternative Rock;Pop Rock;Pop;Rock|Everybody Hurts",
+"R.E.M.|Everybody Hurts|1992|5rOiW_xY-kc|R.E.M.|S130|Alternative Rock;Pop Rock;Pop;Rock|Everybody Hurts",
 "Justice|We Are Your Friends|2006|6zo1-XlazvY|Justice (band)|S4045|Electro House;Dance;Electronic;Electronic Dance Music;House|We Are Your Friends (song)",
 "The Walkmen|The Rat|2004|aWR1h-5EzUo|The Walkmen|S2451|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|The Rat (song)",
 "James Taylor|Fire and Rain|1970|_1nKGVDhQ60?start=14|James Taylor|S860|Folk Rock;Singer/Songwriter;Soft Rock;Pop;Pop Rock;Rock|Fire and Rain (song)",
