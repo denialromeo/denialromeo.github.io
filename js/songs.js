@@ -8090,7 +8090,7 @@ const songs = [
 "Taylor Swift|You Belong with Me|2008|VuNIsY6JdUw|Taylor Swift|S4845|Country Pop;Pop Rock;Teen Pop;Country;Pop;Rock|You Belong with Me",
 "Weezer|Beverly Hills|2005|HL_WvOly7mY|Weezer|S12565|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Beverly Hills (song)",
 "Harry Belafonte|Jamaica Farewell|1956|Zh1ow6zKapQ|Harry Belafonte|S14473|Calypso;Caribbean Music;Regional Music|Jamaica Farewell",
-"Pauline Croze|T'es Beau|2005|94N4YAHty7E|Pauline Croze|S11870|Folk Pop;French Pop;Nouvelle chanson française;Chanson;Contemporary Folk;Folk;Pop;Regional Music|Pauline Croze (album)",
+"Pauline Croze|T'es Beau|2005|4RVrdrDgoIo|Pauline Croze|S11870|Folk Pop;French Pop;Nouvelle chanson française;Chanson;Contemporary Folk;Folk;Pop;Regional Music|Pauline Croze (album)",
 "Maxime Le Forestier|Né quelque part|1987|DagKAzSk9Z8|Maxime Le Forestier|S7481|Chanson;French Pop;Pop;Regional Music|",
 "Moris|El Oso|1969|UlVcGapeBNs|https://es.wikipedia.org/wiki/Moris_(cantante)|S11679|Singer/Songwriter|",
 "Olivia Newton-John|Physical|1981|vWz9VN40nCA|Olivia Newton-John|S7808|Pop Rock;Pop;Rock|Physical (Olivia Newton-John song)",
