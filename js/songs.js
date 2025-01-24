@@ -2642,7 +2642,7 @@ const songs = [
 "Jones-Smith, Incorporated [Count Basie]|Oh Lady Be Good|1936|w1vmct8H5SA|Count Basie|S11250|Swing;Jazz|",
 "Eagles|Life in the Fast Lane|1976|po6QU0z1rSs|Eagles (band)|S2330|Pop Rock;Pop;Rock|Life in the Fast Lane",
 "Dixie Chicks|Not Ready to Make Nice|2006|pojL_35QlSI|Dixie Chicks|S4051|Country Pop;Country;Pop|",
-"Charles Mingus|Fables of Faubus|1959|48eAYnfgrAo|Charles Mingus|S5764|Post-Bop;Bebop;Jazz|Fables of Faubus",
+"Charles Mingus|Fables of Faubus|1959|CutrIZzTJl0|Charles Mingus|S5764|Post-Bop;Bebop;Jazz|Fables of Faubus",
 "Manu Chao|Bongo Bong|1998|cfLIlP-GAmg|Manu Chao|S7412|Latin Alternative;Hispanic Music;Latin American Music;Regional Music|",
 "Eck Robertson|Sallie Gooden|1922|C_B641pwY14|Eck Robertson|S2737|Appalachian Folk Music;Old-Time;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|",
 "The Vines|Get Free|2002|asOvnGHwtDU|The Vines (band)|S1506|Garage Punk;Garage Rock Revival;Garage Rock;Punk Rock;Rock|Get Free (The Vines song)",
