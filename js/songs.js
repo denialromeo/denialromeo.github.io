@@ -9324,7 +9324,7 @@ const songs = [
 "Jackie Wilson|That's Why (I Love You So)|1959|9POh4ATtuBw|Jackie Wilson|S3967|Rhythm & Blues;Soul;R&B|That's Why (I Love You So)",
 "Mose Allison|Parchman Farm|1957|h4koTO8gBdg|Mose Allison|S4073|Piano Blues;Rhythm & Blues;Vocal Jazz;Blues;Jazz;R&B|Parchman Farm (song)",
 "Unknown Mortal Orchestra|Hunnybee|2018|IJrKlSkxRHA|Unknown Mortal Orchestra|S16608|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|",
-"3rd Bass|Pop Goes the Weasel|1991|ztGKLVEcSYs|3rd Bass|S2930|East Coast Hip Hop;Hip Hop|",
+"3rd Bass|Pop Goes the Weasel|1991|ztGKLVEcSYs|3rd Bass|S2930|East Coast Hip Hop;Hip Hop|Pop Goes the Weasel (3rd Bass song)",
 "Pylon|Cool|1980|dpYu-VkU2n0|Pylon (band)|S3738|Post-Punk;Rock|",
 "The Felice Brothers|Frankie's Gun!|2008|FcVku6bFe-U|The Felice Brothers|S10796|Americana;Folk Rock;Country;Rock|",
 "Michel Jonasz|Les vacances au bord de la mer|1975|ZT-n5D8pGko|Michel Jonasz|S13573|Chanson;Regional Music|",
