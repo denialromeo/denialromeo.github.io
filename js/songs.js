@@ -3390,7 +3390,7 @@ const songs = [
 "Joni Mitchell|Blue|1971|Nu7aOan-lds|Joni Mitchell|S6999|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|Blue (Joni Mitchell song)",
 "Kanye West|Diamonds from Sierra Leone (Remix)|2005|7T3jSZUpiis|Kanye West|S4652|Hip Hop|Diamonds from Sierra Leone",
 "Jungle|Busy Earnin'|2014|BcsfftwLUf0|Jungle (band)|S9578|Funktronica;Synth Funk;Dance;Electronic;Electronic Dance Music;Funk;R&B|Busy Earnin'",
-"The Heartbreakers|Chinese Rocks|1977|P-M9Ymvgd0A|The Heartbreakers|S4433|Punk Rock;Rock|",
+"The Heartbreakers|Chinese Rocks|1977|P-M9Ymvgd0A|The Heartbreakers|S4433|Punk Rock;Rock|Chinese Rocks",
 "Underworld|Rez|1993|F6Y7lcvubhU|Underworld (band)|S145|Techno;Trance;Dance;Electronic;Electronic Dance Music|",
 "Spencer Davis Group|Keep On Running|1965|YrxHcSZBU38|The Spencer Davis Group|S1424|Blue Eyed Soul;British Rhythm & Blues;Pop;R&B;Rhythm & Blues;Rock|Keep On Running",
 "Ariana Grande|ghostin|2019|Z1pmpDRrQhU|Ariana Grande|S16735|Contemporary R&B;Pop Soul;Pop;R&B;Soul|Ghostin (song)",
