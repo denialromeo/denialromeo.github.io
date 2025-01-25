@@ -8639,7 +8639,7 @@ const songs = [
 "Audioslave|Like a Stone|2002|7QU1nvuxaMA|Audioslave|S5272|Alternative Rock;Rock|Like a Stone",
 "Status Quo|Caroline|1973|4TJfEA7C3C4|Status Quo (band)|S12295|Boogie Rock;Blues Rock;Rock|Caroline (Status Quo song)",
 "Claude Nougaro|Tu verras|1978|rK3r-AqlNjU|Claude Nougaro|S10429|Chanson;Regional Music|",
-"Youth Lagoon|Dropla|2013|pw5zghatg_o|Trevor Powers|S9548|Psychedelic Pop;Pop|",
+"Youth Lagoon|Dropla|2013|pw5zghatg_o|Trevor Powers|S9548|Psychedelic Pop;Pop|Wondrous Bughouse",
 "Ciara|Like a Boy|2006|_HKH7Emy1SY|Ciara|S5814|Contemporary R&B;R&B|Like a Boy",
 "Floyd Tillman|Slipping Around|1949|VjUSVTDTikg|Floyd Tillman|S10833|Country|",
 "Arctic Monkeys|Why'd You Only Call Me When You're High?|2013|6366dxFf-Os?start=96|Arctic Monkeys|S9407|Indie Rock;Alternative Rock;Rock|Why'd You Only Call Me When You're High%3F",
