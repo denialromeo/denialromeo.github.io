@@ -4637,7 +4637,7 @@ const songs = [
 "The White Stripes|Blue Orchid|2005|jW8UlrtcEac|The White Stripes|S3030|Alternative Rock;Garage Rock Revival;Garage Rock;Rock|",
 "Robert Johnson|Come On in My Kitchen|1936|kPkSNWNsUHg|Robert Johnson|S2705|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|Come On in My Kitchen",
 "The War on Drugs|An Ocean Between the Waves|2014|qOfIN7XBl-4|The War on Drugs (band)|S9623|Heartland Rock;Indie Rock;Alternative Rock;Rock|",
-"Judy Collins|Amazing Grace|1970|AtteRD5bBNQ|Judy Collins|S9266|Folk Pop;Hymns;Contemporary Folk;Folk;Pop|",
+"Judy Collins|Amazing Grace|1970|G3G-suuZgK4|Judy Collins|S9266|Folk Pop;Hymns;Contemporary Folk;Folk;Pop|Amazing Grace",
 "OutKast|So Fresh, So Clean|2000|-JfEJq56IwI|Outkast|S7833|Southern Hip Hop;Hip Hop|So Fresh, So Clean",
 "Sleaford Mods|Tied Up in Nottz|2014|0JlSBqWdl2A|Sleaford Mods|S9602|Post-Punk;Rock|",
 "Janelle Monáe|Q.U.E.E.N.|2013|tEddixS-UoU|Janelle Monáe|S9461|Contemporary R&B;R&B|Q.U.E.E.N.",
