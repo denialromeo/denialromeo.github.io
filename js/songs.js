@@ -411,7 +411,7 @@ const songs = [
 "Gloria Gaynor|I Will Survive|1978|6dYWe1c3OyU|Gloria Gaynor|S599|Disco;Pop Soul;Dance;Pop;R&B;Soul|I Will Survive",
 "Pink Floyd|Another Brick in the Wall, Part 2|1979|HrxX9TBj2zY|Pink Floyd|S586|Art Rock;Rock|",
 "The Police|Roxanne|1978|3T1c7GkzRQQ|The Police|S620|New Wave;Pop Rock;Pop;Rock|Roxanne (The Police song)",
-"John Coltrane|A Love Supreme, Part 1: Acknowledgement|1965|fth9UUa1Mfw|John Coltrane|S2824|Spiritual Jazz;Avant-Garde Jazz;Jazz|",
+"John Coltrane|A Love Supreme, Part 1: Acknowledgement|1965|vMCHDC2Lurk|John Coltrane|S2824|Spiritual Jazz;Avant-Garde Jazz;Jazz|",
 "Echo and the Bunnymen|The Killing Moon|1984|LWz0JC7afNQ|Echo & the Bunnymen|S424|Post-Punk;Rock|The Killing Moon",
 "Queen|Under Pressure|1981|a01QQZyl-_I|Queen (band)|S1871|Pop Rock;Pop;Rock|Under Pressure",
 "The Five Satins|In the Still of the Night|1956|ak6tttHk_R8|The Five Satins|S1275|Doo-Wop;R&B;Vocal Group|In the Still of the Night (The Five Satins song)",
