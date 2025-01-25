@@ -2128,7 +2128,7 @@ const songs = [
 "Grateful Dead|Uncle John's Band|1970|TSIajKGHZRk|Grateful Dead|S1310|Folk Rock;Rock|Uncle John's Band",
 "Big Black|Kerosene|1986|HuO3wwLuF0w|Big Black|S1947|Noise Rock;Post-Hardcore;Punk Rock;Rock|",
 "Vampire Weekend|Cape Cod Kwassa Kwassa|2007|9wHl9qRsMzw|Vampire Weekend|S4761|Afrobeat;Indie Pop;African Music;Funk;Pop;R&B;Regional Music;West African Music;Yoruba Music|Cape Cod Kwassa Kwassa",
-"Hanson|Mmmbop|1997|UwCBkzOw-HM|Hanson (band)|S6|Teen Pop;Pop|MMMBop",
+"Hanson|Mmmbop|1997|NHozn0YXAeE|Hanson (band)|S6|Teen Pop;Pop|MMMBop",
 "Jimi Hendrix|Are You Experienced?|1967|XxHS9lTUN4Y|Jimi Hendrix|S3467|Acid Rock;Psychedelic Rock;Rock|",
 "Frank Sinatra|Strangers in the Night|1966|ZwAERaRUsp0|Frank Sinatra|S2830|Standards;Pop;Traditional Pop|",
 "Kamasi Washington|Truth|2017|WFWLFNWmZVk|Kamasi Washington|S16407|Spiritual Jazz;Avant-Garde Jazz;Jazz|",
