@@ -7342,7 +7342,7 @@ const songs = [
 "O.V. Wright|A Nickel and a Nail|1971|VXNIwvmrjZc|O. V. Wright|S13913|Southern Soul;R&B;Soul|",
 "Wilco|Heavy Metal Drummer|2002|wl3u-rcVgVs|Wilco|S4842|Indie Pop;Pop|",
 "Duffy|Warwick Avenue|2008|ScSHEnFNRck|Duffy (singer)|S4767|Blue Eyed Soul;Pop Soul;Pop;R&B;Soul|Warwick Avenue (song)",
-"Bing Crosby|Pistol Packin' Mama|1944|PjgqQcKE3DY|Bing Crosby|S2670|Traditional Pop;Pop|Pistol Packin' Mama",
+"Bing Crosby|Pistol Packin' Mama|1944|9G2T0ad1-h4|Bing Crosby|S2670|Traditional Pop;Pop|Pistol Packin' Mama",
 "Stars|Ageless Beauty|2004|OegFDLiQ4Dg|Stars (Canadian band)|S8548|Dream Pop;Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|Ageless Beauty",
 "The Carter Family|Worried Man Blues|1930|Sj36Q2MGOt0|Carter Family|S9180|Acoustic Blues;Appalachian Folk Music;Traditional Country;American Folk Music;Blues;Country;Folk;Regional Music;Traditional Folk Music|Worried Man Blues",
 "Aretha Franklin|Spanish Harlem|1971|DBFWf8PDnTw|Aretha Franklin|S1547|Soul;R&B|Spanish Harlem (song)",
