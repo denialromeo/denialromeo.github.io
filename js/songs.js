@@ -7487,7 +7487,7 @@ const songs = [
 "Hoodoo Gurus|I Want You Back|1984|uZWXa7x4LME|Hoodoo Gurus|S6730|Power Pop;Pop;Pop Rock;Rock|I Want You Back (Hoodoo Gurus song)",
 "Dusty Springfield|Nothing Has Been Proved|1989|5HOfaSSIVcE|Dusty Springfield|S3843|Film Soundtrack;Synthpop;Electronic;Pop;Soundtracks|Nothing Has Been Proved",
 "Passion Pit|Take a Walk|2012|dZX6Q-Bj_xg|Passion Pit|S5030|Electropop;Indie Pop;Electronic;Pop|Take a Walk",
-"Mötley Crüe|Live Wire|1981|EY0rjTXFrJ4|Mötley Crüe|S13901|Glam Metal;Heavy Metal;Hard Rock;Metal;Rock|",
+"Mötley Crüe|Live Wire|1981|Ahq4blDfU5s|Mötley Crüe|S13901|Glam Metal;Heavy Metal;Hard Rock;Metal;Rock|",
 "Don Drummond|Eastern Standard Time|1964|LN5T1caDWBI|Don Drummond|S14314|Jamaican Ska;Caribbean Music;Jamaican Music;Regional Music;Ska|",
 "New Order|Everything's Gone Green|1981|M4qFoKu-Po0|New Order (band)|S11742|Post-Punk;Synthpop;Electronic;Pop;Rock|",
 "Joyce Sims|Come into My Life|1987|v_H23dEmO4Y|Joyce Sims|S7013|Contemporary R&B;Pop Soul;Pop;R&B;Soul|Come into My Life (Joyce Sims song)",
