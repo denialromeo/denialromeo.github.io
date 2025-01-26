@@ -3355,7 +3355,7 @@ const songs = [
 "Loretta Lynn|Don't Come Home A-Drinkin' (With Lovin' on Your Mind)|1966|OBnkAkmLtaw|Loretta Lynn|S2278|Honky Tonk;Country|Don't Come Home A-Drinkin' (With Lovin' on Your Mind)",
 "Julian Casablancas|11th Dimension|2009|pl15PlIXHIk|Julian Casablancas|S4809|Synthpop;Electronic;Pop|11th Dimension (song)",
 "The Shirelles|Baby It's You|1961|8clnxViHdp8|The Shirelles|S4391|Brill Building;Girl Group;Pop|",
-"Mike Oldfield|Tubular Bells|1973|Bnb-v9fmmCA|Mike Oldfield|S1765|Progressive Rock;Rock|Tubular Bells",
+"Mike Oldfield|Tubular Bells|1973|https://youtube.com/embed/playlist?list=OLAK5uy_ksFjEjClkaUSW0Ko6S1iDQReVtfrgS7dE|Mike Oldfield|S1765|Progressive Rock;Rock|Tubular Bells",
 "Lady Gaga|The Edge of Glory|2011|QeWBS0JBNzQ|Lady Gaga|S4971|Dance-Pop;Electropop;Dance;Electronic;Pop|The Edge of Glory",
 "Peter Gabriel|Shock the Monkey|1982|CnVf1ZoCJSo|Peter Gabriel|S3432|Art Pop;New Wave;Pop;Rock|Shock the Monkey",
 "Spacemen 3|Walkin' with Jesus|1987|3JOwJi6nSGo|Spacemen 3|S4578|Neo-Psychedelia;Space Rock;Psychedelic Rock;Rock|",
