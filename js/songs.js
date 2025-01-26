@@ -3085,7 +3085,7 @@ const songs = [
 "The Jesus and Mary Chain|You Trip Me Up|1985|zK2nJWNgZBA|The Jesus and Mary Chain|S398|Noise Pop;Post-Punk;Alternative Rock;Rock|",
 "Monks|Monk Time|1966|-l2D0QfJSt8|The Monks|S7599|Freakbeat;Garage Rock;Proto-Punk;Beat Music;Pop;Pop Rock;Rock|",
 "Smashing Pumpkins|Cherub Rock|1993|q-KE9lvU810|The Smashing Pumpkins|S4496|Alternative Rock;Rock|Cherub Rock",
-"Kurt Vile|Wakin on a Pretty Day|2013|B2qA4wkjOhM|Kurt Vile|S9479|Folk Rock;Singer/Songwriter;Rock|",
+"Kurt Vile|Wakin on a Pretty Day|2013|bd0K76H7sU8|Kurt Vile|S9479|Folk Rock;Singer/Songwriter;Rock|",
 "Kanye West|Love Lockdown|2008|HZwMX6T5Jhk|Kanye West|S4722|Electropop;Electronic;Pop|Love Lockdown",
 "Juvenile|Ha|1998|Ww9VlmXKYgs|Juvenile (rapper)|S3532|Dirty South;Gangsta Rap;Southern Hip Hop;Hardcore Hip Hop;Hip Hop|Ha (song)",
 "The Boomtown Rats|I Don't Like Mondays|1979|qfH1Z0rkzCY|The Boomtown Rats|S2336|New Wave;Pop Rock;Pop;Rock|I Don't Like Mondays",
