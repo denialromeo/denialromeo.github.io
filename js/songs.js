@@ -5569,7 +5569,7 @@ const songs = [
 "Bruce Springsteen|Candy's Room|1978|CyPfb0vOVfo|Bruce Springsteen|S10306|Heartland Rock;Rock|Darkness on the Edge of Town",
 "Solange|Binz|2019|83LeK-t-kTw|Solange Knowles|S16866|Alternative R&B;Art Pop;Contemporary R&B;Pop;R&B|When I Get Home (album)",
 "Pretenders|Stop Your Sobbing|1979|uQWk7l8Su2U|The Pretenders|S1598|Folk Rock;New Wave;Pop Rock;Pop;Rock|Stop Your Sobbing",
-"Mel and Tim|Starting All Over Again|1972|ZBvdhODRNHI|Mel and Tim|S1736|Southern Soul;R&B;Soul|Starting All Over Again (Mel & Tim song)",
+"Mel and Tim|Starting All Over Again|1972|CeBVayIWMSc|Mel and Tim|S1736|Southern Soul;R&B;Soul|Starting All Over Again (Mel & Tim song)",
 "The Isley Brothers|Summer Breeze|1973|BsVGbV_j2aY|The Isley Brothers|S2323|Pop Soul;Pop;R&B;Soul|Summer Breeze (song)",
 "Steve \"Silk\" Hurley|Jack Your Body|1986|JJBftCCwKXQ|Steve \"Silk\" Hurley|S8564|Chicago House;Dance;Electronic;Electronic Dance Music;House|Jack Your Body",
 "Ray Ventura et ses Collégiens|Tout va très bien madame la marquise|1935|bbm3mMMeZFY|Ray Ventura|S12035|Chanson;Satire;Comedy;Regional Music|",
