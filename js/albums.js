@@ -374,7 +374,7 @@ const albums = [
 "Talking Heads|Talking Heads: 77|1977|OLAK5uy_nLmj1zsoFPl5-iCxExSa1Lih1VXVtVJjo|A403|Talking Heads: 77|Talking Heads|Art Punk;New Wave;Punk Rock;Rock",
 "The Avalanches|Since I Left You|2000|OLAK5uy_k9M8QgZlpxNKgwn47ggUEOUQhY4Vu64YU|A1105|Since I Left You|The Avalanches|Plunderphonics;Experimental;Sound Collage;Tape Music",
 "Iggy Pop|Lust for Life|1977|OLAK5uy_lLG1HBKMtWeOmhvi0QhHriAuQN15sbPzU|A395|Lust for Life (Iggy Pop album)|Iggy Pop|Rock",
-"John Cale|Paris 1919|1973|PLsGm7QjZJZYGPAlEKT0fuWkhaPrE0MTDx|A279|Paris 1919 (album)|John Cale|Baroque Pop;Pop",
+"John Cale|Paris 1919|1973|OLAK5uy_nvQWHaiV26KpIbduzvBL5S0MPjNVovS4c|A279|Paris 1919 (album)|John Cale|Baroque Pop;Pop",
 "Happy Mondays|Pills 'n' Thrills and Bellyaches|1990|OLAK5uy_kVNQ8TWr6CDWnLVO3k3e8TZl1TaFSyOmQ|A782|Pills 'n' Thrills and Bellyaches|Happy Mondays|Baggy / Madchester;Alternative Rock;Rock",
 "Black Flag|Damaged|1981|OLAK5uy_ky7Ce5ObYR1y7vEQRdxByDB3qjYz7_fhI|A525|Damaged (Black Flag album)|Black Flag (band)|Hardcore Punk;Punk Rock;Rock",
 "Miles Davis|Sketches of Spain|1960|OLAK5uy_kgYSo0Tb7sQz9SUo3SjW_HI4Nxk1_4JME|A1877|Sketches of Spain|Miles Davis|Modal Jazz;Third Stream;Jazz",

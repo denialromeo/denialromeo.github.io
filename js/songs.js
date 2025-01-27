@@ -7702,7 +7702,7 @@ const songs = [
 "Steely Dan|The Boston Rag|1973|j3HBfcFPTFI|Steely Dan|S3852|Pop Rock;Progressive Pop;Pop;Rock|",
 "Ruby and the Romantics|Our Day Will Come|1963|qw9RVjEN9OI|Ruby & the Romantics|S8263|Pop Soul;Pop;R&B;Soul|Our Day Will Come",
 "Doughboys|Shine|1993|Ez3iGG51MiA|The Doughboys (band)|S6146|Alternative Rock;Melodic Hardcore;Hardcore Punk;Punk Rock;Rock|Crush (Doughboys album)",
-"Rollins Band|Liar|1994|awY1MRlMKMc|Rollins Band|S12105|Alternative Metal;Alternative Rock;Metal;Rock|Liar (Rollins Band song)",
+"Rollins Band|Liar|1994|GhKMVlHz9FQ|Rollins Band|S12105|Alternative Metal;Alternative Rock;Metal;Rock|Liar (Rollins Band song)",
 "Ghost|Dance Macabre|2018|7Gr63DiEUxw|Ghost (Swedish band)|S16913|AOR;Hard Rock;Rock|Dance Macabre (song)",
 "The Cramps|Can Your Pussy Do the Dog?|1985|tqw5ykoDF7U|The Cramps|S5882|Psychobilly;Punk Rock;Rock;Rock & Roll;Rockabilly|",
 "Billy Ward & The Dominoes|The Bells|1952|B8e_nuDFaq0|Billy Ward and his Dominoes|S1328|Blues;Doo-Wop;Rhythm & Blues;R&B;Vocal Group|",
