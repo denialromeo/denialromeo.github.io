@@ -5394,7 +5394,7 @@ const songs = [
 "Lescop|La Forêt|2011|Njpw2PVb1c0|https://fr.wikipedia.org/wiki/Lescop|S11425|New Wave;Synthpop;Electronic;Pop;Rock|",
 "Drake|Worst Behaviour|2013|U5pzmGX8Ztg|Drake (musician)|S9440|Pop Rap;Hip Hop|Worst Behavior",
 "U2|Stuck in a Moment You Can't Get Out Of|2000|sl6j7hiALu0|U2|S2389|Pop Rock;Pop;Rock|Stuck in a Moment You Can't Get Out Of",
-"En Vogue|Hold On|1990|liT8cILFAV4|En Vogue|S2929|Contemporary R&B;R&B|Hold On (En Vogue song)",
+"En Vogue|Hold On|1990|pj9ap3-HVzE|En Vogue|S2929|Contemporary R&B;R&B|Hold On (En Vogue song)",
 "John Lee Hooker|The Healer|1989|Xox9J0FNjZ8|John Lee Hooker|S6951|Blues|",
 "Beastie Boys|It's the New Style|1986|QbGnU96ByYQ|Beastie Boys|S1954|East Coast Hip Hop;Experimental Hip Hop;Hip Hop|The New Style (song)",
 "Rob Doughan|Clubbed to Death|1995|OwGuSPXPyX4|Rob Dougan|S5842|Trip Hop;Downtempo;Electronic|Clubbed to Death (instrumental)",
