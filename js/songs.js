@@ -7527,7 +7527,7 @@ const songs = [
 "The Animals|Don't Bring Me Down|1966|7Nkr9ZLcL0E|The Animals|S9999|British Rhythm & Blues;Garage Rock;Mod;R&B;Rhythm & Blues;Rock|Don't Bring Me Down (The Animals song)",
 "Lorde|Homemade Dynamite|2017|iG0vGmHs3NE|Lorde|S16437|Dance-Pop;Synthpop;Dance;Electronic;Pop|Homemade Dynamite",
 "Big Joe Turner|Flip, Flop and Fly|1955|hHxpgpaLB2o|Big Joe Turner|S5436|Rhythm & Blues;R&B|Flip, Flop and Fly",
-"Jacques Brel|La chanson des vieux amants|1967|B1uT1tEX0Lk|Jacques Brel|S11111|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
+"Jacques Brel|La chanson des vieux amants|1967|--av3T1iI4U|Jacques Brel|S11111|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "SOPHIE|Lemonade|2014|LdLvp630plc|Sophie (musician)|S9611|Bubblegum Bass;Dance;Electronic;Electronic Dance Music|Lemonade (Sophie song)",
 "Superpitcher|Heroin|2001|HJUyt0tthbk|Superpitcher|S15915|Microhouse;Dance;Electronic;Electronic Dance Music;House|",
 "Elvis Presley|Viva Las Vegas|1964|ui0EgRsFVN8|Elvis Presley|S4090|Pop;Rock & Roll;Rock|Viva Las Vegas (song)",
