@@ -1843,7 +1843,7 @@ const songs = [
 "Charles Brown|Driftin' Blues|1945|rY5olvCpjGY|Charles Brown (musician)|S2653|Piano Blues;Blues|Driftin' Blues",
 "Wanda Jackson|Let's Have a Party|1958|7QlzOCgLzwg|Wanda Jackson|S1167|Rockabilly;Rock;Rock & Roll|Let's Have a Party",
 "Ray Charles|Lonely Avenue|1956|DFEOzbI8mA8|Ray Charles|S1279|Rhythm & Blues;R&B|Lonely Avenue",
-"T. Rex|Telegram Sam|1972|IRG3ugqY4Ks|T. Rex (band)|S786|Glam Rock;Rock|Telegram Sam",
+"T. Rex|Telegram Sam|1972|hbwVkZ8L8d8|T. Rex (band)|S786|Glam Rock;Rock|Telegram Sam",
 "R.E.M.|Drive|1992|vrgCYqt-4LE|R.E.M.|S154|Alternative Rock;Folk Rock;Rock|Drive (R.E.M. song)",
 "Steely Dan|Deacon Blues|1977|ICK6e9WK2A8|Steely Dan|S1818|Jazz-Rock;Rock|Deacon Blues",
 "The Platters|Smoke Gets in Your Eyes|1958|vfBboBz3yoc|The Platters|S1634|Doo-Wop;Traditional Pop;Pop;R&B;Vocal Group|Smoke Gets in Your Eyes",
