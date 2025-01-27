@@ -7210,7 +7210,7 @@ const songs = [
 "Craig Finn|God in Chicago|2017|IfZt4JRKtN0|Craig Finn|S16357|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk|",
 "Bill Monroe|It's Mighty Dark to Travel|1948|-MEw8tuhWZ4|Bill Monroe|S9144|Bluegrass;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|",
 "Rod Stewart|The Killing of Georgie (Parts 1 and 2)|1976|95zxtaKQBBc|Rod Stewart|S8201|Pop Rock;Pop;Rock|The Killing of Georgie (Part I and II)",
-"Peter, Paul and Mary|Leaving on a Jet Plane|1969|zVQAhhlq798?start=3|Peter, Paul and Mary|S7888|Folk Pop;Contemporary Folk;Folk;Pop|Leaving on a Jet Plane",
+"Peter, Paul and Mary|Leaving on a Jet Plane|1969|F2m--R3J6f4|Peter, Paul and Mary|S7888|Folk Pop;Contemporary Folk;Folk;Pop|Leaving on a Jet Plane",
 "Clap Your Hands Say Yeah|The Skin of My Country Yellow Teeth|2005|b5TJDd6oRvI|Clap Your Hands Say Yeah|S5819|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|",
 "Starship|Nothing's Gonna Stop Us Now|1987|3wxyN3z9PL4|Starship (band)|S8550|AOR;Film Soundtrack;Pop Rock;Pop;Rock;Soundtracks|Nothing's Gonna Stop Us Now",
 "Eurythmics|Love Is a Stranger|1982|o6f593X6rv8|Eurythmics|S10763|Synthpop;Electronic;Pop|Love Is a Stranger",
