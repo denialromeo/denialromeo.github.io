@@ -2754,7 +2754,7 @@ const albums = [
 "Jlin|Dark Energy|2015|OLAK5uy_nshTCHTmFYKOX57yFRvRSnf2IxpCtxRuw|A5604|Dark Energy (album)|Jlin|Footwork;Dance;Electronic;Electronic Dance Music;Ghetto House;House;Juke",
 "Nina Simone|Pastel Blues|1965|OLAK5uy_lX5I9cb5SDhgwtq_OAj5xDeGq0mUGC8iI|A7297|Pastel Blues|Nina Simone|Rhythm & Blues;Soul;Vocal Jazz;Jazz;R&B",
 "David Murray|Ming|1980|OLAK5uy_njsqYtxRANpAVD3t0jgeIKhi-uZrIFL6Q|A2032|Ming (album)|David Murray (saxophonist)|Avant-Garde Jazz;Jazz",
-"Jimmie Dale & The Flatlanders|More a Legend Than a Band|1972|PLdNED7vlhl5NeS40Iv1qCppCscjEs-U74|A4528|The Flatlanders|The Flatlanders|Country",
+"Jimmie Dale & The Flatlanders|All American Music|1972|OLAK5uy_lCPCxMt1rM-br9Hb8NxrkhhML42NqWolk|A4528|https://omnivorerecordings.com/shop/all-american-music/|The Flatlanders|Country",
 "Pulp|We Love Life|2001|OLAK5uy_mINyb5PH0Me-SOpPUV2ZdZ1DOfJhBNtTs|A1211|We Love Life|Pulp (band)|Britpop;Alternative Rock;Pop;Pop Rock;Rock",
 "The Electric Prunes|Underground|1967|OLAK5uy_moPZ7KdZQzHbqV20Jq4zsReiESJXx15qY|A2161|Underground (The Electric Prunes album)|The Electric Prunes|Psychedelic Rock;Rock",
 "Sweet|Desolation Boulevard|1974|OLAK5uy_lWe7Q25nqcLBcuAeG5SZIK4YyGFaGs968|A2528|Desolation Boulevard|The Sweet|Glam Rock;Hard Rock;Rock",
