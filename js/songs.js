@@ -3958,7 +3958,7 @@ const songs = [
 "Little Richard|Slippin' and Slidin' (Peepin' and Hidin')|1956|9Ime0n-qJi4|Little Richard|S2490|Rhythm & Blues;Rock & Roll;R&B;Rock|Slippin' and Slidin'",
 "Elvis Presley|Baby Let's Play House|1955|xipoD1O-n9o|Elvis Presley|S1305|Rockabilly;Rock;Rock & Roll|Baby Let's Play House",
 "Travis|Sing|2001|eYO1-gGWJyo|Travis (band)|S1467|Alternative Rock;Indie Pop;Pop Rock;Pop;Rock|Sing (Travis song)",
-"Los Lobos|La Bamba|1987|nLAWPrCUQQ0|Los Lobos|S1958|Latin Rock;Rock & Roll;Hispanic Music;Latin American Music;Regional Music;Rock|",
+"Los Lobos|La Bamba|1987|YicJPLT1dWU|Los Lobos|S1958|Latin Rock;Rock & Roll;Hispanic Music;Latin American Music;Regional Music;Rock|",
 "Nelly|Country Grammar|2000|Y5qKNlcUwKs|Nelly|S1392|Pop Rap;Southern Hip Hop;Hip Hop|",
 "Ratt|Round and Round|1984|0u8teXR8VE4|Ratt|S4203|Glam Metal;Hard Rock;Rock|Round and Round (Ratt song)",
 "Chuck Willis|C.C. Rider|1957|Hv_sNsNnSys|Chuck Willis|S1244|Jump-Blues;Rhythm & Blues;Blues;R&B|",
