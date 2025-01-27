@@ -1529,7 +1529,7 @@ const albums = [
 "The Teardrop Explodes|Kilimanjaro|1980|OLAK5uy_nim20KKKlqvEhv6xz5aWJQH7sg6w8WOTY|A503|Kilimanjaro (The Teardrop Explodes album)|The Teardrop Explodes|New Wave;Post-Punk;Rock",
 "Elton John|Captain Fantastic and the Brown Dirt Cowboy|1975|OLAK5uy_nGZIVyd7eJBMLIDxj_8U7slCDU3cqAp3Y|A353|Captain Fantastic and the Brown Dirt Cowboy|Elton John|Pop Rock;Pop;Rock",
 "Gang Starr|Step in the Arena|1991|OLAK5uy_nCo09vBMoy9s38eLZrY2VU7DOBIoFwlx4|A1710|Step in the Arena (album)|Gang Starr|Jazz Rap;Hip Hop",
-"Serge Gainsbourg|Initials B. B.|1968|PLAyqE9JL0JKPd5tQGLqZ_Fb1AzEvcLNux|A4466|Initials B.B.|Serge Gainsbourg|Baroque Pop;Chanson;French Pop;Pop;Regional Music",
+"Serge Gainsbourg|Initials B. B.|1968|OLAK5uy_luG_URUBE6v0nTMq0Or7XW_TxJcLq_ykM|A4466|Initials B.B.|Serge Gainsbourg|Baroque Pop;Chanson;French Pop;Pop;Regional Music",
 "The Kinks|Muswell Hillbillies|1971|OLAK5uy_kpYk1KS6WZC9kwcOHTsWVStQq6xeZ3Q0o|A1355|Muswell Hillbillies|The Kinks|Country Rock;Pop Rock;Pop;Rock",
 "Louis Armstrong|Louis Armstrong Plays W.C. Handy|1954|OLAK5uy_kCdwl7RbtQCGBepd1Gh-wIgh_1JXFn8ck|A1769|Louis Armstrong Plays W.C. Handy|Louis Armstrong|Dixieland;Vocal Jazz;Jazz",
 "Otis Redding|Live in Europe|1967|OLAK5uy_k0VjXw_6tgSLCAAPZyP3_pkQMPaxD9VNA|A110|Live in Europe (Otis Redding album)|Otis Redding|Southern Soul;R&B;Soul",
