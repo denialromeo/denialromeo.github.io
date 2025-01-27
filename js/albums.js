@@ -1935,7 +1935,7 @@ const albums = [
 "Sonny Rollins|Freedom Suite|1958|OLAK5uy_lUDplgw-Odf1BgvErrctVKpNUDo1YrHJ4|A1850|Freedom Suite (Sonny Rollins album)|Sonny Rollins|Hard Bop;Bebop;Jazz",
 "Herbie Hancock|Takin' Off|1962|OLAK5uy_lf1qERIGJuZH-2DOgs8MfkPGi0zfr3rvI|A1916|Takin' Off|Herbie Hancock|Hard Bop;Modal Jazz;Post-Bop;Bebop;Jazz",
 "Donny Hathaway|Extension of a Man|1973|OLAK5uy_mSdAwdtW13x4baMJUk_o2SNkNgNKuZeh8|A2492|Extension of a Man|Donny Hathaway|Soul;R&B",
-"Albert Collins|Ice Pickin'|1978|PLOFsCPXqLYfqu4tI0hDdoBKX6-NQkOHJs|A1451|Ice Pickin'|Albert Collins|Electric Texas Blues;Blues;Electric Blues",
+"Albert Collins|Ice Pickin'|1978|OLAK5uy_m-kr9uqDQFMkR6XV6usbm3SIJvinYw9IY|A1451|Ice Pickin'|Albert Collins|Electric Texas Blues;Blues;Electric Blues",
 "Alain Bashung|Play Blessures|1982|PLq7MWRGJO0XytVhYQgaFlMEBAFxQ-_38K|A4668|Play blessures|Alain Bashung|Coldwave;New Wave;Post-Punk;Rock",
 "Rahsaan Roland Kirk|The Inflated Tear|1968|OLAK5uy_lC0-OvUuX75rwcJa5kxnK5k5Mtte0ZkvM|A1985|The Inflated Tear|Rahsaan Roland Kirk|Post-Bop;Bebop;Jazz",
 "Flipper|Album - Generic Flipper|1982|OLAK5uy_mffN9O8T14g0xa2DvmlAInktuVHZLl_TA|A532|Album – Generic Flipper|Flipper (band)|Noise Rock;Punk Rock;Rock",
