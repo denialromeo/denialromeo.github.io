@@ -4078,7 +4078,7 @@ const songs = [
 "Thin Lizzy|Jailbreak|1976|At_rPiCCnpY|Thin Lizzy|S8741|Hard Rock;Rock|Jailbreak (Thin Lizzy song)",
 "Blur|There's No Other Way|1991|LJzCYSdrHMI|Blur (band)|S4487|Baggy / Madchester;Alternative Rock;Rock|There's No Other Way",
 "Lloyd Cole and the Commotions|Rattlesnakes|1984|gSc46sEZdl4|Lloyd Cole and the Commotions|S7289|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|",
-"Duran Duran|The Chauffeur|1982|1B__8N5d_LA|Duran Duran|S6173|Art Pop;Darkwave;New Romantic;New Wave;Pop;Rock|The Chauffeur",
+"Duran Duran|The Chauffeur|1982|vQnSS3H-I5U|Duran Duran|S6173|Art Pop;Darkwave;New Romantic;New Wave;Pop;Rock|The Chauffeur",
 "Whodini|Friends|1984|yYv_GBHXLu4|Whodini|S2350|East Coast Hip Hop;Electro;Dance;Electronic;Electronic Dance Music;Hip Hop|Friends (Whodini song)",
 "Adele|Chasing Pavements|2008|hY_xO1DGfmw|Adele|S4699|Blue Eyed Soul;Pop|Chasing Pavements",
 "Os Mutantes|Panis et circenses|1968|ETqMNQw-a9M|Os Mutantes|S11811|Experimental Rock;Psychedelic Rock;Tropicália;Brazilian Music;MPB;Regional Music;Rock|",
