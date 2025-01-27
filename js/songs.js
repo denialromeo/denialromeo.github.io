@@ -10247,7 +10247,7 @@ const songs = [
 "Vince Staples|Blue Suede|2014|NJLfCBBcZAo|Vince Staples|S9663|Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "Lou Reed|Sad Song|1973|QG_ooIR0DTY|Lou Reed|S13874|Art Rock;Symphonic Rock;Rock|Lou Reed Live",
 "Nino Ferrer|La Maison près de la fontaine|1971|no_DRNT_DuU|Nino Ferrer|S11766|Progressive Pop;Pop|",
-"Joe Cocker|Feelin' Alright|1969|JQECeouNVjI|Joe Cocker|S6931|Piano Rock;Pop;Pop Rock;Rock|Feelin' Alright%3F",
+"Joe Cocker|Feelin' Alright|1969|fvH0TocgLFU|Joe Cocker|S6931|Piano Rock;Pop;Pop Rock;Rock|Feelin' Alright%3F",
 "The Beatles|Birthday|1968|Xltd2nmJhmk|The Beatles|S5376|Hard Rock;Pop Rock;Pop;Rock|Birthday (Beatles song)",
 "Mr. Big|To Be With You|1991|L6-uJLteKek|Mr. Big (American band)|S15725|Acoustic Rock;Pop Rock;Pop;Rock|To Be with You",
 "The Roots|What They Do|1996|_qzacv8dtb4|The Roots|S12111|Boom Bap;East Coast Hip Hop;Hip Hop|",
