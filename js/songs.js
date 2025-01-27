@@ -3738,7 +3738,7 @@ const songs = [
 "Aretha Franklin|Ain't No Way|1968|-39SMDvGgQI|Aretha Franklin|S3424|Soul;R&B|Ain't No Way",
 "Emmylou Harris|Boulder to Birmingham|1975|HPFq6tup_mQ|Emmylou Harris|S6277|Country|Boulder to Birmingham",
 "Otis Redding|Mr. Pitiful|1965|Azzk9bqkaeE|Otis Redding|S3751|Deep Soul;R&B;Soul;Southern Soul|Mr. Pitiful",
-"The Diamonds|The Stroll|1957|UrGLNtZ0rEg|The Diamonds|S1254|Rhythm & Blues;Rock & Roll;R&B;Rock|The Stroll (song)",
+"The Diamonds|The Stroll|1957|mGYG5yEKmaA|The Diamonds|S1254|Rhythm & Blues;Rock & Roll;R&B;Rock|The Stroll (song)",
 "Santigold|Disparate Youth|2012|mIMMZQJ1H6E|Santigold|S5035|Alternative Dance;Indietronica;Alternative Rock;Dance;Electronic;Rock|Disparate Youth",
 "Billie Holiday|Body and Soul|1940|wcnqnS1H9R0|Billie Holiday|S4062|Vocal Jazz;Jazz|",
 "Stereolab|French Disko|1993|Ttq4RLTszWg|Stereolab|S8559|Indie Pop;Noise Pop;Alternative Rock;Pop;Rock|",
