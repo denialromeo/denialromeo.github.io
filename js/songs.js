@@ -9610,7 +9610,7 @@ const songs = [
 "Def Leppard|Rock of Ages|1983|xtiFjIVCu_k|Def Leppard|S10565|Hard Rock;Rock|Rock of Ages (Def Leppard song)",
 "CupcakKe|Duck Duck Goose|2018|awGEv-ctCtg|Cupcakke|S16907|Hip House;Trap;Dance;Electronic;Electronic Dance Music;Gangsta Rap;Hardcore Hip Hop;Hip Hop;House|Duck Duck Goose (song)",
 "Genesis|Abacab|1981|suCNZe3Gwkw|Genesis (band)|S10904|Pop Rock;Progressive Pop;Pop;Rock|Abacab (song)",
-"Renato Zero|Il cielo|1977|nUecZsSBON0|Renato Zero|S13611|Pop Rock;Pop;Rock|",
+"Renato Zero|Il cielo|1977|ehjdXSjH8u4|Renato Zero|S13611|Pop Rock;Pop;Rock|",
 "Crystal Castles|Alice Practice|2006|F29fGbm0a24|Crystal Castles|S5913|Bitpop;Electroclash;Indietronica;Dance;Electronic;Electronic Dance Music;Pop|",
 "Ezio Pinza|Some Enchanted Evening|1949|drHTYCRVoYQ|Ezio Pinza|S9215|Show Tunes;Traditional Pop;Musical Theatre and Entertainment;Pop;Soundtracks|Some Enchanted Evening",
 "Grace Jones|Williams' Blood|2008|6S8bMWJHUD8|Grace Jones|S10961|Funk;Pop Soul;Trip Hop;Downtempo;Electronic;Pop;R&B;Soul|",
