@@ -8789,7 +8789,7 @@ const songs = [
 "Cage the Elephant|Shake Me Down|2010|v27TRan1SBI|Cage the Elephant|S16231|Alternative Rock;Rock|",
 "The Strokes|What Ever Happened?|2003|yeLGjoRbNZQ|The Strokes|S8612|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|",
 "The National|Light Years|2019|5FQtSn_vak0|The National (band)|S16884|Chamber Pop;Baroque Pop;Indie Pop;Pop|",
-"Kool and the Gang|Hollywood Swinging|1973|YK-cvcw3ngM|Kool & the Gang|S2870|Funk;R&B|Hollywood Swinging",
+"Kool and the Gang|Hollywood Swinging|1973|y-Iorb4pWu8|Kool & the Gang|S2870|Funk;R&B|Hollywood Swinging",
 "Bush Tetras|Too Many Creeps|1980|aVOzOnqzoj8|Bush Tetras|S3256|Dance-Punk;No Wave;Experimental Rock;Post-Punk;Rock|",
 "Junior Byles|Curley Locks|1974|flb6S2UX7Ts|Junior Byles|S7027|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
 "Syd Barrett|Opel|1988|Ch3BfpZp8PI|Syd Barrett|S8660|Psychedelic Folk;Psychedelic Rock;Contemporary Folk;Folk;Rock|",
