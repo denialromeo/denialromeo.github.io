@@ -9399,7 +9399,7 @@ const songs = [
 "Yardbirds|Still I'm Sad|1965|ONVXNH7D4Qw|The Yardbirds|S9082|Blues Rock;British Rhythm & Blues;Garage Rock;R&B;Rhythm & Blues;Rock|",
 "Carl Perkins|Dixie Fried|1956|XiZiYOKQLbI|Carl Perkins|S5716|Rockabilly;Rock;Rock & Roll|",
 "Twin Shadow|Slow|2010|Wo17ungbCEA|Twin Shadow|S8868|New Wave;Synthpop;Electronic;Pop;Rock|Forget (Twin Shadow album)",
-"The Specials|Stereotype|1980|KQ4lvUJ39fE|The Specials|S2893|2 Tone;Ska|Stereotype (The Specials song)",
+"The Specials|Stereotype|1980|fxQ5ooPT4Gw|The Specials|S2893|2 Tone;Ska|Stereotype (The Specials song)",
 "Feeder|Buck Rogers|2001|GKMbjxOnymk|Feeder (band)|S6363|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Buck Rogers (song)",
 "Lucio Dalla|Caruso|1986|JqtSuL3H2xs|Lucio Dalla|S11494|Canzone d'autore;Contemporary Folk;Folk;Singer/Songwriter|Caruso (song)",
 "DJ Khaled|We Takin' Over|2007|E-vq8XUX8b4|DJ Khaled|S6103|Pop Rap;Hip Hop|",
