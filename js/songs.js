@@ -6022,7 +6022,7 @@ const songs = [
 "Queen|Bicycle Race|1978|GugsCdLHm-Q|Queen (band)|S11970|Pop Rock;Pop;Rock|Bicycle Race",
 "The Soul Survivors|Expressway to Your Heart|1967|bIjUxvynMMU|Soul Survivors (band)|S3832|Blue Eyed Soul;Pop Soul;Pop;R&B;Soul|Expressway to Your Heart",
 "Roxy Music|Avalon|1982|bpA_5a0miWk|Roxy Music|S12114|Art Pop;New Romantic;Sophisti-Pop;New Wave;Pop;Rock|Avalon (Roxy Music song)",
-"Gene Pitney|Town Without Pity|1961|CkcvQQTe9Mw|Gene Pitney|S4080|Brill Building;Pop|Town Without Pity (song)",
+"Gene Pitney|Town Without Pity|1961|0HkpCjT4LiE|Gene Pitney|S4080|Brill Building;Pop|Town Without Pity (song)",
 "Françoise Hardy|Comment te dire adieu|1968|tINyMbNZytI|Françoise Hardy|S6437|French Pop;Pop|Comment te dire adieu",
 "Electronic|Get the Message|1991|vqC2eT5vI9w|Electronic (band)|S190|Alternative Dance;Synthpop;Alternative Rock;Dance;Electronic;Pop;Rock|Get the Message (song)",
 "John Lennon|Stand by Me|1975|YqB8Dm65X18|John Lennon|S6957|Pop Rock;Pop;Rock|Stand by Me (Ben E. King song)",
