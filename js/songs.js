@@ -10162,7 +10162,7 @@ const songs = [
 "Stephan Eicher|Déjeuner en paix|1991|S7cP8jGMtAE|Stephan Eicher|S13633|Pop Rock;Pop;Rock|Déjeuner en paix",
 "Richard Anthony|Et j'entends siffler le train|1962|9J80X1niH38|https://fr.wikipedia.org/wiki/Richard_Anthony|S12061|Yé-yé;Pop|500 Miles",
 "Everything Everything|Schoolin'|2010|r0fb0G3hfjo|Everything Everything|S6324|Art Pop;Indietronica;Progressive Pop;Electronic;Pop|",
-"Ben Harper|With My Own Two Hands|2003|aEnfy9qfdaU|Ben Harper|S12931|Reggae;Caribbean Music;Jamaican Music;Regional Music|",
+"Ben Harper|With My Own Two Hands|2003|aEnfy9qfdaU|Ben Harper|S12931|Reggae;Caribbean Music;Jamaican Music;Regional Music|With My Own Two Hands",
 "The Prodigy|Omen|2009|xMVTKOoy1uk|The Prodigy|S8024|Big Beat;Hardcore Breaks;Breakbeat;Breakbeat Hardcore;Dance;Electronic;Electronic Dance Music;Hardcore [EDM]|",
 "Da Brat|Funkdafied|1994|zfpR9jKy0IQ|Da Brat|S5940|G-Funk;Southern Hip Hop;Hip Hop|",
 "Taylor Swift|Mine|2010|XPBwXKgDTdE|Taylor Swift|S12400|Pop Rock;Pop;Rock|Mine (Taylor Swift song)",
