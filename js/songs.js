@@ -10524,7 +10524,7 @@ const songs = [
 "Aaliyah|Back & Forth|1994|W8kZmWegXRc|Aaliyah|S5079|Contemporary R&B;Pop Rap;Hip Hop;R&B|Back & Forth (Aaliyah song)",
 "The Black Madonna|He Is the Voice I Hear|2017|0NCjHeiwycQ|The Black Madonna|S16493|Garage House;Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House|Everybody (Madonna song)",
 "The Clash|Brand New Cadillac|1979|uqTpZXcTc_s|The Clash|S10416|Punk Rock;Rockabilly;Rock;Rock & Roll|Brand New Cadillac",
-"L'Affaire Louis Trio|Mobilis in Mobile|1993|GPPNMsxfAzA|L'Affaire Louis' Trio|S14644|French Pop;Pop|",
+"L'Affaire Louis Trio|Mobilis in Mobile|1993|PrScAonpZZE|L'Affaire Louis' Trio|S14644|French Pop;Pop|",
 "The National|Conversation 16|2010|wg5geyUlU4Y|The National (band)|S7670|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|High Violet",
 "Ramadanman|Don't Change for Me|2010|0pLzBTmmt0E|https://www.discogs.com/artist/618429-Ramadanman|S12015|Future Garage;UK Bass;Dance;Electronic;Electronic Dance Music;UK Garage|",
 "The Bonzo Dog Doo-Dah Band|I'm the Urban Spaceman|1968|zrii_MILuvE|Bonzo Dog Doo-Dah Band|S5591|Comedy Rock;Psychedelic Pop;Comedy;Musical Comedy;Pop;Rock|I'm the Urban Spaceman",
