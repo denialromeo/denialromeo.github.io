@@ -10327,7 +10327,7 @@ const songs = [
 "Florence + The Machine|Kiss with a Fist|2008|1SmxVCM39j4|Florence and the Machine|S6406|Indie Rock;Alternative Rock;Rock|",
 "John Talabot|So Will Be Now|2012|TvG1M7s-upk|John Talabot|S5043|Balearic Beat;Microhouse;Dance;Electronic;Electronic Dance Music;House|",
 "Elle King|Ex's & Oh's|2015|0uLI6BnVh6w|Elle King|S9749|Pop Rock;Pop Soul;Pop;R&B;Rock;Soul|Ex's & Oh's",
-"New Order|Sub-Culture|1985|kO2jW4_oze4|New Order (band)|S7705|Alternative Dance;Synthpop;Alternative Rock;Dance;Electronic;Pop;Rock|Sub-culture (song)",
+"New Order|Sub-Culture|1985|Uetuplhan_U|New Order (band)|S7705|Alternative Dance;Synthpop;Alternative Rock;Dance;Electronic;Pop;Rock|Sub-culture (song)",
 "Darkside|Golden Arrow|2013|d8NaWT0WvEE|Darkside (band)|S10505|Chillwave;Microhouse;Synthpop;Dance;Electronic;Electronic Dance Music;House;Indietronica;Pop|",
 "AC/DC|Who Made Who|1986|PiZHNw1MtzI|AC/DC|S9925|Hard Rock;Rock|Who Made Who (song)",
 "Ween|Push th' Little Daisies|1992|6PAzqBUNlCs|Ween|S3943|Lo-Fi / Slacker Rock;Alternative Rock;Indie Rock;Rock|Push th' Little Daisies",
