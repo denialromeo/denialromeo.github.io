@@ -9653,7 +9653,7 @@ const songs = [
 "The Who|So Sad About Us|1966|5PRafGhVRR4|The Who|S15186|Freakbeat;Mod;Beat Music;Pop;Pop Rock;Rock|So Sad About Us",
 "Killer Mike|That's Life|2006|kiJ5B1xMJio|Killer Mike|S7098|Dirty South;Gangsta Rap;Southern Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "U2|When Love Comes to Town|1988|_TGU35i8czo|B.B. King|S8884|Blues Rock;Rock|When Love Comes to Town",
-"Dragon|April Sun in Cuba|1977|BHFFuukk9Y8|Dragon (band)|S6154|Pop Rock;Pop;Rock|April Sun in Cuba",
+"Dragon|April Sun in Cuba|1977|Vq_cAJFoRMM|Dragon (band)|S6154|Pop Rock;Pop;Rock|April Sun in Cuba",
 "Bobby Vee|Run to Him|1961|RW1w45JOf-g|Bobby Vee|S5577|Pop|Run to Him",
 "The Blue Nile|From a Late Night Train|1989|cVNfv_4HAxk|The Blue Nile|S5516|Ambient Pop;Sophisti-Pop;Pop|",
 "Chuck Brown & The Soul Searchers|We Need Some Money|1984|SzUImGQAvEI|Chuck Brown|S2906|Go-Go;Funk;R&B|",
