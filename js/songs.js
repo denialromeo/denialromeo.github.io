@@ -7804,7 +7804,7 @@ const songs = [
 "Jan Delay|Klar|2006|3JG6yipKXVA|Jan Delay|S6859|Funk;Pop;R&B|",
 "Irene Cara|Fame|1980|ChhCpSVrjvU|Irene Cara|S6798|Dance-Pop;Disco;Film Soundtrack;Dance;Pop;Soundtracks|Fame (Irene Cara song)",
 "The Fabulous Wailers|Tall Cool One|1959|5AH7cS2KZS8|The Fabulous Wailers|S8906|Rock & Roll;Rock|Tall Cool One (The Fabulous Wailers song)",
-"Sigur Rós|Brennistein|2013|Oc6zXSdYXm8|Sigur Rós|S9521|Art Rock;Post-Industrial;Post-Rock;Industrial Music;Rock|",
+"Sigur Rós|Brennisteinn|2013|Oc6zXSdYXm8|Sigur Rós|S9521|Art Rock;Post-Industrial;Post-Rock;Industrial Music;Rock|Brennisteinn",
 "Terry Callier|Love Theme from Spartacus|1998|ptXDacJNr1w?start=3120|Terry Callier|S8726|Soul;R&B|",
 "Lo-Fidelity Allstars|Battle Flag|1998|LAMtfqdT8jQ|Lo Fidelity Allstars|S7294|Big Beat;Breakbeat;Dance;Electronic;Electronic Dance Music|Battle Flag (song)",
 "Bill Fay|Be Not So Fearful|1970|GYD4ALKfjQY|Bill Fay|S12768|Singer/Songwriter|",
