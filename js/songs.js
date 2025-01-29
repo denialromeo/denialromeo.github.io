@@ -8852,7 +8852,7 @@ const songs = [
 "Leonard Cohen|Dance Me to the End of Love|1984|NGorjBVag0I|Leonard Cohen|S7243|Singer/Songwriter;Sophisti-Pop;Pop|Dance Me to the End of Love",
 "The Cramps|TV Set|1980|O3ae6flEFrY|The Cramps|S5881|Garage Punk;Psychobilly;Garage Rock;Punk Rock;Rock;Rock & Roll;Rockabilly|",
 "Jacques Brel|Le Plat pays|1962|-NepAHg9wkw?start=3|Jacques Brel|S13508|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
-"Tangerine Dream|Sequent C|1974|Jb_hDcNr5KQ|Tangerine Dream|S15103|Ambient;Berlin School;Electronic;Progressive Electronic|",
+"Tangerine Dream|Sequent C|1974|7xo0KN1CXwo|Tangerine Dream|S15103|Ambient;Berlin School;Electronic;Progressive Electronic|Phaedra (album)",
 "Fleetwood Mac|Say You Love Me|1975|4zLQ4ukqMec|Fleetwood Mac|S6391|Country Pop;Country Rock;Piano Rock;Country;Pop;Pop Rock;Rock|Say You Love Me (Fleetwood Mac song)",
 "Joe Dassin|Marie-Jeanne|1967|ES1jqdqTaso|Joe Dassin|S11219|Chanson;Regional Music|",
 "Kylie Minogue|Spinning Around|2000|t1DWBKk5xHQ|Kylie Minogue|S4246|Dance-Pop;Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House;Pop|Spinning Around",
