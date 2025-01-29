@@ -8781,7 +8781,7 @@ const songs = [
 "Vicki Lawrence|The Night the Lights Went Out in Georgia|1973|K-qK7oVXVRQ|Vicki Lawrence|S12845|Country Pop;Country;Pop|The Night the Lights Went Out in Georgia",
 "Lucky Millinder|Who Threw the Whiskey in the Well|1945|NrtflS3yTKY|Lucky Millinder|S7345|Jump-Blues;Swing;Blues;Jazz|Who Threw the Whiskey in the Well",
 "Empress Of|How Do You Do It|2015|iLDCjV5TsYc|Empress Of|S9750|Dance-Pop;Electropop;UK Garage;Dance;Electronic;Electronic Dance Music;Pop|",
-"Marvin Gaye|When Did You Stop Loving Me, When Did I Stop Loving You|1978|tpcSx4vKv8c|Marvin Gaye|S13887|Soul;R&B|",
+"Marvin Gaye|When Did You Stop Loving Me, When Did I Stop Loving You|1978|tpcSx4vKv8c|Marvin Gaye|S13887|Soul;R&B|When Did You Stop Loving Me, When Did I Stop Loving You",
 "John Denver|Annie's Song|1974|RNOTF-znQyw|John Denver|S6942|Baroque Pop;Country Pop;Soft Rock;Country;Pop;Pop Rock;Rock|Annie's Song",
 "Harry Nilsson|I Guess the Lord Must Be in New York City|1969|Qa4An7uzPeg|Harry Nilsson|S6689|Baroque Pop;Folk Pop;Contemporary Folk;Folk;Pop|I Guess the Lord Must Be in New York City",
 "Alicia Bridges|I Love the Nightlife (Disco 'Round)|1978|umAurdHLNzU|Alicia Bridges|S9973|Disco;Dance|I Love the Nightlife",
