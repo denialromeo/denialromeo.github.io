@@ -5362,7 +5362,7 @@ const songs = [
 "Tim Hardin|If I Were a Carpenter|1967|3s7mh_Uda6c|Tim Hardin|S3458|Contemporary Folk;Singer/Songwriter;Folk|If I Were a Carpenter (song)",
 "Bob Dylan|With God on Our Side|1964|rMifwzfwyFA|Bob Dylan|S3380|Contemporary Folk;Singer/Songwriter;Folk|With God on Our Side (song)",
 "Morrissey|Last of the Famous International Playboys|1989|Bk1wUKoXL20|Morrissey|S3644|Indie Pop;Pop|The Last of the Famous International Playboys",
-"The Jam|The Modern World|1977|J_h8MtU5Xyc|The Jam|S6839|Mod Revival;New Wave;Mod;Rock|",
+"The Jam|The Modern World|1977|SG8hL_o4aXU|The Jam|S6839|Mod Revival;New Wave;Mod;Rock|",
 "Art Blakey & The Jazz Messengers|Blues March/Blues March for Europe No. 1|1958|hugur2qClyo|Art Blakey|S13147|Hard Bop;Bebop;Jazz|",
 "Depeche Mode|Blasphemous Rumours|1984|o3EAzf5fDpY|Depeche Mode|S2352|Synthpop;Electronic;Pop|",
 "Bangles|Hazy Shade of Winter|1987|TxrwImCJCqk|The Bangles|S5315|Pop Rock;Pop;Rock|A Hazy Shade of Winter",
