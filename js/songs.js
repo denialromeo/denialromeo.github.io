@@ -8085,7 +8085,7 @@ const songs = [
 "Erik Lundin|Suedi|2015|GbzLGbmTjfY|https://sv.wikipedia.org/wiki/Erik_Lundin_(rappare)|S9752|Pop Rap;Hip Hop|",
 "Steve Winwood|Valerie|1982|cbKNICg-REA|Steve Winwood|S12315|Synthpop;Electronic;Pop|Valerie (Steve Winwood song)",
 "Nick Drake|Saturday Sun|1969|26a7skUt6-g|Nick Drake|S13046|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk|Saturday Sun",
-"Kenny Rogers|Ruby, Don't Take Your Love to Town|1969|xiohkveacxM|Kenny Rogers and the First Edition|S4132|Country Pop;Folk Pop;Contemporary Folk;Country;Folk;Pop|Ruby, Don't Take Your Love to Town",
+"Kenny Rogers|Ruby, Don't Take Your Love to Town|1969|o8o1D1BP55s|Kenny Rogers and the First Edition|S4132|Country Pop;Folk Pop;Contemporary Folk;Country;Folk;Pop|Ruby, Don't Take Your Love to Town",
 "Grateful Dead|Sugar Magnolia|1970|nkKuhAxcH7g|Grateful Dead|S10973|Country Rock;Rock|Sugar Magnolia",
 "Taylor Swift|You Belong with Me|2008|VuNIsY6JdUw|Taylor Swift|S4845|Country Pop;Pop Rock;Teen Pop;Country;Pop;Rock|You Belong with Me",
 "Weezer|Beverly Hills|2005|HL_WvOly7mY|Weezer|S12565|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Beverly Hills (song)",
