@@ -7960,7 +7960,7 @@ const songs = [
 "Tracy Bonham|Mother Mother|1995|2Xi8NvSetZc|Tracy Bonham|S15146|Alternative Rock;Rock|Mother Mother (song)",
 "Elton John|Sorry Seems to Be the Hardest Word|1976|c3nScN89Klo|Elton John|S3522|Pop;Singer/Songwriter|Sorry Seems to Be the Hardest Word",
 "The Smiths|Shoplifters of the World Unite|1987|lJRN76hxFz0|The Smiths|S8464|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Shoplifters of the World Unite",
-"Rush|2112|1976|8F7_K5sXEbY|Rush (band)|S12127|Hard Rock;Progressive Rock;Rock Opera;Rock|2112 (song)",
+"Rush|2112|1976|osN-dGs2d2A|Rush (band)|S12127|Hard Rock;Progressive Rock;Rock Opera;Rock|2112 (song)",
 "Neneh Cherry|Kong|2018|W6ivBXh1zGQ|Neneh Cherry|S16587|Art Pop;Trip Hop;Downtempo;Electronic;Pop|",
 "The Everly Brothers|Walk Right Back|1961|jE6hp2a5mrI|The Everly Brothers|S1136|Close Harmony;Pop;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|Walk Right Back",
 "Aretha Franklin|Freeway of Love|1985|Ip_pjb5_fgA|Aretha Franklin|S3426|Contemporary R&B;Dance-Pop;Pop Soul;Dance;Pop;R&B;Soul|Freeway of Love",
