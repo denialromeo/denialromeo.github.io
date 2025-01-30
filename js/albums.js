@@ -2886,7 +2886,7 @@ const albums = [
 "Paramore|After Laughter|2017|OLAK5uy_k1w7hO8N1QJ-kUTlfa1wzy7TcYXRX5VOM|A5959|After Laughter|Paramore|Alternative Dance;New Wave;Pop Rock;Alternative Rock;Dance;Pop;Rock",
 "Blue Rodeo|Five Days in July|1993|OLAK5uy_ldnYr18LPXE44wMTNbAQ3yZC25fT1utnw|A4779|Five Days in July|Blue Rodeo|Alt-Country;Country Rock;Country;Rock",
 "Mansun|Attack of the Grey Lantern|1997|OLAK5uy_kfhSYZYNzlzmaPsCN1FKEPkpDlDZ3c2Ao|A4856|Attack of the Grey Lantern|Mansun|Britpop;Alternative Rock;Pop;Pop Rock;Rock",
-"John Coltrane|Live at Birdland|1964|PLsfWqgTJO2AyKTCf4iSit6Lk3nXUAa7sk|A2316|Live at Birdland (John Coltrane album)|John Coltrane|Post-Bop;Bebop;Jazz",
+"John Coltrane|Live at Birdland|1964|OLAK5uy_lyQd93jJPuNS0RoOlElxt75ZMqjNdjuY4|A2316|Live at Birdland (John Coltrane album)|John Coltrane|Post-Bop;Bebop;Jazz",
 "Wayne Shorter|Adam's Apple|1967|OLAK5uy_mHtoFp4GZQR4gqUSUZUn4HCLAE5g-drSg|A1969|Adam's Apple (album)|Wayne Shorter|Hard Bop;Post-Bop;Bebop;Jazz",
 "Robert Hood|Minimal Nation|1994|OLAK5uy_lP8IZ8m-7F-rWyaXcM4pKspf2wZ5jKFzA|A5264|Minimal Nation|Robert Hood|Detroit Techno;Minimal Techno;Dance;Electronic;Electronic Dance Music;Techno",
 "Kate and Anna McGarrigle|Dancer with Bruised Knees|1977|OLAK5uy_m7C5XoBMXdHiqd2YICJmHia2fcltwMFfc|A417|Dancer with Bruised Knees|Kate & Anna McGarrigle|Contemporary Folk;Singer/Songwriter;Folk",
