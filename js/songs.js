@@ -5357,7 +5357,7 @@ const songs = [
 "Mississippi John Hurt|Candy Man Blues|1929|GCFur3GlNQ8|Mississippi John Hurt|S13577|Piedmont Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|",
 "Fletcher Henderson|Copenhagen|1924|hZwpzK57z0Y|Fletcher Henderson|S15480|Big Band;Jazz|",
 "Pretenders|Talk of the Town|1980|-Kdt1IARNkI|The Pretenders|S552|New Wave;Pop Rock;Pop;Rock|Talk of the Town (Pretenders song)",
-"Night Ranger|Sister Christian|1983|z92bmlcmyq0|Night Ranger|S7741|AOR;Pop Rock;Pop;Rock|",
+"Night Ranger|Sister Christian|1983|z92bmlcmyq0|Night Ranger|S7741|AOR;Pop Rock;Pop;Rock|Sister Christian",
 "The Weeknd|High for This|2011|sX9DgavXiN4|The Weeknd|S15969|Alternative R&B;Contemporary R&B;R&B|Heartless (The Weeknd song)",
 "Tim Hardin|If I Were a Carpenter|1967|3s7mh_Uda6c|Tim Hardin|S3458|Contemporary Folk;Singer/Songwriter;Folk|If I Were a Carpenter (song)",
 "Bob Dylan|With God on Our Side|1964|rMifwzfwyFA|Bob Dylan|S3380|Contemporary Folk;Singer/Songwriter;Folk|With God on Our Side (song)",
