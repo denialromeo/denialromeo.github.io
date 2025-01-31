@@ -4473,7 +4473,7 @@ const songs = [
 "Refused|New Noise|1998|NkAe30aEG5c|Refused|S8133|Post-Hardcore;Punk Rock;Rock|The New Noise Theology E.P.",
 "Bob Dylan|One of Us Must Know (Sooner or Later)|1966|La580nOo6DM|Bob Dylan|S3377|Folk Rock;Singer/Songwriter;Rock|One of Us Must Know (Sooner or Later)",
 "Big Thief|U.F.O.F.|2019|AjPa7M5n2CU|Big Thief|S16740|Indie Folk;Contemporary Folk;Folk|",
-"Wilco|Ashes of American Flags|2002|O72cQZeTbxQ|Wilco|S9012|Indie Rock;Alternative Rock;Rock|",
+"Wilco|Ashes of American Flags|2002|-IKQkxnHp9U|Wilco|S9012|Indie Rock;Alternative Rock;Rock|",
 "Orchestral Manoeuvres in the Dark|If You Leave|1986|EPmTGFg06zA|Orchestral Manoeuvres in the Dark|S3681|Film Soundtrack;New Wave;Synthpop;Electronic;Pop;Rock;Soundtracks|If You Leave (song)",
 "Beyoncé|XO|2013|3xUfCUFPL-8|Beyoncé|S9656|Contemporary R&B;Pop;R&B|XO (song)",
 "The Wedding Present|My Favourite Dress|1987|Nj99tl4CiwQ|The Wedding Present|S4475|C86;Indie Rock;Jangle Pop;Alternative Rock;Indie Pop;Pop;Pop Rock;Rock|",
