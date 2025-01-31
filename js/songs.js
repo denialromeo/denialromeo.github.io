@@ -9309,7 +9309,7 @@ const songs = [
 "Mount Kimbie feat. King Krule|Blue Train Lines|2017|J1kzMFnFSh0|Mount Kimbie|S16452|Indietronica;Post-Punk;Synth Punk;Electronic;Punk Rock;Rock|",
 "Silver Convention|Get Up and Boogie|1976|GX3Wf6-9rXo|Silver Convention|S12893|Euro-Disco;Dance;Disco|Get Up and Boogie (song)",
 "Grandaddy|Hewlett's Daughter|2000|Ibshu3vkkgY|Grandaddy|S6629|Indie Pop;Indie Rock;Space Rock;Alternative Rock;Pop;Psychedelic Rock;Rock|",
-"Teenage Head|Picture My Face|1978|oc_wy8KNVXQ|Teenage Head (band)|S13366|Punk Rock;Rock|",
+"Teenage Head|Picture My Face|1978|7KMTkFikcHU|Teenage Head (band)|S13366|Punk Rock;Rock|",
 "Joy Orbison|Ellipsis|2012|esn4AqroKHE|Joy Orbison|S5020|House;UK Funky;Dance;Electronic;Electronic Dance Music;UK Garage|",
 "Odyssey|Inside Out|1982|HrkvzmVrX50|Odyssey (band)|S7791|Boogie;Dance;Disco;R&B|Inside Out (Odyssey song)",
 "Grace Jones|La Vie en rose|1977|YEM8TspcCBY|Grace Jones|S12875|Disco;Pop Soul;Dance;Pop;R&B;Soul|La Vie en rose",
