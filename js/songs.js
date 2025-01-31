@@ -3607,7 +3607,7 @@ const songs = [
 "Nas|If I Ruled the World|1996|vvmjZkFcCh0|Nas|S2121|Boom Bap;Conscious Hip Hop;East Coast Hip Hop;Hip Hop|If I Ruled the World (Imagine That)",
 "J Balvin feat. Willy William|Mi Gente (Remix feat. Beyoncé)|2017|APHgDFRpCi0|J Balvin|S16397|Moombahton;Dance;Electronic;Electronic Dance Music|Mi Gente (J Balvin and Willy William song)",
 "Suede|Stay Together|1994|VJZPVGXf5A4|Suede (band)|S2086|Britpop;Alternative Rock;Pop;Pop Rock;Rock|",
-"Andrew W.K.|Party Hard|2001|WccfbPQNMbg|Andrew W.K.|S1477|Hard Rock;Rock|Party Hard",
+"Andrew W.K.|Party Hard|2001|WccfbPQNMbg|Andrew W.K.|S1477|Hard Rock;Rock|Party Hard (Andrew W.K. song)",
 "Harry Belafonte|Banana Boat (Day-O)|1956|H5dpBWlRANE|Harry Belafonte|S4370|Calypso;Mento;Caribbean Music;Jamaican Music;Regional Music|Day-O (The Banana Boat Song)",
 "Bee Gees|To Love Somebody|1967|DWJWWHCFPbE|Bee Gees|S1495|Baroque Pop;Pop|To Love Somebody (song)",
 "Buck Owens|Act Naturally|1963|__SMDtF_DsY|Buck Owens|S1646|Bakersfield Sound;Country;Honky Tonk|Act Naturally",

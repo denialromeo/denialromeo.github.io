@@ -2122,7 +2122,7 @@ const albums = [
 "Jorge Ben|África Brasil|1976|OLAK5uy_nx7x05rbTmujqqNBPDnHQl-F5OJEE6ghQ|A2021|África Brasil|Jorge Ben|Funk;MPB;Samba-Rock;Brazilian Music;R&B;Regional Music;Samba",
 "These New Puritans|Hidden|2010|OLAK5uy_ncnkpzu5czBjSmFp2dWc26D5wDET6WFZM|A5111|Hidden (These New Puritans album)|These New Puritans|Post-Punk;Rock",
 "The Dismemberment Plan|Change|2001|OLAK5uy_lWtxgH3R7Fa_ALHf8O1NmIH4fmH9pLSwI|A3036|Change (The Dismemberment Plan album)|The Dismemberment Plan|Indie Rock;Alternative Rock;Rock",
-"Public Image Ltd.|Public Image - First Issue|1978|ERROR: Suitable playlist not found|A2736|Public Image: First Issue|Public Image Ltd|Art Punk;Post-Punk;Punk Rock;Rock",
+"Public Image Ltd.|Public Image - First Issue|1978|PL54305507986C182C|A2736|Public Image: First Issue|Public Image Ltd|Art Punk;Post-Punk;Punk Rock;Rock",
 "Art Blakey Quintet|A Night at Birdland Vol. 2|1954|OLAK5uy_lQJ_wotnLzkzNAMKlxTf6WgYNsiTQqij4|A1772|A Night at Birdland Vol. 2|Art Blakey|Hard Bop;Bebop;Jazz",
 "Purity Ring|Shrines|2012|OLAK5uy_mQIAkzEeYLoYyNIHIOT0vx2RoJBwyLe6M|A5233|Shrines (album)|Purity Ring (band)|Synthpop;Electronic;Pop",
 "These New Puritans|Field of Reeds|2013|OLAK5uy_lVhJiA0xTSGv_RMCJ1OQw5tJIlcQ8RcLo|A5373|Field of Reeds|These New Puritans|Art Rock;Post-Rock;Rock",
