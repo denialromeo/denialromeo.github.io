@@ -5940,7 +5940,7 @@ const songs = [
 "Don Covay|Mercy, Mercy|1964|pWioaVN9olY|Don Covay|S6121|Southern Soul;R&B;Soul|Mercy, Mercy (Don Covay song)",
 "OutKast|Player's Ball|1993|vFofKGKlWo4|Outkast|S11820|Southern Hip Hop;Hip Hop|",
 "Muse|Uprising|2009|w8KQmps-Sog|Muse (band)|S7647|Alternative Rock;Pop Rock;Pop;Rock|Uprising (song)",
-"Loretta Lynn|One's on the Way|1971|ADGTUCzBzIQ|Loretta Lynn|S1548|Country|One's on the Way",
+"Loretta Lynn|One's on the Way|1971|8YDj97txkFE|Loretta Lynn|S1548|Country|One's on the Way",
 "Moses Sumney|Doomed|2017|XYO7WxJc_V4|Moses Sumney|S16449|Ambient Pop;Art Pop;Pop|Doomed (Moses Sumney song)",
 "MGMT|Little Dark Age|2017|rtL5oMyBHPs|MGMT|S16444|Synthpop;Electronic;Pop|Little Dark Age (song)",
 "The The|The Beat(en) Generation|1989|ustXRPke9lM|The The|S8731|Folk Pop;Indie Pop;Jangle Pop;Alternative Rock;Contemporary Folk;Folk;Pop;Pop Rock;Rock|",
