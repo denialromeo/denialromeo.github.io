@@ -6475,7 +6475,7 @@ const songs = [
 "Jimmie Rodgers|Waiting for a Train|1929|gbzc77Tz6PA|Jimmie Rodgers (country singer)|S9254|Country Yodeling;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music;Yodeling|Waiting for a Train (Jimmie Rodgers song)",
 "Rage Against the Machine|Bullet in the Head|1992|kmZAsLMUuPw|Rage Against the Machine|S2372|Rap Metal;Alternative Metal;Metal;Rock|Bullet in the Head (song)",
 "k-os|Crabbuckit|2004|MtSzpKiARrI|K-os|S7144|Jazz Rap;Pop Rap;Hip Hop|Crabbuckit",
-"Soulwax|NY Excuse|2004|EF3bu9fmheA|Soulwax|S8503|Electro House;Electroclash;Indietronica;Dance;Electronic;Electronic Dance Music;House|",
+"Soulwax|NY Excuse|2004|a74-ZqWN_5c|Soulwax|S8503|Electro House;Electroclash;Indietronica;Dance;Electronic;Electronic Dance Music;House|Any Minute Now (Soulwax album)",
 "Luciano|It's Me Again Jah|1994|b67e_mobuL0|Luciano (singer)|S14695|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
 "The Byrds|Have You Seen Her Face|1967|25YxNSkLDB8|The Byrds|S10336|Folk Rock;Pop Rock;Psychedelic Pop;Pop;Rock|Have You Seen Her Face",
 "Evelyn \"Champagne\" King|Love Come Down|1982|ASiqxSwHpQ8|Evelyn \"Champagne\" King|S10769|Boogie;Dance;Disco;R&B|",
