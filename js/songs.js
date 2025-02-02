@@ -4034,7 +4034,7 @@ const songs = [
 "Jerry Reed|Amos Moses|1970|PbXFHSa4YmQ|Jerry Reed|S3753|Country Rock;Rock|Amos Moses",
 "David Bowie|Absolute Beginners|1986|iCJLOXqnT2I|David Bowie|S5975|Pop|Absolute Beginners (David Bowie song)",
 "The Shirelles|Dedicated to the One I Love|1959|ax3jALypmYo|The Shirelles|S1185|Doo-Wop;Girl Group;Pop;R&B;Vocal Group|Dedicated to the One I Love",
-"The B-52's|Private Idaho|1980|yXmnmvDl-ao|The B-52's|S3160|Dance-Punk;New Wave;Post-Punk;Rock|",
+"The B-52's|Private Idaho|1980|yXmnmvDl-ao|The B-52's|S3160|Dance-Punk;New Wave;Post-Punk;Rock|Private Idaho",
 "Vitalic|La Rock 01|2001|NKfDcitWZzg|Vitalic|S9052|Electroclash;Dance;Electronic;Electronic Dance Music|",
 "Aerosmith|Toys in the Attic|1975|C7X8OQ7BEqM|Aerosmith|S2873|Hard Rock;Rock|",
 "Elvis Presley|One Night|1958|SZoC3U9j22Q|Elvis Presley|S1626|Pop;Rock & Roll;Rock|One Night (Elvis Presley song)",
