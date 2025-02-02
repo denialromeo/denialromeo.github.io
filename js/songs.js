@@ -10078,7 +10078,7 @@ const songs = [
 "The Vaccines|Teenage Icon|2012|bFUKrsDDChE|The Vaccines|S8905|Indie Rock;Alternative Rock;Rock|Teenage Icon",
 "The Wonder Stuff|Size of a Cow|1991|lFwyuXXijS0|The Wonder Stuff|S3103|Indie Pop;Power Pop;Pop;Pop Rock;Rock|",
 "Led Zeppelin|Four Sticks|1971|iJp27QMR2KU|Led Zeppelin|S11385|Blues Rock;Hard Rock;Rock|Four Sticks",
-"T. Rex|Cosmic Dancer|1971|SlimsLXEkAc|T. Rex (band)|S12391|Baroque Pop;Glam Rock;Pop;Rock|",
+"T. Rex|Cosmic Dancer|1971|UAv1qZnYAwY|T. Rex (band)|S12391|Baroque Pop;Glam Rock;Pop;Rock|",
 "Real Estate|Green Aisles|2011|g6L3OSFbUY8|Real Estate (band)|S12037|Dream Pop;Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|",
 "Talk Talk|I Believe in You|1988|3EBTk5brQVY|Talk Talk|S9371|Art Rock;Post-Rock;Rock|I Believe in You (Talk Talk song)",
 "Was (Not Was)|Wheel Me Out|1980|_mCwO_uKQv8|Was (Not Was)|S8940|Dance-Punk;Electro-Disco;Dance;Disco;Electronic;Electronic Dance Music;Post-Punk;Rock|Wagon Wheel (song)",
