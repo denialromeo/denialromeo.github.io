@@ -6954,7 +6954,7 @@ const songs = [
 "Patti Smith|Break It Up|1975|6QNOPYpIa3Q|Patti Smith|S14844|Art Rock;Proto-Punk;Singer/Songwriter;Rock|",
 "Christine and the Queens|Doesn't Matter|2018|UCwD5f1APTY|Christine and the Queens|S16575|Synthpop;Electronic;Pop|",
 "Fairport Convention|Meet on the Ledge|1968|avX5VlU7MXM|Fairport Convention|S6335|Folk Rock;Rock|Meet on the Ledge",
-"Of Montreal|Heimdalsgate Like a Promethean Curse|2007|5VeIL7juFE0|Of Montreal|S7794|Indie Pop;Psychedelic Pop;Synthpop;Electronic;Pop|",
+"Of Montreal|Heimdalsgate Like a Promethean Curse|2007|5VeIL7juFE0|Of Montreal|S7794|Indie Pop;Psychedelic Pop;Synthpop;Electronic;Pop|Heimdalsgate Like a Promethean Curse",
 "MGMT|Flash Delirium|2010|_NHyY22Nx4U|MGMT|S7527|Indie Pop;Neo-Psychedelia;Progressive Pop;Psychedelic Pop;Pop;Psychedelic Rock;Rock|Flash Delirium",
 "Daryl Hall & John Oates|Out of Touch|1984|D00M2KZH1J0|Hall & Oates|S11005|New Wave;Pop Rock;Pop;Rock|Out of Touch",
 "Pras|Ghetto Supastar (That Is What You Are)|1998|MnWogQTfSIY|Pras|S298|East Coast Hip Hop;Film Soundtrack;Pop Rap;Hip Hop;Soundtracks|Ghetto Supastar (That Is What You Are)",
