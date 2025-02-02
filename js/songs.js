@@ -10295,7 +10295,7 @@ const songs = [
 "Hot Chocolate|Every 1's a Winner|1978|gHTcQB_4AFw|Hot Chocolate (band)|S11048|Disco;Funk Rock;Dance;Rock|",
 "Stevie Ray Vaughan and Double Trouble|Crossfire|1989|t54xyIcgbks|Stevie Ray Vaughan|S12320|Blues Rock;Rock|",
 "Etienne Daho|La Peau Dure|2013|g9DBLGWrEAY|Étienne Daho|S9444|Chanson;Regional Music|",
-"The Beta Band|Dr. Baker|1998|uJg8h1JpAb8|The Beta Band|S10157|Indie Rock;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock|",
+"The Beta Band|Dr. Baker|1998|sL6JfMuXgyo|The Beta Band|S10157|Indie Rock;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock|",
 "The Polyphonic Spree|Soldier Girl|2002|4uzddaCSwpE|The Polyphonic Spree|S7987|Chamber Pop;Neo-Psychedelia;Baroque Pop;Indie Pop;Pop;Psychedelic Rock;Rock|",
 "Primal Scream|If They Move, Kill 'Em|1997|frmTBFWK1o4|Primal Scream|S288|Alternative Dance;Alternative Rock;Dance;Rock|",
 "The Magic Numbers|Forever Lost|2005|FCLI66C-VDI|The Magic Numbers|S4648|Indie Pop;Pop|",
