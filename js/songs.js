@@ -390,7 +390,7 @@ const songs = [
 "Thelonious Monk|'Round Midnight|1946|1gQuSdoN1nA|Thelonious Monk|S2721|Bebop;Jazz|",
 "Little Richard|Long Tall Sally|1956|eFFgbc5Vcbw|Little Richard|S1266|Rhythm & Blues;Rock & Roll;R&B;Rock|Long Tall Sally",
 "Screamin' Jay Hawkins|I Put a Spell on You|1956|7kGPhpvqtOc|Screamin' Jay Hawkins|S1273|Rhythm & Blues;R&B|I Put a Spell on You",
-"John Lee Hooker|Boogie Chillen|1948|G4pp02_GN9A|John Lee Hooker|S2696|Electric Blues;Blues|Boogie Chillen'",
+"John Lee Hooker|Boogie Chillen|1948|qAJYPJ5Q5Xs|John Lee Hooker|S2696|Electric Blues;Blues|Boogie Chillen'",
 "The Beatles|Come Together|1969|45cYwDMibGo|The Beatles|S2531|Blues Rock;Pop Rock;Pop;Rock|Come Together",
 "M/A/R/R/S|Pump Up the Volume|1987|w9gOQgfPW4Y|MARRS|S333|House;Dance;Electronic;Electronic Dance Music|",
 "Crosby, Stills, Nash (& Young)|Ohio|1970|pAis0cKjJFY|Crosby, Stills, Nash & Young|S859|Country Rock;Folk Rock;Rock|Ohio (Crosby, Stills, Nash & Young song)",
