@@ -5984,7 +5984,7 @@ const songs = [
 "Serge Gainsbourg|Je suis venu te dire que je m'en vais|1973|xLCj3XpBEQ0|Serge Gainsbourg|S8360|Baroque Pop;Chanson;French Pop;Pop;Regional Music|",
 "The Allman Brothers Band|Statesboro Blues|1971|qf-Fy8bhGqc|The Allman Brothers Band|S5173|Blues Rock;Rock|Statesboro Blues",
 "Solange feat. Playboi Carti|Almeda|2019|IHw0YVJO9oY|Solange Knowles|S16868|Alternative R&B;Experimental Hip Hop;Contemporary R&B;Hip Hop;R&B|",
-"The Cure|Disintegration|1989|RQFykrCo6yQ|The Cure|S9197|Alternative Rock;Gothic Rock;Post-Punk;Rock|",
+"The Cure|Disintegration|1989|BMOlZtpANa0|The Cure|S9197|Alternative Rock;Gothic Rock;Post-Punk;Rock|",
 "Future|Move That Dope|2014|wHguy4xHGSg|Future (rapper)|S9575|Dirty South;Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|Move That Dope",
 "Stella Donnelly|Old Man|2019|b5rug_Z5BWA|Stella Donnelly|S16871|Indie Pop;Jangle Pop;Singer/Songwriter;Alternative Rock;Pop;Pop Rock;Rock|",
 "Natalie Cole|This Will Be (An Everlasting Love)|1975|rbaoKL1Ei0c|Natalie Cole|S7668|Chicago Soul;Pop Soul;Pop;R&B;Soul|",
