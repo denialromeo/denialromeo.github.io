@@ -3094,7 +3094,7 @@ const songs = [
 "Small Faces|All or Nothing|1966|sa6rZjJ43Js|Small Faces|S2504|Mod;Pop Rock;Pop;Rock|All or Nothing (Small Faces song)",
 "The Rolling Stones|Fool to Cry|1976|B-2MenrnR2U|The Rolling Stones|S1778|Pop Rock;Pop;Rock|Fool to Cry",
 "The B-52's|Dance This Mess Around|1979|Qsb0HlSfUpg|The B-52's|S3159|New Wave;Rock|Dance This Mess Around",
-"Creedence Clearwater Revival|Born on the Bayou|1969|wIjUY3pjN8E|Creedence Clearwater Revival|S3307|Swamp Rock;Rock;Roots Rock|",
+"Creedence Clearwater Revival|Born on the Bayou|1969|NRF1e82MVCA|Creedence Clearwater Revival|S3307|Swamp Rock;Rock;Roots Rock|Born on the Bayou",
 "Dr. Buzzard's Original Savannah Band|Cherchez La Femme|1976|pLQwvh4hDdI?start=22|Dr. Buzzard's Original Savannah Band|S3354|Disco;Dance|Cherchez La Femme",
 "LaVern Baker|Jim Dandy|1956|QRUzAZMYFpQ|LaVern Baker|S1277|Rhythm & Blues;Rock & Roll;R&B;Rock|Jim Dandy (song)",
 "Minor Threat|Straight Edge|1981|gsAu-nOg3Tw|Minor Threat|S2354|Hardcore Punk;Punk Rock;Rock|Straight Edge (song)",
