@@ -825,7 +825,7 @@ const songs = [
 "Blondie|Call Me|1980|StKVS0eI85I|Debbie Harry|S547|Film Soundtrack;New Wave;Pop Rock;Pop;Rock;Soundtracks|Call Me (Blondie song)",
 "Carly Simon|You're So Vain|1972|j13oJajXx0M|Carly Simon|S805|Singer/Songwriter;Soft Rock;Pop;Pop Rock;Rock|You're So Vain",
 "Gorillaz|Feel Good Inc.|2005|HyHNuVaZJ-k|Gorillaz|S3014|Alternative Rock;Hip Hop;Rock|Feel Good Inc.",
-"Bauhaus|Bela Lugosi's Dead|1979|OKRJfIPiJGY|Bauhaus (band)|S1822|Gothic Rock;Post-Punk;Rock|Bela Lugosi's Dead",
+"Bauhaus|Bela Lugosi's Dead|1979|Yy9h2q_dr9k|Bauhaus (band)|S1822|Gothic Rock;Post-Punk;Rock|Bela Lugosi's Dead",
 "Oasis|Champagne Supernova|1995|tI-5uv4wryI|Oasis (band)|S2635|Britpop;Neo-Psychedelia;Alternative Rock;Pop;Pop Rock;Psychedelic Rock;Rock|Champagne Supernova",
 "Wu-Tang Clan|C.R.E.A.M. (Cash Rules Everything Around Me)|1993|PBwAxmrE194|Wu-Tang Clan|S2090|Boom Bap;Conscious Hip Hop;East Coast Hip Hop;Hip Hop|C.R.E.A.M.",
 "John Coltrane|My Favorite Things|1961|JQvc-Gkwhow|John Coltrane|S3297|Modal Jazz;Post-Bop;Bebop;Jazz|My Favorite Things (song)",
