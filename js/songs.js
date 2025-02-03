@@ -7917,7 +7917,7 @@ const songs = [
 "Snail Mail|Heat Wave|2018|-d91Qn8QUks|Snail Mail (musician)|S16586|Indie Rock;Alternative Rock;Rock|",
 "Louise Attaque|Je t'emmene au vent|1997|xsl0tqDoCys|Louise Attaque|S7333|Chanson alternative;Folk Punk;Chanson;Punk Rock;Regional Music;Rock|",
 "De La Soul|The Magic Number|1989|pxkOWjZAPLs|De La Soul|S5988|East Coast Hip Hop;Hip Hop|Buddy (De La Soul song)",
-"College feat. Electric Youth|A Real Hero|2009|-DSVDcw6iW8|David Grellier|S10449|Synthpop;Synthwave;Electronic;Pop|",
+"College feat. Electric Youth|A Real Hero|2009|Q3-mKpBumO4|David Grellier|S10449|Synthpop;Synthwave;Electronic;Pop|",
 "AC/DC|Jailbreak|1976|WHtWs4wiFCs|AC/DC|S9915|Hard Rock;Rock|Jailbreak (AC/DC song)",
 "Metallica|...And Justice For All|1988|2lgGJRWUIvM|Metallica|S15700|Progressive Metal;Thrash Metal;Metal;Rock|...And Justice for All (song)",
 "Lulu|To Sir with Love|1967|GUhJw6pyFUc|Lulu (singer)|S3577|Baroque Pop;Pop|To Sir with Love (song)",
