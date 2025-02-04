@@ -2443,7 +2443,7 @@ const albums = [
 "Ry Cooder|Chavez Ravine|2005|OLAK5uy_kpJTFQ2gMvcsLYwV5Q2jR7pJnpgcoendA|A4208|Chávez Ravine (album)|Ry Cooder|Americana;Latin American Music;Country;Hispanic Music;Regional Music",
 "Thelonious Monk|Thelonious Monk Trio|1953|OLAK5uy_kr99hXtYT3W8SsNQtbYVS0WmhtacOdZco|A2214|Thelonious Monk Trio|Thelonious Monk|Hard Bop;Bebop;Jazz",
 "Joe Henderson|Inner Urge|1966|OLAK5uy_lGoJGYkWLYHkul0FHBgPvl_TfjvD_tNd0|A1943|Inner Urge (Joe Henderson album)|Joe Henderson|Hard Bop;Bebop;Jazz",
-"Alvvays|Antisocialites|2017|OLAK5uy_ltdGfHFefC8feeaJTQfdSAvlnCSbe-wvY|A5851|Antisocialites|Alvvays|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
+"Alvvays|Antisocialites|2017|OLAK5uy_ltdGfHFefC8feeaJTQfdSAvlnCSbe-wvY|A5851|Antisocialites|Alvvays|Dream Pop;Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "The Sabres of Paradise|Haunted Dancehall|1994|OLAK5uy_lkFH3gvoSf4OizU47ulaUMmxnsULj4K5E|A3519|Haunted Dancehall|The Sabres of Paradise|Ambient;IDM;Electronic",
 "Robert Wyatt|Shleep|1997|OLAK5uy_kg-pTZSu0l3LGZGm0nK24hrkrTI_mnAH0|A3654|Shleep|Robert Wyatt|Canterbury Scene;Singer/Songwriter;Progressive Rock;Rock",
 "Chet Baker|Chet Baker Sings|1954|OLAK5uy_liOUgwpO7RxKkxrB2Ef8QO4ce9PnoTFuo|A1770|Chet Baker Sings|Chet Baker|Cool Jazz;Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
