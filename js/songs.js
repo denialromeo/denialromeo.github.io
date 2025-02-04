@@ -10288,7 +10288,7 @@ const songs = [
 "Rush|Limelight|1981|GXqzvdZ6WLo|Rush (band)|S12130|Progressive Rock;Rock|Limelight (Rush song)",
 "Built to Spill|Goin' Against Your Mind|2006|DqSJGoAWf1o|Built to Spill|S5673|Indie Rock;Progressive Rock;Alternative Rock;Rock|Goin' Against Your Mind",
 "Seu Jorge|Life on Mars?|2004|l-Sx_NgkpTs|Seu Jorge|S8367|Acoustic Rock;Film Soundtrack;Rock;Soundtracks|Life on Mars (song)",
-"Nirvana|Something in the Way|1991|1YhR5UfaAzM|Kurt Cobain|S11773|Acoustic Rock;Alternative Rock;Rock|Something in the Way",
+"Nirvana|Something in the Way|1991|4VxdufqB9zg|Kurt Cobain|S11773|Acoustic Rock;Alternative Rock;Rock|Something in the Way",
 "Miranda Lambert|Vice|2016|zTlaRu_Wsl4|Miranda Lambert|S16150|Contemporary Country;Heartland Rock;Pop Rock;Country;Pop;Rock|Vice (Miranda Lambert song)",
 "The Band|Across the Great Divide|1969|7vsc8M6GKEY|The Band|S4121|Roots Rock;Rock|Across the Great Divide (song)",
 "The Cramps|Drug Train|1980|j6RoWUGz520|The Cramps|S5880|Psychobilly;Punk Rock;Rock;Rock & Roll;Rockabilly|",
