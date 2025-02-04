@@ -1414,7 +1414,7 @@ const songs = [
 "Sigur Rós|Hoppípolla|2005|JAYb8ZyjzD0|Sigur Rós|S4651|Dream Pop;Post-Rock;Alternative Rock;Rock|Hoppípolla",
 "Bob Dylan|Simple Twist of Fate|1975|EJWQA9aTRbw|Bob Dylan|S4853|Contemporary Folk;Singer/Songwriter;Folk|Simple Twist of Fate",
 "Buzzcocks|Orgasm Addict|1977|uwAtifCoB3I|Buzzcocks|S1792|Punk Rock;Rock|Orgasm Addict",
-"The Cure|In Between Days|1985|thXovOrcMPg|The Cure|S402|Jangle Pop;New Wave;Alternative Rock;Pop;Pop Rock;Rock|In Between Days",
+"The Cure|In Between Days|1985|scif2vfg1ug|The Cure|S402|Jangle Pop;New Wave;Alternative Rock;Pop;Pop Rock;Rock|In Between Days",
 "Martha and the Vandellas|Nowhere to Run|1965|mG9m-6dVKRI|Martha and the Vandellas|S1543|Girl Group;Motown Sound;Pop;Pop Soul;R&B;Soul|Nowhere to Run (song)",
 "Blur|The Universal|1995|BrbxWOMpwfs|Blur (band)|S2110|Britpop;Chamber Pop;Alternative Rock;Baroque Pop;Indie Pop;Pop;Pop Rock;Rock|",
 "Madonna|Papa Don't Preach|1986|G333Is7VPOg|Madonna (entertainer)|S370|Dance-Pop;Synthpop;Dance;Electronic;Pop|Papa Don't Preach",
