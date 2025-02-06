@@ -6149,7 +6149,7 @@ const songs = [
 "Sonic Youth|Incinerate|2006|rP3ovD8ZSS4|Sonic Youth|S4030|Indie Rock;Alternative Rock;Rock|",
 "Arrested Development|People Everyday|1992|cGusP7aCCYc|Arrested Development (group)|S160|Conscious Hip Hop;Political Hip Hop;Pop Rap;Southern Hip Hop;Hip Hop|People Everyday",
 "Pérez Prado|Cherry Pink and Apple Blossom White|1955|pqk3F1pPjyA|Pérez Prado|S9320|Mambo;Cuban Music;Hispanic Music;Latin American Music;Regional Music|",
-"Fugazi|Merchandise|1990|-jidupajVTM|Fugazi|S4582|Post-Hardcore;Punk Rock;Rock|",
+"Fugazi|Merchandise|1990|RQ8muwMQNbg|Fugazi|S4582|Post-Hardcore;Punk Rock;Rock|",
 "Black|Wonderful Life|1986|VNNTKZ4hEyw|Black (singer)|S5478|Sophisti-Pop;Pop|Wonderful Life (Black song)",
 "Major Lance|The Monkey Time|1963|K5xow3fmD9U|Major Lance|S3550|Chicago Soul;R&B;Soul|The Monkey Time",
 "Dave Edmunds|Girls Talk|1979|S4TzjRFfsJs|Dave Edmunds|S1574|New Wave;Power Pop;Pop;Pop Rock;Rock|Girls Talk (Elvis Costello song)",
