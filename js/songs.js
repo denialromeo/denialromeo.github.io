@@ -8367,7 +8367,7 @@ const songs = [
 "Bernard Herrmann|Vertigo Prelude and Rooftop|1958|Fg8wtmrABig|Bernard Herrmann|S13679|Cinematic Classical;Film Score;Orchestral;Classical Music;Film Soundtrack;Soundtracks;Western Classical Music|Vertigo (soundtrack)",
 "David Ackles|Down River|1968|C3nDUVXdlhQ|David Ackles|S3134|Singer/Songwriter|",
 "Devo|Uncontrollable Urge|1978|AUyiMSEwRaI?start=83|Devo|S6060|Art Punk;New Wave;Post-Punk;Punk Rock;Rock|",
-"Fairground Attraction|Perfect|1988|txapREGWHp0|Fairground Attraction|S6334|Folk Pop;Contemporary Folk;Folk;Pop|",
+"Fairground Attraction|Perfect|1988|txapREGWHp0|Fairground Attraction|S6334|Folk Pop;Contemporary Folk;Folk;Pop|Perfect (Fairground Attraction song)",
 "Objekt|Theme from Q|2017|kYrPqMmIqZk|https://www.discogs.com/artist/2089744-Objekt|S16459|2-Step;UK Bass;Dance;Electronic;Electronic Dance Music;UK Garage|",
 "The Intruders|I'll Always Love My Mama|1973|LQi2HtVvoxg|The Intruders (band)|S2864|Philly Soul;R&B;Soul|I'll Always Love My Mama",
 "Lou Reed|Caroline Says II|1973|Y793DlD0Sxg|Lou Reed|S7322|Art Rock;Singer/Songwriter;Rock|Berlin (Lou Reed album)",
