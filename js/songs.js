@@ -8999,7 +8999,7 @@ const songs = [
 "Irma Thomas|It's Raining|1962|CXPlec9jXZw|Irma Thomas|S1108|Deep Soul;New Orleans R&B;R&B;Soul;Southern Soul|",
 "Juan Luis Guerra y 4.40|Burbujas de amor|1990|v0ckuv1xBm0|Juan Luis Guerra|S13109|Bachata;Latin Pop;Hispanic Music;Latin American Music;Pop;Regional Music|",
 "Carole King|Only Love Is Real|1976|ZZBxCOANF-4|Carole King|S5723|Singer/Songwriter|Only Love Is Real",
-"Smokey Robinson and the Miracles|The Love I Saw in You Was Just a Mirage|1967|qv-IBeJPuoo|The Miracles|S2839|Motown Sound;Pop;Pop Soul;R&B;Soul|More Love (Smokey Robinson and the Miracles song)",
+"Smokey Robinson and the Miracles|The Love I Saw in You Was Just a Mirage|1967|qv-IBeJPuoo|The Miracles|S2839|Motown Sound;Pop;Pop Soul;R&B;Soul|The Love I Saw in You Was Just a Mirage",
 "De'Lacy|Hideaway|1994|8ATA_zyhsWA|De'Lacy|S6024|Deep House;Garage House;Dance;Electronic;Electronic Dance Music;House|Hideaway (De'Lacy song)",
 "Spin Doctors|Little Miss Can't Be Wrong|1991|cXWbMu4PtpE|Spin Doctors|S2937|Funk Rock;Pop Rock;Pop;Rock|Little Miss Can't Be Wrong",
 "The Kooks|Seaside|2006|rxbV_pxbWuU|The Kooks|S7142|Indie Pop;Pop|Jungkook",
