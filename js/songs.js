@@ -7383,7 +7383,7 @@ const songs = [
 "Rush|Closer to the Heart|1977|P8_Gj5AZ8IA|Rush (band)|S8274|Hard Rock;Progressive Rock;Rock|Closer to the Heart",
 "The Presets|My People|2007|CZe9YxJNs48|The Presets|S14892|Electro House;Electroclash;Electropop;Dance;Electronic;Electronic Dance Music;House;Pop|My People (The Presets song)",
 "Garbage|Special|1998|raRGnueg8Lo|Garbage (band)|S6500|Alternative Rock;Pop Rock;Pop;Rock|Special (Garbage song)",
-"Ruth Etting|Ten Cents a Dance|1930|6k4E9bPpMXE|Ruth Etting|S8283|Traditional Pop;Pop|",
+"Ruth Etting|Ten Cents a Dance|1930|dE3WSJL4SlA|Ruth Etting|S8283|Traditional Pop;Pop|",
 "My Bloody Valentine|Sometimes|1991|1c8Selr9Aec|My Bloody Valentine (band)|S13043|Dream Pop;Shoegaze;Alternative Rock;Rock|",
 "Black|Sweetest Smile|1987|5_k3XCb_rWQ|Black (singer)|S1970|Sophisti-Pop;Pop|Sweetest Smile",
 "Kirsty MacColl|Walking Down Madison|1991|WHTxhiRkL84|Kirsty MacColl|S7131|Alternative Dance;Alternative Rock;Dance;Rock|",
