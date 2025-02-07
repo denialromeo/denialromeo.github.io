@@ -2547,7 +2547,7 @@ const songs = [
 "Wreckless Eric|Whole Wide World|1977|T9NqnzPc-Ic|Wreckless Eric|S2886|Power Pop;Pub Rock;Pop;Pop Rock;Rock|Whole Wide World (song)",
 "Dr. Dre|Still D.R.E.|1999|_CL6n0FJZpk|Dr. Dre|S4243|Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|Still D.R.E.",
 "Gloria Gaynor|Never Can Say Goodbye|1974|ngVetZw8hSc|Gloria Gaynor|S741|Disco;Soul;Dance;R&B|Never Can Say Goodbye",
-"Lou Reed|Dirty Blvd|1989|ZH96BsL1R3U|Lou Reed|S2005|Rock;Singer/Songwriter|Dirty Blvd.",
+"Lou Reed|Dirty Blvd.|1989|ZH96BsL1R3U|Lou Reed|S2005|Rock;Singer/Songwriter|Dirty Blvd.",
 "Janet Jackson|Got 'Til It's Gone|1997|ld6wkHWrfjQ|Janet Jackson|S17|Contemporary R&B;Neo-Soul;Trip Hop;Downtempo;Electronic;R&B;Soul|Got 'til It's Gone",
 "Gossip|Heavy Cross|2009|5mQVljB7JGw|Gossip (band)|S4802|Dance-Punk;Indie Rock;Alternative Rock;Post-Punk;Rock|Heavy Cross",
 "Macy Gray|I Try|1999|WEQ0l_m3Xm0|Macy Gray|S1364|Contemporary R&B;Neo-Soul;R&B;Soul|I Try",
