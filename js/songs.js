@@ -6811,7 +6811,7 @@ const songs = [
 "Marty Robbins|Singing the Blues|1956|Vl5yGrY3pGs|Marty Robbins|S3765|Country|Singing the Blues",
 "ABC|Tears Are Not Enough|1981|pYEdXJXsipE|ABC (band)|S522|New Romantic;New Wave;Rock|",
 "Morrissey|Interlude|1994|LSpsc67Zm-I|Siouxsie Sioux|S7608|Chamber Pop;Baroque Pop;Indie Pop;Pop|",
-"Rachid Taha|Ya Rayah|1997|uUDKfK3R42Q|Rachid Taha|S11993|Algerian Chaabi;African Music;Arabic Music;North African Music;Regional Music|Ya Rayah",
+"Rachid Taha|Ya Rayah|1997|vBu2OXGWBFI|Rachid Taha|S11993|Algerian Chaabi;African Music;Arabic Music;North African Music;Regional Music|Ya Rayah",
 "The Sanford/Townsend Band|Smoke from a Distant Fire|1976|IbOXharkzzE|Sanford-Townsend Band|S13349|Yacht Rock;Pop;Pop Rock;Rock|Smoke from a Distant Fire",
 "The Lovin' Spoonful|Darling Be Home Soon|1967|gr4n-nSicnM|The Lovin' Spoonful|S2284|Country Rock;Folk Rock;Rock|Darling Be Home Soon",
 "Billie Holiday|He's Funny That Way|1937|XTxmouM5OWk|Billie Holiday|S13157|Vocal Jazz;Jazz|She's Funny That Way",
