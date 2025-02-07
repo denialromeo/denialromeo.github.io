@@ -8836,7 +8836,7 @@ const songs = [
 "Sonny and Cher|Baby Don't Go|1965|QLMxhe8yt90|Sonny & Cher|S13356|Pop Rock;Sunshine Pop;Pop;Rock|",
 "The Rolling Stones|Winter|1973|nGAc78sYdFE|The Rolling Stones|S12104|Rock|Winter (Rolling Stones song)",
 "Bob Dylan|You're a Big Girl Now|1975|Vj_dLuRTjUQ|Bob Dylan|S13701|Folk Rock;Singer/Songwriter;Rock|You're a Big Girl Now",
-"Allen Toussaint|From a Whisper to a Scream|1970|JLmSl5IFm1A|Allen Toussaint|S5169|Southern Soul;R&B;Soul|From a Whisper to a Scream",
+"Allen Toussaint|From a Whisper to a Scream|1970|lRpr4SVf20s|Allen Toussaint|S5169|Southern Soul;R&B;Soul|",
 "Dido|White Flag|2003|j-fWDrZSiZs|Dido (singer)|S4253|Adult Contemporary;Pop|White Flag (Dido song)",
 "Young Thug|Digits|2016|I7w9otyiE9g|Young Thug|S16220|Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
 "Les Chats Sauvages|Twist à St. Tropez|1961|8yR_krwPi5o|Les Chats Sauvages|S7246|Rock & Roll;Rock|",
