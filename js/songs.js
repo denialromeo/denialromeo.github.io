@@ -10695,7 +10695,7 @@ const songs = [
 "Björk feat. Antony Hegarty|The Dull Flame of Desire|2007|ktoBm0t8KV8|Björk|S10186|Art Pop;Pop|Anohni",
 "Jefferson Airplane|Lather|1968|3VYDBZzM-g0|Jefferson Airplane|S13029|Psychedelic Folk;Contemporary Folk;Folk|Lather (song)",
 "Pantha du Prince|Stick to My Side|2010|hYp91WftFqQ|Pantha du Prince|S7844|Microhouse;Dance;Electronic;Electronic Dance Music;House|",
-"Atlas Sound|Te amo|2011|bLtzyDhxsRk|Bradford Cox|S5269|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|Te Amo",
+"Atlas Sound|Te amo|2011|bLtzyDhxsRk|Bradford Cox|S5269|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|Parallax (Atlas Sound album)",
 "Drake|Over|2010|2lTB1pIg1y0|Drake (musician)|S6156|Pop Rap;Hip Hop|Over (Drake song)",
 "Eurythmics|You Have Placed a Chill in My Heart|1987|iQpJqtfCmcM|Eurythmics|S10767|Blue Eyed Soul;Pop|You Have Placed a Chill in My Heart",
 "Absolute Beginner|Liebes Lied|1998|k8gNzJcpHW0|Beginner (band)|S15226|Hip Hop|",
