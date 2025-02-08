@@ -5660,7 +5660,7 @@ const songs = [
 "Portishead|Roads|1994|qj3QPx089g4|Portishead (band)|S7993|Trip Hop;Downtempo;Electronic|",
 "Pixies|Planet of Sound|1991|TFl4AemxH4g|Pixies (band)|S4492|Indie Rock;Alternative Rock;Rock|Planet of Sound",
 "Men at Work|Who Can It Be Now?|1981|SECVGN4Bsgg|Men at Work|S3619|New Wave;Pop Rock;Pop;Rock|Who Can It Be Now%3F",
-"Magazine|Light Pours out of Me|1978|g16mJ_omqsw?start=1885|Magazine (band)|S7378|Post-Punk;Rock|Real Life (Magazine album)",
+"Magazine|The Light Pours out of Me|1978|OFGA2HbCa0A|Magazine (band)|S7378|Post-Punk;Rock|Real Life (Magazine album)",
 "Buchanan and Goodman|The Flying Saucer (Parts 1 and 2)|1956|qNOVlG1Zqq8|Bill Buchanan (songwriter)|S3252|Novelty;Sound Collage;Experimental;Tape Music|The Flying Saucer (song)",
 "Sonny Charles|Black Pearl|1969|H3ybXo0H8yY|Sonny Charles|S3273|Brill Building;Soul;Pop;R&B|",
 "Charles Aznavour|Je m'voyais deja|1960|mvN2Cv8uFvM|Charles Aznavour|S5756|Chanson;Regional Music|Charles Aznavour (Je m'voyais déjà)",
