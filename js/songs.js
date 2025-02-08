@@ -10189,7 +10189,7 @@ const songs = [
 "Duck Sauce|Barbra Streisand|2010|wWhtcU4-xAM|Duck Sauce|S6164|Funky House;Dance;Electronic;Electronic Dance Music;House|Barbra Streisand (song)",
 "The Rolling Stones|100 Years Ago|1973|ZQVfwiUr1EU|The Rolling Stones|S12088|Rock|100 Years Ago",
 "Screaming Trees|Nearly Lost You|1992|PE5f561Y1x4|Screaming Trees|S2375|Grunge;Alternative Rock;Rock|Nearly Lost You",
-"The Pretty Things|Defecting Grey|1967|uhAjEYqQp1U|Pretty Things|S13330|Garage Rock;Psychedelic Rock;Rock|",
+"The Pretty Things|Defecting Grey|1967|lZLoZz-PZaI|Pretty Things|S13330|Garage Rock;Psychedelic Rock;Rock|",
 "Muse|Hysteria|2003|3dm_5qWWDV8|Muse (band)|S14788|Alternative Rock;Rock|Hysteria (Muse song)",
 "The Rolling Stones|Love Is Strong|1994|Te6VBiRjhqA|The Rolling Stones|S8234|Blues Rock;Rock|Love Is Strong",
 "Lo Fidelity Allstars|Disco Machine Gun|1997|1k29HRpInuU|Lo Fidelity Allstars|S2960|Big Beat;Neo-Psychedelia;Breakbeat;Dance;Electronic;Electronic Dance Music;Psychedelic Rock;Rock|",
