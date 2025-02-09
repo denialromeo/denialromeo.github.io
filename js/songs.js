@@ -4944,7 +4944,7 @@ const songs = [
 "John Cale|Fear is a Man's Best Friend|1974|cm2tVda1LGE|John Cale|S4174|Piano Rock;Pop;Pop Rock;Rock|",
 "Steve Harley & Cockney Rebel|Sebastian|1973|jgcEZSBHNDI|Steve Harley & Cockney Rebel|S8572|Art Pop;Baroque Pop;Glam Rock;Progressive Pop;Pop;Rock|Sebastian (song)",
 "Morrissey|The More You Ignore Me, The Closer I Get|1994|6nAMFWDuDEI|Morrissey|S7606|Indie Pop;Pop Rock;Pop;Rock|The More You Ignore Me, the Closer I Get",
-"Stick McGhee|Drinking Wine Spo-Dee O-Dee|1949|37avLRywxGQ|Sticks McGhee|S4361|Rhythm & Blues;Rock & Roll;R&B;Rock|Drinkin' Wine Spo-Dee-O-Dee",
+"Stick McGhee|Drinking Wine Spo-Dee O-Dee|1949|Mi01N9stzjU|Stick McGhee|S4361|Rhythm & Blues;Rock & Roll;R&B;Rock|Drinkin' Wine Spo-Dee-O-Dee",
 "The Nerves|Hanging on the Telephone|1976|emy5mA8Ixtc|The Nerves|S7699|Power Pop;Pop;Pop Rock;Rock|Hanging on the Telephone",
 "The Smiths|The Headmaster Ritual|1985|f37lC0CSXlQ|The Smiths|S12246|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|The Headmaster Ritual",
 "U2|Bullet the Blue Sky|1987|QyGTCGan1co|U2|S2922|Alternative Rock;Pop Rock;Pop;Rock|Bullet the Blue Sky",
