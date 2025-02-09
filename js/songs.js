@@ -1317,7 +1317,7 @@ const songs = [
 "Bruce Springsteen|Streets of Philadelphia|1994|4z2DtNW79sQ|Bruce Springsteen|S2948|Pop Rock;Singer/Songwriter;Pop;Rock|Streets of Philadelphia",
 "The Shangri-La's|Remember (Walkin' in the Sand)|1964|V5YxtweUxrA|The Shangri-Las|S1419|Brill Building;Girl Group;Pop|",
 "David Bowie|Suffragette City|1972|ED3SBJhawcA|David Bowie|S3230|Glam Rock;Rock|Suffragette City",
-"The Saints|(I'm) Stranded|1976|MpMwMDqOprc|The Saints (Australian band)|S665|Punk Rock;Rock|",
+"The Saints|(I'm) Stranded|1976|GDA07APPFyk|The Saints (Australian band)|S665|Punk Rock;Rock|",
 "Metallica|One|1988|WM8bTdBs-cw|Metallica|S1998|Thrash Metal;Metal;Rock|One (Metallica song)",
 "Roberta Flack|The First Time Ever I Saw Your Face|1969|VqW-eO3jTVU|Roberta Flack|S4156|Smooth Soul;R&B;Soul|",
 "Disclosure|White Noise|2013|bkk2H3Ztrfk|Disclosure (band)|S9436|House;UK Funky;Dance;Electronic;Electronic Dance Music;UK Garage|White Noise (Disclosure song)",
