@@ -9733,7 +9733,7 @@ const songs = [
 "The Human League|The Lebanon|1984|b5VmR6hZw2c|The Human League|S6754|New Romantic;Pop Rock;Synthpop;Electronic;New Wave;Pop;Rock|The Lebanon (song)",
 "Parquet Courts|Instant Disassembly|2014|2FTvnbTuIKU|Parquet Courts|S11840|Indie Rock;Post-Punk;Alternative Rock;Rock|",
 "Styx|Mr. Roboto|1983|uc6f_2nPSX8|Styx (band)|S8620|Pop Rock;Synthpop;Electronic;Pop;Rock|Mr. Roboto",
-"Kyle Dixon & Michael Stein|Stranger Things|2016|pCfpTK0IB-w|Stranger Things (soundtrack)|S16128|Synthwave;Television Music;Electronic;Soundtracks|",
+"Kyle Dixon & Michael Stein|Stranger Things|2016|pCfpTK0IB-w|Survive (band)|S16128|Synthwave;Television Music;Electronic;Soundtracks|Music of Stranger Things",
 "10,000 Maniacs|Hey Jack Kerouac|1987|5nSFFL3dBA4?start=35|10,000 Maniacs|S14025|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|",
 "Dean Martin|Memories Are Made of This|1955|KqVUwJvde44|Dean Martin|S14291|Traditional Pop;Pop|Memories Are Made of This",
 "Joe Tex|Skinny Legs and All|1967|7Sdib6gd190|Joe Tex|S6938|Funk;Soul;R&B|Skinny Legs and All (song)",
