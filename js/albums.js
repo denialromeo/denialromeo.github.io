@@ -1991,7 +1991,7 @@ const albums = [
 "Minor Threat|Minor Threat|1981|OLAK5uy_nR5qqYxWEFViIO08fo8GhARWjeh0ZspUA|A3013|Minor Threat (album)|Minor Threat|Hardcore Punk;Punk Rock;Rock",
 "Tom Petty|Wildflowers|1994|OLAK5uy_lfYfdBOC83MvlaQe0sIgUIE4fIRN4keZU|A3525|Wildflowers (Tom Petty album)|Tom Petty|Heartland Rock;Pop Rock;Singer/Songwriter;Pop;Rock",
 "Bob Dylan|Bob Dylan|1962|PLYq_mcte9NvCCthOQhYEWbjYMVVseFfqz|A2070|Bob Dylan (album)|Bob Dylan|Contemporary Folk;Country Blues;Acoustic Blues;American Folk Music;Blues;Folk;Regional Music;Traditional Folk Music",
-"Jim O'Rourke|Eureka|1999|PLGxyU_3RFNSSDkH9dUNe2tnbmNHoZ1rS4|A3759|Eureka (Jim O'Rourke album)|Jim O'Rourke (musician)|Art Pop;Chamber Pop;Jazz Pop;Baroque Pop;Indie Pop;Pop",
+"Jim O'Rourke|Eureka|1999|PLialZX_P8Sl0iXkHSIX6AgCm22kzyhXHi|A3759|Eureka (Jim O'Rourke album)|Jim O'Rourke (musician)|Art Pop;Chamber Pop;Jazz Pop;Baroque Pop;Indie Pop;Pop",
 "Gang Starr|Moment of Truth|1998|OLAK5uy_lICp-4Zf-Fg9E_bbj3zty7GPGkKQXjYsw|A1040|Moment of Truth (Gang Starr album)|Gang Starr|Boom Bap;Hip Hop",
 "Thom Yorke|The Eraser|2006|OLAK5uy_mxEj8A2wBMSAmSsynNrkrGp091CzVpag8|A2145|The Eraser|Thom Yorke|Indietronica;Electronic",
 "Kings of Leon|Because of the Times|2007|OLAK5uy_lewaTC_eg8Iz5BNo2XEAGdfsD7z3b2eYo|A4264|Because of the Times|Kings of Leon|Alternative Rock;Southern Rock;Rock",
