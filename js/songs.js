@@ -5575,7 +5575,7 @@ const songs = [
 "Ray Ventura et ses Collégiens|Tout va très bien madame la marquise|1935|bbm3mMMeZFY|Ray Ventura|S12035|Chanson;Satire;Comedy;Regional Music|",
 "DMX|Party Up (Up in Here)|1999|thIVtEOtlWM|DMX (rapper)|S3342|East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|Party Up (Up in Here)",
 "Beirut|Santa Fe|2011|JRCTLJQBRC4|Beirut (band)|S5401|Indie Pop;Pop|",
-"Dire Straits|Private Investigations|1982|P9K27HvhDxA|Dire Straits|S1879|Art Rock;Experimental Rock;Rock|Private Investigations",
+"Dire Straits|Private Investigations|1982|P9K27HvhDxA|Dire Straits|S1879|Art Rock;Experimental Rock;Rock|Private Investigations (song)",
 "Kate Bush|Breathing|1980|VzlofSthVwc|Kate Bush|S7061|Art Pop;Progressive Pop;Pop|Breathing (Kate Bush song)",
 "Florence + The Machine|You've Got the Love|2009|PQZhN65vq9E|Florence and the Machine|S6408|Art Pop;Pop Soul;Pop;R&B;Soul|You Got the Love",
 "Wilson Pickett|Funky Broadway|1967|HcTWxJAGQVQ|Wilson Pickett|S9037|Funk;Southern Soul;R&B;Soul|",
