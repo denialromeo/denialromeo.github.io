@@ -501,7 +501,7 @@ const albums = [
 "The Prodigy|The Fat of the Land|1997|OLAK5uy_lOlkFeq5MvTV5YV-U3gZKPvBvVf4sPzoA|A1002|The Fat of the Land|The Prodigy|Big Beat;Breakbeat;Dance;Electronic;Electronic Dance Music",
 "David Bowie|Scary Monsters (And Super Creeps)|1980|OLAK5uy_lzc2y3XxcafasJo2jrQkDngahjX9KqXvk|A489|Scary Monsters (and Super Creeps)|David Bowie|Art Rock;Pop Rock;Pop;Rock",
 "Howlin' Wolf|Howlin' Wolf|1962|OLAK5uy_lDtNc9jh_IQkuspz2Rudimns31NmdHdOs|A1111|Howlin' Wolf (album)|Howlin' Wolf|Chicago Blues;Blues;Electric Blues",
-"Father John Misty|I Love You, Honeybear|2015|OLAK5uy_lljvD54d3r3IzHENlxCgLGdNh9jhTEkD8|A5544|I Love You, Honeybear|Josh Tillman|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk",
+"Father John Misty|I Love You, Honeybear|2015|ERROR: Suitable playlist not found|A5544|I Love You, Honeybear|Josh Tillman|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "Arcade Fire|Neon Bible|2007|OLAK5uy_kjIEzhyTUy0zxOekm1iZyMCCmAqJa4n9Y|A4235|Neon Bible|Arcade Fire|Indie Rock;Alternative Rock;Rock",
 "Rihanna|Anti|2016|OLAK5uy_lnMdsGA9i4rd3GAgarcRAVTW1h4e82BjI|A5799|Anti (album)|Rihanna|Alternative R&B;Contemporary R&B;R&B",
 "Billie Eilish|When We All Fall Asleep, Where Do We Go?|2019|OLAK5uy_kQbMBLWm9sUrVNnooayU8ilISrC7KintI|A6220|When We All Fall Asleep, Where Do We Go%3F|Billie Eilish|Alternative R&B;Electropop;Contemporary R&B;Electronic;Pop;R&B",
