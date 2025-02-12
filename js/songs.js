@@ -7355,7 +7355,7 @@ const songs = [
 "Bob Dylan|Señor (Tales of Yankee Power)|1978|qf5MxsMa9NE|Bob Dylan|S10242|Folk Rock;Singer/Songwriter;Rock|Señor (Tales of Yankee Power)",
 "Tocotronic|Freiburg V3.0|2000|tA40w6AUY2Y|Tocotronic|S8776|Indietronica;Electronic|",
 "Editors|Munich|2005|ugWtuTmiGLM|Editors (band)|S3008|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|Munich (song)",
-"R.E.M.|The Sidewinder Sleeps Tonite|1992|J0cEB4hsuxA|R.E.M.|S8061|Alternative Rock;Pop Rock;Pop;Rock|The Sidewinder Sleeps Tonite",
+"R.E.M.|The Sidewinder Sleeps Tonite|1992|mgiCechWNCo|R.E.M.|S8061|Alternative Rock;Pop Rock;Pop;Rock|The Sidewinder Sleeps Tonite",
 "The Modern Jazz Quartet|Concorde|1955|7z3J9tbOM7A|Modern Jazz Quartet|S13237|Cool Jazz;Jazz|",
 "Mouloudji|Un jour tu verras|1954|tKlBfW_vn1k?start=4|https://fr.wikipedia.org/wiki/Marcel_Mouloudji|S11692|Chanson;Regional Music|",
 "The Naked and Famous|Young Blood|2010|0YuSg4mts9E|The Naked and Famous|S11710|Indietronica;Synthpop;Electronic;Pop|Young Blood (The Naked and Famous song)",
