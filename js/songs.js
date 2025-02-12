@@ -2342,7 +2342,7 @@ const songs = [
 "Fred Astaire|They Can't Take That Away from Me|1937|fuufFgAMkGE|Fred Astaire|S2644|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop|They Can't Take That Away from Me",
 "Gwen Stefani|What You Waiting For?|2004|yWA4uJOXF-g?start=206|Gwen Stefani|S2471|Dance-Pop;Dance;Pop|What You Waiting For%3F",
 "Split Enz|I Got You|1980|wiqBlKnb91A|Split Enz|S2344|New Wave;Pop Rock;Pop;Rock|I Got You (Split Enz song)",
-"Mickey and Sylvia|Love Is Strange|1956|5SwMB9v1pQ4|Mickey & Sylvia|S1276|Rhythm & Blues;Rock & Roll;Soul;R&B;Rock|",
+"Mickey and Sylvia|Love Is Strange|1956|ZS_0ER1TAkY|Mickey & Sylvia|S1276|Rhythm & Blues;Rock & Roll;Soul;R&B;Rock|",
 "Neil Young|Old Man|1972|OuVIJlSDOs0|Neil Young|S7684|Country Rock;Folk Rock;Singer/Songwriter;Rock|Old Man (song)",
 "Nick Cave & The Bad Seeds|I Need You|2016|BAMZYpZi_M4|Nick Cave|S16156|Art Rock;Singer/Songwriter;Rock|",
 "Louis Armstrong|Stardust|1931|mPdw7ZwPIH0|Louis Armstrong|S4869|Big Band;Jazz|Stardust (1927 song)",
