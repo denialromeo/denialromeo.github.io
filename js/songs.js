@@ -4519,7 +4519,7 @@ const songs = [
 "Soda Stereo|Persiana Americana|1986|ZHj7s_pAdfY|Soda Stereo|S8477|New Wave;Pop Rock;Pop;Rock|",
 "Better Oblivion Community Center|Dylan Thomas|2019|UXzReYLuavg|Better Oblivion Community Center|S16738|Indie Folk;Indie Rock;Singer/Songwriter;Alternative Rock;Contemporary Folk;Folk;Rock|",
 "10cc|The Things We Do for Love|1976|P0rf3_viTxk|10cc|S671|Pop Rock;Pop;Rock|The Things We Do for Love (song)",
-"R.E.M.|World Leader Pretend|1988|Osnn5hmmGyE|R.E.M.|S3097|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|",
+"R.E.M.|World Leader Pretend|1988|WwS9_vqdHcQ|R.E.M.|S3097|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|",
 "Nas|It Ain't Hard to Tell|1994|3hOZaTGnHU4|Nas|S7660|Boom Bap;East Coast Hip Hop;Jazz Rap;Hip Hop|",
 "Grimes|Go|2014|vIi57zhDl78|Grimes (musician)|S9586|Electropop;Trap [EDM];Dance;Electronic;Electronic Dance Music;Pop|",
 "Billy Bragg|Sexuality|1991|liNnCKPeEv0|Billy Bragg|S195|Jangle Pop;Singer/Songwriter;Alternative Rock;Pop;Pop Rock;Rock|Sexuality (Billy Bragg song)",
