@@ -4850,7 +4850,7 @@ const songs = [
 "LCD Soundsystem|Home|2010|ETDCbQUYiAQ|LCD Soundsystem|S7195|Alternative Dance;Dance-Punk;Indietronica;Alternative Rock;Dance;Electronic;Post-Punk;Rock|",
 "Johnny Cash|Cocaine Blues|1968|0VZuA7iJY4Y|Johnny Cash|S4538|Outlaw Country;Rockabilly;Country;Progressive Country;Rock;Rock & Roll|Cocaine Blues",
 "Faith No More|Midlife Crisis|1992|U8b88US-6ts|Faith No More|S6336|Alternative Metal;Alternative Rock;Metal;Rock|Midlife Crisis",
-"The Cramps|Goo Goo Muck|1981|g17I907BAFw|The Cramps|S4195|Psychobilly;Punk Rock;Rock;Rock & Roll;Rockabilly|",
+"The Cramps|Goo Goo Muck|1981|nObQ-i965l8|The Cramps|S4195|Psychobilly;Punk Rock;Rock;Rock & Roll;Rockabilly|",
 "St. Vincent|Prince Johnny|2014|idllxjHbX7w|St. Vincent (musician)|S9583|Art Pop;Pop|",
 "Michael Jackson|The Way You Make Me Feel|1987|HzZ_urpj4As|Michael Jackson|S11620|Contemporary R&B;Dance-Pop;Dance;Pop;R&B|The Way You Make Me Feel",
 "Sade|Your Love Is King|1984|k1ljpLQ1V6Y|Sade (band)|S4465|Jazz Pop;Smooth Jazz;Sophisti-Pop;Jazz;Pop|Your Love Is King",
