@@ -9060,7 +9060,7 @@ const songs = [
 "Björk|Lionsong|2015|MWHpoJT3qK4|Björk|S9712|Art Pop;Downtempo;IDM;Electronic;Pop|Lionsong",
 "Dominique A.|Le twenty-two bar|1995|QxbMcnKxde8|Dominique A|S10625|Nouvelle chanson française;Chanson;Regional Music|",
 "Rufus Wainwright|Oh What a World|2003|5KLcvTTSkKI|Rufus Wainwright|S12124|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop|",
-"AC/DC|The Jack|1975|eVlRQn6AMYs|AC/DC|S9922|Blues Rock;Hard Rock;Rock|",
+"AC/DC|The Jack|1975|6njy7mZbwdc|AC/DC|S9922|Blues Rock;Hard Rock;Rock|",
 "The Beach Boys|The Warmth of the Sun|1964|uoDm_flnwxc|The Beach Boys|S10095|Vocal Surf;Pop;Pop Rock;Rock;Surf Music|The Warmth of the Sun",
 "The Isley Brothers|Footsteps in the Dark|1977|Dyq9zlYMw9g|The Isley Brothers|S12798|Funk;Soul;R&B|",
 "Daryl Hall & John Oates|You Make My Dreams|1980|EErSKhC0CZs|Hall & Oates|S11007|Blue Eyed Soul;Pop Rock;Pop;Rock|You Make My Dreams",
