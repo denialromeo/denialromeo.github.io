@@ -9770,7 +9770,7 @@ const songs = [
 "Bruce Springsteen|Hello Sunshine|2019|icJjlg5e6l8|Bruce Springsteen|S16747|Chamber Folk;Country Pop;Singer/Songwriter;Contemporary Folk;Country;Folk;Pop|Hello Sunshine (Bruce Springsteen song)",
 "The Cruel Sea|The Honeymoon Is Over|1993|xeHI5G2cY8M|The Cruel Sea (band)|S10472|Alternative Rock;Rock|The Honeymoon Is Over (song)",
 "Big Audio Dynamite II|Rush|1991|-h8zs898lr4|Big Audio Dynamite|S15286|Alternative Dance;Alternative Rock;Dance;Rock|Rush (Big Audio Dynamite II song)",
-"Paul Revere & The Raiders|Him or Me – What's It Gonna Be?|1967|stvsYO9KM2E|Paul Revere & the Raiders|S7891|Pop Rock;Psychedelic Pop;Pop;Rock|Him or Me – What's It Gonna Be%3F",
+"Paul Revere & The Raiders|Him or Me – What's It Gonna Be?|1967|o5kGbBNJQl8|Paul Revere & the Raiders|S7891|Pop Rock;Psychedelic Pop;Pop;Rock|Him or Me – What's It Gonna Be%3F",
 "Téléphone|La Bombe humaine|1979|lgfoOJziPfc|Téléphone|S12412|Rock|",
 "Julian Cope|Sunspots|1984|Jyq6FfLh09w|Julian Cope|S4467|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|Sunspots (song)",
 "Marion Williams|Packing Up|1959|1QlDUmX_3yA|Marion Williams|S15684|Gospel;American Folk Music;Folk;Regional Music;Traditional Folk Music|Clara Ward",
