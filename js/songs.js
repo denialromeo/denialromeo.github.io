@@ -819,7 +819,7 @@ const songs = [
 "Bob Dylan|Masters of War|1963|JEmI_FT4YHU|Bob Dylan|S2412|Contemporary Folk;Singer/Songwriter;Folk|Masters of War",
 "Weezer|Say It Ain't So|1994|ENXvZ9YRjbo|Weezer|S2101|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Say It Ain't So",
 "The Walker Brothers|The Sun Ain't Gonna Shine Anymore|1966|Q11ium_-Lv8|The Walker Brothers|S979|Baroque Pop;Brill Building;Pop|The Sun Ain't Gonna Shine (Anymore)",
-"Green Day|American Idiot|2004|NYK--14vAvM|Green Day|S2474|Pop Punk;Punk Rock;Rock|American Idiot (song)",
+"Green Day|American Idiot|2004|Ee_uujKuJMI|Green Day|S2474|Pop Punk;Punk Rock;Rock|American Idiot (song)",
 "Neil Young|After the Gold Rush|1970|d6Zf4D1tHdw|Neil Young|S2547|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|After the Gold Rush (song)",
 "Harry Nilsson|Everybody's Talkin'|1968|9kznTMxOsxo|Harry Nilsson|S928|Baroque Pop;Film Soundtrack;Pop;Soundtracks|Everybody's Talkin'",
 "Blondie|Call Me|1980|StKVS0eI85I|Debbie Harry|S547|Film Soundtrack;New Wave;Pop Rock;Pop;Rock;Soundtracks|Call Me (Blondie song)",
