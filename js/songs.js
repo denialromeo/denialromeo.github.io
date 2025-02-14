@@ -4872,7 +4872,7 @@ const songs = [
 "A Tribe Called Quest|Award Tour|1993|P800UWoE9xs|A Tribe Called Quest|S5077|East Coast Hip Hop;Jazz Rap;Hip Hop|",
 "Charlie Poole|Don't Let Your Deal Go Down Blues|1925|vkGKfvXpFJE|Charlie Poole|S4054|Old-Time;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|",
 "Salt 'n' Pepa|Let's Talk About Sex|1990|ydrtF45-y-g|Salt-N-Pepa|S4486|Pop Rap;Hip Hop|Let's Talk About Sex",
-"The Stranglers|No More Heroes|1977|GoG4ziny-QI|The Stranglers|S8604|New Wave;Punk Rock;Rock|No More Heroes (The Stranglers song)",
+"The Stranglers|No More Heroes|1977|xgzDQwWygAc|The Stranglers|S8604|New Wave;Punk Rock;Rock|No More Heroes (The Stranglers song)",
 "Aerosmith|Livin' on the Edge|1993|7nqcL0mjMjw|Aerosmith|S3141|Hard Rock;Rock|Livin' on the Edge",
 "Rihanna|Love on the Brain|2016|QMP-o8WXSPM|Rihanna|S16175|Contemporary R&B;Pop Soul;Pop;R&B;Soul|Love on the Brain",
 "Underworld|Two Months Off|2002|KsE9iXoXB6s|Underworld (band)|S2230|Progressive House;Dance;Electronic;Electronic Dance Music;House|Two Months Off",
