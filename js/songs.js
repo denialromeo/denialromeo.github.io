@@ -1276,7 +1276,7 @@ const songs = [
 "Pulp|This Is Hardcore|1998|JXbLyi5wgeg|Pulp (band)|S284|Art Rock;Chamber Pop;Baroque Pop;Indie Pop;Pop;Rock|This Is Hardcore (song)",
 "Jay-Z|Hard Knock Life (Ghetto Anthem)|1998|lpZgKI97K1M|Jay-Z|S291|East Coast Hip Hop;Pop Rap;Hip Hop|",
 "Donna Summer|Hot Stuff|1979|nYMeJSehCe4|Donna Summer|S581|Disco;Dance|Hot Stuff (Donna Summer song)",
-"Green Day|Longview|1994|FV2zr-TdxuU|Green Day|S117|Pop Punk;Punk Rock;Rock|",
+"Green Day|Longview|1994|42BBdzzgPNM|Green Day|S117|Pop Punk;Punk Rock;Rock|",
 "Elvis Presley|Can't Help Falling in Love|1961|vGJTaP6anOU|Elvis Presley|S1640|Blue Eyed Soul;Film Soundtrack;Pop;Soundtracks|Can't Help Falling in Love",
 "Fleetwood Mac|Oh Well|1969|J0ag8DkipmQ|Fleetwood Mac|S1586|Blues Rock;Psychedelic Rock;Rock|Oh Well (song)",
 "X-Ray Spex|Oh Bondage Up Yours!|1977|ogypBUCb7DA|X-Ray Spex|S659|Punk Rock;Rock|Oh Bondage Up Yours!",
