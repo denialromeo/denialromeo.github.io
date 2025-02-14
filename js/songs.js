@@ -10039,7 +10039,7 @@ const songs = [
 "Mount Kimbie|Made to Stray|2013|YdYj-jCcMFg|Mount Kimbie|S9494|Microhouse;UK Bass;Dance;Electronic;Electronic Dance Music;House;UK Garage|",
 "Arctic Monkeys|Arabella|2013|Nj8r3qmOoZ8?start=28|Arctic Monkeys|S15248|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|Arabella (song)",
 "Mos Def|Umi Says|1999|vntLKOd9saI|Mos Def|S11687|East Coast Hip Hop;Jazz-Funk;Neo-Soul;Funk;Hip Hop;Jazz;R&B;Soul|",
-"Green Day|Warning|2000|AGQeNOOjZhI|Green Day|S6640|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Warning (Green Day song)",
+"Green Day|Warning|2000|eebfMFzJHNs|Green Day|S6640|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Warning (Green Day song)",
 "Oneohtrix Point Never|Returnal|2010|Ctk3n1V4VP0|Oneohtrix Point Never|S7811|Progressive Electronic;Electronic|",
 "Toro y Moi|Still Sound|2011|0Gqh4e1S6j0|Toro y Moi|S12469|Synth Funk;Funk;R&B|",
 "Youth Lagoon|Highway Patrol Stun Gun|2015|jKQrO5xO8QQ|Trevor Powers|S9874|Indie Pop;Pop|",
