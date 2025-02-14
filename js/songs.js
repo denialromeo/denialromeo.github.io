@@ -5166,7 +5166,7 @@ const songs = [
 "Erykah Badu|The Healer|2008|CuObEg9A2Ew|Erykah Badu|S4769|Neo-Soul;Psychedelic Soul;R&B;Soul|",
 "Grover Washington Jr.|Just the Two of Us|1980|6POZlJAZsok|Grover Washington Jr.|S6652|Smooth Jazz;Smooth Soul;Soul Jazz;Jazz;R&B;Soul|Just the Two of Us (Grover Washington Jr. song)",
 "Guns N' Roses|Rocket Queen|1987|IMIBdE3rqc8|Guns N' Roses|S6661|Hard Rock;Rock|Rocket Queen",
-"Green Day|Holiday|2004|A1OqtIqzScI|Green Day|S6641|Pop Punk;Punk Rock;Rock|Holiday (Green Day song)",
+"Green Day|Holiday|2004|A1OqtIqzScI?start=24|Green Day|S6641|Pop Punk;Punk Rock;Rock|Holiday (Green Day song)",
 "The Chemical Brothers|Let Forever Be|1999|s5FyfQDO5g0|The Chemical Brothers|S5771|Big Beat;Neo-Psychedelia;Breakbeat;Dance;Electronic;Electronic Dance Music;Psychedelic Rock;Rock|Let Forever Be",
 "Electric Six|Gay Bar|2003|IslF_EyhMzg|Electric Six|S2249|Comedy Rock;Dance-Punk;Glam Punk;Comedy;Musical Comedy;Post-Punk;Punk Rock;Rock|Gay Bar (song)",
 "Minnie Riperton|Lovin' You|1974|K7MqTrXwojk|Minnie Riperton|S3762|Pop Soul;Smooth Soul;Pop;R&B;Soul|Lovin' You",
