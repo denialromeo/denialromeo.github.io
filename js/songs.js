@@ -9378,7 +9378,7 @@ const songs = [
 "The Mole|Lockdown Party|2013|CAjU_6yw2Gs|https://www.discogs.com/artist/111868-The-Mole|S9531|Deep House;Dance;Electronic;Electronic Dance Music;House|",
 "James Taylor|Mexico|1975|5h0W9BBtd9s|James Taylor|S14530|Singer/Songwriter|Mexico (James Taylor song)",
 "The Thermals|A Pillar of Salt|2006|HwgNMrs-i80|The Thermals|S8738|Indie Rock;Pop Punk;Alternative Rock;Punk Rock;Rock|",
-"Bob Dylan|Million Dollar Bash|1975|vOHljR41l4Y|Bob Dylan|S10234|Folk Rock;Roots Rock;Rock|",
+"Bob Dylan|Million Dollar Bash|1975|NGUQgty1e3g|Bob Dylan|S10234|Folk Rock;Roots Rock;Rock|",
 "The Fall|Rowche Rumble|1979|wVpBoveuh1w|The Fall (band)|S6341|Post-Punk;Rock|Rowche Rumble",
 "Kiesza|Hideaway|2014|ESXgJ9-H-2U|Kiesza|S9606|Dance-Pop;Deep House;Dance;Electronic;Electronic Dance Music;House;Pop|",
 "Shout Out Louds|Impossible|2007|cX9Oha6GXO0|Shout Out Louds|S12200|Indie Pop;Pop|",
