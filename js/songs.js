@@ -7746,7 +7746,7 @@ const songs = [
 "Silversun Pickups|Lazy Eye|2006|DYd57rkvnpQ|Silversun Pickups|S8411|Indie Rock;Alternative Rock;Rock|",
 "Twisted Sister|We're Not Gonna Take It|1984|rIva6PyNQno|Twisted Sister|S3917|Glam Metal;Hard Rock;Rock|We're Not Gonna Take It (Twisted Sister song)",
 "Television|Venus|1977|dsOYZcP9o-4|Television (band)|S12837|Art Punk;Art Rock;Punk Rock;Rock|Venus (Shocking Blue song)",
-"Bruce Springsteen|For You|1973|L0JOOEnRopM|Bruce Springsteen|S13707|Heartland Rock;Singer/Songwriter;Rock|For You (Bruce Springsteen song)",
+"Bruce Springsteen|For You|1973|nvMRVGjvLus|Bruce Springsteen|S13707|Heartland Rock;Singer/Songwriter;Rock|For You (Bruce Springsteen song)",
 "Warren Zevon|Keep Me in Your Heart|2003|RMTKb-pgxGI|Warren Zevon|S8939|Singer/Songwriter|",
 "The Barbarians|Moulty|1966|25x3aIWs76E|The Barbarians (band)|S3170|Garage Rock;Rock|Moulty (song)",
 "Judas Priest|Painkiller|1990|nM__lPTWThU|Judas Priest|S15613|Heavy Metal;Speed Metal;Metal;Rock|Painkiller (Judas Priest song)",
