@@ -409,7 +409,7 @@ const songs = [
 "Cyndi Lauper|Girls Just Want to Have Fun|1983|PIb6AZdTr-A|Cyndi Lauper|S466|Dance-Pop;Dance;Pop|Girls Just Want to Have Fun",
 "The Monkees|I'm a Believer|1966|5tpxXDILZHs|The Monkees|S986|Pop Rock;Sunshine Pop;Pop;Rock|I'm a Believer",
 "Gloria Gaynor|I Will Survive|1978|6dYWe1c3OyU|Gloria Gaynor|S599|Disco;Pop Soul;Dance;Pop;R&B;Soul|I Will Survive",
-"Pink Floyd|Another Brick in the Wall, Part 2|1979|HrxX9TBj2zY|Pink Floyd|S586|Art Rock;Rock|",
+"Pink Floyd|Another Brick in the Wall, Part 2|1979|HrxX9TBj2zY|Pink Floyd|S586|Art Rock;Rock|Another Brick in the Wall",
 "The Police|Roxanne|1978|3T1c7GkzRQQ|The Police|S620|New Wave;Pop Rock;Pop;Rock|Roxanne (The Police song)",
 "John Coltrane|A Love Supreme, Part 1: Acknowledgement|1965|vMCHDC2Lurk|John Coltrane|S2824|Spiritual Jazz;Avant-Garde Jazz;Jazz|",
 "Echo and the Bunnymen|The Killing Moon|1984|LWz0JC7afNQ|Echo & the Bunnymen|S424|Post-Punk;Rock|The Killing Moon",
