@@ -2323,7 +2323,7 @@ const songs = [
 "Jai Paul|Jasmine|2012|3CgShbW8XS0|Jai Paul|S5031|Alternative R&B;UK Bass;Contemporary R&B;Dance;Electronic;Electronic Dance Music;R&B;UK Garage|Jasmine (song)",
 "Hank Williams|Move It On Over|1947|fOtZluXTUmM|Hank Williams|S3963|Honky Tonk;Country|Move It On Over (song)",
 "Everclear|Santa Monica (Watch the World Die)|1995|MW6E_TNgCsY|Everclear (band)|S2124|Post-Grunge;Alternative Rock;Rock|Santa Monica (Everclear song)",
-"Lil' Louis|French Kiss|1989|CgOsg5vhwFY|Lil Louis|S268|Acid House;Chicago House;Dance;Electronic;Electronic Dance Music;House|French Kiss (Lil Louis song)",
+"Li'l Louis|French Kiss|1989|CgOsg5vhwFY|Lil Louis|S268|Acid House;Chicago House;Dance;Electronic;Electronic Dance Music;House|French Kiss (Lil Louis song)",
 "Sly and the Family Stone|Stand!|1969|XM1D82u5Hgk|Sly and the Family Stone|S899|Pop Soul;Psychedelic Soul;Pop;R&B;Soul|",
 "Johnny Boy|You Are the Generation that Bought More Shoes and You Get What You Deserve|2004|qp4GdI_bTD4|Johnny Boy|S4634|Indie Pop;Pop|",
 "Kanye West|Mercy|2012|7Dqgr0wNyPo|Kanye West|S5053|Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|Mercy (Kanye West song)",
