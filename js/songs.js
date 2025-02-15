@@ -9604,7 +9604,7 @@ const songs = [
 "Percy Faith|Delicado|1952|z1JGCIPcmt0|Percy Faith|S7929|Easy Listening;Pop|Delicado (song)",
 "Murray Head|Superstar|1970|KPHitSseT40|Murray Head|S12959|Pop Rock;Rock Opera;Pop;Rock|Superstar (Jesus Christ Superstar song)",
 "David Bowie|No Plan|2016|xIgdid8dsC8|David Bowie|S16070|Art Rock;Rock|",
-"Lio|Les Brunes comptent pas pour des prunes|1986|hkHF0xvQOok|Lio|S15657|French Pop;Pop|",
+"Lio|Les Brunes comptent pas pour des prunes|1986|hkHF0xvQOok|Lio (singer)|S15657|French Pop;Pop|",
 "Clipse|Mr. Me Too|2006|TdJjqApa3e0|Clipse|S4033|Southern Hip Hop;Hip Hop|Mr. Me Too",
 "Fela Kuti|Roforofo Fight|1972|JrVa4wNlyMU|Fela Kuti|S13461|Afrobeat;African Music;Funk;R&B;Regional Music;West African Music;Yoruba Music|Roforofo Fight",
 "Def Leppard|Rock of Ages|1983|xtiFjIVCu_k|Def Leppard|S10565|Hard Rock;Rock|Rock of Ages (Def Leppard song)",
