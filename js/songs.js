@@ -9708,7 +9708,7 @@ const songs = [
 "Neil Young|Out on the Weekend|1972|Hn1BapsppXM|Neil Young|S11727|Country Rock;Folk Rock;Singer/Songwriter;Rock|Out on the Weekend",
 "The Cranberries|Ode to My Family|1994|Zz-DJr1Qs54|The Cranberries|S5883|Dream Pop;Pop Rock;Alternative Rock;Pop;Rock|Ode to My Family",
 "Burial|Street Halo|2011|r-hvbTs-8UA|Burial (musician)|S5677|Ambient House;Future Garage;Dance;Electronic;Electronic Dance Music;House;UK Garage|",
-"The Specials|Do Nothing|1980|x-fEr0kv-E4|The Specials|S12274|2 Tone;Ska|Do Nothing (song)",
+"The Specials|Do Nothing|1980|0S1BC0XVB6s|The Specials|S12274|2 Tone;Ska|Do Nothing (song)",
 "The Distillers|Drain the Blood|2003|u04b4TQ6Fnk|The Distillers|S10605|Punk Rock;Rock|",
 "Alan Vega|Jukebox Baby|1980|KPNO5f4yO_g|Alan Vega|S5141|Rockabilly;Rock;Rock & Roll|",
 "Rupert Holmes|Escape (The Piña Colada Song)|1979|whwp1PeCiLc|Rupert Holmes|S14980|Yacht Rock;Pop;Pop Rock;Rock|Escape (The Piña Colada Song)",
