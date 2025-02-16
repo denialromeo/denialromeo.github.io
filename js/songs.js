@@ -2772,7 +2772,7 @@ const songs = [
 "Wolf Alice|Don't Delete the Kisses|2017|6KW67D6cnPw|Wolf Alice|S16513|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock|Don't Delete the Kisses",
 "The Mar-Keys|Last Night|1961|FX5T9GvSnbY|The Mar-Keys|S4389|Rhythm & Blues;Southern Soul;R&B;Soul|",
 "Meat Loaf|I'll Do Anything for Love (But I Won't Do That)|1993|9X_ViIPA-Gc|Meat Loaf|S7497|AOR;Pop Rock;Rock Opera;Pop;Rock|I'd Do Anything for Love (But I Won't Do That)",
-"The Teddy Bears|To Know Him, Is to Love Him|1958|DVieaWu0sLg|The Teddy Bears|S8701|Doo-Wop;R&B;Vocal Group|To Know Him Is to Love Him",
+"The Teddy Bears|To Know Him Is to Love Him|1958|DVieaWu0sLg|The Teddy Bears|S8701|Doo-Wop;R&B;Vocal Group|To Know Him Is to Love Him",
 "Lady Gaga & Bradley Cooper|Shallow|2018|bo_efYhYU2A|Lady Gaga|S16548|Contemporary Country;Film Soundtrack;Country;Soundtracks|Shallow (Lady Gaga and Bradley Cooper song)",
 "The Foundations|Build Me Up Buttercup|1968|hSofzQURQDk|The Foundations|S3415|Motown Sound;Pop;Pop Soul;R&B;Soul|Build Me Up Buttercup",
 "Dinah Washington|Mad About the Boy|1961|3CcKywNQjRU|Dinah Washington|S2809|Traditional Pop;Vocal Jazz;Jazz;Pop|Mad About the Boy",
