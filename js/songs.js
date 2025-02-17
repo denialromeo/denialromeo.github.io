@@ -1369,7 +1369,7 @@ const songs = [
 "The Stone Roses|She Bangs the Drums|1989|54gdXmhB1hE|The Stone Roses|S244|Baggy / Madchester;Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|She Bangs the Drums",
 "Hole|Celebrity Skin|1998|O3dWBLoU--E|Hole (band)|S276|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|",
 "Norman Greenbaum|Spirit in the Sky|1969|vRFo72wuU6w|Norman Greenbaum|S1723|Christian Rock;Psychedelic Rock;Rock|Spirit in the Sky",
-"Jimmy Ruffin|What Becomes of the Brokenhearted|1966|cQywZYoGB1g|Jimmy Ruffin|S1442|Motown Sound;Pop;Pop Soul;R&B;Soul|",
+"Jimmy Ruffin|What Becomes of the Brokenhearted|1966|SZfnKqAGlfY|Jimmy Ruffin|S1442|Motown Sound;Pop;Pop Soul;R&B;Soul|",
 "Cheap Trick|I Want You to Want Me|1977|-qgpewMCVjs|Cheap Trick|S1828|Hard Rock;Power Pop;Pop;Pop Rock;Rock|I Want You to Want Me",
 "Jimi Hendrix|Manic Depression|1967|9nnGtB-PSw4|Jimi Hendrix|S3471|Acid Rock;Blues Rock;Psychedelic Rock;Rock|Manic Depression (song)",
 "Peter Gabriel|In Your Eyes|1986|kU8OJAOMbPg|Peter Gabriel|S385|Art Pop;Pop Rock;Pop;Rock|In Your Eyes (Peter Gabriel song)",
