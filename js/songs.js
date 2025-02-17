@@ -8297,7 +8297,7 @@ const songs = [
 "Johnny Ace|My Song|1952|ViAVuIqO7Rw|Johnny Ace|S3133|Rhythm & Blues;R&B|",
 "Cliff Richard|Devil Woman|1976|IgomTOOgl8M|Cliff Richard|S5832|Pop Rock;Pop;Rock|Devil Woman (Cliff Richard song)",
 "2Pac|I Ain't Mad at Cha|1996|LiCjD5qVV_U|Tupac Shakur|S9124|Conscious Hip Hop;West Coast Hip Hop;Hip Hop|I Ain't Mad at Cha",
-"Golden Earring|Twilight Zone|1982|wIaaBuGNwNw|Golden Earring|S6604|Pop Rock;Pop;Rock|Twilight Zone (Golden Earring song)",
+"Golden Earring|Twilight Zone|1982|a1sf2CzEq0w|Golden Earring|S6604|Pop Rock;Pop;Rock|Twilight Zone (Golden Earring song)",
 "Francis and the Lights feat. Bon Iver|Friends|2016|wScYn10D2vo|Francis and the Lights|S16909|Alternative R&B;Art Pop;Contemporary R&B;Pop;R&B|Friends (Francis and the Lights song)",
 "Claude Nougaro|Le Jazz et la java|1961|zmRgXOw1o3A|Claude Nougaro|S10427|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "Prince and the Revolution|The Beautiful Ones|1984|Ti0JAumfDME|Prince (musician)|S11951|Contemporary R&B;Film Soundtrack;Smooth Soul;R&B;Soul;Soundtracks|",
