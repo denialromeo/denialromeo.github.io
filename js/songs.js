@@ -6463,7 +6463,7 @@ const songs = [
 "Metronomy|Salted Caramel Ice Cream|2019|cBRDaPWaxZg|Metronomy|S16833|Synthpop;Electronic;Pop|",
 "The Pretty Things|Don't Bring Me Down|1964|Zx0fbtyW6wQ|Pretty Things|S8003|British Rhythm & Blues;Garage Rock;R&B;Rhythm & Blues;Rock|Don't Bring Me Down (The Pretty Things song)",
 "Frankie Knuckles|Tears|1989|rJ3a6fFzw5c|Satoshi Tomiie|S3548|Chicago House;Deep House;Dance;Electronic;Electronic Dance Music;House|Frankie Knuckles",
-"The Exciters|Tell Him|1962|G2sH6h0ViDg|The Exciters|S6326|Brill Building;Girl Group;Pop|Tell Him (Bert Berns song)",
+"The Exciters|Tell Him|1962|6ajcWXyDv6A|The Exciters|S6326|Brill Building;Girl Group;Pop|Tell Him (Bert Berns song)",
 "Prince and the Revolution|Darling Nikki|1984|GA_FqxZLSMk|Prince (musician)|S11943|Film Soundtrack;Funk Rock;New Wave;Rock;Soundtracks|Darling Nikki",
 "Steve Earle|Guitar Town|1986|AINUPFbFpqg|Steve Earle|S8566|Americana;Country Rock;Country;Rock|Guitar Town",
 "Dave Dudley|Six Days on the Road|1963|4-kUyV76X-g|Dave Dudley|S2414|Truck Driving Country;Country;Honky Tonk|Six Days on the Road",
