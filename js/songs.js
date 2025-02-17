@@ -10346,7 +10346,7 @@ const songs = [
 "System of a Down|Toxicity|2001|iywaBOMvYLI|System of a Down|S8663|Alternative Metal;Metal;Rock|",
 "Kings of Leon|Fans|2007|_1gTt3JGBkQ|Kings of Leon|S13857|Alternative Rock;Rock|Fans (song)",
 "Sleater-Kinney|You're No Rock n' Roll Fun|2000|rCy1VIy8Hj0|Sleater-Kinney|S8445|Indie Rock;Alternative Rock;Rock|",
-"The Shangri-La's|Past, Present and Future|1966|IQu6pPoDFJY|The Shangri-Las|S8378|Brill Building;Girl Group;Pop|",
+"The Shangri-La's|Past, Present and Future|1966|ulSZo9EAYVw|The Shangri-Las|S8378|Brill Building;Girl Group;Pop|",
 "Killing Joke|The Wait|1980|TQ2fJs-bV2s|Killing Joke|S14622|Post-Punk;Rock|",
 "The Sensational Alex Harvey Band|The Faith Healer|1973|IVkn06Bv0E0|The Sensational Alex Harvey Band|S13955|Glam Rock;Hard Rock;Rock|",
 "Balam Acab|Oh, Why|2011|Mg_oDxDoDMY|Balam Acab|S5306|Chillstep;Downtempo;Dance;Dubstep;Electronic;Electronic Dance Music|",
