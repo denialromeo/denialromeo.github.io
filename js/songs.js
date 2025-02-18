@@ -3169,7 +3169,7 @@ const songs = [
 "Eddie Kendricks|Keep On Truckin', Part 1|1973|G0sw5o404tc|Eddie Kendricks|S4165|Funk;Philly Soul;R&B;Soul|Keep On Truckin' (song)",
 "Grateful Dead|Friend of the Devil|1970|uTIFNQeV_QQ|Grateful Dead|S6637|Country Rock;Rock|Friend of the Devil",
 "M.I.A.|Jimmy|2007|HBECisSkAu4|M.I.A. (rapper)|S4286|Dance-Pop;Electro-Disco;Dance;Disco;Electronic;Electronic Dance Music;Pop|Jimmy (song)",
-"Nathan Fake|The Sky Was Pink|2004|d7zBePUZMog|Nathan Fake|S4632|Microhouse;Tech House;Dance;Electronic;Electronic Dance Music;House;Techno|",
+"Nathan Fake|The Sky Was Pink|2004|YKkO1qqQHow|Nathan Fake|S4632|Microhouse;Tech House;Dance;Electronic;Electronic Dance Music;House;Techno|",
 "The Rolling Stones|No Expectations|1968|URyqGD99Owg|The Rolling Stones|S3774|Rock|No Expectations",
 "Chuck Berry|Little Queenie|1959|s2a2Nrw_6G0?start=5|Chuck Berry|S5806|Rock & Roll;Rock|Little Queenie",
 "Blondie|The Tide Is High|1980|fAb8Q9X2xAc|Debbie Harry|S3221|New Wave;Pop Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music;Rock|The Tide Is High",
