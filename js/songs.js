@@ -5552,7 +5552,7 @@ const songs = [
 "ESG|UFO|1981|V4QuH_eFU4Y|ESG (band)|S4452|Dance-Punk;Post-Punk;Rock|",
 "Elliott Smith|Pretty (Ugly Before)|2003|yAf01cef70U|Elliott Smith|S4258|Indie Pop;Singer/Songwriter;Pop|Pretty (Ugly Before)",
 "Pale Saints|Sight of You|1989|XiSKxvmd1bg|Pale Saints|S11833|Dream Pop;Shoegaze;Alternative Rock;Rock|",
-"Vanilla Fudge|You Keep Me Hangin' On|1967|R3ChToIvLRM|Vanilla Fudge|S2840|Heavy Psych;Hard Rock;Psychedelic Rock;Rock|You Keep Me Hangin' On",
+"Vanilla Fudge|You Keep Me Hangin' On|1967|3dJO47d26kc|Vanilla Fudge|S2840|Heavy Psych;Hard Rock;Psychedelic Rock;Rock|You Keep Me Hangin' On",
 "Bright Eyes|Lover I Don't Have to Love|2002|SfCdsBWnKpU|Bright Eyes (band)|S5619|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|Lover I Don't Have to Love",
 "Bert Jansch|Needle of Death|1965|is1uCyTJ_DA|Bert Jansch|S5418|Folk Baroque;Singer/Songwriter;Contemporary Folk;English Folk Music;European Folk Music;Folk;Regional Music;Traditional Folk Music|Bert Jansch (album)",
 "WU LYF|We Bros|2011|Ca9rBWTyuU0|WU LYF|S9070|Art Rock;Indie Rock;Alternative Rock;Rock|",
