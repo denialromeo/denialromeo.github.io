@@ -8629,7 +8629,7 @@ const songs = [
 "Bangles|Going Down to Liverpool|1985|Zj7OJeyhq2Q|The Bangles|S5314|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Going Down to Liverpool",
 "Change|A Lover's Holiday|1980|lZCRS8b0XoY|Change (band)|S10370|Disco;Dance|",
 "Paul Weller|Sunflower|1993|BeiB9x5XT_0|Paul Weller|S7901|Pop Rock;Singer/Songwriter;Pop;Rock|Sunflower (Paul Weller song)",
-"The Shirelles|Foolish Little Girl|1963|Nr8kmGcqXZ4|The Shirelles|S8397|Brill Building;Girl Group;Pop|",
+"The Shirelles|Foolish Little Girl|1963|Nr8kmGcqXZ4|The Shirelles|S8397|Brill Building;Girl Group;Pop|Foolish Little Girl (song)",
 "The Weavers|On Top of Old Smoky|1951|agPm20k6qL8|The Weavers|S8957|American Folk Music;Folk;Regional Music;Traditional Folk Music|On Top of Old Smoky",
 "Nirvana|Aneurysm|1991|aIr_IXXLZ8Q|Kurt Cobain|S4218|Grunge;Alternative Rock;Rock|Aneurysm (song)",
 "The Who|Young Man Blues|1970|R1CJuzpuca4|The Who|S12592|Hard Rock;Rock|Young Man Blues",
