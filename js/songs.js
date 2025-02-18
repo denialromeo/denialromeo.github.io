@@ -7744,7 +7744,7 @@ const songs = [
 "Tomorrow|My White Bicycle|1967|nzULAq6PJ-4|Tomorrow (band)|S12691|Psychedelic Pop;Psychedelic Rock;Pop;Rock|My White Bicycle",
 "Joni Mitchell|The Last Time I Saw Richard|1971|y4WVZncHaLo|Joni Mitchell|S3633|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|The Last Time I Saw Richard",
 "Silversun Pickups|Lazy Eye|2006|DYd57rkvnpQ|Silversun Pickups|S8411|Indie Rock;Alternative Rock;Rock|",
-"Twisted Sister|We're Not Gonna Take It|1984|rIva6PyNQno|Twisted Sister|S3917|Glam Metal;Hard Rock;Rock|We're Not Gonna Take It (Twisted Sister song)",
+"Twisted Sister|We're Not Gonna Take It|1984|4xmckWVPRaI|Twisted Sister|S3917|Glam Metal;Hard Rock;Rock|We're Not Gonna Take It (Twisted Sister song)",
 "Television|Venus|1977|dsOYZcP9o-4|Television (band)|S12837|Art Punk;Art Rock;Punk Rock;Rock|Venus (Shocking Blue song)",
 "Bruce Springsteen|For You|1973|nvMRVGjvLus|Bruce Springsteen|S13707|Heartland Rock;Singer/Songwriter;Rock|For You (Bruce Springsteen song)",
 "Warren Zevon|Keep Me in Your Heart|2003|RMTKb-pgxGI|Warren Zevon|S8939|Singer/Songwriter|",
