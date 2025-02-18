@@ -5283,7 +5283,7 @@ const songs = [
 "Solomon Burke|Just Out of Reach (of My Two Empty Arms)|1961|0-F0joDDmAM|Solomon Burke|S4079|Country Soul;R&B;Soul|Just Out of Reach (of My Two Open Arms)",
 "The Premiers|Farmer John|1964|gayhpUyz2os|The Premiers|S1418|Garage Rock;Rock|Farmer John (song)",
 "James Brown|Super Bad|1970|LJ9CLOEOB5U|James Brown|S6846|Funk;R&B|Super Bad (song)",
-"Del Shannon|Hats Off to Larry|1961|Xk_FR3341bA|Del Shannon|S1639|Pop Rock;Rock & Roll;Pop;Rock|Hats Off to Larry",
+"Del Shannon|Hats Off to Larry|1961|N5uFKM1PXYY|Del Shannon|S1639|Pop Rock;Rock & Roll;Pop;Rock|Hats Off to Larry",
 "Nazareth|Love Hurts|1974|_yGM_EBvQVs|Nazareth (band)|S2324|AOR;Hard Rock;Soft Rock;Pop;Pop Rock;Rock|Love Hurts",
 "The Jam|English Rose|1978|omXvnvhclMw|The Jam|S4555|Contemporary Folk;Singer/Songwriter;Folk|English rose (epithet)",
 "The Clash|Spanish Bombs|1979|O6LQQWZYiqk|The Clash|S12777|New Wave;Rock|Spanish Bombs",
