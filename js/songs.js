@@ -2165,7 +2165,7 @@ const songs = [
 "Ozzy Osbourne|Crazy Train|1980|tMDFv5m18Pw|Ozzy Osbourne|S4447|Hard Rock;Heavy Metal;Metal;Rock|",
 "PJ Harvey|The Words That Maketh Murder|2011|KhaEt2Hdod8|PJ Harvey|S4980|Art Rock;Singer/Songwriter;Rock|The Words That Maketh Murder",
 "Arctic Monkeys|A Certain Romance|2006|zMupng6KQeE|Arctic Monkeys|S4696|Indie Rock;Alternative Rock;Rock|",
-"Bruce Springsteen|Hungry Heart|1980|ZsADQpw-dD8|Bruce Springsteen|S558|Heartland Rock;Pop Rock;Pop;Rock|",
+"Bruce Springsteen|Hungry Heart|1980|ZsADQpw-dD8|Bruce Springsteen|S558|Heartland Rock;Pop Rock;Pop;Rock|Hungry Heart",
 "The Traveling Wilburys|Handle with Care|1988|1o4s1KVJaVA|Traveling Wilburys|S3908|Heartland Rock;Pop Rock;Pop;Rock|",
 "Peggy Lee|Is That All There Is?|1969|LCRZZC-DH7M|Peggy Lee|S894|Traditional Pop;Pop|Is That All There Is%3F",
 "The Stranglers|Peaches|1977|hUIYAov1LCA|The Stranglers|S1796|New Wave;Post-Punk;Rock|Peaches (The Stranglers song)",
