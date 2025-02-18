@@ -9512,7 +9512,7 @@ const songs = [
 "Pink Floyd|The Gunner's Dream|1983|LSE7qdjy3Q0|Pink Floyd|S11912|Art Rock;Piano Rock;Pop;Pop Rock;Rock|The Gunner's Dream",
 "David Bowie|Cygnet Committee|1969|ZZ2VMPPyyck|David Bowie|S10519|Art Rock;Psychedelic Folk;Contemporary Folk;Folk;Rock|Cygnet Committee",
 "Bob Marley and the Wailers|Soul Rebel|1970|MWp3qOLJZ0w|Bob Marley|S5558|Reggae;Caribbean Music;Jamaican Music;Regional Music|",
-"Latimore|Let's Straighten It Out|1974|DgFRxaSk5yA|Latimore (musician)|S11371|Smooth Soul;R&B;Soul|Let's Straighten It Out",
+"Latimore|Let's Straighten It Out|1974|112BIpVq3Zk|Latimore (musician)|S11371|Smooth Soul;R&B;Soul|Let's Straighten It Out",
 "Bobby Moore|Searching for My Love|1965|cx9UTW6AIXM|Bobby Moore & the Rhythm Aces|S5576|Rhythm & Blues;Soul;R&B|Babyface (musician)",
 "Fettes Brot|Schwule Mädchen|2001|q6m-0IjONkM|Fettes Brot|S6370|Pop Rap;Hip Hop|",
 "Haerts|Wings|2013|yk52XHSpmF4|Haerts|S11004|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock|",
