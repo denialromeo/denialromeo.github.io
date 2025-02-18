@@ -814,7 +814,7 @@ const songs = [
 "Bruce Springsteen|Dancing in the Dark|1984|129kuDCQtHs|Bruce Springsteen|S422|Heartland Rock;Pop Rock;Pop;Rock|Dancing in the Dark (Bruce Springsteen song)",
 "Eminem|The Real Slim Shady|2000|eJO5HU_7_1w|Eminem|S1383|Pop Rap;Hip Hop|The Real Slim Shady",
 "The Beach Boys|California Girls|1965|7oRb9-mypxg|The Beach Boys|S1004|Pop Rock;Sunshine Pop;Pop;Rock|California Girls",
-"Tommy James and the Shondells|Crimson and Clover|1968|GpGEeneO-t0|Tommy James and the Shondells|S922|Psychedelic Pop;Sunshine Pop;Pop|Crimson and Clover",
+"Tommy James and the Shondells|Crimson and Clover|1968|XS0niyiKlcw|Tommy James and the Shondells|S922|Psychedelic Pop;Sunshine Pop;Pop|Crimson and Clover",
 "The Beatles|Across the Universe|1969|90M60PzmxEE|The Beatles|S2551|Psychedelic Folk;Psychedelic Pop;Contemporary Folk;Folk;Pop|Across the Universe",
 "Bob Dylan|Masters of War|1963|JEmI_FT4YHU|Bob Dylan|S2412|Contemporary Folk;Singer/Songwriter;Folk|Masters of War",
 "Weezer|Say It Ain't So|1994|ENXvZ9YRjbo|Weezer|S2101|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Say It Ain't So",
