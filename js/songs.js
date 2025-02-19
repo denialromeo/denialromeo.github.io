@@ -1882,7 +1882,7 @@ const songs = [
 "Stan Kenton|Artistry in Rhythm|1945|2cwzPW-e9Ro|Stan Kenton|S2714|Big Band;Jazz|",
 "The Sonics|Psycho|1965|W-_0V0IXEkc|The Sonics|S2274|Garage Rock;Proto-Punk;Rock|",
 "Terry Jacks|Seasons in the Sun|1973|ZJehPcqk_5I|Terry Jacks|S4417|Folk Pop;Contemporary Folk;Folk;Pop|Seasons in the Sun",
-"The Waterboys|The Whole of the Moon|1985|8TON3PORRDQ|The Waterboys|S1939|Pop Rock;Pop;Rock|The Whole of the Moon",
+"The Waterboys|The Whole of the Moon|1985|sBW8Vnp8BzU|The Waterboys|S1939|Pop Rock;Pop;Rock|The Whole of the Moon",
 "Supergrass|Caught by the Fuzz|1994|GNIMuvbiZcc|Supergrass|S2100|Britpop;Pop Punk;Alternative Rock;Pop;Pop Rock;Punk Rock;Rock|",
 "Sade|Smooth Operator|1984|4TYv2PhG89A|Sade (band)|S2348|Smooth Jazz;Sophisti-Pop;Jazz;Pop|Smooth Operator",
 "Stevie Wonder|You Haven't Done Nothin'|1974|8hYPl3f_npw|Stevie Wonder|S723|Funk;Soul;R&B|",
