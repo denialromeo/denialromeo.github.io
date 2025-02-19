@@ -5601,7 +5601,7 @@ const songs = [
 "Amii Stewart|Knock on Wood|1979|XKuJUxGntRI|Amii Stewart|S9131|Disco;Dance|",
 "Carla Thomas|Gee Whiz (Look at His Eyes)|1960|S48rwkLHefo|Carla Thomas|S3897|Rhythm & Blues;Southern Soul;R&B;Soul|Gee Whiz (Look at His Eyes)",
 "The Prodigy|Charly|1991|cSTBFZ-To2E|The Prodigy|S11952|Breakbeat Hardcore;Breakbeat;Dance;Electronic;Electronic Dance Music;Hardcore [EDM]|",
-"Eagles|Tequila Sunrise|1973|1K0N7UaZpz8|Eagles (band)|S6182|Country Rock;Rock|Tequila Sunrise (song)",
+"Eagles|Tequila Sunrise|1973|783A6VzWu_8|Eagles (band)|S6182|Country Rock;Rock|Tequila Sunrise (song)",
 "Anderson .Paak feat. ScHoolboy Q|Am I Wrong|2015|vvPeJLcK2Lk|Anderson Paak|S16021|Neo-Soul;Nu-Disco;Synth Funk;Dance;Disco;Electronic;Electronic Dance Music;Funk;House;R&B;Soul|",
 "Japandroids|Younger Us|2010|SKf5NmhkitA|Japandroids|S6871|Indie Rock;Noise Pop;Alternative Rock;Rock|Younger Us",
 "Jesse Belvin|Goodnight My Love (Pleasant Dreams)|1956|24jpHhaQy4g|Jesse Belvin|S3208|Rhythm & Blues;R&B|",
