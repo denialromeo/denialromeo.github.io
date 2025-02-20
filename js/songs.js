@@ -8533,7 +8533,7 @@ const songs = [
 "Tom Waits|Ruby's Arms|1980|n11Z98o54Rw|Tom Waits|S13990|Singer/Songwriter|",
 "Five Blind Boys|Our Father (Which Art in Heaven)|1950|0LaQR-HatxM|Five Blind Boys of Mississippi|S14402|Traditional Black Gospel;American Folk Music;Folk;Gospel;Regional Music;Traditional Folk Music|",
 "Muse|Madness|2012|Ek0SgwWmF9w|Muse (band)|S15726|Pop Rock;Synthpop;Electronic;Pop;Rock|Madness (Muse song)",
-"Lee Hazlewood|Summer Wine|1967|nbtKHrI-OAs|Nancy Sinatra|S7217|Baroque Pop;Psychedelic Pop;Pop|Summer Wine",
+"Lee Hazlewood|Summer Wine|1967|nbtKHrI-OAs|Lee Hazlewood|S7217|Baroque Pop;Psychedelic Pop;Pop|Summer Wine",
 "Iron Maiden|Wrathchild|1981|io4ObwuO24w|Iron Maiden|S11093|NWOBHM;Heavy Metal;Metal;Rock|",
 "The Music Explosion|Little Bit O' Soul|1967|CgGjvZcNpKs|The Music Explosion|S11702|Garage Rock;Rock|Little Bit O' Soul",
 "Clap Your Hands Say Yeah|Is This Love?|2005|11LGXkL1M_A|Clap Your Hands Say Yeah|S3046|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|Is This Love%3F (Clap Your Hands Say Yeah song)",
