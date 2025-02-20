@@ -4815,7 +4815,7 @@ const songs = [
 "Green Day|Brain Stew|1996|UNq9gmY_Oz4|Green Day|S14456|Alternative Rock;Pop Punk;Punk Rock;Rock|Brain Stew / Jaded",
 "Kings of Convenience|Toxic Girl|1999|_9UauaXTXUI|Kings of Convenience|S7113|Indie Folk;Indie Pop;Contemporary Folk;Folk;Pop|",
 "Beach House|Space Song|2015|RBtlPT23PTM|Beach House|S9707|Dream Pop;Alternative Rock;Rock|Space Song",
-"Jackson Browne|The Pretender|1976|fY0Pg2Gu5uM|Jackson Browne|S6828|Singer/Songwriter;Soft Rock;Pop;Pop Rock;Rock|The Pretender (Jackson Browne song)",
+"Jackson Browne|The Pretender|1976|SqRvJLH_-vU|Jackson Browne|S6828|Singer/Songwriter;Soft Rock;Pop;Pop Rock;Rock|The Pretender (Jackson Browne song)",
 "The Beatles|Everybody's Got Something to Hide Except Me and My Monkey|1968|eyV3zCq1OHM|The Beatles|S3185|Hard Rock;Rock|Everybody's Got Something to Hide Except Me and My Monkey",
 "Irma Thomas|Wish Someone Would Care|1964|np793RzybIY|Irma Thomas|S3899|Deep Soul;R&B;Soul;Southern Soul|Breakaway (Irma Thomas song)",
 "Gerry and the Pacemakers|You'll Never Walk Alone|1963|Hn2PXb0YxPw|Gerry and the Pacemakers|S6550|Merseybeat;Beat Music;Pop;Pop Rock;Rock|",
