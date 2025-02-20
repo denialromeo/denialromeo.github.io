@@ -1802,7 +1802,7 @@ const songs = [
 "Arcade Fire|Keep the Car Running|2007|4YRJv3tPCw0|Arcade Fire|S4287|Art Rock;Chamber Pop;Indie Rock;Alternative Rock;Baroque Pop;Indie Pop;Pop;Rock|Keep the Car Running",
 "Art Brut|Formed a Band|2004|qryAwfpHG8o|Art Brut|S2459|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|",
 "Arcade Fire|Everything Now|2017|zC30BYR3CUk|Arcade Fire|S16332|Alternative Dance;Disco;Alternative Rock;Dance;Rock|",
-"Tame Impala|The Less I Know The Better|2015|2SUwOgmvzK4|Kevin Parker (musician)|S9847|Neo-Psychedelia;Psychedelic Pop;Synthpop;Electronic;Pop;Psychedelic Rock;Rock|The Less I Know the Better",
+"Tame Impala|The Less I Know The Better|2015|dgohzSuQhJs|Kevin Parker (musician)|S9847|Neo-Psychedelia;Psychedelic Pop;Synthpop;Electronic;Pop;Psychedelic Rock;Rock|The Less I Know the Better",
 "Radiohead|Street Spirit (Fade Out)|1995|LCJblaUkkfc|Radiohead|S8073|Alternative Rock;Rock|Street Spirit (Fade Out)",
 "Method Man|I'll Be There for You/You're All I Need to Get By|1995|Cpa6cD_iDYw|Method Man|S77|Boom Bap;East Coast Hip Hop;Hip Hop|I'll Be There for You/You're All I Need to Get By",
 "The Undisputed Truth|Smiling Faces Sometimes|1971|qd9zCTPahqk|The Undisputed Truth|S840|Psychedelic Soul;R&B;Soul|Smiling Faces Sometimes",
