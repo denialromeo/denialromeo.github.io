@@ -1876,7 +1876,7 @@ const songs = [
 "Gavin Bryars|Jesus' Blood Never Failed Me Yet|1975|FmkC_leNM7M|Gavin Bryars|S6511|Minimalism;Classical Music;Modern Classical|",
 "Stone Temple Pilots|Interstate Love Song|1994|yjJL9DGU7Gg|Stone Temple Pilots|S2099|Grunge;Alternative Rock;Rock|Interstate Love Song",
 "The Damned|Neat Neat Neat|1977|VaMU_6sI3j8|The Damned (band)|S2329|Punk Rock;Rock|",
-"Electric Six|Danger! High Voltage|2002|2a4gyJsY0mc|Electric Six|S2227|Dance-Punk;Funk Rock;Post-Punk;Rock|Danger! High Voltage",
+"Electric Six|Danger! High Voltage|2002|R-FxmoVM7X4|Electric Six|S2227|Dance-Punk;Funk Rock;Post-Punk;Rock|Danger! High Voltage",
 "Prince|I Wanna Be Your Lover|1979|Rp8WL621uGM|Prince (musician)|S3729|Disco;Funk;Dance;R&B|I Wanna Be Your Lover",
 "Young M.C.|Bust a Move|1989|tZQQGX24Teg|Young MC|S257|East Coast Hip Hop;Pop Rap;Hip Hop|Bust a Move (song)",
 "Stan Kenton|Artistry in Rhythm|1945|2cwzPW-e9Ro|Stan Kenton|S2714|Big Band;Jazz|",
