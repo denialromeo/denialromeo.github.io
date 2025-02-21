@@ -2075,7 +2075,7 @@ const songs = [
 "Leroy Carr|How Long, How Long Blues|1928|zDwf9jAqVwQ|Leroy Carr|S4347|Piano Blues;Blues|How Long, How Long Blues",
 "Mano Negra|Mala vida|1988|rc_JlAbCEeM|Mano Negra (band)|S7404|Gypsy Punk;Folk Punk;Punk Rock;Rock|",
 "The Who|Magic Bus|1968|TmfQQC1bsf4|The Who|S925|Freakbeat;Psychedelic Rock;Beat Music;Pop;Pop Rock;Rock|Magic Bus (song)",
-"Gary Glitter|Rock and Roll Part 2|1972|8OJ01psE6wc|Gary Glitter|S1317|Glam Rock;Rock|",
+"Gary Glitter|Rock and Roll Part 2|1972|8OJ01psE6wc|Gary Glitter|S1317|Glam Rock;Rock|Rock and Roll (Gary Glitter song)",
 "Wynonie Harris|Good Rockin' Tonight|1948|Xo9auUfitVA|Wynonie Harris|S2691|Jump-Blues;Rock & Roll;Blues;Rock|Good Rocking Tonight",
 "The White Stripes|My Doorbell|2005|IlcMRq3gb1s|The White Stripes|S3031|Alternative Rock;Rock|My Doorbell",
 "Ladytron|Destroy Everything You Touch|2005|JTTwlAT_AwU|Ladytron|S4646|Electroclash;Electropop;Dance;Electronic;Electronic Dance Music;Pop|Destroy Everything You Touch",
