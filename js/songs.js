@@ -1809,7 +1809,7 @@ const songs = [
 "Kraftwerk|Computer Love|1981|CFmmzFcM-MA|Kraftwerk|S7148|Synthpop;Electronic;Pop|Computer Love (Kraftwerk song)",
 "Orange Juice|Rip It Up|1982|xcRAWA4nN3U|Orange Juice (band)|S7814|New Wave;Rock|Rip It Up (Orange Juice song)",
 "Primal Scream|Come Together|1990|8dFKWpJKDwo|Primal Scream|S237|Alternative Dance;Baggy / Madchester;Alternative Rock;Dance;Rock|Come Together (Primal Scream song)",
-"Dire Straits|Money for Nothing|1985|JRDgihVDEko|Dire Straits|S1927|Pop Rock;Pop;Rock|Money for Nothing (song)",
+"Dire Straits|Money for Nothing|1985|wTP2RUD_cL0|Dire Straits|S1927|Pop Rock;Pop;Rock|Money for Nothing (song)",
 "The White Stripes|Dead Leaves and the Dirty Ground|2001|7OyytKqYjkE|The White Stripes|S4617|Alternative Rock;Blues Rock;Garage Rock Revival;Garage Rock;Rock|Dead Leaves and the Dirty Ground",
 "The Beatles|Love Me Do|1962|0pGOFX1D_jg|The Beatles|S1110|British Rhythm & Blues;Merseybeat;Beat Music;Pop;Pop Rock;R&B;Rhythm & Blues;Rock|Love Me Do",
 "Björk|Jóga|1997|loB0kmz_0MM|Björk|S4520|Art Pop;Electronic;Pop|Jóga",
