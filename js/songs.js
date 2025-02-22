@@ -10208,7 +10208,7 @@ const songs = [
 "Can|Mother Sky|1970|EVi-UTF9PL4|Can (band)|S10348|Krautrock;Psychedelic Rock;Experimental Rock;Progressive Rock;Rock|Mother Sky",
 "Steely Dan|Haitian Divorce|1976|iWYchJI0Cv8|Steely Dan|S8555|Pop Rock;Pop;Rock|Peg (song)",
 "Natalie Prass|Bird of Prey|2014|HXJJSPUpAQE|Natalie Prass|S9877|Chamber Pop;Pop Soul;Baroque Pop;Indie Pop;Pop;R&B;Soul|",
-"MGMT|It's Working|2010|wc9gYEoCEWU|MGMT|S11617|Neo-Psychedelia;Progressive Pop;Psychedelic Pop;Pop;Psychedelic Rock;Rock|It's Working",
+"MGMT|It's Working|2010|JyaDTiXH3R4|MGMT|S11617|Neo-Psychedelia;Progressive Pop;Psychedelic Pop;Pop;Psychedelic Rock;Rock|It's Working",
 "The Three Johns|Death of a European|1985|OZGSYjRsf5k|The Three Johns|S3903|Dance-Punk;Post-Punk;Rock|Murder of John Lennon",
 "Robert Palmer|Looking for Clues|1980|92wCPfqyVbg|Robert Palmer (singer)|S8179|New Wave;Pop Rock;Pop;Rock|",
 "1000 Clowns|Not the Greatest Rapper|1997|mtoR-LXChIk|1000 Clowns|S9122|Pop Rap;Hip Hop|",
