@@ -9591,7 +9591,7 @@ const songs = [
 "Eric B. & Rakim|Juice (Know the Ledge)|1992|OPkWYTUiPTo|Eric B. & Rakim|S6296|Boom Bap;East Coast Hip Hop;Jazz Rap;Hip Hop|",
 "Bob Dylan|When I Paint My Masterpiece|1971|QElRIP-r9l4|Bob Dylan|S10247|Folk Rock;Singer/Songwriter;Rock|When I Paint My Masterpiece",
 "The Turtles|It Ain't Me Babe|1965|aEcVjF0P7SQ|The Turtles|S8861|Folk Rock;Pop Rock;Pop;Rock|It Ain't Me Babe",
-"Puff Daddy|Bad Boy for Life|2001|3Yd4GG3bed0|Sean Combs|S7836|East Coast Hip Hop;Pop Rap;Hip Hop|Victory (Puff Daddy song)",
+"Puff Daddy|Bad Boy for Life|2001|GbJO59nWQRU|Sean Combs|S7836|East Coast Hip Hop;Pop Rap;Hip Hop|Victory (Puff Daddy song)",
 "Bobby Marchan|There's Something On Your Mind|1960|Tvf_4_JNA80|Bobby Marchan|S10262|New Orleans R&B;Soul;R&B|There's Something on Your Mind",
 "Blue Swede|Hooked on a Feeling|1973|w5jkAkm4JmM|Blue Swede|S10213|Europop;Pop Rock;Pop;Rock|",
 "O.C. Smith|Little Green Apples|1968|HnhrBGzcN3Q|O. C. Smith|S7777|Country Soul;R&B;Soul|Little Green Apples",
