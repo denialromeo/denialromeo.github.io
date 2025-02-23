@@ -67,7 +67,7 @@ const classical = [
 "Georg Philipp Telemann|Trumpet Concerto in D major|1708-1714|lMsncAgvIXo|Georg Philipp Telemann|",
 "Antonio Vivaldi|Concerto for Two Trumpets|1711|SVtLeR2K8sk|Antonio Vivaldi|",
 "Antonio Vivaldi|L’estro armonico|1711|xn4KUN3yfMg|Antonio Vivaldi|",
-"Antonio Vivaldi|Stabat Mater|1712|r9O80oxwhp8|Antonio Vivaldi|Stabat Mater",
+"Antonio Vivaldi|Stabat Mater|1712|zIpbgr9aUEo|Antonio Vivaldi|Stabat Mater",
 "François Couperin|Twenty-seven Ordres|1713-1730|bNj8bgnmErc|François Couperin|",
 "Johann Sebastian Bach|Orgelbüchlein|1708-1717|vGz-QhGgB_4?start=138|Johann Sebastian Bach|Orgelbüchlein",
 "Antonio Vivaldi|Juditha triumphans|1716|dd_2D9Rg_Tk|Antonio Vivaldi|Juditha triumphans",
