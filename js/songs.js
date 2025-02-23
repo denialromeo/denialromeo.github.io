@@ -8746,7 +8746,7 @@ const songs = [
 "Frank Sinatra|I'm a Fool to Want You|1951|wV9OcYhk4CU|Frank Sinatra|S13478|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop|I'm a Fool to Want You",
 "Boris Vian|Je bois|1956|21Q-8MuIxu8|Boris Vian|S10273|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "The Jimi Hendrix Experience|Voodoo Chile|1968|yNC0sF9KgM4|Jimi Hendrix|S14561|Acid Rock;Blues Rock;Electric Blues;Blues;Psychedelic Rock;Rock|Voodoo Chile",
-"The Bobbettes|Mr. Lee|1957|Y9-iomXVZZQ|The Bobbettes|S2788|Doo-Wop;Girl Group;Pop;R&B;Vocal Group|Mr. Lee (song)",
+"The Bobbettes|Mr. Lee|1957|M2-Rlr3EiFM|The Bobbettes|S2788|Doo-Wop;Girl Group;Pop;R&B;Vocal Group|Mr. Lee (song)",
 "Léo Ferré|La Vie d'artiste|1951|4DKHW1FSpew|Léo Ferré|S11416|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "Indochine|L'aventurier|1982|M7X6oYg6iro|Indochine (band)|S11075|French Pop;New Wave;Synthpop;Electronic;Pop;Rock|L'Aventurier (song)",
 "Jens Lekman|A Postcard to Nina|2007|FqWu04lrBI0|Jens Lekman|S4336|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop|",
