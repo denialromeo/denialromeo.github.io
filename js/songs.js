@@ -5253,7 +5253,7 @@ const songs = [
 "DeFord Bailey|Pan American Blues|1927|GXAM2FhN3bs|DeFord Bailey|S4055|Country Blues;Acoustic Blues;American Folk Music;Blues;Folk;Regional Music;Traditional Folk Music|",
 "The Shirelles|Soldier Boy|1962|eT4jgYQqE7I|The Shirelles|S1642|Girl Group;Pop|Soldier Boy (The Shirelles song)",
 "Carole King|So Far Away|1971|eBI669Ac3cg|Carole King|S5722|Folk Pop;Singer/Songwriter;Soft Rock;Contemporary Folk;Folk;Pop;Pop Rock;Rock|So Far Away (Carole King song)",
-"Sun Kil Moon|Ben's My Friend|2014|-vYgEsR0krw|Sun Kil Moon|S9621|Folk Rock;Singer/Songwriter;Rock|Ben Gibbard",
+"Sun Kil Moon|Ben's My Friend|2014|U9RfKKfNT0Q|Sun Kil Moon|S9621|Folk Rock;Singer/Songwriter;Rock|Ben Gibbard",
 "Nazz|Open My Eyes|1968|PjKx-yLOGEY|Nazz|S7672|Garage Rock;Psychedelic Rock;Rock|",
 "Memphis Jug Band|Stealin' Stealin'|1929|ZQzX1OuiulU|Memphis Jug Band|S7514|Jug Band;Acoustic Blues;American Folk Music;Blues;Folk;Regional Music;Traditional Folk Music|",
 "The Rolling Stones|Sweet Virginia|1972|tIfQipkkOqs|The Rolling Stones|S8227|Country Rock;Roots Rock;Rock|Sweet Virginia",
