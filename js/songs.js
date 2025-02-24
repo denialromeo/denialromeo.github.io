@@ -10631,7 +10631,7 @@ const songs = [
 "Justice|Safe and Sound|2016|uXj8FM7lTrw|Justice (band)|S16108|Electro House;French House;Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House|Safe and Sound (Justice song)",
 "Pink Floyd|Have a Cigar|1975|tbdpv7G_PPg|Pink Floyd|S11905|Art Rock;Rock|",
 "Barry White|Let the Music Play|1975|tfFjm-6cbu8|Barry White|S14102|Disco;Smooth Soul;Dance;R&B;Soul|",
-"Maxime Le Forestier|Mon frère|1971|tA7Ey1TYEyg|Maxime Le Forestier|S13564|Chanson;Contemporary Folk;Singer/Songwriter;Folk;Regional Music|",
+"Maxime Le Forestier|Mon frère|1971|tA7Ey1TYEyg|Maxime Le Forestier|S13564|Chanson;Contemporary Folk;Singer/Songwriter;Folk;Regional Music|https://fr.wikipedia.org/wiki/Maxime_Le_Forestier_(album)",
 "Téléphone|Argent trop cher|1980|AZcypfABSzw|Téléphone|S12409|Punk Rock;Rock|",
 "Jo Jo Gunne|Run, Run, Run|1972|AqYYhbDbnsI?start=4|Jo Jo Gunne|S6921|Hard Rock;Rock|",
 "Two Door Cinema Club|Something Good Can Work|2009|f0hjjFoId30|Two Door Cinema Club|S8870|Indie Pop;Pop|",
