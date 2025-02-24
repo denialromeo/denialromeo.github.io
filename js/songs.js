@@ -1315,7 +1315,7 @@ const songs = [
 "The Smiths|Panic|1986|wMykYSQaG_c|The Smiths|S369|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Panic (The Smiths song)",
 "Interpol|Obstacle 1|2002|OC5zHACynR4|Interpol (band)|S3115|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|Obstacle 1",
 "Bruce Springsteen|Streets of Philadelphia|1994|4z2DtNW79sQ|Bruce Springsteen|S2948|Pop Rock;Singer/Songwriter;Pop;Rock|Streets of Philadelphia",
-"The Shangri-Las|Remember (Walkin' in the Sand)|1964|V5YxtweUxrA|The Shangri-Las|S1419|Brill Building;Girl Group;Pop|",
+"The Shangri-Las|Remember (Walking in the Sand)|1964|V5YxtweUxrA|The Shangri-Las|S1419|Brill Building;Girl Group;Pop|Remember (Walking in the Sand)",
 "David Bowie|Suffragette City|1972|ED3SBJhawcA|David Bowie|S3230|Glam Rock;Rock|Suffragette City",
 "The Saints|(I'm) Stranded|1976|GDA07APPFyk|The Saints (Australian band)|S665|Punk Rock;Rock|",
 "Metallica|One|1988|WM8bTdBs-cw|Metallica|S1998|Thrash Metal;Metal;Rock|One (Metallica song)",
