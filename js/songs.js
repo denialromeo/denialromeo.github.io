@@ -9398,7 +9398,7 @@ const songs = [
 "Daniel Darc|Je me souviens, je me rappelle|2004|aa2C2Z9rrYs|Daniel Darc|S10496|Nouvelle chanson française;Chanson;Regional Music|",
 "Yardbirds|Still I'm Sad|1965|ONVXNH7D4Qw|The Yardbirds|S9082|Blues Rock;British Rhythm & Blues;Garage Rock;R&B;Rhythm & Blues;Rock|",
 "Carl Perkins|Dixie Fried|1956|XiZiYOKQLbI|Carl Perkins|S5716|Rockabilly;Rock;Rock & Roll|",
-"Twin Shadow|Slow|2010|Wo17ungbCEA|Twin Shadow|S8868|New Wave;Synthpop;Electronic;Pop;Rock|Forget (Twin Shadow album)",
+"Twin Shadow|Slow|2010|hyO7P6LE7nA|Twin Shadow|S8868|New Wave;Synthpop;Electronic;Pop;Rock|Forget (Twin Shadow album)",
 "The Specials|Stereotype|1980|fxQ5ooPT4Gw|The Specials|S2893|2 Tone;Ska|Stereotype (The Specials song)",
 "Feeder|Buck Rogers|2001|GKMbjxOnymk|Feeder (band)|S6363|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Buck Rogers (song)",
 "Lucio Dalla|Caruso|1986|JqtSuL3H2xs|Lucio Dalla|S11494|Canzone d'autore;Contemporary Folk;Folk;Singer/Songwriter|Caruso (song)",
