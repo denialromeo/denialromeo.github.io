@@ -5979,7 +5979,7 @@ const songs = [
 "Hot Chip|Flutes|2012|oo2lCREilQw|Hot Chip|S5016|Electropop;Synthpop;Electronic;Pop|",
 "A$AP Rocky|Fuckin' Problems|2012|liZm1im2erU|ASAP Rocky|S9907|East Coast Hip Hop;Pop Rap;Hip Hop|Fuckin' Problems",
 "Archers of Loaf|Web in Front|1993|4ZkEob55qso|Archers of Loaf|S4584|Indie Rock;Alternative Rock;Rock|",
-"Fatboy Slim|Gangster Tripping|1998|nH3vpEqYNI0|Fatboy Slim|S6354|Big Beat;Instrumental Hip Hop;Breakbeat;Dance;Electronic;Electronic Dance Music;Hip Hop|Gangster Tripping",
+"Fatboy Slim|Gangster Tripping|1998|3k1comdW1Ig|Fatboy Slim|S6354|Big Beat;Instrumental Hip Hop;Breakbeat;Dance;Electronic;Electronic Dance Music;Hip Hop|Gangster Tripping",
 "Metronomy|Love Letters|2014|riEBi8BJ9Tw|Metronomy|S9595|Indie Pop;Pop|",
 "Serge Gainsbourg|Je suis venu te dire que je m'en vais|1973|xLCj3XpBEQ0|Serge Gainsbourg|S8360|Baroque Pop;Chanson;French Pop;Pop;Regional Music|",
 "The Allman Brothers Band|Statesboro Blues|1971|qf-Fy8bhGqc|The Allman Brothers Band|S5173|Blues Rock;Rock|Statesboro Blues",
