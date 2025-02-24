@@ -9507,7 +9507,7 @@ const songs = [
 "Tommy Roe|Dizzy|1969|v3l8hdhZlrk?start=6|Tommy Roe|S8810|Bubblegum;Sunshine Pop;Pop|Dizzy (Tommy Roe song)",
 "Lou Christie|Two Faces Have I|1963|e3QFcVYCBdM|Lou Christie|S14681|Pop|Two Faces Have I",
 "Floyd Cramer|Last Date|1960|JvfG9uFswis|Floyd Cramer|S6410|Nashville Sound;Country;Country Pop;Pop|",
-"Janet Jackson|Let's Wait Awhile|1986|q67WffU9t48|Janet Jackson|S11153|Contemporary R&B;Pop;R&B|Let's Wait Awhile",
+"Janet Jackson|Let's Wait Awhile|1986|GPTK7LOj24k|Janet Jackson|S11153|Contemporary R&B;Pop;R&B|Let's Wait Awhile",
 "The Clash|Remote Control|1977|1OJnvIp_Vik?start=459|The Clash|S10420|Punk Rock;Rock|Remote Control (The Clash song)",
 "Pink Floyd|The Gunner's Dream|1983|LSE7qdjy3Q0|Pink Floyd|S11912|Art Rock;Piano Rock;Pop;Pop Rock;Rock|The Gunner's Dream",
 "David Bowie|Cygnet Committee|1969|ZZ2VMPPyyck|David Bowie|S10519|Art Rock;Psychedelic Folk;Contemporary Folk;Folk;Rock|Cygnet Committee",
