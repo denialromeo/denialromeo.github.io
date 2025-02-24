@@ -3212,7 +3212,7 @@ const songs = [
 "Urge Overkill|Girl, You'll Be a Woman Soon|1994|bTVRXByWyPo|Urge Overkill|S8899|Alternative Rock;Pop Rock;Pop;Rock|Girl, You'll Be a Woman Soon",
 "Bone Thugs-N-Harmony|Tha Crossroads|1995|VMYAEHE2GrM|Bone Thugs-n-Harmony|S4863|Conscious Hip Hop;Pop Rap;Hip Hop|Tha Crossroads",
 "Little Anthony and the Imperials|Goin' out of My Head|1964|Kq204wG8UfA|Little Anthony and the Imperials|S3565|Pop Soul;Pop;R&B;Soul|Goin' Out of My Head",
-"Johnny Thunders|You Can't Put Your Arms Around a Memory|1978|TknY89kECq0|Johnny Thunders|S6991|Glam Rock;Punk Rock;Rock|You Can't Put Your Arms Around a Memory",
+"Johnny Thunders|You Can't Put Your Arms Around a Memory|1978|YgsC5aDDAew|Johnny Thunders|S6991|Glam Rock;Punk Rock;Rock|You Can't Put Your Arms Around a Memory",
 "Kansas|Dust in the Wind|1977|tH2w6Oxx0kQ|Kansas (band)|S7045|Folk Rock;Soft Rock;Pop;Pop Rock;Rock|Dust in the Wind",
 "Lyn Collins|Think (About It)|1972|e1pdOYkUc3g|Lyn Collins|S4416|Funk;Soul;R&B|Think (About It)",
 "Alannah Myles|Black Velvet|1989|qSCillVi9hw|Alannah Myles|S5144|AOR;Pop Rock;Pop;Rock|Black Velvet (song)",
