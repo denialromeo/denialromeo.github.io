@@ -9584,7 +9584,7 @@ const songs = [
 "Lindisfarne|Lady Eleanor|1970|1cIMRaNujLA|Lindisfarne (band)|S7269|British Folk Rock;Folk Rock;Rock|Lady Eleanor",
 "R.E.M.|Driver 8|1985|u7p8bkf5hBY|R.E.M.|S4468|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Driver 8",
 "New Order|Krafty|2005|UPQXqUrAnSI|New Order (band)|S7709|Alternative Dance;Synthpop;Alternative Rock;Dance;Electronic;Pop;Rock|Krafty",
-"Frank Sinatra|Blues in the Night|1958|ED5EvBzpmA0|Frank Sinatra|S9221|Vocal Jazz;Jazz|",
+"Frank Sinatra|Blues in the Night|1958|nz0p7fP6yq4|Frank Sinatra|S9221|Vocal Jazz;Jazz|",
 "Freddy Cannon|Palisades Park|1962|wgzib59HA40|Freddy Cannon|S6478|Pop;Rock & Roll;Rock|Palisades Park (Freddy Cannon song)",
 "Mercury Rev|The Dark Is Rising|2001|1N0JgOpTjdI|Mercury Rev|S7520|Dream Pop;Alternative Rock;Rock|",
 "Sandie Shaw|Girl Don't Come|1964|mp8sYIXN4K0|Sandie Shaw|S8314|Pop|",
