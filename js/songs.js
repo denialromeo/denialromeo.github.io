@@ -4427,7 +4427,7 @@ const songs = [
 "The KLF|Justified and Ancient|1991|XP5oHL3zBDg|The KLF|S186|Dance-Pop;Dance;Pop|Justified & Ancient",
 "New York Dolls|Looking for a Kiss|1973|GvmvMFXWzc8|New York Dolls|S7715|Glam Punk;Glam Rock;Proto-Punk;Punk Rock;Rock|",
 "Rancid|Time Bomb|1995|DhKHAopx7D0|Rancid (band)|S8090|Ska Punk;Punk Rock;Rock;Ska;Third Wave Ska|Time Bomb (Rancid song)",
-"Pink Floyd|Set the Controls for the Heart of the Sun|1968|JcfgJrHo9XA|Pink Floyd|S3704|Experimental Rock;Space Rock;Psychedelic Rock;Rock|Set the Controls for the Heart of the Sun",
+"Pink Floyd|Set the Controls for the Heart of the Sun|1968|djTnpN5x1aM|Pink Floyd|S3704|Experimental Rock;Space Rock;Psychedelic Rock;Rock|Set the Controls for the Heart of the Sun",
 "Status Quo|Pictures of Matchstick Men|1968|NP6RzRfVlpA|Status Quo (band)|S12296|Psychedelic Pop;Psychedelic Rock;Pop;Rock|",
 "Soccer Mommy|Your Dog|2018|Ouem6cFXJvA|Soccer Mommy|S16562|Indie Pop;Pop|Your Dog",
 "Led Zeppelin|The Battle of Evermore|1971|X_AfMHCVoxA|Led Zeppelin|S2568|Contemporary Folk;Folk Rock;Folk;Rock|The Battle of Evermore",
