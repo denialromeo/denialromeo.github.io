@@ -2190,7 +2190,7 @@ const albums = [
 "Julia Holter|Loud City Song|2013|OLAK5uy_mpPoVJ1hTa74a_uP0F5xHd3QFYBtitqCA|A5318|Loud City Song|Julia Holter|Ambient Pop;Art Pop;Pop",
 "Herbert|Bodily Functions|2001|OLAK5uy_kJC9lrzd3VXPeI4fH3uZh7hqzl1DGB85g|A1751|Bodily Functions (album)|Matthew Herbert|House;Nu Jazz;Dance;Electronic;Electronic Dance Music",
 "Miguel|Kaleidoscope Dream|2012|OLAK5uy_ncqVlXjWm8U42IhlN_R5gtpxQZky97cKI|A5229|Kaleidoscope Dream|Miguel (singer)|Alternative R&B;Contemporary R&B;R&B",
-"Fela Anikulapo Kuti|Black President|1977|OLAK5uy_n7-3xWoix3dM_3jTgdX_0laZTX7OKQ7Zk|A2035|Fela Kuti|Fela Kuti|Afrobeat;African Music;Funk;R&B;Regional Music;West African Music;Yoruba Music",
+"Fela Anikulapo Kuti|Black President|1977|OLAK5uy_lq-dWVB8G2sHzdovXuBIgyrx-loYZQeCU|A2035|Fela Kuti|Fela Kuti|Afrobeat;African Music;Funk;R&B;Regional Music;West African Music;Yoruba Music",
 "Mekons|Fear and Whiskey|1985|OLAK5uy_lMtEsvjQdM6g7UuhoYaUZxUmiTMRkTNlI|A1499|Fear and Whiskey|The Mekons|Cowpunk;Post-Punk;Country Rock;Punk Rock;Rock",
 "Jason Isbell|Southeastern|2013|OLAK5uy_n5aWcS8trMj0UHc8gPfjTdwD02Jk-Wldo|A5323|Southeastern (album)|Jason Isbell|Americana;Contemporary Folk;Singer/Songwriter;Country;Folk",
 "Doves|Lost Souls|2000|OLAK5uy_n4yx19bXOZkq3CX_xix7bm48Ak82nSTqM|A1104|Lost Souls (Doves album)|Doves (band)|Britpop;Dream Pop;Alternative Rock;Pop;Pop Rock;Rock",
