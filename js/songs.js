@@ -9415,7 +9415,7 @@ const songs = [
 "John Lennon|Woman|1980|ZhfWiU8wGCc|John Lennon|S6958|Pop Rock;Singer/Songwriter;Pop;Rock|Woman (John Lennon song)",
 "Out Hud|Hair Dude, You're Stepping on My Mystique|2002|9XJ_qx0CkRs|Out Hud|S7832|Dance-Punk;Indietronica;Electronic;Post-Punk;Rock|",
 "Placebo|Teenage Angst|1996|Fx5bfLI5slU|Placebo (band)|S7975|Alternative Rock;Rock|Teenage Angst (song)",
-"Tirzah|Holding On|2018|zexqEPvCZk8|Tirzah (musician)|S16648|Alternative R&B;Art Pop;Contemporary R&B;Pop;R&B|",
+"Tirzah|Holding On|2018|zexqEPvCZk8|Tirzah (musician)|S16648|Alternative R&B;Art Pop;Contemporary R&B;Pop;R&B|Devotion (Tirzah album)",
 "Sam & Dave|You Don't Know Like I Know|1966|izWCQE9yDhI|Sam & Dave|S3793|Southern Soul;R&B;Soul|You Oughta Know",
 "Pavement|Trigger Cut/Wounded-Kite At :17|1992|Lcrp3mGV_eg|Pavement (band)|S7907|Indie Rock;Alternative Rock;Rock|",
 "Depeche Mode|Freelove|2001|xZ3nJ6KhWOo|Depeche Mode|S6046|Synthpop;Electronic;Pop|",
