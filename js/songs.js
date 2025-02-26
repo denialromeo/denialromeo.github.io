@@ -5812,7 +5812,7 @@ const songs = [
 "Eurythmics|Would I Lie to You?|1985|Uhpu2N4rQZM|Eurythmics|S2619|Pop Rock;Pop Soul;Pop;R&B;Rock;Soul|Would I Lie to You? (Eurythmics song)",
 "The Hives|Main Offender|2000|C_Ue3PVB4tw|The Hives|S6716|Garage Punk;Garage Rock Revival;Garage Rock;Punk Rock;Rock|Main Offender (song)",
 "The National|Graceless|2013|Jpz_gUyImhw|The National (band)|S9533|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|",
-"Charly García|Demoliendo hoteles|1984|oMszTlYRxWg|Charly García|S5769|New Wave;Rock|¿Quién es la máscara? (Argentine TV series)",
+"Charly García|Demoliendo hoteles|1984|oMszTlYRxWg|Charly García|S5769|New Wave;Rock|https://es.wikipedia.org/wiki/Demoliendo_hoteles",
 "Motörhead|Bomber|1979|eVxt7zM1BrU|Motörhead|S7620|Hard Rock;Heavy Metal;Metal;Rock|",
 "White Zombie|More Human Than Human|1995|E0E0ynyIUsg|White Zombie (band)|S14008|Groove Metal;Industrial Metal;Industrial Music;Metal;Rock|More Human than Human",
 "Sarah Harmer|Basement Apartment|2000|eN2TL59FCQg|Sarah Harmer|S12161|Singer/Songwriter|",
