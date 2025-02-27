@@ -8442,7 +8442,7 @@ const songs = [
 "George Harrison|Isn't It a Pity|1970|V-eLzxxrowM|George Harrison|S6531|Folk Rock;Pop Rock;Singer/Songwriter;Pop;Rock|Isn't It a Pity",
 "Peter Fox|Alles neu|2008|qdtLCfEcPL4|Peter Fox (musician)|S7944|Hip Hop;Pop|",
 "The Pogues|Streams of Whiskey|1984|mPpGp_J3z2A|The Pogues|S14888|Celtic Punk;Celtic Rock;Folk Punk;Folk Rock;Punk Rock;Rock|",
-"Låpsley|Hurt Me|2015|X6o5dEUmusQ|Låpsley|S16926|Alternative R&B;Contemporary R&B;R&B|Hurt Me (song)",
+"Låpsley|Hurt Me|2015|X6o5dEUmusQ|Låpsley|S16926|Alternative R&B;Contemporary R&B;R&B|Hurt Me (Låpsley song)",
 "The Jackson 5|Heartbreak Hotel|1980|CgyDHL1j_Bg|The Jackson 5|S3507|Disco;Dance|This Place Hotel",
 "Depeche Mode|Home|1997|DZHs-SRJbzU|Depeche Mode|S10576|Downtempo;Electronic|Home (Depeche Mode song)",
 "The Black Crowes|She Talks to Angels|1990|5FsmkMtW0pQ|The Black Crowes|S10187|Acoustic Rock;Southern Rock;Rock|She Talks to Angels",
