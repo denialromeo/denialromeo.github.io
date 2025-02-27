@@ -7633,7 +7633,7 @@ const songs = [
 "The Novas|The Crusher|1964|N7WqVSq_QgY|The Novas (Texas band)|S14813|Garage Rock;Surf Rock;Rock;Surf Music|",
 "Arab Strap|The First Big Weekend|1996|Ts4IrHQx5f4|Arab Strap|S5222|Slowcore;Spoken Word;Alternative Rock;Indie Rock;Rock|",
 "Glahe Musette Orchestra|Beer Barrel Polka|1939|44I2lQaF37M|Will Glahé|S9232|Polka;European Folk Music;Folk;Regional Music;Traditional Folk Music|Beer Barrel Polka",
-"Suede|Beautiful Ones|1996|W_7P-bGq3Y8|Suede (band)|S8623|Britpop;Glam Rock;Alternative Rock;Pop;Pop Rock;Rock|Beautiful Ones",
+"Suede|Beautiful Ones|1996|xqovGKdgAXY|Suede (band)|S8623|Britpop;Glam Rock;Alternative Rock;Pop;Pop Rock;Rock|Beautiful Ones",
 "Vampire Weekend|Sympathy|2019|P2L0d4uUp24|Vampire Weekend|S16891|Indie Pop;Pop|",
 "Mildred Bailey|Rockin' Chair|1932|yhVOiTy7BB8|Mildred Bailey|S13232|Vocal Jazz;Jazz|Rockin' Chair (1929 song)",
 "The Divine Comedy|Everybody Knows (Except You)|1997|BsvMca0xG0c|The Divine Comedy (band)|S10609|Chamber Pop;Baroque Pop;Indie Pop;Pop|",
