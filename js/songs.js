@@ -7758,7 +7758,7 @@ const songs = [
 "Freddy Cannon|Tallahassee Lassie|1959|_G7TYPEawX0?start=16|Freddy Cannon|S6477|Rock & Roll;Rock|Tallahassee Lassie",
 "Wilson Pickett|Engine Number 9|1970|UPoTl1f26U8|Wilson Pickett|S2548|Funk;Psychedelic Soul;R&B;Soul|",
 "Iggy Pop & Kate Pierson|Candy|1990|6bLOjmY--TA|Iggy Pop|S11069|Pop Rock;Pop;Rock|Candy (Iggy Pop song)",
-"Richard and Linda Thompson|Calvary Cross|1974|HoCkonFcwew|Richard Thompson (musician)|S745|British Folk Rock;Folk Rock;Rock|Pour Down Like Silver",
+"Richard and Linda Thompson|Calvary Cross|1974|HoCkonFcwew|Richard Thompson (musician)|S745|British Folk Rock;Folk Rock;Rock|I Want to See the Bright Lights Tonight",
 "Bruce Springsteen|Tougher Than the Rest|1987|_91hNV6vuBY|Bruce Springsteen|S5653|Heartland Rock;Rock|Tougher Than the Rest",
 "Three Dog Night|Joy to the World|1970|as8K3H7Rros|Three Dog Night|S3902|Pop Rock;Pop;Rock|Joy to the World (Three Dog Night song)",
 "Kacey Musgraves|Space Cowboy|2018|Kw0ih4jPOBo|Kacey Musgraves|S16571|Contemporary Country;Country Pop;Singer/Songwriter;Country;Pop|Space Cowboy (Kacey Musgraves song)",
