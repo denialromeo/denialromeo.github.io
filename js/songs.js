@@ -9747,7 +9747,7 @@ const songs = [
 "Horace Heidt and His Brigadiers|Ti-Pi-Tin|1938|ZU-A-BWUYas|Horace Heidt|S6734|Big Band;Vaudeville;Jazz;Musical Theatre and Entertainment|",
 "Rich Homie Quan|Type of Way|2013|-KKbdErJkiY|Rich Homie Quan|S9516|Pop Rap;Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
 "Chromeo|Fancy Footwork|2007|3ZKq2ptu7qw|Chromeo|S15362|Synth Funk;Synthpop;Electronic;Funk;Pop;R&B|",
-"The Young Gods|L'Amourir|1988|4xUpTBNKlvg|The Young Gods|S2925|Industrial Rock;Industrial Music;Rock|",
+"The Young Gods|L'Amourir|1988|pz58l1RGBGE|The Young Gods|S2925|Industrial Rock;Industrial Music;Rock|",
 "Crispian St. Peters|The Pied Piper|1966|5kBj_SiZIrA|Crispian St. Peters|S5900|Sunshine Pop;Pop|The Pied Piper (song)",
 "Bob Marley and the Wailers|Roots, Rock, Reggae|1976|2jN1bqGr3ZY|Bob Marley|S5560|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
 "Leila|Soda Stream|1999|29MYyf5JF2c|Leila Arab|S7222|Downtempo;Electronic|",
