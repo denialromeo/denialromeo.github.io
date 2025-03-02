@@ -388,7 +388,7 @@ const songs = [
 "Primal Scream|Loaded|1990|vDK2svrGG_c|Primal Scream|S217|Alternative Dance;Baggy / Madchester;Neo-Psychedelia;Alternative Rock;Dance;Psychedelic Rock;Rock|Loaded (Primal Scream song)",
 "The Jam|Going Underground|1980|AE1ct5yEuVY|The Jam|S544|Mod Revival;New Wave;Mod;Rock|",
 "Thelonious Monk|'Round Midnight|1946|1gQuSdoN1nA|Thelonious Monk|S2721|Bebop;Jazz|",
-"Little Richard|Long Tall Sally|1956|eFFgbc5Vcbw|Little Richard|S1266|Rhythm & Blues;Rock & Roll;R&B;Rock|Long Tall Sally",
+"Little Richard|Long Tall Sally|1956|Q0cBzyYlJuo|Little Richard|S1266|Rhythm & Blues;Rock & Roll;R&B;Rock|Long Tall Sally",
 "Screamin' Jay Hawkins|I Put a Spell on You|1956|7kGPhpvqtOc|Screamin' Jay Hawkins|S1273|Rhythm & Blues;R&B|I Put a Spell on You",
 "John Lee Hooker|Boogie Chillen'|1948|qAJYPJ5Q5Xs|John Lee Hooker|S2696|Electric Blues;Blues|Boogie Chillen'",
 "The Beatles|Come Together|1969|45cYwDMibGo|The Beatles|S2531|Blues Rock;Pop Rock;Pop;Rock|Come Together",
