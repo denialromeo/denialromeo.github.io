@@ -6467,7 +6467,7 @@ const songs = [
 "Prince and the Revolution|Darling Nikki|1984|GA_FqxZLSMk|Prince (musician)|S11943|Film Soundtrack;Funk Rock;New Wave;Rock;Soundtracks|Darling Nikki",
 "Steve Earle|Guitar Town|1986|AINUPFbFpqg|Steve Earle|S8566|Americana;Country Rock;Country;Rock|Guitar Town",
 "Dave Dudley|Six Days on the Road|1963|4-kUyV76X-g|Dave Dudley|S2414|Truck Driving Country;Country;Honky Tonk|Six Days on the Road",
-"Kinky|Soun tha mi primer amor|2002|o_wvxbu3vWg|Kinky (band)|S13535|Latin Alternative;Latin Electronic;Pop Rock;Electronic;Hispanic Music;Latin American Music;Pop;Regional Music;Rock|Kinky (Kinky album)",
+"Kinky|Soun tha mi primer amor|2002|rvD9pXxaCps|Kinky (band)|S13535|Latin Alternative;Latin Electronic;Pop Rock;Electronic;Hispanic Music;Latin American Music;Pop;Regional Music;Rock|Kinky (Kinky album)",
 "Broken Social Scene|Stars and Sons|2002|7SZtXkEwZXk|Broken Social Scene|S5629|Indie Rock;Alternative Rock;Rock|",
 "Sean Paul|Gimme the Light|2001|8MmW_GOFS8I|Sean Paul|S8339|Pop Reggae;Ragga;Caribbean Music;Dancehall;Jamaican Music;Reggae;Regional Music|Gimme the Light",
 "Color Me Badd|I Wanna Sex You Up|1991|Oxu3pq319r0|Color Me Badd|S201|Boy Band;New Jack Swing;Contemporary R&B;Pop;R&B|I Wanna Sex You Up",
