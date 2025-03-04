@@ -3629,7 +3629,7 @@ const songs = [
 "Depeche Mode|I Feel You|1993|iTKJ_itifQg|Depeche Mode|S6044|Alternative Rock;Rock|I Feel You",
 "Joan Osborne|One of Us|1995|M6te4xieQDg|Joan Osborne|S3682|Pop Rock;Pop;Rock|One of Us (Joan Osborne song)",
 "DJ Shadow feat. Run the Jewels|Nobody Speak|2016|NUC2EQvdzmY|DJ Shadow|S16075|Hardcore Hip Hop;Hip Hop|Nobody Speak",
-"Sonic Youth|Death Valley '69|1984|Gqe7a-WIQG0|Lydia Lunch|S416|No Wave;Noise Rock;Experimental Rock;Post-Punk;Rock|Death Valley '69",
+"Sonic Youth|Death Valley '69|1984|y2Gf0MmRz9g|Lydia Lunch|S416|No Wave;Noise Rock;Experimental Rock;Post-Punk;Rock|Death Valley '69",
 "Missy Elliott feat. Pharrell Williams|WTF (Where They From)|2015|KO_3Qgib6RQ|Missy Elliott|S9817|Pop Rap;Hip Hop|WTF (Where They From)",
 "Gloria Jones|Tainted Love|1965|9obvlVPJBEg|Gloria Jones|S6586|Northern Soul;Pop Soul;Pop;R&B;Soul|Tainted Love",
 "Rhye|The Fall|2012|JJS5ywEIsA4|Rhye|S8141|Alternative R&B;Smooth Soul;Sophisti-Pop;Contemporary R&B;Pop;R&B;Soul|",
