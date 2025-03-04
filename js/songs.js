@@ -71,7 +71,7 @@ const songs = [
 "The Animals|House of the Rising Sun|1964|yxrz00XSOAo|The Animals|S1025|British Rhythm & Blues;R&B;Rhythm & Blues;Rock|The House of the Rising Sun",
 "Lou Reed|Walk on the Wild Side|1972|yOoXjYppyMM?start=3129|Lou Reed|S781|Art Rock;Glam Rock;Jazz Pop;Pop;Rock|Walk on the Wild Side (Lou Reed song)",
 "Eagles|Hotel California|1976|09839DpTctU|Eagles (band)|S632|Country Rock;Pop Rock;Pop;Rock|",
-"Jay-Z|99 Problems|2003|MzTLMp-vh9s|Jay-Z|S2443|East Coast Hip Hop;Rap Rock;Alternative Rock;Hip Hop;Rock|",
+"Jay-Z|99 Problems|2003|31GjRnXfUjo|Jay-Z|S2443|East Coast Hip Hop;Rap Rock;Alternative Rock;Hip Hop;Rock|",
 "Robyn|Dancing on My Own|2010|CcNo07Xp8aQ|Robyn|S4920|Dance-Pop;Electropop;Synthpop;Dance;Electronic;Pop|Dancing On My Own",
 "Beyoncé|Formation|2016|WDZJPJV__bQ|Beyoncé|S16036|Pop Rap;Hip Hop|Formation (song)",
 "Al Green|Let's Stay Together|1971|uSu6tcbMOu0|Al Green|S814|Southern Soul;R&B;Soul|Let's Stay Together (Al Green song)",
