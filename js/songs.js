@@ -7066,7 +7066,7 @@ const songs = [
 "Faze Action|In the Trees|1996|UKW_i-hastw|Faze Action|S54|Deep House;Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House|",
 "Wanda Jackson|Fujiyama Mama|1957|Yb7nj3dpWj4|Wanda Jackson|S4373|Country;Rockabilly;Rock;Rock & Roll|Fujiyama Mama",
 "Charlélie Couture|Comme un avion sans ailes|1981|068G1r0hP28|Charlélie Couture|S5755|French Pop;Pop|",
-"Brigitte Fontaine & Art Ensemble of Chicago|Comme à La Radio|1970|bH61SPbdqUU|Art Ensemble of Chicago|S10295|Chamber Jazz;Jazz|",
+"Brigitte Fontaine & Art Ensemble of Chicago|Comme à La Radio|1970|sZERDqRjkkw|Art Ensemble of Chicago|S10295|Chamber Jazz;Jazz|",
 "Pearl Jam|The Fixer|2009|b8I_3JVYn6U|Pearl Jam|S7924|Alternative Rock;Rock|The Fixer (song)",
 "Animal Collective|What Would I Want? Sky|2009|YoXFmo50YBI|Animal Collective|S5200|Art Pop;Neo-Psychedelia;Progressive Pop;Pop;Psychedelic Rock;Rock|",
 "Bobby Vee|The Night Has a Thousand Eyes|1962|3GQAmTznY2o|Bobby Vee|S5579|Pop|The Night Has a Thousand Eyes (song)",
