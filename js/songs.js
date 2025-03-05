@@ -5407,7 +5407,7 @@ const songs = [
 "Mosca|Bax|2011|DoAi_xY0taU|https://www.discogs.com/artist/1674765-Mosca-2|S7614|Speed Garage;Dance;Electronic;Electronic Dance Music;UK Garage|",
 "Jean Ferrat|La Montagne|1964|cR1HNrjKwYg|Jean Ferrat|S11165|Chanson;Regional Music|",
 "Emmett Miller|Lovesick Blues|1928|otNICva63mQ|Emmett Miller|S4056|Vaudeville Blues;Vocal Jazz;Blues;Jazz;Musical Theatre and Entertainment;Vaudeville|Lovesick Blues",
-"Eno|St. Elmo's Fire|1975|s-3djUYgebU|Brian Eno|S12771|Art Pop;Art Rock;Experimental Rock;Pop;Rock|",
+"Eno|St. Elmo's Fire|1975|AZKch8dZ61w|Brian Eno|S12771|Art Pop;Art Rock;Experimental Rock;Pop;Rock|",
 "Patrice Rushen|Forget Me Nots|1982|jtMHsNhQBvI|Patrice Rushen|S7860|Boogie;Dance;Disco;R&B|Forget Me Nots",
 "Michel Polnareff|La Poupée qui fait non|1966|JDkVjrYNyLo|Michel Polnareff|S7543|Chanson;French Pop;Pop;Regional Music|La Poupée qui fait non",
 "Siouxsie and the Banshees|Happy House|1980|amR6-neQBPE|Siouxsie and the Banshees|S8429|Post-Punk;Rock|Spellbound (Siouxsie and the Banshees song)",
