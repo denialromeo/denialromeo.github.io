@@ -8498,7 +8498,7 @@ const songs = [
 "The Beatles|Rocky Raccoon|1968|sDcDCZGcZj8|The Beatles|S10117|Folk Rock;Pop Rock;Pop;Rock|Rocky Raccoon",
 "The Rolling Stones|Back Street Girl|1967|2bScwCdYkDc|The Rolling Stones|S8215|Pop Rock;Pop;Rock|Back Street Girl",
 "Fairport Convention|Matty Groves|1969|1it7BP5PckI|Fairport Convention|S14381|British Folk Rock;Folk Rock;Rock|Matty Groves",
-"Franco Battiato|Prospettiva Nevski|1980|zWViOtrFcrs|Franco Battiato|S6436|Canzone d'autore;New Wave;Pop Rock;Contemporary Folk;Folk;Pop;Rock;Singer/Songwriter|Alice (singer)",
+"Franco Battiato|Prospettiva Nevski|1980|xTK-J5h2UEc|Franco Battiato|S6436|Canzone d'autore;New Wave;Pop Rock;Contemporary Folk;Folk;Pop;Rock;Singer/Songwriter|Alice (singer)",
 "Paul McCartney and Wings|Venus and Mars/Rock Show|1975|AH--2JW0vN0|Paul McCartney and Wings|S11860|Pop Rock;Pop;Rock|Venus and Mars/Rock Show",
 "Owen Pallett|Lewis Takes Off His Shirt|2010|7G-cqAehehA|Owen Pallett|S7835|Chamber Pop;Folktronica;Indietronica;Baroque Pop;Electronic;Indie Pop;Pop|",
 "Pearl Jam|State of Love and Trust|1992|uYjM-BuE3Cs|Pearl Jam|S11874|Grunge;Alternative Rock;Rock|State of Love and Trust",
