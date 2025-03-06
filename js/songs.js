@@ -10614,7 +10614,7 @@ const songs = [
 "Art of Noise|Close (To the Edit)|1984|-sFK0-lcjGU|Art of Noise|S5242|Electro;Dance;Electronic;Electronic Dance Music|",
 "Danielle Messia|De la main gauche|1982|hbuU9ni6yHs|https://fr.wikipedia.org/wiki/Danielle_Messia|S10501|French Pop;Pop|Canadian Screen Award for Best Original Song",
 "Michael Kiwanuka|Cold Little Heart|2016|nOubjLM9Cbc|Michael Kiwanuka|S16147|Deep Soul;Psychedelic Soul;R&B;Soul;Southern Soul|Love & Hate (Michael Kiwanuka album)",
-"Michel Polnareff|Âme caline|1967|BM3abxfYti8|Michel Polnareff|S13313|Chanson;French Pop;Pop;Regional Music|",
+"Michel Polnareff|Âme caline|1967|BM3abxfYti8|Michel Polnareff|S13313|Chanson;French Pop;Pop;Regional Music|Soul Coaxing",
 "The Housemartins|Build|1987|IMPMiLddsuE|The Housemartins|S14485|Doo-Wop;Indie Pop;Sophisti-Pop;Pop;R&B;Vocal Group|Build (song)",
 "Filter|Take a Picture|1999|h8MAHQhKe7Q|Filter (band)|S10809|Alternative Rock;Rock|Take a Picture (Filter song)",
 "Dodgy|Good Enough|1996|kt3vZYkMB5I|Dodgy|S6117|Britpop;Alternative Rock;Pop;Pop Rock;Rock|",
