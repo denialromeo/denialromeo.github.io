@@ -3858,7 +3858,7 @@ const songs = [
 "Foals|My Number|2012|QRR_pvZcu-o|Foals (band)|S9451|New Wave;Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|My Number (Foals song)",
 "Willie Mae \"Big Mama\" Thornton|Ball 'n' Chain|1968|TixL6Tycgho|Big Mama Thornton|S4874|Electric Blues;Soul Blues;Blues|Ball and Chain (Big Mama Thornton song)",
 "David Bowie|Warszawa|1977|EAD1j32TiiY|David Bowie|S10533|Ambient;Progressive Electronic;Electronic|Warszawa (song)",
-"The Shangri-Las|Give Him a Great Big Kiss|1964|01YePzk29Mc|The Shangri-Las|S1420|Brill Building;Girl Group;Pop|",
+"The Shangri-Las|Give Him a Great Big Kiss|1964|01YePzk29Mc|The Shangri-Las|S1420|Brill Building;Girl Group;Pop|Give Him a Great Big Kiss",
 "The Clash|London's Burning|1977|c7pw_TCaEvo|The Clash|S5825|Punk Rock;Rock|London's Burning (The Clash song)",
 "Billie Holiday|Gloomy Sunday|1941|XQ2AuLaClmk|Billie Holiday|S5450|Vocal Jazz;Jazz|Gloomy Sunday",
 "The Chemical Brothers|Out of Control|1999|6sOpbRL8R4g|The Chemical Brothers|S1370|Tech Trance;Techno;Dance;Electronic;Electronic Dance Music;Trance|Out of Control (The Chemical Brothers song)",
