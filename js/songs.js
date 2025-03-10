@@ -9041,7 +9041,7 @@ const songs = [
 "Radiohead|Like Spinning Plates|2001|LnIHVvEwbLk|Radiohead|S13603|Art Pop;Electronic;Pop|",
 "Steve Arrington|Feel So Real|1985|mxWvvQWVM9M|Steve Arrington|S8565|Boogie;Dance-Pop;Dance;Disco;Pop;R&B|Feel So Real",
 "Sleigh Bells|Comeback Kid|2012|YiwcUdX7XMw|Sleigh Bells (band)|S8451|Noise Pop;Alternative Rock;Rock|Comeback Kid (Sleigh Bells song)",
-"John Stewart|Gold|1979|B3KGpIoE5CY|John Stewart (musician)|S6961|Soft Rock;Pop;Pop Rock;Rock|Gold (John Stewart song)",
+"John Stewart|Gold|1979|reFlgu1vq3Q|John Stewart (musician)|S6961|Soft Rock;Pop;Pop Rock;Rock|Gold (John Stewart song)",
 "Guns N' Roses|Chinese Democracy|2008|FfIZr38DLSg|Guns N' Roses|S6664|Hard Rock;Industrial Rock;Industrial Music;Rock|",
 "Billie Holiday|Solitude|1941|xiU-O8arVa8|Billie Holiday|S13682|Vocal Jazz;Jazz|",
 "Joe Dassin|Salut les amoureux|1972|dozLCl5cETs?start=3|Joe Dassin|S11220|Chanson;Regional Music|",
