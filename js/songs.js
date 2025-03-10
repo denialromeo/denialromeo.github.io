@@ -8600,7 +8600,7 @@ const songs = [
 "John Hiatt|Riding With the King|1983|aGt0uAC9FIE|John Hiatt|S6945|Heartland Rock;Pop Rock;Singer/Songwriter;Pop;Rock|",
 "Terry Riley|A Rainbow in Curved Air|1969|e4IJPA_22rw|Terry Riley|S12706|Minimalism;Progressive Electronic;Classical Music;Electronic;Modern Classical|",
 "Lou Reed|Wild Child|1972|sgfZHn-GWL0|Lou Reed|S7321|Rock|Walk on the Wild Side (Lou Reed song)",
-"Metallica|Orion|1986|iL42fwM5muE|Metallica|S11606|Progressive Metal;Thrash Metal;Metal;Rock|Orion (Metallica song)",
+"Metallica|Orion|1986|TydZ4NAXMic|Metallica|S11606|Progressive Metal;Thrash Metal;Metal;Rock|Orion (Metallica song)",
 "Marv Johnson|You Got What It Takes|1959|kvcybQy9Ffk|Marv Johnson|S7449|Rhythm & Blues;Soul;R&B|",
 "Department S|Is Vic There?|1981|YlbcNvlseVI|Department S (band)|S1872|New Wave;Post-Punk;Rock|Is Vic There%3F",
 "Fanfare Ciocărlia|lag bari|2001|U2UyUq4ibew|Fanfare Ciocarlia|S14389|Balkan Brass Band;Balkan Folk Music;Balkan Music;European Folk Music;Folk;Regional Music;Traditional Folk Music|",
