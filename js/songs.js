@@ -83,7 +83,7 @@ const songs = [
 "Elvis Presley|Hound Dog|1956|aNYWl13IWhY|Elvis Presley|S1262|Rockabilly;Rock;Rock & Roll|Hound Dog (song)",
 "Grimes|Oblivion|2012|JtH68PJIQLE|Grimes (musician)|S5013|Synthpop;Electronic;Pop|Oblivion (Grimes song)",
 "The Beatles|I Want to Hold Your Hand|1963|jenWdylTtzs|The Beatles|S1053|Merseybeat;Beat Music;Pop;Pop Rock;Rock|I Want to Hold Your Hand",
-"Jimi Hendrix|All Along the Watchtower|1968|hnfOgSjAQyU|Jimi Hendrix|S905|Acid Rock;Blues Rock;Psychedelic Rock;Rock|",
+"Jimi Hendrix|All Along the Watchtower|1968|TLV4_xaYynY|Jimi Hendrix|S905|Acid Rock;Blues Rock;Psychedelic Rock;Rock|",
 "Sinéad O'Connor|Nothing Compares 2 U|1990|NAOKzvL8dgk|Sinéad O'Connor|S212|Adult Contemporary;Pop|Nothing Compares 2 U",
 "The Smiths|How Soon Is Now?|1984|OztC_7nkAd8|The Smiths|S394|Indie Rock;Post-Punk;Alternative Rock;Rock|How Soon Is Now%3F",
 "Guns N' Roses|Sweet Child O' Mine|1987|1w7OgIMMRc4|Guns N' Roses|S303|Hard Rock;Rock|Sweet Child o' Mine",
