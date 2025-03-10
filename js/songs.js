@@ -3691,7 +3691,7 @@ const songs = [
 "Frankie Goes to Hollywood|The Power of Love|1984|NyoTvgPn0rU|Frankie Goes to Hollywood|S4464|Pop|",
 "Leonard Cohen|The Stranger Song|1967|ZqlR5D0y23s|Leonard Cohen|S9275|Contemporary Folk;Singer/Songwriter;Folk|Songs of Leonard Cohen",
 "Drake|Best I Ever Had|2009|Zfp3KfYH0xA|Drake (musician)|S6155|Contemporary R&B;Pop Rap;Hip Hop;R&B|Best I Ever Had (Drake song)",
-"Benny Goodman|And the Angels Sing|1939|heXQ-zgyfQY|Benny Goodman|S5414|Big Band;Vocal Jazz;Jazz|",
+"Benny Goodman|And the Angels Sing|1939|LXZGHROWFXs|Benny Goodman|S5414|Big Band;Vocal Jazz;Jazz|",
 "Das EFX|They Want EFX|1992|1PU22-fsGA0|Das EFX|S2050|Boom Bap;East Coast Hip Hop;Hip Hop|",
 "Pixies|Velouria|1990|nc0Mv4Iyxvc|Pixies (band)|S4484|Indie Rock;Alternative Rock;Rock|Velouria",
 "Four Tops|Standing in the Shadows of Love|1966|6zhpRu2GuAo|Four Tops|S1433|Motown Sound;Pop;Pop Soul;R&B;Soul|",
