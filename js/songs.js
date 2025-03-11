@@ -171,7 +171,7 @@ const songs = [
 "Bruce Springsteen|Born in the U.S.A.|1984|EPhWR4d3FJQ|Bruce Springsteen|S434|Heartland Rock;Pop Rock;Pop;Rock|Born in the U.S.A. (song)",
 "MGMT|Kids|2007|fe4EK4HSPkI|MGMT|S4735|Electropop;Indietronica;Synthpop;Electronic;Pop|Kids (MGMT song)",
 "Dr. Dre|Nuthin' But a 'G' Thang|1992|UGDVl32R6-g|Dr. Dre|S124|G-Funk;Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|Nuthin' but a 'G' Thang",
-"Buddy Holly & The Crickets|Peggy Sue|1957|bfu_gfPBPWc|Buddy Holly|S1234|Rockabilly;Rock;Rock & Roll|Everyday (Buddy Holly song)",
+"Buddy Holly & The Crickets|Peggy Sue|1957|_qQzuvfvBdE|Buddy Holly|S1234|Rockabilly;Rock;Rock & Roll|Everyday (Buddy Holly song)",
 "Jefferson Airplane|White Rabbit|1967|pnJM_jC7j_4|Jefferson Airplane|S950|Psychedelic Rock;Rock|White Rabbit (song)",
 "Prince|Kiss|1986|H9tEvfIsDyo|Prince (musician)|S361|Contemporary R&B;Film Soundtrack;Synth Funk;Funk;R&B;Soundtracks|Kiss (Prince song)",
 "U2|Sunday Bloody Sunday|1983|EM4vblG6BVQ|U2|S467|Alternative Rock;Post-Punk;Rock|Sunday Bloody Sunday",
