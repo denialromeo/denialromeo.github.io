@@ -9338,7 +9338,7 @@ const songs = [
 "The Nitty Gritty Dirt Band|Mr. Bojangles|1970|KKm_EgDI_-E|Nitty Gritty Dirt Band|S7757|Country Rock;Rock|Mr. Bojangles (song)",
 "Animal Collective|Who Could Win a Rabbit?|2004|UTbd0Ncsyus|Animal Collective|S2466|Freak Folk;Contemporary Folk;Folk;Psychedelic Folk|",
 "The Platters|Twilight Time|1958|UGwa2tw7Vws|The Platters|S11924|Doo-Wop;R&B;Vocal Group|Twilight Time (1944 song)",
-"Hand Habits|placeholder|2019|QYXwR9FFMVs|Hand Habits|S16790|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk|Meg Duffy",
+"Hand Habits|placeholder|2019|QYXwR9FFMVs|Hand Habits|S16790|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk|",
 "Bruce Cockburn|Wondering Where the Lions Are|1979|L6Lpx6JIMmk|Bruce Cockburn|S10304|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|",
 "Pata Negra|Camarón|1987|igBqq7uODd0|Pata Negra|S7859|Flamenco Nuevo;European Folk Music;Flamenco;Folk;Hispanic Music;Regional Music;Spanish Folk Music;Spanish Music;Traditional Folk Music|",
 "The Orlons|Don't Hang Up|1962|YlIAPDY1tgk|The Orlons|S7824|Girl Group;Rhythm & Blues;Pop;R&B|Don't Hang Up (song)",
