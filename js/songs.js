@@ -7149,7 +7149,7 @@ const songs = [
 "The Byrds|Ballad of Easy Rider|1969|r8jC1lRZGTU|The Byrds|S5688|Folk Pop;Contemporary Folk;Folk;Pop|Ballad of Easy Rider",
 "The Mindbenders|A Groovy Kind of Love|1965|jinZMqbS29M|The Mindbenders|S7561|Beat Music;Pop;Pop Rock;Rock|A Groovy Kind of Love",
 "Beyoncé|Halo|2008|bnVUHWCynig|Beyoncé|S5428|Adult Contemporary;Contemporary R&B;Pop;R&B|Halo (Beyoncé song)",
-"Jack Scott|The Way I Walk|1958|7i6fFIp-xlw|Jack Scott (singer)|S11100|Rockabilly;Rock;Rock & Roll|",
+"Jack Scott|The Way I Walk|1958|mBFuMBK1fwA|Jack Scott (singer)|S11100|Rockabilly;Rock;Rock & Roll|",
 "Better Than Ezra|Good|1995|Zhs0JD6XJyQ|Better Than Ezra|S14132|Post-Grunge;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|Good (Better Than Ezra song)",
 "clor|Love and Pain|2005|c4THR70i6gk|Clor|S3038|Dance-Punk;Indietronica;Electronic;Post-Punk;Rock|",
 "Nick Drake|Cello Song|1969|h4y8WGOJu_c|Nick Drake|S11751|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk|",
