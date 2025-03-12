@@ -4672,7 +4672,7 @@ const songs = [
 "Depeche Mode|Policy of Truth|1990|M2VBmHOYpV8|Depeche Mode|S4482|Synthpop;Electronic;Pop|Policy of Truth",
 "Eminem|Guilty Conscience|1999|Xbw_BxDwdjk|Eminem|S2183|Hardcore Hip Hop;Hip Hop|Guilty Conscience (song)",
 "Queen|You're My Best Friend|1975|HaZpZQG2z10?start=5|Queen (band)|S8042|Pop Rock;Pop;Rock|You're My Best Friend (Queen song)",
-"Sam & Dave|I Thank You|1968|OLKiyo48VJI|Sam & Dave|S3792|Southern Soul;R&B;Soul|I Thank You (song)",
+"Sam & Dave|I Thank You|1968|6_jH-TXUhzU|Sam & Dave|S3792|Southern Soul;R&B;Soul|I Thank You (song)",
 "Sidney Bechet|Maple Leaf Rag|1932|e3EkeWJPKZw|Sidney Bechet|S13249|Dixieland;Jazz|Maple Leaf Rag",
 "Mick Jagger|Memo from Turner|1970|pItzBEzzBm0|Mick Jagger|S2992|Blues Rock;Film Soundtrack;Rock;Soundtracks|",
 "Flamin' Groovies|Slow Death|1972|um50PO7NpvU|Flamin' Groovies|S6382|Garage Rock;Proto-Punk;Rock|",
