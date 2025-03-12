@@ -9521,7 +9521,7 @@ const songs = [
 "Aretha Franklin|A Change Is Gonna Come|1967|amVCS5ttGcE|Aretha Franklin|S13667|Deep Soul;R&B;Soul;Southern Soul|A Change Is Gonna Come",
 "The 101ers|Keys to Your Heart|1976|6w9P3BX5UyM|The 101ers|S5060|Proto-Punk;Pub Rock;Rock|",
 "Gil Scott-Heron|Winter in America|1974|kS_3ZtKRhBQ|Gil Scott-Heron|S4270|Jazz-Funk;Soul;Soul Jazz;Funk;Jazz;R&B|",
-"Golden Gate Orchestra|Charleston|1925|tL3yKTdlcsA|https://www.discogs.com/artist/1990693-Golden-Gate-Orchestra|S15523|Big Band;Jazz|",
+"Golden Gate Orchestra|Charleston|1925|tL3yKTdlcsA|The California Ramblers|S15523|Big Band;Jazz|",
 "Pet Shop Boys|So Hard|1990|jFAA6Z_YIEM|Pet Shop Boys|S7937|Dance-Pop;Synthpop;Dance;Electronic;Pop|",
 "Yeah Yeah Noh|Another Side to Mrs. Quill|1985|cJtWpgzO5d4|Yeah Yeah Noh|S9085|Indie Pop;Pop|",
 "Junior Giscombe|Mama Used to Say|1981|gAWnb1yxr5M|Junior Giscombe|S1868|Boogie;Contemporary R&B;Dance;Disco;R&B|Mama Used to Say",
