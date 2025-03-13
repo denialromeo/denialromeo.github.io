@@ -7432,7 +7432,7 @@ const songs = [
 "Elvis Presley|Stuck on You|1960|kJ6yAYHsHqg|Elvis Presley|S6259|Pop;Rhythm & Blues;Rock & Roll;R&B;Rock|Stuck on You (Elvis Presley song)",
 "Big Sean|Control|2013|xufJHc2EdBA|Big Sean|S9412|Hardcore Hip Hop;Hip Hop|Control (Big Sean song)",
 "Polo G feat. Lil Tjay|Pop Out|2019|g-uW3I_AtDE|Polo G|S16846|Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|Pop Out",
-"Charlie Haden|Song for Ché|1970|IMDWVl11D_A|Charlie Haden|S13166|Experimental Big Band;Avant-Garde Jazz;Big Band;Jazz|",
+"Charlie Haden|Song for Ché|1970|W2j-AQOZAUo|Charlie Haden|S13166|Experimental Big Band;Avant-Garde Jazz;Big Band;Jazz|",
 "James Brown|The Boss|1973|jC2ZY2loo74|James Brown|S11134|Jazz-Funk;Funk;Jazz;R&B|",
 "Catupecu Machu|Y lo que quiero es que pises sin el suelo|2000|4XErfE9Zk9U|Catupecu Machu|S10365|Alternative Rock;Rock|",
 "Mariah Carey|Heartbreaker|1999|kMCGvtlL4fw|Mariah Carey|S7424|Contemporary R&B;Dance-Pop;Dance;Pop;R&B|Heartbreaker (Mariah Carey song)",
