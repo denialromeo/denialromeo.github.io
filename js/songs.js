@@ -6478,7 +6478,7 @@ const songs = [
 "Soulwax|NY Excuse|2004|a74-ZqWN_5c|Soulwax|S8503|Electro House;Electroclash;Indietronica;Dance;Electronic;Electronic Dance Music;House|Any Minute Now (Soulwax album)",
 "Luciano|It's Me Again Jah|1994|b67e_mobuL0|Luciano (singer)|S14695|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
 "The Byrds|Have You Seen Her Face|1967|25YxNSkLDB8|The Byrds|S10336|Folk Rock;Pop Rock;Psychedelic Pop;Pop;Rock|Have You Seen Her Face",
-"Evelyn \"Champagne\" King|Love Come Down|1982|ASiqxSwHpQ8|Evelyn \"Champagne\" King|S10769|Boogie;Dance;Disco;R&B|",
+"Evelyn \"Champagne\" King|Love Come Down|1982|ASiqxSwHpQ8|Evelyn \"Champagne\" King|S10769|Boogie;Dance;Disco;R&B|Love Come Down",
 "Hurts|Wonderful Life|2010|1TB1x67Do5U|Hurts|S4919|Sophisti-Pop;Synthpop;Electronic;Pop|Wonderful Life (Hurts song)",
 "Belle and Sebastian|Wrapped Up in Books|2003|iBU-MxydbWQ|Belle and Sebastian|S5405|Chamber Pop;Twee Pop;Baroque Pop;Indie Pop;Pop|",
 "Girls|Hellhole Ratrace|2008|lcqwfFKagH4|Girls (band)|S4800|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|",
