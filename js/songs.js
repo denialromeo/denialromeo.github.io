@@ -2846,7 +2846,7 @@ const songs = [
 "Black Sabbath|Supernaut|1972|7H4PIWBcnYs|Black Sabbath|S5486|Heavy Metal;Metal;Rock|Supernaut (song)",
 "Kanye West|Bound 2|2013|BBAtAM7vtgc|Kanye West|S9475|Experimental Hip Hop;Pop Rap;Hip Hop|Bound 2",
 "The Rolling Stones|Shine a Light|1972|N46DHEtWEm4|The Rolling Stones|S8226|Blues Rock;Rock|Shine a Light (Rolling Stones song)",
-"Steve Miller Band|Take the Money and Run|1976|-WCFUGCOLLU|Steve Miller Band|S684|Pop Rock;Pop;Rock|Take the Money and Run (Steve Miller Band song)",
+"Steve Miller Band|Take the Money and Run|1976|qbGFrrifeEs|Steve Miller Band|S684|Pop Rock;Pop;Rock|Take the Money and Run (Steve Miller Band song)",
 "Steve Winwood|Higher Love|1986|XqeMDAv_i6k|Steve Winwood|S376|Blue Eyed Soul;Pop Soul;Pop;R&B;Soul|Higher Love",
 "Chuck Berry|Promised Land|1964|cK6MElklfvM|Chuck Berry|S1041|Rock & Roll;Rock|Promised Land (Chuck Berry song)",
 "Tinashe|2 On|2014|XGDsRXF-7s0|Tinashe|S9581|Contemporary R&B;R&B|2 On",
