@@ -818,7 +818,7 @@ const songs = [
 "The Beatles|Across the Universe|1969|90M60PzmxEE|The Beatles|S2551|Psychedelic Folk;Psychedelic Pop;Contemporary Folk;Folk;Pop|Across the Universe",
 "Bob Dylan|Masters of War|1963|JEmI_FT4YHU|Bob Dylan|S2412|Contemporary Folk;Singer/Songwriter;Folk|Masters of War",
 "Weezer|Say It Ain't So|1994|ENXvZ9YRjbo|Weezer|S2101|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Say It Ain't So",
-"The Walker Brothers|The Sun Ain't Gonna Shine Anymore|1966|tTljMHlyA1o|The Walker Brothers|S979|Baroque Pop;Brill Building;Pop|The Sun Ain't Gonna Shine (Anymore)",
+"The Walker Brothers|The Sun Ain't Gonna Shine Anymore|1966|Gu-5smUuxMo?start=7|The Walker Brothers|S979|Baroque Pop;Brill Building;Pop|The Sun Ain't Gonna Shine (Anymore)",
 "Green Day|American Idiot|2004|Ee_uujKuJMI|Green Day|S2474|Pop Punk;Punk Rock;Rock|American Idiot (song)",
 "Neil Young|After the Gold Rush|1970|d6Zf4D1tHdw|Neil Young|S2547|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|After the Gold Rush (song)",
 "Harry Nilsson|Everybody's Talkin'|1968|9kznTMxOsxo|Harry Nilsson|S928|Baroque Pop;Film Soundtrack;Pop;Soundtracks|Everybody's Talkin'",
