@@ -2782,7 +2782,7 @@ const albums = [
 "Bill Haley and His Comets|Shake, Rattle and Roll|1954|PL1X3qTzT40Vk1qJsmGslmNLsbVKESOuq6|A1256|Shake, Rattle and Roll (album)|Bill Haley & His Comets|Rock & Roll;Rock",
 "Van Morrison|Avalon Sunset|1989|OLAK5uy_mumXNGfYRbwr9iKvs1H5Irp0OoWlBOo0A|A765|Avalon Sunset|Van Morrison|Pop Rock;Pop;Rock",
 "The Original Motion Picture Cast|The Wizard of Oz|1956|OLAK5uy_meDa3n3nFFedMJ2czlrYvVstdGVO2Ofj8|A2257|Musical selections in The Wizard of Oz|Harold Arlen|Film Soundtrack;Soundtracks",
-"Frank Sinatra|Come Dance with Me!|1959|OLAK5uy_m-eWJ1utXNMFJWBfDrK4gNuupzqWojEm0|A1872|Come Dance with Me! (album)|Frank Sinatra|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
+"Frank Sinatra|Come Dance with Me!|1959|PLtj8ApV9GPjJxbVZPMRYBuTmStzlqLKJI|A1872|Come Dance with Me! (album)|Frank Sinatra|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
 "Jason Isbell|Something More Than Free|2015|OLAK5uy_mkzHfQena9H2-9EkLFEytwDr97ovF7zEo|A5579|Something More Than Free|Jason Isbell|Americana;Singer/Songwriter;Country",
 "Madonna|Confessions on a Dance Floor|2005|OLAK5uy_lvbUP0hqTKlFccBJbuBiEN5t89E4QKI1Q|A4222|Confessions on a Dance Floor|Madonna (entertainer)|Dance-Pop;Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House;Pop",
 "Paul McCartney|Chaos and Creation in the Backyard|2005|OLAK5uy_lTjpalcx2wY_wX40c2TfpEiNlbLLdXFP4|A4212|Chaos and Creation in the Backyard|Paul McCartney|Pop;Singer/Songwriter",
