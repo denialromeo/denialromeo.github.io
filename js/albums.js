@@ -824,7 +824,7 @@ const albums = [
 "Bruce Springsteen|Tunnel of Love|1987|OLAK5uy_kzffdY_cJkoCRhUeuDkaEhb5kbWvEC8SU|A695|Tunnel of Love (album)|Bruce Springsteen|Pop Rock;Singer/Songwriter;Pop;Rock",
 "Simon and Garfunkel|Parsley, Sage, Rosemary & Thyme|1966|OLAK5uy_nsoNCCE9a4_MHaKQYCiNhIpcFZmr9simE|A70|Parsley, Sage, Rosemary and Thyme|Simon & Garfunkel|Folk Pop;Folk Rock;Contemporary Folk;Folk;Pop;Rock",
 "Little Feat|Sailin' Shoes|1972|OLAK5uy_mM9HVwAeP-u-t_B7kEr5QT2sUvRxdIaGY|A267|Sailin' Shoes|Little Feat|Boogie Rock;Southern Rock;Blues Rock;Rock",
-"Fennesz|Endless Summer|2001|OLAK5uy_nau5spVQUtOGwDB4OiRope1rk2oJXrbvw|A3882|Endless Summer (Fennesz album)|Fennesz|Glitch;Electronic;Experimental",
+"Fennesz|Endless Summer|2001|OLAK5uy_lN0noxAVIiGwJrYv2wr7QtK5c-QAnABhY|A3882|Endless Summer (Fennesz album)|Fennesz|Glitch;Electronic;Experimental",
 "Beck|Midnite Vultures|1999|OLAK5uy_nc6oJD-9dtTtbXhBxm7EJz7KyESTELf9I|A1056|Midnite Vultures|Beck|Alternative Rock;Funk Rock;Rock",
 "T. Rex|The Slider|1972|OLAK5uy_lUvxeL79A-XzFpzNvW9QW8esaolHqpvKQ|A268|The Slider|T. Rex (band)|Glam Rock;Rock",
 "Weather Report|Heavy Weather|1977|OLAK5uy_nKfEqWV_VGMeAudh8isjqshvSEekG98iM|A2025|Heavy Weather (album)|Weather Report|Jazz Fusion;Jazz",
