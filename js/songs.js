@@ -9502,7 +9502,7 @@ const songs = [
 "Barón Rojo|Los rockeros van al infierno|1982|9og-k5pBe4Y|Barón Rojo|S15262|Hard Rock;Heavy Metal;Metal;Rock|Walter Giardino",
 "Jungle Brothers|Because I Got It Like That|1987|4cj8zZmFbds|Jungle Brothers|S7024|Boom Bap;East Coast Hip Hop;Hip Hop|",
 "King Crimson|Cat Food|1970|VmnqX4iNBpI|King Crimson|S14623|Art Rock;Progressive Rock;Rock|",
-"Rod Stewart|Handbags and Gladrags|1969|ZXMMAA6tcMg|Rod Stewart|S12084|Folk Rock;Pop Rock;Pop;Rock|Handbags and Gladrags",
+"Rod Stewart|Handbags and Gladrags|1969|QrCVmWCVs-g|Rod Stewart|S12084|Folk Rock;Pop Rock;Pop;Rock|Handbags and Gladrags",
 "Oliver|Jean|1969|PDDSXmw1LDE|Oliver (singer)|S7803|Pop|Jean (song)",
 "Tommy Roe|Dizzy|1969|v3l8hdhZlrk?start=6|Tommy Roe|S8810|Bubblegum;Sunshine Pop;Pop|Dizzy (Tommy Roe song)",
 "Lou Christie|Two Faces Have I|1963|e3QFcVYCBdM|Lou Christie|S14681|Pop|Two Faces Have I",
