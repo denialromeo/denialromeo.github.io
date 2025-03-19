@@ -9236,7 +9236,7 @@ const songs = [
 "Leonard Cohen|The Partisan|1969|hs5hOhI4pEE|Leonard Cohen|S13542|Contemporary Folk;Singer/Songwriter;Folk|The Partisan",
 "Dr. Hook|The Cover of \"Rolling Stone\"|1972|wzOaIvpEynI|Dr. Hook & the Medicine Show|S6153|Country Pop;Country Rock;Musical Comedy;Comedy;Country;Pop;Rock|The Cover of \"Rolling Stone\"",
 "Slipknot|Left Behind|2001|D1jQKpse7Yw|Slipknot (band)|S8453|Nu Metal;Alternative Metal;Metal;Rock|Left Behind (Slipknot song)",
-"Drugstore|El President|1998|_6pc-tWwccU|Drugstore (band)|S2962|Alternative Rock;Rock|",
+"Drugstore|El President|1998|9U3wCDrJRDY|Drugstore (band)|S2962|Alternative Rock;Rock|",
 "Bob Dylan|I Dreamed I Saw St. Augustine|1967|UWc2e5KRq-4|Bob Dylan|S15313|Folk Rock;Singer/Songwriter;Rock|I Dreamed I Saw St. Augustine",
 "Mogwai|Mogwai Fear Satan|1997|gJRtMnZoYEs|Mogwai|S7586|Post-Rock;Rock|",
 "Electric Light Orchestra|Can't Get It Out of My Head|1974|boeZOAX_dwY|Electric Light Orchestra|S14347|Art Rock;Pop Rock;Symphonic Rock;Pop;Rock|Can't Get It Out of My Head",

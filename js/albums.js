@@ -2613,7 +2613,7 @@ const albums = [
 "4hero|Parallel Universe|1994|OLAK5uy_mZ0YC16_aqTofcP6rEZdPk2uEGapQrxbA|A3549|Parallel Universe (4hero album)|4hero|Atmospheric Drum and Bass;Dance;Drum and Bass;Electronic;Electronic Dance Music",
 "cLOUDDEAD|cLOUDDEAD|2001|OLAK5uy_lp9IutTfSDk1cKyODNmSmpH0nChGfpiHE|A4888|Clouddead (album)|Clouddead|Abstract Hip Hop;Experimental Hip Hop;Hip Hop",
 "Paul Kelly|Gossip|1986|OLAK5uy_kVwKGzs9dQIffLNdJnjU8uVpYOd4CAXNk|A2849|Gossip (Paul Kelly and the Coloured Girls album)|Paul Kelly (Australian musician)|Singer/Songwriter",
-"Rachid Taha|Diwan|1998|PLiN-7mukU_RFNS5TSpaPUp9P0XbfNUM2l|A3026|Diwân|Rachid Taha|Raï;African Music;Arabic Music;North African Music;Regional Music",
+"Rachid Taha|Diwan|1998|PLOR-Cqgmkr0Zq3T6791rYzJkrIFxuxJtH|A3026|Diwân|Rachid Taha|Raï;African Music;Arabic Music;North African Music;Regional Music",
 "The Mountain Goats|The Sunset Tree|2005|OLAK5uy_nz_h2mHUqmglhlS-WtM1EiMfD9KSxX6Os|A4171|The Sunset Tree|The Mountain Goats|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "Whitney|Light Upon the Lake|2016|OLAK5uy_nrmaaGueMeq2MDRz4qN_14X20omCitBgw|A5835|Light Upon the Lake|Whitney (band)|Indie Folk;Indie Rock;Alternative Rock;Contemporary Folk;Folk;Rock",
 "Liars|They Threw Us All in a Trench and Stuck a Monument On Top|2001|OLAK5uy_nEmMM724zeiGqxxO-43cLxzXjczxF3I2M|A3905|They Threw Us All in a Trench and Stuck a Monument on Top|Liars (band)|Dance-Punk;Noise Rock;Post-Punk;Rock",
