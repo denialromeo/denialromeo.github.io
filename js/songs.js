@@ -6291,7 +6291,7 @@ const songs = [
 "Migos|Versace (Remix)|2013|gg4bmd1canU|Migos|S9489|Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
 "Okkervil River|For Real (There's Nothing Quite Like the Blinding Light)|2005|zlB2XLmA4Ec|Okkervil River|S4649|Indie Folk;Indie Rock;Alternative Rock;Contemporary Folk;Folk;Rock|",
 "Neil Sedaka|Breaking Up Is Hard to Do|1962|tbad22CKlB4?start=7|Neil Sedaka|S1109|Brill Building;Doo-Wop;Pop;R&B;Vocal Group|Breaking Up Is Hard to Do",
-"The Cure|Charlotte Sometimes|1981|SExZz8SJ1NI|The Cure|S1864|Gothic Rock;Post-Punk;Rock|Charlotte Sometimes (song)",
+"The Cure|Charlotte Sometimes|1981|4KeII31qyck|The Cure|S1864|Gothic Rock;Post-Punk;Rock|Charlotte Sometimes (song)",
 "MFSB|Love Is The Message|1973|M3wpG6Rw-tE|MFSB|S12884|Disco;Philly Soul;Dance;R&B;Soul|Love Is the Message (MFSB song)",
 "TV on the Radio|Dancing Choose|2008|Fb1FgBThazI|TV on the Radio|S8866|Indie Rock;Indietronica;Alternative Rock;Electronic;Rock|",
 "Lyle Lovett|If I Had a Boat|1988|hpM8FjO4Vko|Lyle Lovett|S11502|Contemporary Country;Country|",
