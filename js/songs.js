@@ -8582,7 +8582,7 @@ const songs = [
 "Frank Sinatra|You Make Me Feel So Young|1956|LiILUT_Px84|Frank Sinatra|S13783|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop|You Make Me Feel So Young",
 "Patti Smith|Hey Joe (Version)|1974|HVbqHNNHx88|Patti Smith|S11854|Art Rock;Proto-Punk;Rock|Hey Joe",
 "Jimmy Spicer|Adventures of Super Rhyme (Rap)|1980|MGa5zhTVJeA|Jimmy Spicer|S11212|Disco Rap;East Coast Hip Hop;Hip Hop|",
-"Miles Davis|Spanish Key|1970|ibanLlREjTk|Miles Davis|S11649|Avant-Garde Jazz;Jazz Fusion;Jazz|",
+"Miles Davis|Spanish Key|1970|e3GLh5XQ0S4|Miles Davis|S11649|Avant-Garde Jazz;Jazz Fusion;Jazz|",
 "David Bowie|Aladdin Sane (1913-1938-197?)|1973|bc-E78guBLI|David Bowie|S10513|Art Rock;Glam Rock;Piano Rock;Pop;Pop Rock;Rock|Aladdin Sane (song)",
 "Hüsker Dü|These Important Years|1987|9IPJLiIZMVc|Hüsker Dü|S13024|Alternative Rock;Rock|",
 "Bob Marley and the Wailers|Put It On|1965|u0KTVAcswuU|Bob Marley|S9162|Reggae;Caribbean Music;Jamaican Music;Regional Music|",
