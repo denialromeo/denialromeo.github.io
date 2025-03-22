@@ -2325,7 +2325,7 @@ const albums = [
 "Duke Ellington|Such Sweet Thunder|1957|OLAK5uy_k0G3B5C3uDmOE2hh_SDQZQGQZD0Su0Ye4|A1820|Such Sweet Thunder|Duke Ellington|Big Band;Jazz",
 "Beck|Morning Phase|2014|OLAK5uy_mLGPyNfLTJrsZFGwV_vuS9YKEl4hB9Hjs|A5404|Morning Phase|Beck|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "Red Hot Chili Peppers|By the Way|2002|OLAK5uy_mIzb8byci429atL6GqqYKvYw-GVHPR5jo|A3904|The Getaway (Red Hot Chili Peppers album)|Red Hot Chili Peppers|Alternative Rock;Pop Rock;Pop;Rock",
-"WU LYF|Go Tell Fire to the Mountain|2011|OLAK5uy_n1uGnxi-_mY4DZajHWwZP5dLGz5XzawqQ|A5530|Go Tell Fire to the Mountain|WU LYF|Art Rock;Indie Rock;Alternative Rock;Rock",
+"WU LYF|Go Tell Fire to the Mountain|2011|PLlsZHYnNM0pY63O95SZciiphaGqVYwWYc|A5530|Go Tell Fire to the Mountain|WU LYF|Art Rock;Indie Rock;Alternative Rock;Rock",
 "Billie Holiday|Songs for Distingué Lovers|1958|OLAK5uy_lbPFilFs3oqMzpsozFYfp09MRHHYmvbio|A1823|Songs for Distingué Lovers|Billie Holiday|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
 "Panda Bear|Tomboy|2011|OLAK5uy_mX1rzMVzl0E5pCQ-mDnmXNHVLfdsdeE2o|A5257|Tomboy (album)|Panda Bear (musician)|Psychedelic Pop;Pop",
 "Air|Air Lore|1979|OLAK5uy_kFZWTU9LUVQYzwKLO7TrMQ_oxLH5mC5bs|A4610|Air Lore|Air (free jazz trio)|Avant-Garde Jazz;Jazz",
