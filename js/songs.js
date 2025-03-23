@@ -4867,7 +4867,7 @@ const songs = [
 "Air France|Collapsing at Your Doorstep|2008|xz3_K1CFy_w|Air France (band)|S4775|Balearic Beat;Dance;Electronic;Electronic Dance Music;House|",
 "Supertramp|Goodbye Stranger|1979|7MslMaEDWYI|Supertramp|S12370|Pop Rock;Progressive Pop;Pop;Rock|Goodbye Stranger",
 "The Velvet Underground|I Heard Her Call My Name|1968|fEWkHAIQ3gs|The Velvet Underground|S8967|Art Rock;Experimental Rock;Noise Rock;Proto-Punk;Rock|I Heard Her Call My Name",
-"Loverboy|Working for the Weekend|1981|zL8G5pBZ5CI?start=144|Loverboy|S7339|AOR;Pop Rock;Pop;Rock|Working for the Weekend",
+"Loverboy|Working for the Weekend|1981|dsgBpsNPQ50|Loverboy|S7339|AOR;Pop Rock;Pop;Rock|Working for the Weekend",
 "Virus|Imágenes paganas|1986|mCEbVR7VZxc|Virus (Argentine band)|S9047|New Romantic;Synthpop;Electronic;New Wave;Pop;Rock|",
 "A Tribe Called Quest|Award Tour|1993|P800UWoE9xs|A Tribe Called Quest|S5077|East Coast Hip Hop;Jazz Rap;Hip Hop|",
 "Charlie Poole|Don't Let Your Deal Go Down Blues|1925|vkGKfvXpFJE|Charlie Poole|S4054|Old-Time;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|",
