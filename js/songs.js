@@ -3910,7 +3910,7 @@ const songs = [
 "Duke Ellington|Cotton Tail|1940|Bq5LRQIJx3k|Duke Ellington|S10663|Big Band;Swing;Jazz|",
 "Mink DeVille|Spanish Stroll|1977|IZnz-u1LQms|Mink DeVille|S4434|Pop Rock;Pub Rock;Pop;Rock|",
 "Sky Ferreira|I Blame Myself|2013|pWo7SC-tG4U|Sky Ferreira|S9522|Synthpop;Electronic;Pop|I Blame Myself",
-"Billy Swan|I Can Help|1974|E5V2hjJ6kCg|Billy Swan|S2325|Pop|I Can Help",
+"Billy Swan|I Can Help|1974|cbCRXnh3Br4|Billy Swan|S2325|Pop|I Can Help",
 "The Who|Anyway, Anyhow, Anywhere|1965|aUkJYkVTITU|The Who|S8996|British Rhythm & Blues;Garage Rock;Mod;R&B;Rhythm & Blues;Rock|",
 "Bruce Springsteen|Highway Patrolman|1982|7EVCO7ZKVDs|Bruce Springsteen|S5649|Americana;Contemporary Folk;Singer/Songwriter;Country;Folk|Highway Patrolman",
 "Barry White|You're the First, the Last, My Everything|1974|ezPrKUIbjjs|Barry White|S3951|Disco;Soul;Dance;R&B|You're the First, the Last, My Everything",
