@@ -3589,7 +3589,7 @@ const songs = [
 "Herbie Hancock|Maiden Voyage|1966|hwmRQ0PBtXU|Herbie Hancock|S11027|Modal Jazz;Jazz|",
 "John Martyn|Solid Air|1973|PCCWqYfZVi0|John Martyn|S2580|Jazz-Rock;Singer/Songwriter;Rock|Solid Air",
 "Billie Eilish|Bury a Friend|2019|HUHC9tYz8ik|Billie Eilish|S16743|Alternative R&B;Electropop;Contemporary R&B;Electronic;Pop;R&B|Bury a Friend",
-"Raspberries|Overnight Sensation (Hit Record)|1974|B8fdckTDNI8|Raspberries (band)|S728|Power Pop;Pop;Pop Rock;Rock|",
+"Raspberries|Overnight Sensation (Hit Record)|1974|B8fdckTDNI8|Raspberries (band)|S728|Power Pop;Pop;Pop Rock;Rock|Overnight Sensation (Hit Record)",
 "Bruce Springsteen|Nebraska|1982|Oy2dpbGhaz8?start=44|Bruce Springsteen|S10314|Americana;Contemporary Folk;Singer/Songwriter;Country;Folk|Nebraska (album)",
 "Luther Ingram|(If Loving You Is Wrong) I Don't Want to Be Right|1972|iYLVJqkErcI|Luther Ingram|S7353|Southern Soul;R&B;Soul|(If Loving You Is Wrong) I Don't Want to Be Right",
 "Pink|Get the Party Started|2001|mW1dbiD_zDk|Pink (singer)|S2223|Dance-Pop;Dance;Pop|Get the Party Started",
