@@ -8376,7 +8376,7 @@ const songs = [
 "Don Gardner & Dee Dee Ford|I Need Your Lovin'|1962|WuixC9-p6rI|Don Gardner|S6123|Rhythm & Blues;Soul;R&B|I Need Your Lovin'",
 "Blue Boy|Remember Me|1997|NyMfsZYXrb4|Blue Boy (DJ)|S5510|House;Trip Hop;Dance;Downtempo;Electronic;Electronic Dance Music|Remember Me (Blue Boy song)",
 "International Pony|Leaving Home|2002|DiBFbNgH8Po|International Pony|S1518|Electropop;Electronic;Pop|",
-"Bad Brains|Banned in D.C.|1982|gnWKhq8l_5c|Bad Brains|S10061|Hardcore Punk;Punk Rock;Rock|",
+"Bad Brains|Banned in D.C.|1982|hAin8VxqN7g|Bad Brains|S10061|Hardcore Punk;Punk Rock;Rock|",
 "Spiritualized|Stop Your Crying|2001|ZcioXDdGWBM|Spiritualized|S2206|Gospel;Neo-Psychedelia;American Folk Music;Folk;Psychedelic Rock;Regional Music;Rock;Traditional Folk Music|",
 "Norah Jones|Come Away with Me|2002|lbjZPFBD6JU|Norah Jones|S7769|Jazz Pop;Vocal Jazz;Jazz;Pop|Come Away with Me (song)",
 "Bicep|Just|2015|oq2Oq1J6t70|https://www.discogs.com/artist/1540289-Bicep|S9709|Deep House;Electro;Dance;Electronic;Electronic Dance Music;House|",
