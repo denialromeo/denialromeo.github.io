@@ -6507,7 +6507,7 @@ const songs = [
 "Editors|Papillon|2009|Wq4tyDRhU_4|Editors (band)|S4796|Electronic;Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|Papillon (Editors song)",
 "Johnny Preston|Running Bear|1959|1PfrpcqLyzY|Johnny Preston|S6990|Pop|Running Bear",
 "Tom Browne|Funkin' For Jamaica|1980|XYclWyC4qQo|Tom Browne (trumpeter)|S8782|Funk;R&B|",
-"Joe South|Walk a Mile in My Shoes|1969|ofhw0lWpVZc|Joe South|S4142|Country Soul;R&B;Soul|Walk a Mile in My Shoes",
+"Joe South|Walk a Mile in My Shoes|1969|In4UDYxxqVU|Joe South|S4142|Country Soul;R&B;Soul|Walk a Mile in My Shoes",
 "Prince|Adore|1987|v8fLjiar1c8|Prince (musician)|S11942|Contemporary R&B;Smooth Soul;R&B;Soul|Adore (Prince song)",
 "Billy Murray|You're a Grand Old Rag|1906|90Cbe-xsTpM|Billy Murray (singer)|S9149|Vaudeville;Musical Theatre and Entertainment|",
 "The Tragically Hip|Ahead by a Century|1996|QE2joQsWXJg|The Tragically Hip|S8833|Folk Rock;Rock|Ahead by a Century",
