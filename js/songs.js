@@ -2458,7 +2458,7 @@ const songs = [
 "Beyoncé|Flawless (Remix)|2013|56qgO0C82vY|Beyoncé|S9569|Contemporary R&B;Pop Rap;Hip Hop;R&B|Flawless (Beyoncé song)",
 "Neil Young|Only Love Can Break Your Heart|1970|364qY0Oz-xs|Neil Young|S1719|Country Rock;Folk Rock;Singer/Songwriter;Rock|Only Love Can Break Your Heart",
 "Anita Baker|Sweet Love|1986|2w6udgiojlE|Anita Baker|S5203|Smooth Soul;R&B;Soul|Sweet Love (Anita Baker song)",
-"Neil Young|My My, Hey Hey (Out of the Blue)|1979|i6RZY4Ar3fw|Neil Young|S2599|Contemporary Folk;Folk Rock;Singer/Songwriter;Folk;Rock|Hey Hey, My My (Into the Black)",
+"Neil Young|My My, Hey Hey (Out of the Blue)|1979|i6RZY4Ar3fw|Neil Young|S2599|Contemporary Folk;Folk Rock;Singer/Songwriter;Folk;Rock|My My, Hey Hey (Out of the Blue)",
 "George Jones|She Thinks I Still Care|1962|pE1QYlATnGo|George Jones|S1086|Nashville Sound;Country;Country Pop;Pop|She Thinks I Still Care",
 "Arcade Fire|Neighborhood #3 (Power Out)|2004|0ozdCLrTrtA|Arcade Fire|S5226|Chamber Pop;Post-Punk Revival;Alternative Rock;Baroque Pop;Indie Pop;Indie Rock;Pop;Post-Punk;Rock|Neighborhood 3 (Power Out)",
 "Gladys Knight and the Pips|If I Were Your Woman|1970|74uktZ63qo4|Gladys Knight & the Pips|S3546|Soul;R&B|If I Were Your Woman (song)",
