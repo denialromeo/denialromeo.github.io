@@ -1449,7 +1449,7 @@ const songs = [
 "Steely Dan|Rikki Don't Lose That Number|1974|3tvRSFAVAqU|Steely Dan|S727|Pop Rock;Pop;Rock|",
 "Funkadelic/Parliament|Maggot Brain|1971|xby5467EbdU|Funkadelic|S3430|Psychedelic Rock;Rock|Maggot Brain (instrumental)",
 "Eric Clapton|Tears in Heaven|1992|JxPj3GAYYZ0|Eric Clapton|S163|Acoustic Rock;Adult Contemporary;Singer/Songwriter;Soft Rock;Pop;Pop Rock;Rock|Tears in Heaven",
-"T. Rex|Jeepster|1971|G3PznrYmWzc|T. Rex (band)|S824|Glam Rock;Rock|Jeepster (song)",
+"T. Rex|Jeepster|1971|FApi-kFFqUI|T. Rex (band)|S824|Glam Rock;Rock|Jeepster (song)",
 "Bing Crosby|Brother, Can You Spare a Dime?|1932|O2vmsK7SWgs|Bing Crosby|S4352|Traditional Pop;Pop|Brother, Can You Spare a Dime%3F",
 "Justin Timberlake|Rock Your Body|2002|TSVHoHyErBQ|Justin Timberlake|S2260|Dance-Pop;Dance;Pop|Rock Your Body",
 "Santana|Smooth|1999|6Whgn_iE5uc|Carlos Santana|S1374|Latin Rock;Pop Rock;Hispanic Music;Latin American Music;Pop;Regional Music;Rock|Smooth (Santana song)",
