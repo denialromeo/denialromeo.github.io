@@ -3286,7 +3286,7 @@ const songs = [
 "Weyes Blood|Everyday|2019|AJ-BFlTo5ag|Weyes Blood|S16894|Art Pop;Chamber Pop;Baroque Pop;Indie Pop;Pop|",
 "Pearl Jam|Black|1991|qgaRVvAKoqQ|Pearl Jam|S3691|Grunge;Alternative Rock;Rock|Black (Pearl Jam song)",
 "Carlos Gardel|Volver|1935|0TPtsf8nSpQ|Carlos Gardel|S5719|Tango;Hispanic Music;Latin American Music;Regional Music|Volver (song)",
-"SOS Band|Take Your Time (Do It Right)|1980|s_gqLJfd-jI|The S.O.S. Band|S3791|Boogie;Dance;Disco;R&B|",
+"SOS Band|Take Your Time (Do It Right)|1980|VTkarr8Ng1o|The S.O.S. Band|S3791|Boogie;Dance;Disco;R&B|",
 "Max Steiner|Tara's Theme|1939|rYbpEVBKbjU|Max Steiner|S7478|Film Score;Film Soundtrack;Soundtracks|https://en.wikipedia.org/wiki/Gone_with_the_Wind_(film)#Music",
 "Amos Milburn|Chicken-Shack Boogie|1948|dU9UOd5Mp6c|Amos Milburn|S5189|Rhythm & Blues;R&B|Chicken Shack Boogie",
 "Leonard Cohen|Bird on the Wire|1969|gDJ3Rts_XMA|Leonard Cohen|S7239|Contemporary Folk;Singer/Songwriter;Folk|Bird on the Wire",
