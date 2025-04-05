@@ -7303,7 +7303,7 @@ const songs = [
 "Alain Souchon|Allo Maman Bobo|1977|KG-q7vzxKY8|Alain Souchon|S5139|Chanson;French Pop;Pop;Regional Music|",
 "Paul Westerberg|Dyslexic Heart|1992|MVhBEtTSEcE|Paul Westerberg|S3948|Power Pop;Pop;Pop Rock;Rock|",
 "Doves|Black and White Town|2005|7sX4K0JRIDM|Doves (band)|S4644|Indie Rock;Alternative Rock;Rock|",
-"Tom T. Hall|The Year That Clayton Delaney Died|1971|1NSVOyhWnXM|Tom T. Hall|S8795|Progressive Country;Singer/Songwriter;Country|The Year That Clayton Delaney Died",
+"Tom T. Hall|The Year That Clayton Delaney Died|1971|6siRVk67Epw|Tom T. Hall|S8795|Progressive Country;Singer/Songwriter;Country|The Year That Clayton Delaney Died",
 "Pat Benatar|We Belong|1984|qxZInIyOBXk|Pat Benatar|S11845|Pop Rock;Pop;Rock|We Belong",
 "Band of Horses|Laredo|2010|YH8QICzCO8g|Band of Horses|S5313|Indie Rock;Alternative Rock;Rock|Laredo (Band of Horses song)",
 "Sebadoh|On Fire|1996|COMCG1p7GTk|Sebadoh|S2126|Indie Rock;Alternative Rock;Rock|",
