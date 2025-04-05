@@ -10801,7 +10801,7 @@ const songs = [
 "The Doors|Peace Frog|1970|6lnoM25D-js|The Doors|S10640|Acid Rock;Psychedelic Rock;Rock|Peace Frog",
 "The Rolling Stones|Citadel|1967|n1UHOC16VCk|The Rolling Stones|S15833|Psychedelic Pop;Psychedelic Rock;Pop;Rock|",
 "Arab Strap|The Shy Retirer|2003|DiVvqTm5tdI|Arab Strap|S5225|Indie Pop;Pop|",
-"Ought|Today, More Than Any Other Day|2014|WTIaYmzcSsE|Ought (band)|S11815|Art Punk;Post-Punk;Punk Rock;Rock|",
+"Ought|Today, More Than Any Other Day|2014|uViPwbjoCBw|Ought (band)|S11815|Art Punk;Post-Punk;Punk Rock;Rock|",
 "Washed Out|Eyes Be Closed|2011|JwxK2QsMKeU|Washed Out|S12553|Chillwave;Electronic;Indietronica|",
 "Gil Scott-Heron|B-Movie|1981|6JvpNY1QHzs|Gil Scott-Heron|S6558|Funk;Spoken Word;R&B|",
 "Holly Herndon|Chorus|2014|f68-OXMqJao|Holly Herndon|S11038|Glitch;Electronic;Experimental|",
