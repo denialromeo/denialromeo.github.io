@@ -2948,7 +2948,7 @@ const songs = [
 "Big Star|The Ballad of El Goodo|1972|tIqLdR0-EXA|Big Star|S5437|Power Pop;Pop;Pop Rock;Rock|",
 "Tears for Fears|Head Over Heels|1985|CsHiG-43Fzg|Tears for Fears|S4470|Pop Rock;Synthpop;Electronic;Pop;Rock|Head over Heels (Tears for Fears song)",
 "Grateful Dead|Touch of Grey|1987|mzvk0fWtCs0|Grateful Dead|S1959|Pop Rock;Roots Rock;Pop;Rock|Touch of Grey",
-"Rose Royce|Car Wash|1976|PkxaunLybuM|Rose Royce|S3786|Disco;Film Soundtrack;Funk;Dance;R&B;Soundtracks|Car Wash (song)",
+"Rose Royce|Car Wash|1976|TsYS68M4Eqk|Rose Royce|S3786|Disco;Film Soundtrack;Funk;Dance;R&B;Soundtracks|Car Wash (song)",
 "Goo Goo Dolls|Iris|1998|NdYWuo9OFAw|Goo Goo Dolls|S295|Film Soundtrack;Pop Rock;Pop;Rock;Soundtracks|Iris (song)",
 "Chuck Berry|Memphis, Tennessee|1959|KrbPlr4Wskc|Chuck Berry|S1191|Rock & Roll;Rock|Memphis, Tennessee (song)",
 "Mike Jones|Still Tippin'|2004|iLsLQeXyrhw|Mike Jones (rapper)|S3042|Dirty South;Southern Hip Hop;Hip Hop|Still Tippin'",
