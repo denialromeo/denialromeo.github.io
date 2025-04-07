@@ -6012,7 +6012,7 @@ const songs = [
 "Serge Gainsbourg|L'eau à la bouche|1960|Stz8SQ_xeNk|Serge Gainsbourg|S12179|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "Eddy Arnold|The Cattle Call|1955|_-UFTpiqUts|Eddy Arnold|S1298|Country Yodeling;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music;Yodeling|The Cattle Call",
 "Guns N' Roses|Don't Cry|1991|zRIbf6JqkNc|Guns N' Roses|S10989|Hard Rock;Pop Rock;Pop;Rock|Don't Cry",
-"Public Enemy|Shut 'Em Down|1991|0S2x1TT78iI|Public Enemy (band)|S11962|Conscious Hip Hop;East Coast Hip Hop;Hardcore Hip Hop;Political Hip Hop;Hip Hop|",
+"Public Enemy|Shut 'Em Down|1991|0S2x1TT78iI|Public Enemy (band)|S11962|Conscious Hip Hop;East Coast Hip Hop;Hardcore Hip Hop;Political Hip Hop;Hip Hop|Shut 'Em Down (Public Enemy song)",
 "Julian Cope|World Shut Your Mouth|1986|DhRrr6ZqiXI|Julian Cope|S7019|New Wave;Power Pop;Pop;Pop Rock;Rock|World Shut Your Mouth (song)",
 "Wilco|Poor Places|2002|uPqukZXplVs|Wilco|S4681|Indie Rock;Alternative Rock;Rock|",
 "John Lennon|Power to the People|1971|4Epue9X8bpc|Plastic Ono Band|S6953|Pop Rock;Pop;Rock|Power to the People (song)",
