@@ -7387,7 +7387,7 @@ const songs = [
 "My Bloody Valentine|Sometimes|1991|1c8Selr9Aec|My Bloody Valentine (band)|S13043|Dream Pop;Shoegaze;Alternative Rock;Rock|",
 "Black|Sweetest Smile|1987|5_k3XCb_rWQ|Black (singer)|S1970|Sophisti-Pop;Pop|Sweetest Smile",
 "Kirsty MacColl|Walking Down Madison|1991|WHTxhiRkL84|Kirsty MacColl|S7131|Alternative Dance;Alternative Rock;Dance;Rock|",
-"Cher|Alfie|1966|36Zf1IoMjr8|Cher|S5774|Traditional Pop;Pop|Alfie (Burt Bacharach song)",
+"Cher|Alfie|1966|bqN9D7PkqNI|Cher|S5774|Traditional Pop;Pop|Alfie (Burt Bacharach song)",
 "Talking Heads|Nothing But Flowers|1988|2iiGqBfyLaw|Talking Heads|S12396|Art Pop;Pop Rock;Pop;Rock|(Nothing But) Flowers",
 "Prefab Sprout|Faron Young|1985|wsqIyCP6G5g|Prefab Sprout|S7997|Indie Pop;Pop Rock;Sophisti-Pop;Pop;Rock|",
 "The Bluetones|Slight Return|1996|B-3UpL6MkZ0|The Bluetones|S2122|Britpop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Slight Return",
