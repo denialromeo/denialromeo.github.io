@@ -3965,7 +3965,7 @@ const songs = [
 "Placebo|Nancy Boy|1996|PBxuq_eWW94|Placebo (band)|S4517|Noise Pop;Alternative Rock;Rock|Nancy Boy",
 "Fuck Buttons|Surf Solar|2009|rKd7WQSk-1Y|Fuck Buttons|S4799|Electronic;Neo-Psychedelia;Psychedelic Rock;Rock|",
 "Rick Astley|Never Gonna Give You Up|1987|dQw4w9WgXcQ|Rick Astley|S8151|Dance-Pop;Dance;Pop|Never Gonna Give You Up",
-"Bran Van 3000|Astounded|2001|QUNWhKq80_s|Bran Van 3000|S1468|Neo-Soul;R&B;Soul|Astounded (Bran Van 3000 song)",
+"Bran Van 3000|Astounded|2001|RdlYgyrjP3M|Bran Van 3000|S1468|Neo-Soul;R&B;Soul|Astounded (Bran Van 3000 song)",
 "The Smiths|William, It Was Really Nothing|1984|M661HAkr_Dk|The Smiths|S435|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|William, It Was Really Nothing",
 "Joe Liggins|The Honeydripper|1945|hgmrF7btf-c|Joe Liggins|S4358|Jump-Blues;Blues|The Honeydripper",
 "Cyndi Lauper|True Colors|1986|LPn0KFlbqX8|Cyndi Lauper|S5935|Pop|True Colors (Cyndi Lauper song)",
