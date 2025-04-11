@@ -3791,7 +3791,7 @@ const songs = [
 "The Wallflowers|One Headlight|1996|Zzyfcys1aLM|The Wallflowers|S2120|Pop Rock;Pop;Rock|One Headlight",
 "All Saints|Pure Shores|2000|dVNdTXEJv1A|All Saints (group)|S1398|Ambient Pop;Pop|Pure Shores",
 "The Last Shadow Puppets|The Age of the Understatement|2008|XGV8xCkpXjE|The Last Shadow Puppets|S4753|Chamber Pop;Indie Rock;Alternative Rock;Baroque Pop;Indie Pop;Pop;Rock|",
-"James Brown|Funky Drummer|1970|AoQ4AtsFWVM|James Brown|S2298|Funk;R&B|",
+"James Brown|Funky Drummer|1970|QXw6YZltKJk|James Brown|S2298|Funk;R&B|",
 "Common|I Used to Love h.e.r.|1994|TrUERC2Zk64|Common (rapper)|S4500|Boom Bap;Conscious Hip Hop;Hip Hop|I Used to Love H.E.R.",
 "Vampire Weekend|Giving Up the Gun|2010|bccKotFwzoY|Vampire Weekend|S4934|Indie Pop;Indietronica;Electronic;Pop|Giving Up the Gun",
 "Vince Taylor & The Playboys|Brand New Cadillac|1959|cJ7oUFOsoYI|Vince Taylor|S9040|Rockabilly;Rock;Rock & Roll|Brand New Cadillac",
