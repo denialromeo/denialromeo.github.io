@@ -993,7 +993,7 @@ const songs = [
 "The Platters|The Great Pretender|1955|RBj2HN2uuNA|The Platters|S1300|Doo-Wop;Rhythm & Blues;R&B;Vocal Group|The Great Pretender",
 "Kiss|Rock and Roll All Nite|1975|EFMD7Usflbg|Kiss (band)|S697|Glam Rock;Hard Rock;Rock|Rock and Roll All Nite",
 "Django Reinhardt|Nuages|1946|DY0FF4iR9Cw|Django Reinhardt|S2734|Jazz manouche;Jazz|Nuages",
-"Herbie Hancock|Rockit|1983|GHhD4PD75zY|Herbie Hancock|S1898|Electro;Turntablism;Dance;Electronic;Electronic Dance Music;Hip Hop|",
+"Herbie Hancock|Rockit|1983|GHhD4PD75zY|Herbie Hancock|S1898|Electro;Turntablism;Dance;Electronic;Electronic Dance Music;Hip Hop|Rockit (instrumental)",
 "Car Seat Headrest|Drunk Drivers/Killer Whales|2016|ccztRby3FAk|Car Seat Headrest|S16048|Indie Rock;Alternative Rock;Rock|",
 "The Who|Pinball Wizard|1969|-J03yCE15rg|The Who|S887|Hard Rock;Rock Opera;Rock|Pinball Wizard",
 "The Drifters|Up on the Roof|1962|3C3zVHBhfd8|The Drifters|S1085|Doo-Wop;Pop Soul;Pop;R&B;Soul;Vocal Group|Up on the Roof (song)",
