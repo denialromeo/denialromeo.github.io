@@ -4373,7 +4373,7 @@ const songs = [
 "The-Dream|Yamaha|2010|L_j7eyqW8lA|The-Dream|S4931|Contemporary R&B;Synth Funk;Funk;R&B|You Make My Dreams",
 "The Black Crowes|Hard to Handle|1990|h1WItDnFtTk|The Black Crowes|S5480|Southern Rock;Rock|",
 "Hot Chip|One Life Stand|2009|hX5ywJBSuFM|Hot Chip|S6738|Electropop;Indietronica;Electronic;Pop|",
-"Lucio Dalla|Com'e profondo il mare|1977|ThA3luuqefg|Lucio Dalla|S7344|Canzone d'autore;Contemporary Folk;Folk;Singer/Songwriter|",
+"Lucio Dalla|Come è profondo il mare|1977|ThA3luuqefg|Lucio Dalla|S7344|Canzone d'autore;Contemporary Folk;Folk;Singer/Songwriter|Com'è profondo il mare",
 "Eagles|Take It to the Limit|1975|MxQXKO194XM|Eagles (band)|S718|Country Rock;Soft Rock;Pop;Pop Rock;Rock|Take It to the Limit (Eagles song)",
 "The Cure|The Love Cats|1983|mcUza_wWCfA|The Cure|S4457|New Wave;Pop Rock;Pop;Rock|The Love Cats (song)",
 "Azzido Da Bass|Dooms Night|1999|tDBBPozOtaA?start=5|Azzido Da Bass|S1376|Tech House;Dance;Electronic;Electronic Dance Music;House;Techno|Dooms Night",
