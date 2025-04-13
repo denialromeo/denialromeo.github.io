@@ -955,7 +955,7 @@ const albums = [
 "Queens of the Stone Age|Rated R|2000|PLCFC51825B199B241|A1091|Rated R (Queens of the Stone Age album)|Queens of the Stone Age|Alternative Rock;Stoner Rock;Hard Rock;Rock",
 "XTC|English Settlement|1982|OLAK5uy_mq8ATP7TsXJceKXHoQXkDk4rugQRJRp3Y|A564|English Settlement|XTC|Pop Rock;Pop;Rock",
 "Flamin' Groovies|Teenage Head|1971|OLAK5uy_mIbzIN3D3fClQ6_C2LR4ebDI605jSD724|A233|Teenage Head (Flamin' Groovies album)|Flamin' Groovies|Blues Rock;Garage Rock;Rock & Roll;Rock",
-"A Tribe Called Quest|People's Instinctive Travels and the Paths of Rhythm|1990|OLAK5uy_l-V2TVJfrsGd6cPZbR4SnGVGMqO0Qpl-k|A792|People's Instinctive Travels and the Paths of Rhythm|A Tribe Called Quest|Jazz Rap;Hip Hop",
+"A Tribe Called Quest|People's Instinctive Travels and the Paths of Rhythm|1990|OLAK5uy_mllOkCqLyQqSYjBu38C3n0usvODmo-eYw|A792|People's Instinctive Travels and the Paths of Rhythm|A Tribe Called Quest|Jazz Rap;Hip Hop",
 "Thin Lizzy|Jailbreak|1976|OLAK5uy_m_SWPkBTZmnDup9ApBZWj_RbFw6LMVZW4|A382|Jailbreak (album)|Thin Lizzy|Hard Rock;Rock",
 "Aretha Franklin|Amazing Grace|1972|OLAK5uy_nO8nO5WFSLcwqwAugnKJMCuc3KpR6kfm4|A265|Amazing Grace (Aretha Franklin album)|Aretha Franklin|Gospel;Southern Soul;American Folk Music;Folk;R&B;Regional Music;Soul;Traditional Folk Music",
 "Salif Keita|Soro|1987|OLAK5uy_mrJuZjOtvHVJSswr8XdpO9Kt9JCQJG4Nw|A2151|Soro (album)|Salif Keita|Mande Music;African Music;Regional Music;West African Music",
