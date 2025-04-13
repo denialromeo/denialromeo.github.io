@@ -4197,7 +4197,7 @@ const songs = [
 "Tone-Loc|Funky Cold Medina|1989|63ZIf2H9S0E|Tone Loc|S259|Pop Rap;West Coast Hip Hop;Hip Hop|",
 "Earth, Wind & Fire|Fantasy|1977|r58GQYFZeLE|Earth, Wind & Fire|S6187|Smooth Soul;R&B;Soul|Fantasy (Earth, Wind & Fire song)",
 "The Flirtations|Nothing But a Heartache|1968|1wkRI2SteWc|The Flirtations (R&B musical group)|S6403|Girl Group;Motown Sound;Northern Soul;Pop;Pop Soul;R&B;Soul|Nothing but a Heartache",
-"Josh Wink|Higher State of Consciousness|1995|uh8POlIHkSI|Josh Wink|S82|Acid House;Big Beat;Breakbeat;Dance;Electronic;Electronic Dance Music;House|Higher State of Consciousness",
+"Josh Wink|Higher State of Consciousness|1995|d3hAnAnJwyU|Josh Wink|S82|Acid House;Big Beat;Breakbeat;Dance;Electronic;Electronic Dance Music;House|Higher State of Consciousness",
 "Christina Aguilera|Genie in a Bottle|1999|kIDWgqDBNXA|Christina Aguilera|S3144|Teen Pop;Pop|Genie in a Bottle",
 "Dire Straits|Tunnel of Love|1980|SG5XQqaSwbM|Dire Straits|S10598|Pop Rock;Pop;Rock|",
 "Gipsy Kings|Bamboléo|1988|w-isTDv6hq0|Gipsy Kings|S6569|Rumba Catalana;Rumba Flamenca;European Folk Music;Flamenco;Folk;Hispanic Music;Regional Music;Spanish Folk Music;Spanish Music;Traditional Folk Music|Bamboléo",
