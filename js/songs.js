@@ -6854,7 +6854,7 @@ const songs = [
 "Nacha Pop|La Chica de ayer|1980|oAcwJlNdwso|Nacha Pop|S11709|New Wave;Pop Rock;Pop;Rock|La Chica de Ayer",
 "Sleater-Kinney|Get Up|1999|d9MA4rFNf7I|Sleater-Kinney|S12226|Indie Rock;Alternative Rock;Rock|",
 "Richard Hawley|Tonight the Streets Are Ours|2007|SCsKRbChILA|Richard Hawley|S8146|Chamber Pop;Singer/Songwriter;Traditional Pop;Baroque Pop;Indie Pop;Pop|",
-"Kante|Zombi|2004|OJ0eljhRHZ0|https://de.wikipedia.org/wiki/Kante_(Band)|S7047|Indie Rock;Alternative Rock;Rock|",
+"Kante|Zombi|2004|DSAtXAVCYf0|https://de.wikipedia.org/wiki/Kante_(Band)|S7047|Indie Rock;Alternative Rock;Rock|",
 "Queens of the Stone Age|The Way You Used to Do|2017|GvyNyFXHj4k|Queens of the Stone Age|S16471|Alternative Rock;Boogie Rock;Garage Rock Revival;Blues Rock;Garage Rock;Rock|The Way You Used to Do",
 "The Andrea True Connection|More, More, More|1976|yZ_QUh0lmj4|Andrea True|S12764|Disco;Dance|More, More, More",
 "The Isley Brothers|Caravan of Love|1985|foFK6q7kF9Y|Isley-Jasper-Isley|S6873|Contemporary R&B;Pop Soul;Smooth Soul;Pop;R&B;Soul|",
