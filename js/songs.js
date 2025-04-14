@@ -10483,7 +10483,7 @@ const songs = [
 "Orchestral Manoeuvres in the Dark|Joan of Arc|1981|I_KR2QnjCM8|Orchestral Manoeuvres in the Dark|S7821|Art Pop;Synthpop;Electronic;Pop|Joan of Arc (Orchestral Manoeuvres in the Dark song)",
 "Razorlight|Somewhere Else|2005|Iun3RtbCE6A|Razorlight|S3048|Indie Pop;Pop|Somewhere Else (Razorlight song)",
 "Shamir|Call It Off|2015|10Kc7RK2rOs|Shamir (musician)|S9834|Electro-Disco;Synthpop;Dance;Disco;Electronic;Electronic Dance Music;Pop|Call It Off",
-"Paul Simon|Rene and Georgette Magritte with Their Dog After the War|1983|GXbwSvG7qjk|Paul Simon|S7894|Pop Rock;Singer/Songwriter;Pop;Rock|Rene and Georgette Magritte with Their Dog after the War",
+"Paul Simon|Rene and Georgette Magritte with Their Dog after the War|1983|GXbwSvG7qjk|Paul Simon|S7894|Pop Rock;Singer/Songwriter;Pop;Rock|Rene and Georgette Magritte with Their Dog after the War",
 "Les Rita Mitsouko|Les histoires d'A|1986|ln0VwCqMkcA|Les Rita Mitsouko|S11424|French Pop;New Wave;Pop;Rock|",
 "Dum Dum Girls|Lord Knows|2012|NO602YxZrRM|Dum Dum Girls|S6169|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock|",
 "Bill Anderson|Still|1963|AMtIVKZ2WJk|Bill Anderson (singer)|S15289|Country Pop;Country;Pop|",
