@@ -6123,7 +6123,7 @@ const songs = [
 "Crazy Horse|I Don't Want to Talk About It|1971|NBz_2EqJ5wI|Crazy Horse|S5886|Roots Rock;Rock|I Don't Want to Talk About It",
 "Van Morrison|Astral Weeks|1968|4kDhaH_mXEA|Van Morrison|S8919|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk|Astral Weeks",
 "The Brothers Johnson|Stomp|1980|tPBDMihPRJA|The Brothers Johnson|S3241|Disco;Funk;Dance;R&B|Stomp! (Brothers Johnson song)",
-"Neu!|Isi|1975|oO7w90YG3Rg|Neu!|S12814|Krautrock;Experimental Rock;Progressive Rock;Rock|",
+"Neu!|Isi|1975|oO7w90YG3Rg|Neu!|S12814|Krautrock;Experimental Rock;Progressive Rock;Rock|Isi (song)",
 "The Jam|Beat Surrender|1982|MHP0UxBuuGQ|The Jam|S1883|Mod Revival;Pop Soul;Power Pop;Mod;Pop;Pop Rock;R&B;Rock;Soul|",
 "Marlene Dietrich|Lili Marlene|1945|7heXZPl2hik|Marlene Dietrich|S15685|Chanson réaliste;Schlager;Chanson;Pop;Regional Music|",
 "Tom Petty|I Won't Back Down|1989|nvlTJrNJ5lA|Tom Petty|S8788|Heartland Rock;Pop Rock;Pop;Rock|I Won't Back Down",
