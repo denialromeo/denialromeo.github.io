@@ -2172,7 +2172,7 @@ const albums = [
 "The Books|Thought for Food|2002|OLAK5uy_n-o5bBS21lzQuZfdr7pnJhW32vV5OFXLs|A3041|Thought for Food|The Books|Experimental;Folktronica;Electronic",
 "Slipknot|Slipknot|1999|OLAK5uy_ng4bRghc6r9fe2wceefMVTa_uuSDUhuVE|A3030|Slipknot (album)|Slipknot (band)|Nu Metal;Alternative Metal;Metal;Rock",
 "The Temptations|Cloud Nine|1969|OLAK5uy_npvpNoVZX5yq3I-EJsTaoSYzwOS_AHiHc|A2281|Cloud Nine (The Temptations album)|The Temptations|Psychedelic Soul;R&B;Soul",
-"Gotan Project|La revancha del tango|2001|OLAK5uy_nRB_kGnaJcCXjSt39NNMJklvaEaQXZ8cg|A4889|La Revancha del Tango|Gotan Project|Electrotango;Electronic;Hispanic Music;Latin American Music;Latin Electronic;Regional Music;Tango;Tango Nuevo",
+"Gotan Project|La revancha del tango|2001|OLAK5uy_nPvOc7VmyaQ61Vg5lk_3RUL8CCfrmsdN4|A4889|La Revancha del Tango|Gotan Project|Electrotango;Electronic;Hispanic Music;Latin American Music;Latin Electronic;Regional Music;Tango;Tango Nuevo",
 "Yves Tumor|Safe in the Hands of Love|2018|OLAK5uy_m4TNmB8gzNSM47fTH6IiRRTePSeg_aYyQ|A6044|Safe in the Hands of Love|Yves Tumor|Art Pop;Industrial;Neo-Psychedelia;Experimental;Industrial Music;Pop;Psychedelic Rock;Rock",
 "Linda Perhacs|Parallelograms|1970|OLAK5uy_kCM2xCswUH8NyAdvTghvdJZDmi2_nYJjA|A4501|Parallelograms (album)|Linda Perhacs|Psychedelic Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "Jimmy Smith|Back at the Chicken Shack|1960|OLAK5uy_nSkihhDZ6ydNuAASIacRlnhugKXS-Z65k|A1889|Back at the Chicken Shack|Jimmy Smith (musician)|Soul Jazz;Jazz",
