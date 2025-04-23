@@ -9601,7 +9601,7 @@ const songs = [
 "Iceage|Pain Killer|2018|4nbLSGDeQSE|Iceage|S16645|Art Punk;Post-Punk;Punk Rock;Rock|",
 "Louis Armstrong|Hotter Than That|1928|DegptkMFLUY|Louis Armstrong|S13554|Dixieland;Jazz|Louis Armstrong and His Hot Five",
 "Scritti Politti|Absolute|1984|teHqHmnXnhE|Scritti Politti|S15856|Sophisti-Pop;Synthpop;Electronic;Pop|",
-"Percy Faith|Delicado|1952|z1JGCIPcmt0|Percy Faith|S7929|Easy Listening;Pop|Delicado (song)",
+"Percy Faith|Delicado|1952|NCTO5SMW4kY|Percy Faith|S7929|Easy Listening;Pop|Delicado (song)",
 "Murray Head|Superstar|1970|KPHitSseT40|Murray Head|S12959|Pop Rock;Rock Opera;Pop;Rock|Superstar (Jesus Christ Superstar song)",
 "David Bowie|No Plan|2016|xIgdid8dsC8|David Bowie|S16070|Art Rock;Rock|",
 "Lio|Les Brunes comptent pas pour des prunes|1986|hkHF0xvQOok|Lio (singer)|S15657|French Pop;Pop|",
