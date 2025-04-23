@@ -2183,7 +2183,7 @@ const albums = [
 "The Wedding Present|George Best|1987|OLAK5uy_ngjH08UNfcuk1FzcRpu2yjZ25eJLppfkg|A3162|George Best (album)|The Wedding Present|C86;Jangle Pop;Alternative Rock;Indie Pop;Pop;Pop Rock;Rock",
 "Manitoba/Caribou|Up in Flames|2003|OLAK5uy_lHGwIRfXRBChOXsGVwLX3aHB7NTZYgW7M|A3920|Up in Flames (album)|Dan Snaith|Folktronica;Indietronica;Psychedelic Pop;Electronic;Pop",
 "MGMT|Congratulations|2010|OLAK5uy_mNfD53HBTYuapq652oAfddJWchjr-kMtA|A5085|Congratulations (album)|MGMT|Indie Pop;Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock",
-"Camera Obscura|Let's Get Out Of This Country|2006|OLAK5uy_n1jO6g9n83ZfPzEclq2UoKJZkrm_Dg_u8|A3047|Let's Get Out of This Country|Camera Obscura (band)|Twee Pop;Indie Pop;Pop",
+"Camera Obscura|Let's Get Out Of This Country|2006|ERROR: Suitable playlist not found|A3047|Let's Get Out of This Country|Camera Obscura (band)|Twee Pop;Indie Pop;Pop",
 "Grant Green|Idle Moments|1965|OLAK5uy_m3cPebzgon7_t2KAlHhD1EgxesDdlDyb4|A3303|Idle Moments|Grant Green|Hard Bop;Bebop;Jazz",
 "The Jon Spencer Blues Explosion|Now I Got Worry|1996|OLAK5uy_kt50HMN3zWAAQ0WmDoSZ4BjK7jNvtaH6w|A977|Now I Got Worry|Jon Spencer Blues Explosion|Alternative Rock;Garage Punk;Punk Blues;Garage Rock;Punk Rock;Rock",
 "Oneohtrix Point Never|Garden of Delete|2015|OLAK5uy_mNAqH12wofifQOTy3Z_4XPWdDik5RUVVw|A5556|Garden of Delete|Oneohtrix Point Never|Progressive Electronic;Electronic",
