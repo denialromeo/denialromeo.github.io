@@ -1366,7 +1366,7 @@ const albums = [
 "Tom Waits|Blue Valentine|1978|OLAK5uy_mdKksH1NLKsgA2qHthz4YrBShRvCSc7Pw|A1445|Blue Valentine (album)|Tom Waits|Singer/Songwriter",
 "Japan|Tin Drum|1981|OLAK5uy_lD1Vhv8onlhZ9Be2GkJpvu0BQVcSYf4lY|A522|Tin Drum (album)|Japan (band)|Art Pop;New Romantic;Synthpop;Electronic;New Wave;Pop;Rock",
 "Go-Go's|Beauty and the Beat|1981|OLAK5uy_lK3WE_XJ38mrXrpWSka0o9yfLuYBZ7pzQ|A531|Beauty and the Beat (The Go-Go's album)|The Go-Go's|New Wave;Power Pop;Pop;Pop Rock;Rock",
-"Jean Michel Jarre|Oxygène|1976|OLAK5uy_meObieGYuU0VjjS1iLpNgkaGbWWBsnGbo|A2623|Oxygène|Jean-Michel Jarre|Progressive Electronic;Electronic",
+"Jean Michel Jarre|Oxygène|1976|PLS2LNaGiGaRth7982_d7qa1kCJxJw2vv_|A2623|Oxygène|Jean-Michel Jarre|Progressive Electronic;Electronic",
 "Eno|Discreet Music|1975|OLAK5uy_mLSju1Uw9zSyDciqf8cHhLbf-1JsrDQwg|A2701|Discreet Music|Brian Eno|Ambient;Modern Classical;Classical Music",
 "The Stranglers|The Stranglers IV - Rattus Norvegicus|1977|OLAK5uy_mfiRfd9XSxeVJDF04WKw-PMS_ua9aaaxU|A410|Rattus Norvegicus (album)|The Stranglers|New Wave;Punk Rock;Rock",
 "The xx|I See You|2017|OLAK5uy_lOI0FRxVwWuau7aLOSklwEFljHY1AWkJg|A6004|I See You (The xx album)|The xx|Indietronica;Electronic",
