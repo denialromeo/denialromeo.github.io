@@ -3400,7 +3400,7 @@ const songs = [
 "Dennis Brown|Money In My Pocket|1979|O1VbRLBY6vA|Dennis Brown|S2598|Dub;Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
 "Mory Kanté|Yé ké yé ké|1987|AriwmsYtRUk|Mory Kanté|S7609|Mande Music;African Music;Regional Music;West African Music|Yé ké yé ké",
 "Jarvis Cocker|Running the World|2006|ahzNnXex5fY|Jarvis Cocker|S4024|Britpop;Singer/Songwriter;Alternative Rock;Pop;Pop Rock;Rock|",
-"Frank Zappa|Trouble Comin' Every Day|1966|oo4EnABWB4Y|Frank Zappa|S4101|Blues Rock;Experimental Rock;Garage Rock;Rock|",
+"Frank Zappa|Trouble Comin' Every Day|1966|rFNkacckLBU|Frank Zappa|S4101|Blues Rock;Experimental Rock;Garage Rock;Rock|Trouble Every Day (song)",
 "Annie|Chewing Gum|2004|uutT2pMEPqk|Annie (singer)|S2462|Dance-Pop;Electropop;Dance;Electronic;Pop|Chewing Gum (song)",
 "Judas Priest|Breaking the Law|1980|L397TWLwrUU|Judas Priest|S2604|Heavy Metal;Metal;Rock|Breaking the Law",
 "Edgar Winter Group|Free Ride|1973|rTEtdgdfXAo|Edgar Winter|S1755|Hard Rock;Pop Rock;Pop;Rock|Free Ride (song)",
