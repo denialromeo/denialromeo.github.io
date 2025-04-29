@@ -2487,7 +2487,7 @@ const albums = [
 "The Hotelier|Home, Like Noplace is There|2014|OLAK5uy_nvt6iZM6sZT17hpihSCQwIJXD0wPQ0Cyw|A5494|Home, Like Noplace Is There|The Hotelier|Emo;Pop Punk;Punk Rock;Rock",
 "Jackson Browne|For Everyman|1973|OLAK5uy_n53keTRUvwrmy-h1hshLIj9xIhc579QXE|A1380|For Everyman|Jackson Browne|Folk Rock;Singer/Songwriter;Rock",
 "Lil Wayne|Tha Carter II|2005|OLAK5uy_kVje_uw5iLfJil5qgIUtmuEFZ4arrkvwI|A4977|Tha Carter II|Lil Wayne|Gangsta Rap;Hardcore Hip Hop;Hip Hop",
-"Crystal Castles|Crystal Castles (I)|2008|OLAK5uy_mgM_2N_1SW8kph2RUCGxezgi-NRb4Y17Y|A4362|Crystal Castles (album)|Crystal Castles|Synthpop;Electronic;Pop",
+"Crystal Castles|Crystal Castles (I)|2008|OLAK5uy_kTwkzpGtKTwFX_WKnG4PhBq_0RUFf4_Fg|A4362|Crystal Castles (album)|Crystal Castles|Synthpop;Electronic;Pop",
 "Aimee Mann|Whatever|1993|OLAK5uy_kEitimObm8N7JkgGZFKhwK0YQXuT-vnq0|A1584|Whatever (Aimee Mann album)|Aimee Mann|Pop Rock;Singer/Songwriter;Pop;Rock",
 "Cecil Taylor|Nefertiti, the Beautiful One Has Come|1963|PLlZt7QwlCTXtl_WrgjQroqs3IFCUkt3rV|A1922|Nefertiti, the Beautiful One Has Come|Cecil Taylor|Free Jazz;Avant-Garde Jazz;Jazz",
 "Prince|Lovesexy|1988|OLAK5uy_kGgQ0WxbgeEmySpwyCVQvMFSukl_UGXiw|A732|Lovesexy|Prince (musician)|Contemporary R&B;Funk;Pop Rock;Pop;R&B;Rock",
