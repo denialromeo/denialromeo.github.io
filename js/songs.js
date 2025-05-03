@@ -6137,7 +6137,7 @@ const songs = [
 "SL2|On a Ragga Tip|1992|gXCN1DhHTZA|SL2 (musical group)|S12224|Breakbeat Hardcore;Breakbeat;Dance;Electronic;Electronic Dance Music;Hardcore [EDM]|On a Ragga Tip",
 "Chromatics|In the City|2006|tFOxribt3kA|Chromatics (band)|S9187|Dream Pop;Synthpop;Alternative Rock;Electronic;Pop;Rock|",
 "Jane's Addiction|Three Days|1990|78Y-v5twoGw|Jane's Addiction|S6861|Alternative Rock;Rock|Three Days (Jane's Addiction song)",
-"Teena Marie|Square Biz|1981|o9wotiDai5U|Teena Marie|S3596|Boogie;Funk;Pop Soul;Dance;Disco;Pop;R&B;Soul|Square Biz",
+"Teena Marie|Square Biz|1981|ymzftNzqQM0|Teena Marie|S3596|Boogie;Funk;Pop Soul;Dance;Disco;Pop;R&B;Soul|Square Biz",
 "Richard Hawley|The Ocean|2005|LBTA3v1Jt_I|Richard Hawley|S8145|Baroque Pop;Singer/Songwriter;Pop|",
 "The Big Pink|Velvet|2009|Tt2jw-NcQ9s|The Big Pink|S4826|Indie Rock;Indietronica;Alternative Rock;Electronic;Rock|",
 "Bob Dylan|Lily, Rosemary and the Jack of Hearts|1975|agdoeRpTfHg|Bob Dylan|S10231|Country Rock;Singer/Songwriter;Rock|Lily, Rosemary and the Jack of Hearts",
