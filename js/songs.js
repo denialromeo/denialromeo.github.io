@@ -9981,7 +9981,7 @@ const songs = [
 "Wolfmother|Dimension|2006|bjJ7KCBykVU|Wolfmother|S9057|Stoner Rock;Hard Rock;Rock|Dimension (song)",
 "Ratatat|Seventeen Years|2003|IY8eJYRDIOA|Ratatat|S8101|Dance-Punk;Indietronica;Electronic;Post-Punk;Rock|Ratatat (album)",
 "Rosemary Clooney|This Ole House|1954|98eqzjhuc_c|Rosemary Clooney|S8247|Traditional Pop;Pop|This Ole House",
-"Toktok vs. Soffy O.|Day of Mine (Ludicrous Idiot)|2002|LETsi4eAtho|https://de.wikipedia.org/wiki/Toktok|S8781|Electropop;Electronic;Pop|",
+"Toktok vs. Soffy O.|Day of Mine (Ludicrous Idiots)|2002|ekX2XNyoirs|https://de.wikipedia.org/wiki/Toktok|S8781|Electropop;Electronic;Pop|",
 "Social Distortion|I Was Wrong|1996|aXAU4MmMIMo|Social Distortion|S12251|Alternative Rock;Punk Rock;Rock|I Was Wrong (Social Distortion song)",
 "Animotion|Obsession|1984|hIs5StN8J-0|Animotion|S10000|Synthpop;Electronic;Pop|Obsession (Animotion song)",
 "Chris Montez|Let's Dance|1962|SejM2jbhrDw|Chris Montez|S5798|Rock & Roll;Rock|Let's Dance (Chris Montez song)",
