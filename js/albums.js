@@ -2909,7 +2909,7 @@ const albums = [
 "Cheap Trick|Cheap Trick|1977|OLAK5uy_lKeOJ7plGColJi37Br87crcMJFgW8iWOA|A2679|Cheap Trick (1977 album)|Cheap Trick|Hard Rock;Power Pop;Pop;Pop Rock;Rock",
 "Kim Gordon|No Home Record|2019|OLAK5uy_lmOzIUd1a5U60L-TkSQpUsiGyGm_AGm8w|A6285|No Home Record|Kim Gordon|Industrial;Noise Rock;Experimental;Industrial Music;Rock",
 "La Femme|Psycho Tropical Berlin|2013|PLjApp6Lljo-MylWCniAUpuVUCb6enE9Ka|A6745|Psycho Tropical Berlin|La Femme (band)|French Pop;Synthpop;Electronic;Pop",
-"Pearls Before Swine|Balaklava|1968|ERROR: Suitable playlist not found|A2234|Balaklava (album)|Pearls Before Swine (band)|Psychedelic Folk;Contemporary Folk;Folk",
+"Pearls Before Swine|Balaklava|1968|PLRQKT-Cu2_2Qha-d9HntsiQMhkBb5c4xB|A2234|Balaklava (album)|Pearls Before Swine (band)|Psychedelic Folk;Contemporary Folk;Folk",
 "Art Blakey|Art Blakey's Jazz Messengers with Thelonious Monk|1958|OLAK5uy_li2Lib4p8GqQPOocxIOtnkV0zQG-bp9Fo|A2266|Art Blakey's Jazz Messengers with Thelonious Monk|Art Blakey|Hard Bop;Bebop;Jazz",
 "Scott Walker|Scott 2|1968|OLAK5uy_lkhFf9KywKqDu05kt71iwikn6pTUxmmXM|A1315|Scott 2|Scott Walker (singer)|Baroque Pop;Pop",
 "The Gun Club|The Las Vegas Story|1984|OLAK5uy_mSHN6d2koCFWnVZy4-v-3c28ukToqbtZQ|A1490|The Las Vegas Story (album)|The Gun Club|Post-Punk;Rock",
