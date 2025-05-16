@@ -6367,7 +6367,7 @@ const songs = [
 "Lloyd Cole and the Commotions|Forest Fire|1984|ATzIuDRSLsE?start=29|Lloyd Cole and the Commotions|S7288|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|",
 "Chick Corea|Return to Forever|1972|EHnX9AF8-fc|Chick Corea|S4155|Jazz Fusion;Jazz|",
 "Chuck Berry|My Ding-a-Ling|1972|oBxlsi5SYkg|Chuck Berry|S5810|Novelty;Pop Rock;Pop;Rock|My Ding-a-Ling",
-"Sting|They Dance Alone (Cueca Solo)|1987|tqPdJ20Bsfo|Sting (musician)|S8589|Sophisti-Pop;Pop|They Dance Alone (Cueca Solo)",
+"Sting|They Dance Alone (Cueca Solo)|1987|KORlks3EJdM|Sting (musician)|S8589|Sophisti-Pop;Pop|They Dance Alone (Cueca Solo)",
 "Robert Parker|Barefootin'|1966|azIytXgdggA|Robert Parker (singer)|S8180|New Orleans R&B;Soul;R&B|Barefootin' (song)",
 "Falco|Der Kommissar|1982|8-bgiiTxhzM|Falco (musician)|S9217|Disco Rap;Neue Deutsche Welle;Synthpop;Electronic;Hip Hop;Pop;Rock|Der Kommissar (song)",
 "Eagles|Already Gone|1974|SoduRTF9J-o|Eagles (band)|S10666|Country Rock;Pop Rock;Pop;Rock|Already Gone (Eagles song)",
