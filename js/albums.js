@@ -2460,7 +2460,7 @@ const albums = [
 "Gomez|Bring It On|1998|OLAK5uy_mngBydgkJIIYr_d_VvtmROCTWXyB3m7BI|A1025|Bring It On (Gomez album)|Gomez (band)|Indie Rock;Alternative Rock;Rock",
 "The Go-Betweens|Before Hollywood|1983|OLAK5uy_lLVex-FJyfEgEUU9HYIuJqotLPN8WSOzE|A1690|Before Hollywood|The Go-Betweens|Indie Pop;Jangle Pop;Post-Punk;Alternative Rock;Pop;Pop Rock;Rock",
 "Spiritualized|Let It Come Down|2001|OLAK5uy_lSbyADTVqqxoGBMAxqn8TFpiwzTkV_sP0|A1200|Let It Come Down (Spiritualized album)|Spiritualized|Neo-Psychedelia;Psychedelic Rock;Rock",
-"Wilco|The Whole Love|2011|ERROR: Suitable playlist not found|A5182|The Whole Love|Wilco|Indie Rock;Alternative Rock;Rock",
+"Wilco|The Whole Love|2011|PLB888A73A4B19F35B|A5182|The Whole Love|Wilco|Indie Rock;Alternative Rock;Rock",
 "John Coltrane|Meditations|1966|OLAK5uy_krwq5cKtkCVdD3rrDjvwbGHqNU_zeqEqI|A1966|Meditations (John Coltrane album)|John Coltrane|Free Jazz;Avant-Garde Jazz;Jazz",
 "Bee Gees|Odessa|1969|OLAK5uy_m34VO7iYGr_MnC2JSRLZgFq2vfPS4fbBo|A4475|Odessa (Bee Gees album)|Bee Gees|Baroque Pop;Pop Rock;Pop;Rock",
 "Jim O'Rourke|Insignificance|2001|PLGxyU_3RFNSQDdvZJBS5ViGjLtxsJMNX6|A4942|Insignificance (Jim O'Rourke album)|Jim O'Rourke (musician)|Alternative Singer/Songwriter;Indie Rock;Alternative Rock;Rock;Singer/Songwriter",
