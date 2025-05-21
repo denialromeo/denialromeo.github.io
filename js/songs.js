@@ -5717,7 +5717,7 @@ const songs = [
 "The Stranglers|Always the Sun|1986|oVx_8mj-UyE|The Stranglers|S8606|New Wave;Pop Rock;Pop;Rock|Always the Sun",
 "Bobby Darin|Splish Splash|1958|XKCDc8Eg_-U|Bobby Darin|S3318|Novelty;Rock & Roll;Rock|Splish Splash (song)",
 "Skee-Lo|I Wish|1995|cmXZOI7cM0M|Skee-Lo|S3813|Pop Rap;West Coast Hip Hop;Hip Hop|I Wish (Skee-Lo song)",
-"Eric Donaldson|Cherry Oh Baby|1971|EXr2RhdVF3Q?start=4|Eric Donaldson|S6302|Reggae;Rocksteady;Caribbean Music;Jamaican Music;Regional Music|Cherry Oh Baby",
+"Eric Donaldson|Cherry Oh Baby|1971|Xesu5vC_9bc|Eric Donaldson|S6302|Reggae;Rocksteady;Caribbean Music;Jamaican Music;Regional Music|Cherry Oh Baby",
 "Spinners|The Rubberband Man|1976|rx00W3cBtgs|The Spinners (American R&B group)|S3839|Funk;Philly Soul;R&B;Soul|The Rubberband Man",
 "Duran Duran|The Reflex|1984|J5ebkj9x5Ko|Duran Duran|S6174|New Wave;Synthpop;Electronic;Pop;Rock|",
 "Madonna|Die Another Day|2002|VlbaJA7aO9M|Madonna (entertainer)|S2978|Dance-Pop;Electroclash;Electropop;Film Soundtrack;Dance;Electronic;Electronic Dance Music;Pop;Soundtracks|Die Another Day (song)",
