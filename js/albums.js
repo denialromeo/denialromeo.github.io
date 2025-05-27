@@ -2054,7 +2054,7 @@ const albums = [
 "Snail Mail|Lush|2018|OLAK5uy_kqzaox0m6VKgkvlAaYrH-_Z1j3M9XfO8U|A6046|Lush (Snail Mail album)|Snail Mail (musician)|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock",
 "The Original Soundtrack|The Sound of Music|1965|OLAK5uy_lK8V_hNZuUdh3b1qlk9SSrrx5hEsqGz3Q|A2558|The Sound of Music (soundtrack)|Oscar Hammerstein II|Film Soundtrack;Show Tunes;Musical Theatre and Entertainment;Soundtracks",
 "Fountains of Wayne|Welcome Interstate Managers|2003|OLAK5uy_lStpX3VbPhk6_7GLU_U09cwEPGkuz0G7E|A3933|Welcome Interstate Managers|Fountains of Wayne|Indie Pop;Power Pop;Pop;Pop Rock;Rock",
-"Bérurier Noir|Concerto pour détraqués|1985|OLAK5uy_nPAgcMMh-Dxfjl00YbmDHiCr_66MdANW8|A4704|https://fr.wikipedia.org/wiki/Concerto_pour_d%C3%A9traqu%C3%A9s|Bérurier Noir|Punk Rock;Rock",
+"Bérurier Noir|Concerto pour détraqués|1985|ERROR: Suitable playlist not found|A4704|https://fr.wikipedia.org/wiki/Concerto_pour_d%C3%A9traqu%C3%A9s|Bérurier Noir|Punk Rock;Rock",
 "Joan Manuel Serrat|Mediterráneo|1971|OLAK5uy_k6h0_Ckv1xjVjcFWY7JfcMw7d-6uIIuzY|A4525|Mediterráneo|Joan Manuel Serrat|Nueva canción española;Contemporary Folk;Folk;Hispanic Music;Nueva canción;Regional Music;Singer/Songwriter;Spanish Music",
 "Screaming Trees|Dust|1996|OLAK5uy_k32fdqwY5GsI5oPRHVFEBKK1jli1T2iuc|A973|Dust (Screaming Trees album)|Screaming Trees|Grunge;Alternative Rock;Rock",
 "Manic Street Preachers|Journal for Plague Lovers|2009|OLAK5uy_mDBNW2yPWVP38utEIaJBRfjCfw5wk_-Og|A5017|Journal for Plague Lovers|Manic Street Preachers|Alternative Rock;Rock",
