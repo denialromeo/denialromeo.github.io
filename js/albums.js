@@ -671,7 +671,7 @@ const albums = [
 "Augustus Pablo|King Tubbys Meets Rockers Uptown|1977|OLAK5uy_lhfaHpb7aE6t8OUlg4V3rH1l1hFhsmjXc|A369|King Tubbys Meets Rockers Uptown|Augustus Pablo|Dub;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Run-D.M.C.|Run-D.M.C.|1984|OLAK5uy_m-8X0qLBRPvrJo7CZOeetqX75i0pEL55w|A609|Run-D.M.C. (album)|Run-DMC|Hardcore Hip Hop;Hip Hop",
 "Traffic|John Barleycorn Must Die|1970|OLAK5uy_lLofLqWj6JSAw1e2Kr4A-hOymcQ4Aa-WA|A209|John Barleycorn Must Die|Traffic (band)|Progressive Rock;Rock",
-"System of a Down|Toxicity|2001|PLBFFB156E473F8A94|A1209|Toxicity (album)|System of a Down|Alternative Metal;Metal;Rock",
+"System of a Down|Toxicity|2001|OLAK5uy_kb1yvg1bLW2yKdKxO1qvzGK7pFl9TuFBw|A1209|Toxicity (album)|System of a Down|Alternative Metal;Metal;Rock",
 "Wire|Chairs Missing|1978|OLAK5uy_l6-oSqIYffX-akxYzo7kkdCRUdz4MnVxg|A445|Chairs Missing|Wire (band)|Art Punk;Post-Punk;Punk Rock;Rock",
 "Blur|Blur|1997|OLAK5uy_kP83VWoH6aoLZt28nUo3oQDutNsgDyVYY|A997|Blur (Blur album)|Blur (band)|Indie Rock;Alternative Rock;Rock",
 "The Cars|The Cars|1978|OLAK5uy_nq_e_lWUWAgsT1bK6S2jj_r5L1kilmUrA|A426|The Cars (album)|The Cars|New Wave;Pop Rock;Pop;Rock",
