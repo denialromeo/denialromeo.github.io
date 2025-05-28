@@ -4819,7 +4819,7 @@ const songs = [
 "The Beatles|Everybody's Got Something to Hide Except Me and My Monkey|1968|eyV3zCq1OHM|The Beatles|S3185|Hard Rock;Rock|Everybody's Got Something to Hide Except Me and My Monkey",
 "Irma Thomas|Wish Someone Would Care|1964|np793RzybIY|Irma Thomas|S3899|Deep Soul;R&B;Soul;Southern Soul|Breakaway (Irma Thomas song)",
 "Gerry and the Pacemakers|You'll Never Walk Alone|1963|Hn2PXb0YxPw|Gerry and the Pacemakers|S6550|Merseybeat;Beat Music;Pop;Pop Rock;Rock|",
-"Phillip Bailey with Phil Collins|Easy Lover|1984|JkRKT6T0QLg|Philip Bailey|S11891|Pop Rock;Pop;Rock|",
+"Phillip Bailey with Phil Collins|Easy Lover|1984|JkRKT6T0QLg|Philip Bailey|S11891|Pop Rock;Pop;Rock|Easy Lover",
 "Marilyn Manson|The Dope Show|1998|5R682M3ZEyk|Marilyn Manson|S3594|Alternative Rock;Industrial Rock;Industrial Music;Rock|The Dope Show",
 "Led Zeppelin|Gallows Pole|1970|RSZca1Q9IWA|Led Zeppelin|S3551|Folk Rock;Rock|Led Zeppelin III",
 "Jawbox|Savory|1994|xFvz1JQAPgQ|Jawbox|S6874|Alternative Rock;Post-Hardcore;Punk Rock;Rock|",
