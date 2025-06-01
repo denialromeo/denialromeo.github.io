@@ -6318,7 +6318,7 @@ const songs = [
 "Eddy Arnold|Make the World Go Away|1965|lq0Ri9e6SY0|Eddy Arnold|S1669|Nashville Sound;Traditional Pop;Country;Country Pop;Pop|Make the World Go Away",
 "Hugh Masekela|Grazing in the Grass|1968|b_V3mg_7xlE|Hugh Masekela|S4115|Afro-Jazz;Soul Jazz;African Music;Jazz;Regional Music|",
 "Nirvana|Rape Me|1993|4TsqlT0rfJI|Kurt Cobain|S3667|Grunge;Alternative Rock;Rock|Rape Me",
-"Cults|Abducted|2011|zLLWSJqQL_4|Cults (band)|S4951|Twee Pop;Indie Pop;Pop|",
+"Cults|Abducted|2011|9i1MXHGB8g0|Cults (band)|S4951|Twee Pop;Indie Pop;Pop|",
 "Lambchop|Is a Woman|2002|veMzZdEfkA4|Lambchop (band)|S13862|Alt-Country;Chamber Pop;Baroque Pop;Country;Indie Pop;Pop|",
 "Bob Dylan|She's Your Lover Now|1966|YAg5hs00F_8|Bob Dylan|S5546|Folk Rock;Singer/Songwriter;Rock|She's Your Lover Now",
 "John Fogerty|The Old Man Down the Road|1984|gzah7VD_PM4|John Fogerty|S3411|Swamp Rock;Rock;Roots Rock|The Old Man Down the Road",
