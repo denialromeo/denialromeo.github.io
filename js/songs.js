@@ -10851,7 +10851,7 @@ const songs = [
 "Massive Attack|Angel|1998|hbe3CQamF8k|Massive Attack|S11567|Trip Hop;Downtempo;Electronic|Angel (Massive Attack song)",
 "Alternative TV|Love Lies Limp|1977|RJ1GbZoAaEY|Alternative TV|S5180|Post-Punk;Reggae;Caribbean Music;Jamaican Music;Regional Music;Rock|",
 "Band of Horses|No One's Gonna Love You|2007|cuZo7pLnL7c|Band of Horses|S10072|Folk Rock;Indie Rock;Alternative Rock;Rock|No One's Gonna Love You",
-"Primal Scream|Shoot Speed/Kill Light|2000|OMiX_5ADrWY|Primal Scream|S9325|Alternative Dance;Neo-Psychedelia;Alternative Rock;Dance;Psychedelic Rock;Rock|",
+"Primal Scream|Shoot Speed/Kill Light|2000|OMiX_5ADrWY|Primal Scream|S9325|Alternative Dance;Neo-Psychedelia;Alternative Rock;Dance;Psychedelic Rock;Rock|XTRMNTR",
 "A Certain Ratio|Flight|1980|SVLH8fGDAEw|A Certain Ratio|S5074|Dance-Punk;Post-Punk;Rock|",
 "Glenn Frey|The Heat Is On|1984|uZD8HKVKneI|Glenn Frey|S14444|Film Soundtrack;Pop Rock;Pop;Rock;Soundtracks|The Heat Is On (Glenn Frey song)",
 "Demi Lovato|Cool for the Summer|2015|il9nqWw9W3Y|Demi Lovato|S9736|Dance-Pop;Synthpop;Dance;Electronic;Pop|Confident (Demi Lovato song)",
