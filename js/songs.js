@@ -1594,7 +1594,7 @@ const songs = [
 "Solomon Burke|Everybody Needs Somebody to Love|1964|7h0FoTYSgjw|Solomon Burke|S1043|Soul;R&B|Everybody Needs Somebody to Love",
 "Elvis Costello|(I Don't Want to Go to) Chelsea|1978|XvRQDsH0Yho|Elvis Costello|S629|New Wave;Pop Rock;Pop;Rock|(I Don't Want to Go to) Chelsea",
 "The Game|Hate It or Love It|2005|BuMBmK5uksg|The Game (rapper)|S3011|Conscious Hip Hop;Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
-"The Del-Vikings|Come Go with Me|1956|P1eU_lDQaVM|The Del-Vikings|S1251|Doo-Wop;R&B;Vocal Group|Come Go with Me",
+"The Del-Vikings|Come Go with Me|1956|YUS4ED3Q4sU|The Del-Vikings|S1251|Doo-Wop;R&B;Vocal Group|Come Go with Me",
 "Drake|Passionfruit|2017|COz9lDCFHjw|Drake (musician)|S16364|Contemporary R&B;Tropical House;Dance;Electronic;Electronic Dance Music;House;R&B|Passionfruit (song)",
 "Deafheaven|Dream House|2013|CtrqBYSZvMU|Deafheaven|S9432|Blackgaze;Post-Metal;Atmospheric Black Metal;Black Metal;Metal;Rock|",
 "Howlin' Wolf|Spoonful|1960|4fjviTLYqoc|Howlin' Wolf|S1147|Chicago Blues;Rhythm & Blues;Blues;Electric Blues;R&B|Spoonful",
