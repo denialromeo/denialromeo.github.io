@@ -604,7 +604,7 @@ const classical = [
 "Alexander Scriabin|Prometheus|1910|10ESN_t7txI?start=45|Alexander Scriabin|Prometheus: The Poem of Fire",
 "Richard Strauss|Der Rosenkavalier|1910|I8X64WJq6qc?start=111|Richard Strauss|Der Rosenkavalier",
 "Ralph Vaughan Williams|Fantasia on a Theme by Thomas Tallis|1910-1919|ihx5LCF1yJY|Ralph Vaughan Williams|Fantasia on a Theme by Thomas Tallis",
-"Igor Stravinsky|The Firebird|1910|RZkIAVGlfWk|Igor Stravinsky|The Firebird",
+"Igor Stravinsky|The Firebird|1910|kd1xYKGnOEw|Igor Stravinsky|The Firebird",
 "Edward Elgar|Symphony No. 2|1911|CY7vaUhxhDY|Edward Elgar|Symphony No. 2 (Elgar)",
 "Enrique Granados|Goyescas|1911|s0aVTPvYQ4Y|Enrique Granados|",
 "Maurice Ravel|Ma mère l’oye|1911|N_ENSdLOblk?start=3|Maurice Ravel|",
