@@ -920,7 +920,7 @@ const songs = [
 "The Rolling Stones|Start Me Up|1981|SGyOaCXr8Lw|The Rolling Stones|S520|Hard Rock;Rock|Start Me Up",
 "Blur|Out of Time|2003|SRkX1Up1vnc|Blur (band)|S2243|Alternative Rock;Art Rock;Rock|Out of Time (Blur song)",
 "PJ Harvey|Down by the Water|1995|lbq4G1TjKYg|PJ Harvey|S74|Alternative Rock;Singer/Songwriter;Rock|Down by the Water (PJ Harvey song)",
-"Suede|Animal Nitrate|1993|6FpZtN1Ep2s|Suede (band)|S122|Britpop;Alternative Rock;Pop;Pop Rock;Rock|",
+"Suede|Animal Nitrate|1993|i7mEB2wnDLQ|Suede (band)|S122|Britpop;Alternative Rock;Pop;Pop Rock;Rock|",
 "Culture Club|Do You Really Want to Hurt Me|1982|2nXGPZaTKik|Culture Club|S490|New Wave;Pop;Rock|Do You Really Want to Hurt Me",
 "Ice Cube|It Was a Good Day|1992|h4UqMyldS7Q|Ice Cube|S143|Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|It Was a Good Day",
 "The Beatles|You've Got to Hide Your Love Away|1965|V8nLraecPRY|The Beatles|S2497|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|You've Got to Hide Your Love Away",
