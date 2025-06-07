@@ -7661,7 +7661,7 @@ const songs = [
 "The Pioneers|Long Shot Kick the Bucket|1969|XhAec0h4lds|The Pioneers (band)|S7965|Reggae;Caribbean Music;Jamaican Music;Regional Music|",
 "Monaco|What Do You Want from Me?|1997|F4oyzy2tPAI|Monaco (band)|S7595|Alternative Dance;Alternative Rock;Dance;Rock|What Do You Want from Me%3F (Monaco song)",
 "IDLES|Samaritans|2018|si2pZRifgIo|Idles|S16582|Art Punk;Post-Punk;Punk Rock;Rock|",
-"Crusaders|Street Life|1979|2e7OHLqEyAA|The Crusaders|S5912|Disco;Funk;Smooth Soul;Dance;R&B;Soul|Street Life (The Crusaders song)",
+"Crusaders|Street Life|1979|youYairWMFM|The Crusaders|S5912|Disco;Funk;Smooth Soul;Dance;R&B;Soul|Street Life (The Crusaders song)",
 "Talking Heads|Wild Wild Life|1986|616-QGQyx-I|Talking Heads|S3883|New Wave;Pop Rock;Pop;Rock|Wild Wild Life",
 "The Heptones|Fattie Fattie|1966|OHUH7Y2CCqM|The Heptones|S14478|Rocksteady;Caribbean Music;Jamaican Music;Regional Music|",
 "Shame|One Rizla|2017|wkK5qTohwRc|Shame (band)|S16597|Indie Rock;Post-Punk;Alternative Rock;Rock|",
