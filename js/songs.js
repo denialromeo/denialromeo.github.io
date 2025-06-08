@@ -10201,7 +10201,7 @@ const songs = [
 "Raspberries|I Wanna Be With You|1972|XhpgjGYIYjk|Raspberries (band)|S13338|Power Pop;Pop;Pop Rock;Rock|",
 "Tanlines|All of Me|2012|kKJ3z9Pa7AU|Tanlines|S8685|Indietronica;Synthpop;Electronic;Pop|",
 "George Harrison|Got My Mind Set on You|1987|_71w4UA2Oxo|George Harrison|S10915|Pop Rock;Pop;Rock|Got My Mind Set on You",
-"Squeeze|Cool For Cats|1979|uJ2cEc_TCH8|Squeeze (band)|S12287|New Wave;Pub Rock;Rock|Cool for Cats (song)",
+"Squeeze|Cool for Cats|1979|uJ2cEc_TCH8|Squeeze (band)|S12287|New Wave;Pub Rock;Rock|Cool for Cats (song)",
 "Melody's Echo Chamber|I Follow You|2012|v29I0srhPwg|Melody's Echo Chamber|S11594|Dream Pop;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock|",
 "Titus Andronicus|The Battle of Hampton Roads|2010|rv4IR1S89bE|Titus Andronicus (band)|S8772|Folk Punk;Indie Rock;Alternative Rock;Punk Rock;Rock|",
 "Future feat. Andre 3000|Benz Friendz (Whatchutola)|2014|Sl9a5sLDq3Q|Future (rapper)|S10890|Pop Rap;Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
