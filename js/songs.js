@@ -6872,7 +6872,7 @@ const songs = [
 "Missy Elliott|4 My People|2001|HWYGDFoNHko|Missy Elliott|S7572|Hip House;Dance;Electronic;Electronic Dance Music;Hip Hop;House|Work It (Missy Elliott song)",
 "Bay City Rollers|Saturday Night|1973|7BKKaKT_dtM|Bay City Rollers|S5337|Bubblegum;Pop Rock;Pop;Rock|Saturday Night (Bay City Rollers song)",
 "Kasabian|Fire|2009|agVpq_XXRmU|Kasabian|S7056|Indie Rock;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock|Fire (Kasabian song)",
-"Howlin' Wolf|Wang Dang Doodle|1960|J0HfN6GvK08|Howlin' Wolf|S4078|Chicago Blues;Rhythm & Blues;Blues;Electric Blues;R&B|Wang Dang Doodle",
+"Howlin' Wolf|Wang Dang Doodle|1960|8JQb6R12vts|Howlin' Wolf|S4078|Chicago Blues;Rhythm & Blues;Blues;Electric Blues;R&B|Wang Dang Doodle",
 "James Brown|Out of Sight|1964|zieXmNwHGYA|James Brown|S2822|Soul;R&B|Out of Sight (song)",
 "The Jayhawks|Waiting for the Sun|1992|zMFtkubNF4Q|The Jayhawks|S6877|Alt-Country;Country|",
 "Bread|If|1971|IQyKMueMFGk|Bread (band)|S5609|Baroque Pop;Soft Rock;Pop;Pop Rock;Rock|If (Bread song)",
