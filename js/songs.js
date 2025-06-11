@@ -5769,7 +5769,7 @@ const songs = [
 "Sonic's Rendezvous Band|City Slang|1978|0tHIUZq09HM|Sonic's Rendezvous Band|S12261|Garage Punk;Hard Rock;Garage Rock;Punk Rock;Rock|",
 "Candido|Jingo|1979|B85dYk77V-o|Cándido Camero|S4439|Latin Disco;Dance;Disco;Hispanic Music;Latin American Music;Regional Music|Jin-go-lo-ba",
 "Wilson Pickett|Ninety-Nine and a Half (Won't Do)|1966|G7IpgFIz9ng|Wilson Pickett|S3701|Southern Soul;R&B;Soul|",
-"Thomas Dolby|She Blinded Me with Science|1982|WZOW5GdgCGw|Thomas Dolby|S3343|New Wave;Synthpop;Electronic;Pop;Rock|She Blinded Me with Science",
+"Thomas Dolby|She Blinded Me with Science|1982|6-be2Txz9Wo|Thomas Dolby|S3343|New Wave;Synthpop;Electronic;Pop;Rock|She Blinded Me with Science",
 "Ofra Haza|Im nin'alu|1984|ZRnzTTYk7_Q|Ofra Haza|S7795|Dance-Pop;Jewish Music;Mizrahi Music;Dance;Pop;Regional Music|",
 "Frank Sinatra|Night and Day|1942|IHwFGG9knmg|Frank Sinatra|S13482|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop|Night and Day (song)",
 "Beach House|Sparks|2015|GfITojs_mNg|Beach House|S9706|Dream Pop;Shoegaze;Alternative Rock;Rock|",
