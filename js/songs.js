@@ -3574,7 +3574,7 @@ const songs = [
 "The Notwist|Pilot|2001|5E0zej3qZRY|The Notwist|S2212|Indie Rock;Indietronica;Alternative Rock;Electronic;Rock|",
 "The Godfathers|Birth School Work Death|1987|QO5dcW0P75M|The Godfathers|S3092|Garage Rock;Mod Revival;Mod;Rock|",
 "Pigbag|Papa's Got a Brand New Pigbag|1981|wmP4BEIzE4s|Pigbag|S525|Dance-Punk;Post-Punk;Rock|",
-"Aretha Franklin|Don't Play That Song|1970|6ktFUwPGWag|Aretha Franklin|S870|Southern Soul;R&B;Soul|Don't Play That Song (You Lied)",
+"Aretha Franklin|Don't Play That Song|1970|pCQXc8qkVnI|Aretha Franklin|S870|Southern Soul;R&B;Soul|Don't Play That Song (You Lied)",
 "Semisonic|Closing Time|1998|xGytDsqkQY8|Semisonic|S2163|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Closing Time (Semisonic song)",
 "The Soft Machine|Moon in June|1970|Lntleb5zsFw|Soft Machine|S3828|Canterbury Scene;Jazz Fusion;Jazz-Rock;Jazz;Progressive Rock;Rock|Third (Soft Machine album)",
 "HEALTH|Die Slow|2009|EWZxThGh5wQ|Health (band)|S4805|Electro-Industrial;Noise Rock;Electronic;Industrial Music;Rock|",
