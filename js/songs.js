@@ -10301,7 +10301,7 @@ const songs = [
 "The Magic Numbers|Forever Lost|2005|FCLI66C-VDI|The Magic Numbers|S4648|Indie Pop;Pop|",
 "The Damned|Smash It Up|1979|-FFx68qSAuY|The Damned (band)|S10487|Punk Rock;Rock|Smash It Up",
 "Billy Joel|Only the Good Die Young|1977|46n1WSuaxOs|Billy Joel|S13686|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|Only the Good Die Young",
-"The Traveling Wilburys|End of the Line|1988|8HRXINr7aBI|Traveling Wilburys|S8836|Pop Rock;Roots Rock;Pop;Rock|End of the Line (Traveling Wilburys song)",
+"The Traveling Wilburys|End of the Line|1988|UMVjToYOjbM|Traveling Wilburys|S8836|Pop Rock;Roots Rock;Pop;Rock|End of the Line (Traveling Wilburys song)",
 "Mint Royale|Don't Falter|2000|tX1DWlKmMoE|Mint Royale|S2967|Big Beat;Indie Pop;Breakbeat;Dance;Electronic;Electronic Dance Music;Pop|",
 "Angel Haze|Werkin' Girls|2012|szj7efHG-00|Angel Haze|S9996|West Coast Hip Hop;Hip Hop|",
 "Simple Minds|Theme for Great Cities|1981|9gUsXL_yWyg|Simple Minds|S15020|New Wave;Post-Punk;Rock|",
