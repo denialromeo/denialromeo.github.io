@@ -2769,7 +2769,7 @@ const songs = [
 "Al Jolson|My Mammy|1928|PIaj7FNHnjQ|Al Jolson|S4597|Traditional Pop;Vaudeville;Musical Theatre and Entertainment;Pop|My Mammy",
 "Randy Newman|Louisiana 1927|1974|MGs2iLoDUYE|Randy Newman|S3663|Baroque Pop;Singer/Songwriter;Pop|Louisiana 1927",
 "Rick Nelson|Hello Mary Lou|1961|zLkCWT2neuI|Ricky Nelson|S1120|Rockabilly;Teen Pop;Pop;Rock;Rock & Roll|Hello Mary Lou",
-"Wolf Alice|Don't Delete the Kisses|2017|6KW67D6cnPw|Wolf Alice|S16513|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock|Don't Delete the Kisses",
+"Wolf Alice|Don't Delete the Kisses|2017|WqxE-zppu30|Wolf Alice|S16513|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock|Don't Delete the Kisses",
 "The Mar-Keys|Last Night|1961|FX5T9GvSnbY|The Mar-Keys|S4389|Rhythm & Blues;Southern Soul;R&B;Soul|",
 "Meat Loaf|I'll Do Anything for Love (But I Won't Do That)|1993|9X_ViIPA-Gc|Meat Loaf|S7497|AOR;Pop Rock;Rock Opera;Pop;Rock|I'd Do Anything for Love (But I Won't Do That)",
 "The Teddy Bears|To Know Him Is to Love Him|1958|DVieaWu0sLg|The Teddy Bears|S8701|Doo-Wop;R&B;Vocal Group|To Know Him Is to Love Him",
