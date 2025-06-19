@@ -1591,7 +1591,7 @@ const songs = [
 "Radiohead|True Love Waits|2001|mbVKGlh3gg4|Radiohead|S12004|Acoustic Rock;Rock|True Love Waits (song)",
 "Bonnie Tyler|Total Eclipse of the Heart|1983|lcOxhH8N3Bo|Bonnie Tyler|S3918|AOR;Pop Rock;Pop;Rock|Total Eclipse of the Heart",
 "The Temptations|Ball of Confusion (That's What the World Is Today)|1970|D5P7x4vh_ts|The Temptations|S853|Psychedelic Soul;R&B;Soul|",
-"Solomon Burke|Everybody Needs Somebody to Love|1964|7h0FoTYSgjw|Solomon Burke|S1043|Soul;R&B|Everybody Needs Somebody to Love",
+"Solomon Burke|Everybody Needs Somebody to Love|1964|7OKAlBC-XWQ|Solomon Burke|S1043|Soul;R&B|Everybody Needs Somebody to Love",
 "Elvis Costello|(I Don't Want to Go to) Chelsea|1978|XvRQDsH0Yho|Elvis Costello|S629|New Wave;Pop Rock;Pop;Rock|(I Don't Want to Go to) Chelsea",
 "The Game|Hate It or Love It|2005|BuMBmK5uksg|The Game (rapper)|S3011|Conscious Hip Hop;Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "The Del-Vikings|Come Go with Me|1956|YUS4ED3Q4sU|The Del-Vikings|S1251|Doo-Wop;R&B;Vocal Group|Come Go with Me",
