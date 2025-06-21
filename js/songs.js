@@ -4936,7 +4936,7 @@ const songs = [
 "Paul Simon|Late in the Evening|1980|IIwi6DTP7pw|Paul Simon|S2892|Film Soundtrack;Folk Pop;Pop Rock;Contemporary Folk;Folk;Pop;Rock;Soundtracks|Late in the Evening",
 "Sandie Shaw|(There's) Always Something There to Remind Me|1964|hp-FnGb4wbY|Sandie Shaw|S8313|Pop|(There's) Always Something There to Remind Me",
 "The Weeknd|The Morning|2011|5TAko3RH0bk|The Weeknd|S4991|Alternative R&B;Contemporary R&B;R&B|The Morning (The Weeknd song)",
-"Nico|Chelsea Girls|1967|ype6Hw_Hmjo?start=37|Nico|S4106|Chamber Folk;Contemporary Folk;Folk|",
+"Nico|Chelsea Girls|1967|DPXScHMTQ5k|Nico|S4106|Chamber Folk;Contemporary Folk;Folk|",
 "Titus Andronicus|Dimed Out|2015|0dX6LL7b8Y0|Titus Andronicus (band)|S9857|Punk Rock;Rock|",
 "Stereophonics|Dakota|2005|SzBJQnD7TRM|Stereophonics|S8563|Alternative Rock;Pop Rock;Pop;Rock|Dakota (song)",
 "Ray Charles|Drown in My Own Tears|1956|xhzO9MiNafY|Ray Charles|S2488|Rhythm & Blues;R&B|Drown in My Own Tears",
