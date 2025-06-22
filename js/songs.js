@@ -5231,7 +5231,7 @@ const songs = [
 "Green Velvet|Flash|1995|l_RfediFJFQ|Green Velvet|S6644|Acid House;Acid Techno;Tech House;Dance;Electronic;Electronic Dance Music;House;Techno|",
 "The Gap Band|Outstanding|1983|xBcpaB8lq44|The Gap Band|S6497|Boogie;Funk;Dance;Disco;R&B|Outstanding",
 "Nick Lowe|Heart of the City|1976|4hmVPncZGVE|Nick Lowe|S4429|New Wave;Power Pop;Pub Rock;Pop;Pop Rock;Rock|",
-"Paul Simon|The Boy in the Bubble|1986|aGEz7fwcmlY|Paul Simon|S7896|Folk Pop;Pop Rock;Contemporary Folk;Folk;Pop;Rock|The Boy in the Bubble",
+"Paul Simon|The Boy in the Bubble|1986|Uy5T6s25XK4|Paul Simon|S7896|Folk Pop;Pop Rock;Contemporary Folk;Folk;Pop;Rock|The Boy in the Bubble",
 "Fleetwood Mac|Gold Dust Woman|1977|x6hkY4VvQAA|Fleetwood Mac|S10825|Folk Rock;Pop Rock;Pop;Rock|Gold Dust Woman",
 "Procol Harum|Conquistador|1967|Cs0xsC928p8|Procol Harum|S3733|Psychedelic Rock;Rock|Conquistador (Procol Harum song)",
 "Bauhaus|She's in Parties|1983|Qxqq5vahHKk|Bauhaus (band)|S12742|Gothic Rock;Post-Punk;Rock|She's in Parties",
