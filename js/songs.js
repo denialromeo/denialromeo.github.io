@@ -1194,7 +1194,7 @@ const songs = [
 "Lil Uzi Vert|XO Tour Llif3|2017|WrsFXgQk5UI|Lil Uzi Vert|S16435|Emo Rap;Pop Rap;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|XO Tour Llif3",
 "The Drifters|Money Honey|1953|Y4bB6wUsx28|The Drifters|S1330|Doo-Wop;Rhythm & Blues;R&B;Vocal Group|Money Honey (Clyde McPhatter and the Drifters song)",
 "The Jam|Town Called Malice|1982|YfpRm-p7qlY|The Jam|S491|Mod Revival;New Wave;Pop Rock;Mod;Pop;Rock|Town Called Malice",
-"", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "The Animals|We Gotta Get Out of This Place|1965|PclhNB8BiwI|The Animals|S1019|British Rhythm & Blues;Mod;R&B;Rhythm & Blues;Rock|We Gotta Get Out of This Place",
+"The Animals|We Gotta Get Out of This Place|1965|PclhNB8BiwI|The Animals|S1019|British Rhythm & Blues;Mod;R&B;Rhythm & Blues;Rock|We Gotta Get Out of This Place",
 "Wire|Outdoor Miner|1978|uO0nmjkMpw0|Wire (band)|S2596|Art Punk;Post-Punk;Punk Rock;Rock|Outdoor Miner",
 "INXS|Need You Tonight|1987|ocW21raxptk|INXS|S1582|New Wave;Pop Rock;Pop;Rock|Need You Tonight",
 "Funkadelic/Parliament|Tear the Roof Off the Sucker (Give Up the Funk)|1975|gBWH3OWfT2Y|Parliament (band)|S666|P-Funk;Funk;R&B|Give Up the Funk (Tear the Roof off the Sucker)",
