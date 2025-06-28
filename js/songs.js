@@ -5703,7 +5703,7 @@ const songs = [
 "Basement Jaxx|Raindrops|2009|T7Cili9vegU|Basement Jaxx|S4787|Electro House;Funky House;Dance;Electronic;Electronic Dance Music;House|Raindrops (Basement Jaxx song)",
 "Frank Zappa|Willie the Pimp (Parts I and II)|1969|KHiclrHm-ig|Frank Zappa|S3989|Blues Rock;Jazz-Rock;Rock|Willie the Pimp",
 "King Sunny Adé|Ja funmi|1982|nGmbyRaauog|King Sunny Adé|S14626|Jùjú;African Music;Regional Music;West African Music;Yoruba Music|",
-"Mary Hopkin|Those Were the Days|1968|JnxTT7XXMPA|Mary Hopkin|S7463|Baroque Pop;Folk Pop;Contemporary Folk;Folk;Pop|",
+"Mary Hopkin|Those Were the Days|1968|JnxTT7XXMPA|Mary Hopkin|S7463|Baroque Pop;Folk Pop;Contemporary Folk;Folk;Pop|Those Were the Days (song)",
 "Dr. Hook|Sylvia's Mother|1972|QN_89-_K3f0|Dr. Hook & the Medicine Show|S1739|Soft Rock;Pop;Pop Rock;Rock|Sylvia's Mother",
 "Suzanne Vega|Tom's Diner|1987|DkYPge6ZKSQ|Suzanne Vega|S8654|A cappella;Art Pop;Singer/Songwriter;Pop|Tom's Diner",
 "Arthur \"Big Boy\" Crudup|That's All Right|1947|a4IILmBqaD8|Arthur Crudup|S10032|Electric Blues;Rhythm & Blues;Blues;R&B|That's All Right",
