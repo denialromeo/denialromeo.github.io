@@ -5758,7 +5758,7 @@ const songs = [
 "Joan Jett and the Blackhearts|Bad Reputation|1980|LeYn_W14zTU|Joan Jett|S6925|Punk Rock;Rock|Bad Reputation (Joan Jett song)",
 "Yardbirds|Heart Full of Soul|1965|pM1qZBFiOLU|The Yardbirds|S4095|Blues Rock;British Rhythm & Blues;Freakbeat;Garage Rock;Beat Music;Pop;Pop Rock;R&B;Rhythm & Blues;Rock|Heart Full of Soul",
 "Aaliyah|One in a Million|1996|KKSz4NE6PwY|Aaliyah|S5080|Contemporary R&B;R&B|One in a Million (Aaliyah song)",
-"The Golden Gate Quartet|Rock My Soul|1938|FGjMNha2feo|Golden Gate Quartet|S13196|Traditional Black Gospel;American Folk Music;Folk;Gospel;Regional Music;Traditional Folk Music|",
+"The Golden Gate Quartet|Rock My Soul|1938|oRvAeGm2caM|Golden Gate Quartet|S13196|Traditional Black Gospel;American Folk Music;Folk;Gospel;Regional Music;Traditional Folk Music|",
 "Hudson Mohawke|Ryderz|2015|KibfprKEt3g|Hudson Mohawke|S9781|Future Bass;Trap [EDM];Dance;Electronic;Electronic Dance Music|",
 "The Beatles|Being for the Benefit of Mr. Kite!|1967|bJVWZy4QOy0|The Beatles|S3180|Art Pop;Psychedelic Pop;Vaudeville;Musical Theatre and Entertainment;Pop|Being for the Benefit of Mr. Kite!",
 "Björk|Earth Intruders|2007|j1Q9ppPPHjU|Björk|S4327|Art Pop;Tribal House;Dance;Electronic;Electronic Dance Music;House;Pop|Earth Intruders",
