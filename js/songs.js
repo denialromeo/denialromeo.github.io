@@ -661,7 +661,7 @@ const songs = [
 "The Buggles|Video Killed the Radio Star|1979|W8r-tXRLazs|The Buggles|S2338|New Wave;Synthpop;Electronic;Pop;Rock|Video Killed the Radio Star",
 "Lauryn Hill|Doo Wop (That Thing)|1998|T6QKqFPRZSA|Lauryn Hill|S274|Conscious Hip Hop;Neo-Soul;Hip Hop;R&B;Soul|Doo Wop (That Thing)",
 "Aerosmith|Dream On|1973|sZfZ8uWaOFI|Aerosmith|S770|Hard Rock;Rock|Dream On (Aerosmith song)",
-"King Crimson|21st Century Schizoid Man|1969|3028oDEKZo4|King Crimson|S3538|Jazz-Rock;Progressive Rock;Rock|21st Century Schizoid Man",
+"King Crimson|21st Century Schizoid Man|1969|MM_G0IRLEx4|King Crimson|S3538|Jazz-Rock;Progressive Rock;Rock|21st Century Schizoid Man",
 "The Rolling Stones|Miss You|1978|hic-dnps6MU|The Rolling Stones|S609|Pop Rock;Pop;Rock|Miss You (Rolling Stones song)",
 "Bob Dylan|Positively 4th Street|1965|aehwEu8SBSo|Bob Dylan|S1014|Folk Rock;Singer/Songwriter;Rock|Positively 4th Street",
 "The Beatles|Here Comes the Sun|1969|xUNqsfFUwhY|The Beatles|S3190|Pop Rock;Sunshine Pop;Pop;Rock|Here Comes the Sun",
