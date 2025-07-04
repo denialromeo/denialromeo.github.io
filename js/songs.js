@@ -5351,7 +5351,7 @@ const songs = [
 "The Clash|Stay Free|1978|jDa8T9EM4Tg|The Clash|S4184|Punk Rock;Rock|Stay Free",
 "Wah!|The Story of the Blues|1982|TvNHXZhyxFs|Pete Wylie|S4456|Blue Eyed Soul;Pop Soul;Pop;R&B;Soul|The Story of the Blues (song)",
 "The Notorious B.I.G.|One More Chance (Stay with Me Remix)|1995|542Am04RsDs|The Notorious B.I.G.|S7773|Boom Bap;East Coast Hip Hop;Hip Hop|One More Chance (The Notorious B.I.G. song)",
-"Glass Candy|Warm in the Winter|2011|2C7aay7Qkgc|Glass Candy|S9455|Electro-Disco;Synthwave;Dance;Disco;Electronic;Electronic Dance Music|",
+"Glass Candy|Warm in the Winter|2011|sAehyrzl5_8|Glass Candy|S9455|Electro-Disco;Synthwave;Dance;Disco;Electronic;Electronic Dance Music|",
 "Denise LaSalle|Trapped By a Thing Called Love|1971|2FbK1ZyWY_s|Denise LaSalle|S6037|Southern Soul;R&B;Soul|Trapped by a Thing Called Love",
 "Mississippi John Hurt|Candy Man Blues|1929|GCFur3GlNQ8|Mississippi John Hurt|S13577|Piedmont Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|",
 "Fletcher Henderson|Copenhagen|1924|hZwpzK57z0Y|Fletcher Henderson|S15480|Big Band;Jazz|",
