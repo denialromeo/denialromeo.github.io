@@ -75,11 +75,6 @@
   <div class="article-content">
     <p>I hope you have a good time here. Thanks for dropping by.</p>
 
-<ul id="markdown-toc">
-  <li><a href="#background" id="markdown-toc-background">Background</a></li>
-  <li><a href="#favorite" id="markdown-toc-favorite">Favorite</a></li>
-</ul>
-
 <h1 id="background">Background</h1>
 
 <p><strong id="education">Education</strong></p>
@@ -124,12 +119,17 @@
 
 <h1 id="favorite">Favorite</h1>
 
-<p id="music"><strong>Music</strong></p>
+<div id="favorite-music">
+<b id="music">
+Music
+</b>
+<br />
 
 <center><div style="width:77%;margin-right:0%;display:inline-block"><div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL1X3qTzT40VnGzBq2v2oKof9_Ps51ng5f&amp;controls=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
 </div></div></center>
 <p><span style="display:block;margin-bottom:15px;"></span></p>
+</div>
 
 <p id="consumer-goods"><strong>Consumer Goods</strong></p>
 
@@ -391,6 +391,13 @@
 <div id="clear"></div>
 
 <p class="photoswipe-caption-comic"><i>Click the pictures!</i></p>
+
+<script>
+    if (document.documentElement.clientWidth < 720) {
+        document.getElementById("favorite-music").style.display = "none";
+    }
+</script>
+
 
     
     <div id="clear"></div>
