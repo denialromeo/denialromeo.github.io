@@ -10343,7 +10343,7 @@ const songs = [
 "U2|The Unforgettable Fire|1984|KTzmzrruHwc|U2|S8876|Alternative Rock;Pop Rock;Pop;Rock|The Unforgettable Fire (song)",
 "Ian Hunter|Cleveland Rocks|1979|1qDkZnpOiS8|Ian Hunter (singer)|S14498|Glam Rock;Rock|Cleveland Rocks",
 "System of a Down|Toxicity|2001|iywaBOMvYLI|System of a Down|S8663|Alternative Metal;Metal;Rock|",
-"Kings of Leon|Fans|2007|_1gTt3JGBkQ|Kings of Leon|S13857|Alternative Rock;Rock|Fans (song)",
+"Kings of Leon|Fans|2007|kkt_3zLJ-y4|Kings of Leon|S13857|Alternative Rock;Rock|Fans (song)",
 "Sleater-Kinney|You're No Rock n' Roll Fun|2000|rCy1VIy8Hj0|Sleater-Kinney|S8445|Indie Rock;Alternative Rock;Rock|",
 "The Shangri-Las|Past, Present and Future|1966|ulSZo9EAYVw|The Shangri-Las|S8378|Brill Building;Girl Group;Pop|",
 "Killing Joke|The Wait|1980|TQ2fJs-bV2s|Killing Joke|S14622|Post-Punk;Rock|",
