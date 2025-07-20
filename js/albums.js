@@ -147,7 +147,7 @@ const albums = [
 "Stevie Wonder|Talking Book|1972|OLAK5uy_k9msukwIx-ZieqE0FmVRFtayWae2xv9YI|A244|Talking Book|Stevie Wonder|Soul;R&B",
 "Queen|A Night at the Opera|1975|OLAK5uy_mz4wksGpUUokxRpbyFKZ8pmRY51dWvDH8|A350|A Night at the Opera (Queen album)|Queen (band)|Art Rock;Hard Rock;Rock",
 "Led Zeppelin|Led Zeppelin|1969|OLAK5uy_kBuigfoB79x8bX2p32UZw1DcZHo7bkMWA|A170|Led Zeppelin (album)|Led Zeppelin|Blues Rock;Hard Rock;Rock",
-"Leonard Cohen|Songs of Leonard Cohen|1967|OLAK5uy_m2VcnFnDX178CAUUQ1tovw6Jw9w-2selc|A128|Songs of Leonard Cohen|Leonard Cohen|Contemporary Folk;Singer/Songwriter;Folk",
+"Leonard Cohen|Songs of Leonard Cohen|1967|PLiN-7mukU_RGWHfkLE_cV_CLwqyf7xIRg|A128|Songs of Leonard Cohen|Leonard Cohen|Contemporary Folk;Singer/Songwriter;Folk",
 "Elton John|Goodbye Yellow Brick Road|1973|OLAK5uy_mfrVeP01Fp1Cpa__JtGwqoxYeBfqz_c6E|A285|Goodbye Yellow Brick Road|Elton John|Piano Rock;Pop;Pop Rock;Rock",
 "Air|Moon Safari|1998|OLAK5uy_nUcs122smRRQq5XGBSM8lkyrZtPH6fvL0|A1021|Moon Safari|Air (band)|Ambient Pop;Downtempo;Electronic;Pop",
 "Vampire Weekend|Modern Vampires of the City|2013|OLAK5uy_m42EU5lGd01TYirY_RSdvUR_71VJUHtHw|A5379|Modern Vampires of the City|Vampire Weekend|Indie Pop;Pop",
