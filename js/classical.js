@@ -93,7 +93,7 @@ const classical = [
 "Johann Sebastian Bach|St. Matthew Passion|1727|ZwVW1ttVhuQ|Johann Sebastian Bach|St Matthew Passion",
 "George Frideric Handel|Coronation Anthems|1727|OLAK5uy_nzUPah-9VRU8z9TJ9oKBtipzhJ9UYqEys|George Frideric Handel|https://en.wikipedia.org/wiki/Coronation_anthem#Handel.27s_coronation_anthems",
 "John Gay|The Beggar’s Opera|1728|Lq7g_NRKHU0|John Gay|The Beggar's Opera",
-"Johann Sebastian Bach|French Suites|1730|0sDleZkIK-w|Johann Sebastian Bach|French Suites (Bach)",
+"Johann Sebastian Bach|French Suites|1730|zmEa7KX6D00|Johann Sebastian Bach|French Suites (Bach)",
 "Georg Philipp Telemann|Paris Quartets|1730|mBCoDRX4a0Q|Georg Philipp Telemann|Paris quartets",
 "Georg Philipp Telemann|Tafelmusik|1733|xNFkKhfdgZM|Georg Philipp Telemann|Tafelmusik (Telemann)",
 "Johann Sebastian Bach|Christmas Oratorio|1734-1735|98UjjwzJBFE|Johann Sebastian Bach|Christmas Oratorio",
