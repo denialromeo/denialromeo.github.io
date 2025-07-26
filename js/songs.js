@@ -8301,7 +8301,7 @@ const songs = [
 "Francis and the Lights feat. Bon Iver|Friends|2016|wScYn10D2vo|Francis and the Lights|S16909|Alternative R&B;Art Pop;Contemporary R&B;Pop;R&B|Friends (Francis and the Lights song)",
 "Claude Nougaro|Le Jazz et la java|1961|zmRgXOw1o3A|Claude Nougaro|S10427|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "Prince and the Revolution|The Beautiful Ones|1984|Ti0JAumfDME|Prince (musician)|S11951|Contemporary R&B;Film Soundtrack;Smooth Soul;R&B;Soul;Soundtracks|",
-"Fanny Brice|Second Hand Rose|1922|mxEwMcJ8GXc|Fanny Brice|S6349|Revue;Musical Theatre and Entertainment|Second Hand Rose (song)",
+"Fanny Brice|Second Hand Rose|1922|e3gBXwjI90k|Fanny Brice|S6349|Revue;Musical Theatre and Entertainment|Second Hand Rose (song)",
 "Lightnin' Rod|Sport|1973|uK9oSK4yeic|Jalal Mansur Nuriddin|S11434|Funk;R&B|",
 "Johnny Hallyday|Quelque chose de Tennessee|1985|LknViKjrs0w|Johnny Hallyday|S11243|French Pop;Pop|Quelque chose de Tennessee",
 "The Ink Spots|Don't Get Around Much Anymore|1943|dDmH7luDCC8|The Ink Spots|S6784|Vocal Group|Don't Get Around Much Anymore",
