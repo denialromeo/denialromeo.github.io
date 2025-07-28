@@ -466,7 +466,7 @@ const albums = [
 "Lou Reed|New York|1989|OLAK5uy_mLE_Zej5pC0xXSHXzlk0Yjo-zW0Kn_6cw|A753|New York (album)|Lou Reed|Rock",
 "Jane's Addiction|Nothing's Shocking|1988|OLAK5uy_lJiq7SQ9kRBoQn2pEZ1a3YrB5ktT-1gww|A737|Nothing's Shocking|Jane's Addiction|Alternative Metal;Alternative Rock;Hard Rock;Metal;Rock",
 "The Who|Quadrophenia|1973|OLAK5uy_kmwWbA76_PI-VJ5QlljHAdxxKj6UTP6Tw|A296|Quadrophenia|The Who|Hard Rock;Rock Opera;Rock",
-"Leonard Cohen|Songs of Love and Hate|1971|PLcVjm5TixIzv_P9XK5gYOMiWVNsmfFwVH|A230|Songs of Love and Hate|Leonard Cohen|Contemporary Folk;Singer/Songwriter;Folk",
+"Leonard Cohen|Songs of Love and Hate|1971|OLAK5uy_npOQPBseCBelOiBhPy9TCE5wKdmDotYUY|A230|Songs of Love and Hate|Leonard Cohen|Contemporary Folk;Singer/Songwriter;Folk",
 "LCD Soundsystem|LCD Soundsystem|2005|OLAK5uy_nUL1THV4_2LohmOqsyStmWbGRVyf_xGTs|A4151|LCD Soundsystem (album)|LCD Soundsystem|Dance-Punk;Indietronica;Electronic;Post-Punk;Rock",
 "Tori Amos|Little Earthquakes|1992|OLAK5uy_l0FFIB_IRz66dYcbwwGeu3y1gLT3Tds7w|A826|Little Earthquakes|Tori Amos|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock",
 "Led Zeppelin|Led Zeppelin III|1970|OLAK5uy_lP3VCuEHbzZVVqMLgRgIw_L5773mLMZV4|A206|Led Zeppelin III|Led Zeppelin|Folk Rock;Hard Rock;Rock",
