@@ -2041,7 +2041,7 @@ const songs = [
 "Neil Young|On the Beach|1974|C9CkvAQkQLs|Neil Young|S7686|Blues Rock;Jazz-Rock;Singer/Songwriter;Rock|",
 "Stiff Little Fingers|Alternative Ulster|1978|PlGmYetiCjA|Stiff Little Fingers|S2334|Punk Rock;Rock|",
 "U2|Mysterious Ways|1991|TxcDTUMLQJI|U2|S2037|Alternative Dance;Pop Rock;Alternative Rock;Dance;Pop;Rock|Mysterious Ways (song)",
-"Spoon|The Underdog|2007|7v0KCoPMTdU|Spoon (band)|S4303|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|The Underdog (song)",
+"Spoon|The Underdog|2007|p50JG49loH8|Spoon (band)|S4303|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|The Underdog (song)",
 "Primal Scream|Swastika Eyes|1999|bY6Wqp5UYJE|Primal Scream|S1358|Alternative Dance;Big Beat;Alternative Rock;Breakbeat;Dance;Electronic;Electronic Dance Music;Rock|Swastika Eyes",
 "Nirvana|In Bloom|1991|PbgKEjNBHqM|Kurt Cobain|S2046|Grunge;Alternative Rock;Rock|In Bloom",
 "Kiss|I Was Made for Lovin' You|1979|ZhIsAZO5gl0|Kiss (band)|S3545|Hard Rock;Pop Rock;Pop;Rock|I Was Made for Lovin' You",
