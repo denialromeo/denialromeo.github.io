@@ -1423,7 +1423,7 @@ const songs = [
 "Daryl Hall & John Oates|I Can't Go for That (No Can Do)|1981|ccenFp_3kq8?start=2|Hall & Oates|S532|Pop Rock;Pop Soul;Pop;R&B;Rock;Soul|I Can't Go for That (No Can Do)",
 "Hank Williams|Lovesick Blues|1949|Ry_-p-0stx4|Hank Williams|S1344|Traditional Country;American Folk Music;Country;Folk;Regional Music;Traditional Folk Music|Lovesick Blues",
 "The Beach Boys|Heroes and Villains|1967|YyfU2_2G11g|The Beach Boys|S2282|Baroque Pop;Progressive Pop;Psychedelic Pop;Pop|Heroes and Villains",
-"Grand Funk Railroad|We're an American Band|1973|Zc_JcGuH5Z8|Grand Funk Railroad|S1563|Hard Rock;Rock|We're an American Band (song)",
+"Grand Funk Railroad|We're an American Band|1973|QxNXFNCTr2I|Grand Funk Railroad|S1563|Hard Rock;Rock|We're an American Band (song)",
 "Wham!|Careless Whisper|1984|izGwDsrQ1eQ|Wham!|S1913|Blue Eyed Soul;Pop Soul;Sophisti-Pop;Pop;R&B;Soul|Careless Whisper",
 "Tom Waits|Tom Traubert's Blues|1976|hvFyt2kmrZk|Tom Waits|S4182|Piano Blues;Singer/Songwriter;Blues|Tom Traubert's Blues",
 "Flying Lotus|Never Catch Me|2014|2lXD0vv-ds8|Flying Lotus|S9556|Abstract Hip Hop;Conscious Hip Hop;Wonky;Dance;Electronic;Electronic Dance Music;Hip Hop|Never Catch Me",
