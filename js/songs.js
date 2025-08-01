@@ -9450,7 +9450,7 @@ const songs = [
 "Ariana Grande|God is a woman|2018|kHLHSlExFis|Ariana Grande|S16633|Contemporary R&B;Electropop;Electronic;Pop;R&B|God Is a Woman",
 "Bob Dylan|One Too Many Mornings|1964|MCDlDXPHRLQ|Bob Dylan|S10237|Contemporary Folk;Singer/Songwriter;Folk|One Too Many Mornings",
 "Steve Lacy|Playground|2019|g_ICWul5hqQ|Steve Lacy (guitarist)|S16872|Funk Rock;Neo-Soul;Psychedelic Soul;R&B;Rock;Soul|",
-"Frankie Avalon|Venus|1959|xSrb53keTL0|Frankie Avalon|S6452|Teen Pop;Pop|Venus (Frankie Avalon song)",
+"Frankie Avalon|Venus|1959|PIb3VCbBrHo|Frankie Avalon|S6452|Teen Pop;Pop|Venus (Frankie Avalon song)",
 "Frankie Avalon|Why|1959|cMTZ3QhjXr0|Frankie Avalon|S6453|Teen Pop;Pop|Why (Frankie Avalon song)",
 "Lou Reed|Street Hassle|1978|4LK9JjW2noo|Lou Reed|S7324|Art Rock;Rock|Street Hassle (song)",
 "Chairlift|Ch-Ching|2015|RCt5wfm20gU|Chairlift (band)|S9722|Alternative R&B;Contemporary R&B;R&B|",
