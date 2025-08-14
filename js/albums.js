@@ -2232,7 +2232,7 @@ const albums = [
 "Palace Music|Viva Last Blues|1995|OLAK5uy_n-oem12WfPtkDcHtustSveL4Hqa_5HLE0|A3570|Viva Last Blues|Will Oldham|Folk Rock;Rock",
 "Michelle Shocked|Short Sharp Shocked|1988|https://www.youtube.com/embed/aBWFhZVhYbM|A727|Short Sharp Shocked|Michelle Shocked|Alt-Country;Folk Rock;Singer/Songwriter;Country;Rock",
 "The O'Jays|Ship Ahoy|1973|OLAK5uy_knmNypz0_qRHTXnbiaxy1S5Ro3zUym_N8|A293|Ship Ahoy (album)|The O'Jays|Philly Soul;R&B;Soul",
-"John Fogerty|Centerfield|1985|OLAK5uy_l8bcW_nW_lz_LOLz6Niw59tdvLVgEjtPg|A652|Centerfield (album)|John Fogerty|Heartland Rock;Roots Rock;Rock",
+"John Fogerty|Centerfield|1985|OLAK5uy_mDpe1bx0fpqtkUDl-H6E6hSu6mJLDtHDU|A652|Centerfield (album)|John Fogerty|Heartland Rock;Roots Rock;Rock",
 "Foo Fighters|Wasting Light|2011|OLAK5uy_mb30iJFvuOb8_h5telqo_ZAw_QQe-bx9U|A5145|Wasting Light|Foo Fighters|Alternative Rock;Hard Rock;Rock",
 "Actress|R.I.P.|2012|OLAK5uy_m0iMI76H17aW0d1f4F6yFTEzCopzZm-Fc|A5188|R.I.P. (Actress album)|Actress (musician)|IDM;Electronic",
 "Eric Clapton|Slowhand|1977|OLAK5uy_kZNn5D2zxz5xjTlftFJ6nz9nvte9aoJ1A|A1436|Slowhand|Eric Clapton|Blues Rock;Rock",
