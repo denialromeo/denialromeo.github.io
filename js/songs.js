@@ -2366,7 +2366,7 @@ const songs = [
 "Kali Uchis feat. Tyler, the Creator & Bootsy Collins|After the Storm|2018|9f5zD7ZSNpQ|Kali Uchis|S16537|Neo-Soul;Sophisti-Pop;Pop;R&B;Soul|After the Storm (Kali Uchis song)",
 "Rush|The Spirit of Radio|1980|g_QtO0Rhp0w|Rush (band)|S2603|Progressive Rock;Rock|The Spirit of Radio",
 "M.O.P.|Ante Up|2000|3MUGAxpI0Bc|M.O.P.|S2200|Boom Bap;East Coast Hip Hop;Gangsta Rap;Hardcore Hip Hop;Hip Hop|Ante Up (song)",
-"Dr. Dre|Deep Cover|1992|81535ZYAFFc|Dr. Dre|S3355|Film Soundtrack;Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop;Soundtracks|",
+"Dr. Dre|Deep Cover|1992|c2W4ji9_IYw|Dr. Dre|S3355|Film Soundtrack;Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop;Soundtracks|",
 "Björk|Bachelorette|1997|JNJv-Ebi67I|Björk|S2143|Art Pop;Downtempo;Electronic;Pop|Bachelorette (song)",
 "Brian Eno|Needles in the Camel's Eye|1973|2SWrIB75vc8|Brian Eno|S5612|Art Rock;Glam Rock;Proto-Punk;Rock|",
 "Freddie King|Hide Away|1961|wEmGbMd2duk|Freddie King|S1126|Electric Texas Blues;Blues;Electric Blues|",
