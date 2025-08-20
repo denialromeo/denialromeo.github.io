@@ -9358,7 +9358,7 @@ const songs = [
 "David Byrne|Who|2012|hpPYKJAnwUo|St. Vincent (musician)|S5977|Art Pop;Pop|David Byrne",
 "Journey|Faithfully|1983|OMD8hBsA-RI|Journey (band)|S14603|AOR;Piano Rock;Pop;Pop Rock;Rock|Faithfully (song)",
 "Azealia Banks|Anna Wintour|2018|au8QGTiPhEw|Azealia Banks|S16601|Garage House;Hip House;Dance;Electronic;Electronic Dance Music;Hip Hop;House|Anna Wintour (song)",
-"Eddie Cantor|Yes! We Have No Bananas|1922|2FlHWYw1-io|Eddie Cantor|S14339|Vaudeville;Musical Theatre and Entertainment|Yes! We Have No Bananas",
+"Eddie Cantor|I've Got the \"Yes! We Have No Bananas\" Blues|1922|2FlHWYw1-io|Eddie Cantor|S14339|Vaudeville;Musical Theatre and Entertainment|Yes! We Have No Bananas",
 "Billie Holiday|Summertime|1936|THflqYOqm3A|Billie Holiday|S9145|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop|Billie's Blues",
 "The Mojos|Everything's Al'right|1964|o8tMGdUrpLw|The Mojos|S7591|Merseybeat;Beat Music;Pop;Pop Rock;Rock|Everything's Alright (The Mojos song)",
 "The Mission|Tower of Strength|1988|iZ6nmpmQKZs|The Mission (band)|S14764|Gothic Rock;Rock|Tower of Strength (The Mission song)",
