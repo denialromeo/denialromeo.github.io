@@ -3756,7 +3756,7 @@ const songs = [
 "Teenage Fanclub|The Concept|1991|Er_JOsnwzcI|Teenage Fanclub|S2027|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|The Concept (song)",
 "Iron Maiden|The Trooper|1983|X4bgXH3sJ2Q|Iron Maiden|S6801|NWOBHM;Heavy Metal;Metal;Rock|The Trooper",
 "Benny Goodman & His Orchestra feat. Charlie Christian|Seven Come Eleven|1940|mOnhcdAMInA|Benny Goodman|S13165|Big Band;Swing;Jazz|",
-"Prince|The Most Beautiful Girl in the World|1994|uFtfrd8_K9k|Prince (musician)|S3730|Pop Soul;Pop;R&B;Soul|The Most Beautiful Girl in the World (Prince song)",
+"Prince|The Most Beautiful Girl in the World|1994|FuXbKLiW1UI|Prince (musician)|S3730|Pop Soul;Pop;R&B;Soul|The Most Beautiful Girl in the World (Prince song)",
 "Yazoo|Only You|1982|w67Uspp_PsQ|Yazoo (band)|S1882|Synthpop;Electronic;Pop|Only You (Yazoo song)",
 "The Temper Trap|Sweet Disposition|2008|vN7HQrgakZU|The Temper Trap|S8713|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|Sweet Disposition",
 "Jaydee|Plastic Dreams|1993|OJ2tHzhfUOg|Jaydee|S2062|Progressive House;Dance;Electronic;Electronic Dance Music;House|",
