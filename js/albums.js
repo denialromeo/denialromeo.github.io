@@ -1468,7 +1468,7 @@ const albums = [
 "The Only Ones|The Only Ones|1978|OLAK5uy_m5ZkUsBmLn7xhkQJB0d-QHmFxK5ONVPXY|A2731|The Only Ones (album)|The Only Ones|New Wave;Power Pop;Pop;Pop Rock;Rock",
 "Father John Misty|Pure Comedy|2017|OLAK5uy_k8nwYczCfvoLONasXdWJtemaws_UiYWX4|A5891|Pure Comedy|Josh Tillman|Chamber Pop;Piano Rock;Singer/Songwriter;Baroque Pop;Indie Pop;Pop;Pop Rock;Rock",
 "The Clash|Give 'em Enough Rope|1978|OLAK5uy_kFfgbbjsC3dPyEQM8Ol0Tcgu7S1YJWZu4|A430|Give 'Em Enough Rope|The Clash|Punk Rock;Rock",
-"Devendra Banhart|Rejoicing in the Hands|2004|OLAK5uy_krXX-MQ6korCYLNOi_pdzD4tjosFR5zQ8|A4053|Rejoicing in the Hands|Devendra Banhart|Contemporary Folk;Singer/Songwriter;Folk",
+"Devendra Banhart|Rejoicing in the Hands|2004|OLAK5uy_kPwEzW3-uMIMhLoMFCJjgp9-sMxvEdN20|A4053|Rejoicing in the Hands|Devendra Banhart|Contemporary Folk;Singer/Songwriter;Folk",
 "Björk|Medulla|2004|OLAK5uy_mOTiVGXtk3SjbOf44x9Z5MyQBRJMhVCg0|A4058|Medúlla|Björk|A cappella;Art Pop;Experimental;Pop",
 "Blood, Sweat & Tears|Child Is Father to the Man|1968|OLAK5uy_njrj_L4SXKzPJPtHBbWmyO_cvWsp1zXPE|A146|Child Is Father to the Man|Blood, Sweat & Tears|Jazz-Rock;Psychedelic Pop;Pop;Rock",
 "Parquet Courts|Light Up Gold|2012|OLAK5uy_mTp_7GkP7sFAH5meUZi9ugZ1s4lILZI4U|A5352|Light Up Gold|Parquet Courts|Indie Rock;Alternative Rock;Rock",
