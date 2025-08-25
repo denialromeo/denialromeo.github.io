@@ -6281,7 +6281,7 @@ const songs = [
 "Sonny Rollins|The Freedom Suite|1958|oSpaqjCl358|Sonny Rollins|S13250|Hard Bop;Bebop;Jazz|",
 "Foo Fighters|Big Me|1995|pLdJQFTnZfA|Foo Fighters|S10838|Alternative Rock;Rock|Big Me",
 "Prince|Batdance|1989|ulOLYnOthIw|Prince (musician)|S3101|Dance-Pop;Film Soundtrack;Funk;Dance;Pop;R&B;Soundtracks|Batdance",
-"David Bowie|All the Young Dudes|1974|Rajof9Qigos|David Bowie|S10514|Glam Rock;Rock|All the Young Dudes",
+"David Bowie|All the Young Dudes|1974|umMIvPJnS8o|David Bowie|S10514|Glam Rock;Rock|All the Young Dudes",
 "Tubeway Army|Down in the Park|1979|9GQS-iFCzus|Tubeway Army|S10901|New Wave;Synthpop;Electronic;Pop;Rock|Down in the Park",
 "Canned Heat|Going Up the Country|1968|4eQMA_noRYQ|Canned Heat|S5706|Blues Rock;Folk Rock;Roots Rock;Rock|Going Up the Country",
 "The Posies|Dream All Day|1993|lM1U78RLChY|The Posies|S7995|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|",
