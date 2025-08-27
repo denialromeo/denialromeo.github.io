@@ -10394,7 +10394,7 @@ const songs = [
 "Grace|Not Over Yet|1995|oBUT0cxtHlg|Grace (band)|S6618|Progressive House;Vocal Trance;Dance;Electronic;Electronic Dance Music;House;Trance|Not Over Yet (Grace song)",
 "Boney M|Rivers of Babylon|1978|l3QxT-w3WMo|Boney M.|S14175|Disco;Dance|Rivers of Babylon",
 "Lily Allen|Fuck You|2009|o8VZX4sHn-4|Lily Allen|S11440|Pop|Fuck You (Lily Allen song)",
-"Classics IV|Spooky|1967|loHMMpbSnjY?start=29|Classics IV|S5830|Pop Rock;Pop;Rock|Spooky (Classics IV song)",
+"Classics IV|Spooky|1967|NJZQFlGPrwA|Classics IV|S5830|Pop Rock;Pop;Rock|Spooky (Classics IV song)",
 "Sinéad O'Connor|The Emperor's New Clothes|1990|yhfATC9baPo|Sinéad O'Connor|S8426|Pop Rock;Pop;Rock|The Emperor's New Clothes (song)",
 "Lykke Li|Sadness Is a Blessing|2011|Xu-b3u5jDiU|Lykke Li|S11501|Art Pop;Indie Pop;Pop|",
 "Zwan|Honestly|2003|NLPgz9K4D20|Zwan|S15993|Alternative Rock;Rock|Honestly (Zwan song)",
