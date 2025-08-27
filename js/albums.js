@@ -2797,7 +2797,7 @@ const albums = [
 "Huerco S.|For Those of You Who Have Never (And Also Those Who Have)|2016|OLAK5uy_k7D4l2UV-wxkoCrI0Sl4SGK4ygyPO2f28|A5740|For Those of You Who Have Never (And Also Those Who Have)|Brian Leeds|Ambient",
 "Drive-By Truckers|Brighter Than Creation's Dark|2008|OLAK5uy_lSbQRau9eEgs4ARStGvUNL9Y0-4pOIKHU|A4389|Brighter Than Creation's Dark|Drive-By Truckers|Alt-Country;Country Rock;Southern Rock;Country;Rock",
 "The Residents|Commercial Album|1980|OLAK5uy_mc_ykhhjgEZR1duZlojjp1Ss0F-lAs4vw|A1684|Commercial Album|The Residents|Art Pop;Satire;Comedy;Pop",
-"Pink Floyd|A Saucerful of Secrets|1968|OLAK5uy_lBrFvNjJj-F86-KrsohnXsHstyziMaiUY|A2228|A Saucerful of Secrets|Pink Floyd|Psychedelic Rock;Rock",
+"Pink Floyd|A Saucerful of Secrets|1968|OLAK5uy_l2EinbYoUlRTsRiBI1s8ZNnTIDyoPckR8|A2228|A Saucerful of Secrets|Pink Floyd|Psychedelic Rock;Rock",
 "Maxwell|BLACKsummers'night|2009|OLAK5uy_lZ_3rg5p8synX9hNzsByUI0uXxloRURGQ|A5039|BLACKsummers'night|Maxwell (musician)|Contemporary R&B;Neo-Soul;R&B;Soul",
 "Burial|Kindred|2012|OLAK5uy_mloKPQdAMj42MGF9pLD5ONjJLukHfgQRo|A6612|Kindred (EP)|Burial (musician)|Future Garage;Dance;Electronic;Electronic Dance Music;UK Garage",
 "The Lester Young and Teddy Wilson Quartet|Pres and Teddy|1959|OLAK5uy_m1C5OXIg3RhisijPTfyfzXdevOXCBCfjg|A1808|Pres and Teddy|Teddy Wilson|Swing;Jazz",
