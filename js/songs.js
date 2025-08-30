@@ -8482,7 +8482,7 @@ const songs = [
 "Neon Indian|Annie|2015|TTuT1s-YPLE|Neon Indian|S9821|Chillwave;Synthpop;Electronic;Indietronica;Pop|",
 "The Shades of Blue|Oh! How Happy|1966|4G0Y4puNbDE|The Shades of Blue|S8370|Blue Eyed Soul;Pop|Oh How Happy",
 "Super Furry Animals|(Drawing) Rings Around the World|2001|-i2Kn-EXh_A|Super Furry Animals|S8637|Neo-Psychedelia;Power Pop;Progressive Pop;Pop;Pop Rock;Psychedelic Rock;Rock|",
-"Ramones|Rock 'n' Roll High School|1979|oz7KYUkdlvE|Ramones|S8089|Pop Punk;Surf Punk;Punk Rock;Rock;Surf Music|Rock 'n' Roll High School",
+"Ramones|Rock 'n' Roll High School|1979|oz7KYUkdlvE|Ramones|S8089|Pop Punk;Surf Punk;Punk Rock;Rock;Surf Music|Rock 'n' Roll High School (song)",
 "Paul and Paula|Hey Paula|1962|tu26InG0bmE|Paul & Paula|S7873|Teen Pop;Traditional Pop;Pop|Hey Paula (song)",
 "The Joy Formidable|Whirring|2009|a2BUEzdjfpY|The Joy Formidable|S7010|Indie Rock;Shoegaze;Alternative Rock;Rock|Whirring",
 "Helen Reddy|Angie Baby|1974|hjZy00iHM-8|Helen Reddy|S6699|Adult Contemporary;Soft Rock;Pop;Pop Rock;Rock|Angie Baby",
