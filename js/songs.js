@@ -6070,7 +6070,7 @@ const songs = [
 "Gustavo Cerati|Crimen|2006|uLIs0j2WnlM|Gustavo Cerati|S10996|Alternative Rock;Pop Rock;Pop;Rock|",
 "Pete Townshend|Let My Love Open the Door|1980|v-ErHX4IEIA|Pete Townshend|S7942|Pop Rock;Pop;Rock|Let My Love Open the Door",
 "Beenie Man|Who Am I|1998|WI-xQ7IksUc|Beenie Man|S2158|Ragga;Caribbean Music;Dancehall;Jamaican Music;Regional Music|",
-"Little Richard|I Don't Know What You Got But It's Got Me|1965|NMzX72GOOEQ|Little Richard|S3077|Soul Blues;Southern Soul;Blues;R&B;Soul|You Really Got Me",
+"Little Richard|I Don't Know What You Got But It's Got Me|1965|SJ-tqOKZnKE|Little Richard|S3077|Soul Blues;Southern Soul;Blues;R&B;Soul|You Really Got Me",
 "Sleigh Bells|Tell 'Em|2010|0ZWhaqVzecE|Sleigh Bells (band)|S4922|Noise Pop;Alternative Rock;Rock|",
 "Pat Boone|Speedy Gonzales|1962|g_o5paTxIoo|Pat Boone|S7858|Rock & Roll;Traditional Pop;Pop;Rock|Speedy Gonzales (song)",
 "Kate Bush|Army Dreamers|1980|QOZDKlpybZE|Kate Bush|S4445|Art Pop;Pop|Army Dreamers",
