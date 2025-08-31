@@ -912,7 +912,7 @@ const songs = [
 "Pink Floyd|Astronomy Domine|1967|3exQLmJBoAY|Pink Floyd|S3702|Experimental Rock;Space Rock;Psychedelic Rock;Rock|Astronomy Domine",
 "The Rolling Stones|Ruby Tuesday|1967|ADtnUC_ctNk|The Rolling Stones|S2515|Baroque Pop;Pop Rock;Pop;Rock|Ruby Tuesday (song)",
 "Cardi B feat. Bad Bunny and J Balvin|I Like It|2018|xTlNMmZKwpA|Cardi B|S16519|Latin Rap;Pop Rap;Hip Hop|I Like It (Cardi B, Bad Bunny and J Balvin song)",
-"Panda Bear|Bro's|2006|FQUrf6DpXjc|Panda Bear (musician)|S4311|Neo-Psychedelia;Progressive Pop;Psychedelic Pop;Pop;Psychedelic Rock;Rock|Bro's (song)",
+"Panda Bear|Bros|2006|FQUrf6DpXjc|Panda Bear (musician)|S4311|Neo-Psychedelia;Progressive Pop;Psychedelic Pop;Pop;Psychedelic Rock;Rock|Bro's (song)",
 "Elis Regina|Águas de março|1974|E1tOV7y94DY|Elis Regina|S8783|Bossa Nova;Brazilian Music;Regional Music|Waters of March",
 "Benny Goodman|Sing, Sing, Sing|1937|u_E0UVNtJ9Y|Benny Goodman|S2688|Big Band;Swing;Jazz|",
 "James Blake|The Wilhelm Scream|2011|isIABK-0ohQ|James Blake (musician)|S4966|Alternative R&B;Art Pop;Downtempo;Contemporary R&B;Electronic;Pop;R&B|The Wilhelm Scream",
