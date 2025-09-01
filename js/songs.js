@@ -4118,7 +4118,7 @@ const songs = [
 "Tyrone Davis|Can I Change My Mind|1968|atlfJwaDnsc|Tyrone Davis|S2852|Chicago Soul;R&B;Soul|Can I Change My Mind",
 "Fairport Convention|A Sailor's Life|1969|Ygi8v7UcNMs|Fairport Convention|S4126|British Folk Rock;Progressive Folk;Contemporary Folk;Folk;Folk Rock;Rock|A Sailor's Life",
 "Sister Sledge|He's The Greatest Dancer|1978|VB4JPQKr9bQ|Sister Sledge|S4438|Disco;Dance|He's the Greatest Dancer",
-"Todd Terje|Strandbar|2013|87LGmZoD0k|Todd Terje|S9538|Electro-Disco;Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House|",
+"Todd Terje|Strandbar|2013|LHA1rnsewJY|Todd Terje|S9538|Electro-Disco;Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House|",
 "Joe Simon|Drowning in the Sea of Love|1971|veyKdMzF2xs|Joe Simon (musician)|S1315|Philly Soul;R&B;Soul|Drowning in the Sea of Love",
 "Garth Brooks|The Dance|1989|bpwdwbO1uvM|Garth Brooks|S2018|Contemporary Country;Country Pop;Country;Pop|The Dance (song)",
 "Travis|Why Does It Always Rain on Me?|1999|Os853AL-Ihw|Travis (band)|S2380|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Why Does It Always Rain on Me%3F",
