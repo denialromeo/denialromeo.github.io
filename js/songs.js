@@ -5925,7 +5925,7 @@ const songs = [
 "Jelly Roll Morton|Doctor Jazz|1927|QqH9dUsj7A0|Jelly Roll Morton|S13204|Big Band;Jazz|",
 "War|The World Is a Ghetto|1972|mJ4USEMH_PQ|War (American band)|S3938|Funk;Soul;R&B|The World Is a Ghetto (War song)",
 "The Persuaders|Thin Line Between Love and Hate|1971|f2oc1ynfIwk|The Persuaders|S3695|Soul;R&B|Thin Line Between Love and Hate",
-"De La Soul|Plug Tunin'|1988|pLwZRDIPIgI|De La Soul|S5987|Boom Bap;East Coast Hip Hop;Hip Hop|Plug Tunin'",
+"De La Soul|Plug Tunin'|1988|reNukHX3zB0|De La Soul|S5987|Boom Bap;East Coast Hip Hop;Hip Hop|Plug Tunin'",
 "Glenn Miller|A String of Pearls|1941|1wO_dCDehbQ|Glenn Miller|S6582|Big Band;Vocal Jazz;Jazz|A String of Pearls (song)",
 "Joanna Newsom|Baby Birch|2010|8-Mj3wKU-wg|Joanna Newsom|S6929|Chamber Folk;Progressive Folk;Singer/Songwriter;Contemporary Folk;Folk|Have One on Me",
 "Porter|Espiral|2004|Jb7BgzFaMZc|Porter (band)|S13597|Indie Rock;Alternative Rock;Rock|",
