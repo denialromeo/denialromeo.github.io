@@ -767,7 +767,7 @@ const classical = [
 "Charles Tournemire|L’orgue mystique|1932|OLAK5uy_m_aEG0NBz9esX02rojldUBV0Pu-Ziu4KM|Charles Tournemire|",
 "Dmitri Shostakovich|Piano Concerto No. 1|1933|WyADlfFSFC0|Dmitri Shostakovich|Piano Concerto No. 1 (Shostakovich)",
 "Kurt Weill|The Seven Deadly Sins|1933|PLs2vq238vU6ljW9CYM9Xk22GLbT0Kr4mx|Kurt Weill|The Seven Deadly Sins (ballet chanté)",
-"Zoltan Kodaly|Dances of Galánta|1933|Gi_gUeCG_d8|Zoltán Kodály|Dances of Galánta",
+"Zoltan Kodaly|Dances of Galánta|1933|daepERU8rnE|Zoltán Kodály|Dances of Galánta",
 "Karol Szymanowski|Violin Concerto No. 2|1933|roFFn0DL_hU|Karol Szymanowski|Violin Concerto No. 2 (Szymanowski)",
 "Edward Elgar|Symphony No. 3|1934|Tnor-Hg7Utc|Edward Elgar|Symphony No. 3 (Elgar)",
 "Dmitri Shostakovich|Cello Sonata|1934|DBYoug7MTZQ|Dmitri Shostakovich|Cello Sonata (Shostakovich)",
