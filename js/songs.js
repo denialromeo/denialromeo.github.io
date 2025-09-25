@@ -4229,7 +4229,7 @@ const songs = [
 "Big Country|In a Big Country|1983|657TZDHZqj4|Big Country|S3212|Celtic Rock;New Wave;Folk Rock;Rock|In a Big Country",
 "Motörhead|Overkill|1979|MlzTET_8SQg|Motörhead|S7621|Heavy Metal;Metal;Rock|Overkill (Motörhead song)",
 "Tommy Dorsey|Opus No. 1|1944|5RxKJztoGfk|Tommy Dorsey|S8803|Swing;Jazz|",
-"Elton John|Don't Go Breaking My Heart|1976|z0qW9P-uYfM|Kiki Dee|S2876|Pop|",
+"Elton John|Don't Go Breaking My Heart|1976|z0qW9P-uYfM|Elton John|S2876|Pop|Don't Go Breaking My Heart",
 "Juvenile|Back That Azz Up|1998|T4W8hdegL3g?start=5|Juvenile (rapper)|S7037|Bounce;Dirty South;Southern Hip Hop;Hip Hop|Back That Thang Up",
 "Nick Lowe|So It Goes|1976|YEpr8kaczck|Nick Lowe|S3574|New Wave;Power Pop;Pub Rock;Pop;Pop Rock;Rock|So It Goes (song)",
 "Elvis Presley|(Marie's the Name) His Latest Flame|1961|59pOE3OmUi8|Elvis Presley|S3717|Pop Rock;Rock & Roll;Pop;Rock|(Marie's the Name) His Latest Flame",
