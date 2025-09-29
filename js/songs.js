@@ -5224,7 +5224,7 @@ const songs = [
 "Gang Starr|Jazz Thing|1990|3kg0mh3lu9Q|Gang Starr|S3436|East Coast Hip Hop;Jazz Rap;Hip Hop|",
 "Grandaddy|A.M. 180|1997|C6GNmZOJd2A|Grandaddy|S10965|Indie Pop;Indie Rock;Indietronica;Alternative Rock;Electronic;Pop;Rock|A.M. 180",
 "Hüsker Dü|Eight Miles High|1984|iokmbu41qak|Hüsker Dü|S447|Hardcore Punk;Post-Hardcore;Punk Rock;Rock|",
-"Dion|Born to Be with You|1975|3PZ_ySxlSOg|Dion DiMucci|S4427|Baroque Pop;Pop Rock;Pop;Rock|",
+"Dion|Born to Be with You|1975|3PZ_ySxlSOg|Dion DiMucci|S4427|Baroque Pop;Pop Rock;Pop;Rock|Born to Be with You (song)",
 "Simon and Garfunkel|Cecilia|1970|e5uei2AFEaQ|Simon & Garfunkel|S8417|Folk Pop;Contemporary Folk;Folk;Pop|Cecilia (Simon & Garfunkel song)",
 "Al Green|L-O-V-E (Love)|1975|DpAbAFJ4MJI|Al Green|S5125|Southern Soul;R&B;Soul|L-O-V-E (Love)",
 "Berlin|Take My Breath Away|1986|Bx51eegLTY8|Berlin (band)|S5417|Film Soundtrack;Synthpop;Electronic;Pop;Soundtracks|Take My Breath Away",
