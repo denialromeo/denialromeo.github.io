@@ -2076,7 +2076,7 @@ const albums = [
 "Megadeth|Peace Sells... But Who's Buying?|1986|OLAK5uy_nHGTpSJUV5qxEhNAfZOBZmEUXOf3EA6ow|A3131|Peace Sells... but Who's Buying%3F|Megadeth|Speed Metal;Thrash Metal;Metal;Rock",
 "J.J. Cale|Naturally|1972|OLAK5uy_nEFLkeHYPzGgnpJbhmPJQT9wM_uxwXKFU|A1345|Naturally (J. J. Cale album)|J. J. Cale|Americana;Blues Rock;Country Rock;Country;Rock",
 "Wendy Carlos|Switched-On Bach|1968|PLLICd7vQi7iGUyErozBAwgcr4F49kxiXY|A2587|Switched-On Bach|Wendy Carlos|Baroque Music;Electronic;Classical Music;Western Classical Music",
-"Charlie Parker|Charlie Parker with Strings|1950|OLAK5uy_lwmGDtyIieUYhZDiL2ZFqm8opTdKGZ0w4|A1759|Charlie Parker with Strings|Charlie Parker|Cool Jazz;Jazz",
+"Charlie Parker|Charlie Parker with Strings|1950|OLAK5uy_kZ2DhGpPfB4l8o6rPzJFhv1Fu032qXwCs|A1759|Charlie Parker with Strings|Charlie Parker|Cool Jazz;Jazz",
 "Jungle Brothers|Straight out the Jungle|1988|OLAK5uy_mxvQnvZ1OxfbrJI1INFSKIUtMQTx5PzfA|A1542|Straight out the Jungle|Jungle Brothers|Conscious Hip Hop;Hip Hop",
 "This Heat|Deceit|1981|OLAK5uy_kZO_N8NZHVD9gzKcCWMAqsVBlUf2H6pcU|A2868|Deceit (album)|This Heat|Experimental Rock;Post-Punk;Rock",
 "Sonny Rollins|Tenor Madness|1956|OLAK5uy_n5z68wzFZqPeFlGzlWhYpOiN2Kx5zp9gQ|A1801|Tenor Madness|Sonny Rollins|Hard Bop;Bebop;Jazz",
