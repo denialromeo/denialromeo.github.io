@@ -8057,7 +8057,7 @@ const songs = [
 "The Soft Boys|Queen of Eyes|1980|SQ4wn55Sc7A|The Soft Boys|S15884|Jangle Pop;Neo-Psychedelia;Post-Punk;Alternative Rock;Pop;Pop Rock;Psychedelic Rock;Rock|",
 "Maurice Fanon|L'écharpe|1963|KYHRgYwrNDQ|https://fr.wikipedia.org/wiki/Maurice_Fanon|S11580|Chanson;Regional Music|",
 "Danny Brown|Grown Up|2012|mOmsU91AxVg|Danny Brown|S5944|Conscious Hip Hop;Hip Hop|",
-"Ian Dury|What a Waste|1978|d57CjU62qYs|The Blockheads|S1807|New Wave;Pub Rock;Rock|What a Waste",
+"Ian Dury|What a Waste|1978|ZmopROxBnBU|The Blockheads|S1807|New Wave;Pub Rock;Rock|What a Waste",
 "Patrick Hernandez|Born To Be Alive|1979|9UaJAnnipkY|Patrick Hernandez|S12887|Euro-Disco;Hi-NRG;Dance;Disco;Electro-Disco;Electronic;Electronic Dance Music|Born to Be Alive (song)",
 "The Ventures|Hawaii Five-O|1969|aQSPivbWwuY?start=13|The Ventures|S8973|Surf Rock;Television Music;Rock;Soundtracks;Surf Music|Hawaii Five-O Theme",
 "M.I.A.|Bird Flu|2006|6Kq16GAuNcg|M.I.A. (rapper)|S4654|Experimental Hip Hop;UK Hip Hop;Hip Hop|Bird Flu",
