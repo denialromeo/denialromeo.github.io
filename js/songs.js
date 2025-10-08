@@ -7220,7 +7220,7 @@ const songs = [
 "Suzi Quatro|Can the Can|1973|-Ug00lBdURQ|Suzi Quatro|S4168|Glam Rock;Pop Rock;Pop;Rock|Can the Can",
 "Johnnie Allan|Promised Land|1971|IyytlU-uS7k|Johnnie Allan|S2872|Country Rock;Folk Rock;Swamp Blues;Blues;Electric Blues;Rock|Promised Land (Chuck Berry song)",
 "Willie Williams|Armagideon Time|1978|q8QshGV3o6k|Willi Williams|S9032|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|Armagideon Time",
-"Frank Stanley|Auld Lang Syne|1907|19-Giy1g8V0|Frank C. Stanley|S9223|Vaudeville;Musical Theatre and Entertainment|Auld Lang Syne",
+"Frank Stanley|Auld Lang Syne|1907|FKG9CBgGfcQ|Frank C. Stanley|S9223|Vaudeville;Musical Theatre and Entertainment|Auld Lang Syne",
 "Depeche Mode|New Life|1981|ZFnEhwmpjXI|Depeche Mode|S13439|Synthpop;Electronic;Pop|",
 "MC5|Looking at You|1968|74jS3dW0DtE?start=376|MC5|S13311|Garage Rock;Hard Rock;Proto-Punk;Rock|",
 "Dr. John|Such a Night|1973|fj9lG30WzcA|Dr. John|S13094|New Orleans R&B;R&B|",
