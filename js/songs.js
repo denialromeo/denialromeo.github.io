@@ -1620,7 +1620,7 @@ const songs = [
 "Friendly Fires|Paris|2007|nnHJhy68Q98|Friendly Fires|S4718|Indietronica;Synthpop;Electronic;Pop|Paris (Friendly Fires song)",
 "Blur|For Tomorrow|1993|gghFPavXE7Q|Blur (band)|S141|Britpop;Alternative Rock;Pop;Pop Rock;Rock|For Tomorrow (song)",
 "The Beatles|Here, There and Everywhere|1966|xdcSFVXd3MU|The Beatles|S3191|Pop Rock;Sunshine Pop;Pop;Rock|Here, There and Everywhere",
-"Babyshambles|Fuck Forever|2005|pOpz_3O5Lho|Babyshambles|S3003|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|Fuck Forever",
+"Babyshambles|Fuck Forever|2005|x7KObiqR_Jo|Babyshambles|S3003|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|Fuck Forever",
 "Jackson Browne|Running On Empty|1977|5WhDTS2AeLw|Jackson Browne|S1804|Heartland Rock;Pop Rock;Pop;Rock|Running on Empty (album)",
 "Taana Gardner|Heartbeat|1981|MN5GBxLZ-5o|Taana Gardner|S521|Boogie;Dance;Disco;R&B|Heartbeat (Taana Gardner song)",
 "Pet Shop Boys|Rent|1987|NTHi-p7l3KM|Pet Shop Boys|S355|Synthpop;Electronic;Pop|Rent (song)",
