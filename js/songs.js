@@ -3643,7 +3643,7 @@ const songs = [
 "Steve Reich|It's Gonna Rain|1965|vWN9I-qa9GQ|Steve Reich|S8577|Minimalism;Tape Music;Classical Music;Experimental;Modern Classical|It's Gonna Rain",
 "The Juan MacLean|Happy House|2008|NfJYtbGPgQs|The Juan MacLean|S7014|Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House|",
 "Nicki Minaj|Beez in the Trap|2012|EmZvOhHF85I|Nicki Minaj|S7737|Hardcore Hip Hop;Snap;Hip Hop|Beez in the Trap",
-"Can|Oh Yeah|1971|bRMSjidUB_o|Can (band)|S5702|Krautrock;Experimental Rock;Progressive Rock;Rock|Oh Yeah (Yello song)",
+"Can|Oh Yeah|1971|bKoQJctTy4M|Can (band)|S5702|Krautrock;Experimental Rock;Progressive Rock;Rock|",
 "No Doubt|Just a Girl|1995|PHzOOQfhPFg|No Doubt|S11777|Alternative Rock;Pop Rock;Pop;Rock|Just a Girl",
 "Jody Reynolds|Endless Sleep|1958|6acvhYcPWB8|Jody Reynolds|S3067|Rockabilly;Rock;Rock & Roll|Endless Sleep",
 "The Five Stairsteps|O-o-h Child|1970|dguz0IsCuKU|Five Stairsteps|S1725|Chicago Soul;Pop Soul;Pop;R&B;Soul|",
