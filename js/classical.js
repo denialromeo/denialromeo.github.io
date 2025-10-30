@@ -512,7 +512,7 @@ const classical = [
 "Gustav Mahler|Symphony No. 3|1896|oSBfEPAnDsY?start=3|Gustav Mahler|Symphony No. 3 (Mahler)",
 "Camille Saint-Saens|Piano Concerto No. 5, \"Egyptian\"|1896|OVZcDkJ3-bQ|Camille Saint-Saëns|Piano Concerto No. 5 (Saint-Saëns)",
 "Richard Strauss|Also sprach Zarathustra|1896|GfwAPg4rQQE?start=3|Richard Strauss|Also sprach Zarathustra",
-"Hugo Wolf|Italienisches Liederbuch|1896|FwjVBdoVaoY|Hugo Wolf|Italienisches Liederbuch (Wolf)",
+"Hugo Wolf|Italienisches Liederbuch|1896|BojfF-O1Xgo|Hugo Wolf|Italienisches Liederbuch (Wolf)",
 "Richard Strauss|Don Quixote|1897|5PvCGu2Ue0U|Richard Strauss|Don Quixote (Strauss)",
 "Paul Dukas|The Sorcerer’s Apprentice|1897|xazobZ22zro?start=42|Paul Dukas|The Sorcerer's Apprentice (Dukas)",
 "Richard Strauss|Ein Heldenleben|1898|Us1jfC7bMpA?start=3|Richard Strauss|Ein Heldenleben",
