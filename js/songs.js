@@ -9199,7 +9199,7 @@ const songs = [
 "Aphex Twin|On|1993|ckhJhcks-6A|Aphex Twin|S2071|Ambient Techno;IDM;Dance;Electronic;Electronic Dance Music;Techno|",
 "Lorenzo Senni|The Shape of Trance to Come|2017|hFKOMhu88bY|Lorenzo Senni|S16440|Progressive Electronic;Progressive Trance;Dance;Electronic;Electronic Dance Music;Trance|",
 "Thelonious Monk|Off Minor|1948|8JzGd7jzwtQ|Thelonious Monk|S13642|Bebop;Jazz|",
-"Magali Noël|Fais moi mal Johnny|1956|TNQR5S_Qc8g|Magali Noël|S7377|Chanson;Regional Music|Fais-moi mal, Johnny",
+"Magali Noël|Fais moi mal Johnny|1956|rHO5Xjsjoas|Magali Noël|S7377|Chanson;Regional Music|Fais-moi mal, Johnny",
 "R.E.M.|Can't Get There from Here|1985|gD3cYh5Pp1I|R.E.M.|S8055|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Cant Get There from Here",
 "The Cure|All Cats Are Grey|1981|4v7WUz3GSgk|The Cure|S9196|Gothic Rock;Post-Punk;Rock|Faith (The Cure album)",
 "Michel Sardou|La Maladie d'amour|1973|24h1nd2kJrE|Michel Sardou|S11632|Chanson;Regional Music|",
