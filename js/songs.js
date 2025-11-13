@@ -9384,7 +9384,7 @@ const songs = [
 "Shout Out Louds|Impossible|2007|cX9Oha6GXO0|Shout Out Louds|S12200|Indie Pop;Pop|",
 "Boston|Amanda|1986|S4mCIsmiAWc|Boston (band)|S5600|AOR;Rock|Amanda (Boston song)",
 "AC/DC|Problem Child|1976|nng92efL2f8|AC/DC|S9917|Hard Rock;Rock|Dirty Deeds Done Dirt Cheap",
-"Neil Diamond|America|1980|ffu0DUR6gV4|Neil Diamond|S14796|Film Soundtrack;Pop Rock;Pop;Rock;Soundtracks|America (Neil Diamond song)",
+"Neil Diamond|America|1980|Pg8pj1x9-t4|Neil Diamond|S14796|Film Soundtrack;Pop Rock;Pop;Rock;Soundtracks|America (Neil Diamond song)",
 "Blur|No Distance Left to Run|1999|czSZ2djVRdI|Blur (band)|S5528|Alternative Rock;Art Rock;Rock|No Distance Left to Run",
 "Junip|Line of Fire|2013|wSaDElz7wSI|Junip|S11283|Indie Folk;Contemporary Folk;Folk|",
 "Prefab Sprout|The Best Jewel Thief in the World|2013|5WnATZLcXuA|Prefab Sprout|S9509|Jangle Pop;Sophisti-Pop;Alternative Rock;Pop;Pop Rock;Rock|",
