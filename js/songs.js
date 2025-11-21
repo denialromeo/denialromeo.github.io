@@ -3686,7 +3686,7 @@ const songs = [
 "De La Soul|Eye Know|1989|q9jCsOCfUUg|De La Soul|S262|East Coast Hip Hop;Hip Hop|",
 "Black Sabbath|Sabbath Bloody Sabbath|1973|mfTpjrzas5E|Black Sabbath|S1750|Heavy Metal;Metal;Rock|",
 "The Music Machine|Talk Talk|1966|iZExWt-bj-k|The Music Machine|S3648|Garage Rock;Proto-Punk;Rock|",
-"John Coltrane|A Love Supreme, Part 3: Pursuance/Part 4: Psalm|1965|sHkMFLhcKJg|John Coltrane|S2825|Spiritual Jazz;Avant-Garde Jazz;Jazz|",
+"John Coltrane|A Love Supreme, Part 3: Pursuance/Part 4: Psalm|1965|7m2djbMFvQc|John Coltrane|S2825|Spiritual Jazz;Avant-Garde Jazz;Jazz|",
 "Men Without Hats|The Safety Dance|1982|nM4okRvCg2g|Men Without Hats|S7516|Dance-Pop;Synthpop;Dance;Electronic;Pop|The Safety Dance",
 "Frankie Goes to Hollywood|The Power of Love|1984|NyoTvgPn0rU|Frankie Goes to Hollywood|S4464|Pop|",
 "Leonard Cohen|The Stranger Song|1967|ZqlR5D0y23s|Leonard Cohen|S9275|Contemporary Folk;Singer/Songwriter;Folk|Songs of Leonard Cohen",
