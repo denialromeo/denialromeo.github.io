@@ -974,7 +974,7 @@ const albums = [
 "The Neville Brothers|Yellow Moon|1989|OLAK5uy_kdgy2dT67YFFKxGd0gMt0iRZ0PMxuyjkE|A764|Yellow Moon|The Neville Brothers|New Orleans R&B;Soul;R&B",
 "Willie Nelson|Stardust|1978|OLAK5uy_krDD7M2zt0dvgCu7RtuLn2VVoliugldcE|A1161|Stardust (Willie Nelson album)|Willie Nelson|Standards;Pop;Traditional Pop",
 "Kanye West|808s & Heartbreak|2008|OLAK5uy_nhrmFsJ8c44jdVUkW4oFRSv_ScIeUqSyw|A4390|808s & Heartbreak|Kanye West|Electropop;Synthpop;Electronic;Pop",
-"Cowboy Junkies|The Trinity Session|1988|OLAK5uy_n2rZZpCKfbh-5QS-A3b3WzjfpEFeOjxJ0|A750|The Trinity Session|Cowboy Junkies|Alt-Country;Contemporary Folk;Country;Folk",
+"Cowboy Junkies|The Trinity Session|1988|OLAK5uy_nW1S0BjWRFWH95IL0Io9aiRT1TBZmCao0|A750|The Trinity Session|Cowboy Junkies|Alt-Country;Contemporary Folk;Country;Folk",
 "Andrew Hill|Point of Departure|1965|OLAK5uy_lulIBVvUlKX7rm-K3araqOoD_MudOiwoY|A1944|Point of Departure (Andrew Hill album)|Andrew Hill (jazz musician)|Avant-Garde Jazz;Jazz",
 "Godspeed You! Black Emperor|F♯ A♯ ∞|1997|PLCEE120B54837814D|A3668|F%E2%99%AF_A%E2%99%AF_%E2%88%9E|Godspeed You! Black Emperor|Post-Rock;Rock",
 "Blumfeld|L'Etat Et Moi|1994|OLAK5uy_llGRtGq4m75tjqoYK-RE1u0BLI8CN0T4E|A3539|L'Etat Et Moi|Blumfeld|Indie Rock;Alternative Rock;Rock",
