@@ -9554,7 +9554,7 @@ const songs = [
 "Vess L. Ossman|A Bunch of Rags|1898|uGN1OsaxAJ0|Vess Ossman|S13258|Ragtime;American Folk Music;Folk;Regional Music;Traditional Folk Music|",
 "Sun Ra Arkestra|Nuclear War|1982|vrwAk875sIc|Sun Ra|S15088|Avant-Garde Jazz;Jazz|",
 "Tom Waits|I Don't Wanna Grow Up|1992|CWh4xHeFMIQ|Tom Waits|S3927|Folk Rock;Singer/Songwriter;Rock|https://en.wikipedia.org/wiki/Bone_Machine#I_Don't_Wanna_Grow_Up",
-"Third World|96 Degrees in the Shade|1977|-V2oE8wARWo|Third World (band)|S15126|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
+"Third World|96 Degrees in the Shade|1977|UwlUY3AQd2Q|Third World (band)|S15126|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
 "Blues Image|Ride Captain Ride|1970|HqFFjoRnltg?start=6|Blues Image|S5521|Pop Rock;Pop;Rock|Ride Captain Ride",
 "Future Islands|Ran|2017|MlQunle406U|Future Islands|S16384|Synthpop;Electronic;Pop|",
 "Todd Rundgren|International Feel|1973|Pnp2qpGgLcg|Todd Rundgren|S12839|Art Pop;Progressive Pop;Pop|",
