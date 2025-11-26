@@ -7397,7 +7397,7 @@ const songs = [
 "Disclosure|Help Me Lose My Mind|2013|k4weSc8QQgk|Disclosure (band)|S9434|Deep House;Dance;Electronic;Electronic Dance Music;House|Help Me Lose My Mind",
 "Duke Ellington|Creole Love Call|1928|BzSrkVvS8RA|Duke Ellington|S13189|Dixieland;Jazz|Creole Love Call",
 "Animal Collective|Water Curses|2008|h7GZLRxVzvg|Animal Collective|S4701|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|",
-"Mott the Hoople|The Golden Age of Rock 'n' Roll|1974|jToqxJfUZTc|Mott the Hoople|S7619|Glam Rock;Rock|",
+"Mott the Hoople|The Golden Age of Rock 'n' Roll|1974|XEM3T7kT4JI|Mott the Hoople|S7619|Glam Rock;Rock|",
 "Brad Mehldau|Exit Music (for a Film)|1998|Mm-pBjBp4OA|Brad Mehldau|S13160|Jazz|",
 "Fake Blood|Mars|2008|8Fgm21dwf2o|Theo Keating|S13771|Fidget House;Dance;Electro House;Electronic;Electronic Dance Music;House|Mars (song)",
 "The Wrens|She Sends Kisses|2003|2jK5qC6jdzY|The Wrens|S4685|Indie Rock;Alternative Rock;Rock|",
