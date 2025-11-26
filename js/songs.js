@@ -7842,7 +7842,7 @@ const songs = [
 "Léo Ferré|C'est extra|1969|bVrulTsu2S8?start=3|Léo Ferré|S11413|Chanson;Regional Music|",
 "Peter Tosh|Equal Rights|1977|bOZQZAX4deM|Peter Tosh|S7949|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|Equal Rights (album)",
 "Joseito Fernandez|Guajira Guantanamera|1973|o5QZztjmY9E|Joseíto Fernández|S12908|Guajira;Cuban Music;Hispanic Music;Latin American Music;Regional Music|Guantanamera",
-"Japanese Breakfast|Everybody Wants to Love You|2016|cQyNHpgp8kY|Japanese Breakfast|S16102|Indie Pop;Psychedelic Pop;Pop|",
+"Japanese Breakfast|Everybody Wants to Love You|2016|KNT7wuqaykc|Japanese Breakfast|S16102|Indie Pop;Psychedelic Pop;Pop|",
 "Otis Redding|Pain in My Heart|1963|6juvqVCMByU|Otis Redding|S7828|Southern Soul;R&B;Soul|Pain in My Heart",
 "The Jewels|Hearts of Stone|1954|3_t7WADDggg|https://www.discogs.com/artist/3468695-The-Jewels-6|S2398|Doo-Wop;R&B;Vocal Group|Hearts of Stone",
 "Bad Religion|21st Century (Digital Boy)|1991|TYApdmp6je8|Bad Religion|S3161|Melodic Hardcore;Pop Punk;Hardcore Punk;Punk Rock;Rock|21st Century (Digital Boy)",
