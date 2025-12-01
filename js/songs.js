@@ -8452,7 +8452,7 @@ const songs = [
 "Ramones|Judy Is a Punk|1976|jotnGCDI_hc|Ramones|S12822|Punk Rock;Rock|",
 "Martha Wainwright|Bloody Mother Fucking Asshole|2004|gbdsR5cDJlk|Martha Wainwright|S7446|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|",
 "Slade|Gudbuy T'Jane|1972|GddY7Jj63tw|Slade|S8439|Glam Rock;Hard Rock;Rock|Gudbuy T'Jane",
-"Tricky|Christiansands|1996|hBpSJ-Lt94A|Tricky (musician)|S8845|Trip Hop;Downtempo;Electronic|",
+"Tricky|Christiansands|1996|0vtRiHt73iY|Tricky (musician)|S8845|Trip Hop;Downtempo;Electronic|",
 "Amadou & Mariam|Le Réalité|2004|7O4lGQsf8Tw|Amadou & Mariam|S9982|Mande Music;African Music;Regional Music;West African Music|",
 "John Hiatt|Memphis in the Meantime|1987|LDdkwwiV-is?start=63|John Hiatt|S6947|Roots Rock;Singer/Songwriter;Rock|",
 "Natalie Prass|Short Court Style|2018|0pv7rN-_IWU|Natalie Prass|S16599|Dance-Pop;Pop Soul;Sophisti-Pop;Dance;Pop;R&B;Soul|",
