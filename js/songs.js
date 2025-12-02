@@ -1238,7 +1238,7 @@ const songs = [
 "Leonard Cohen|Chelsea Hotel #2|1974|WmbFZA16nrE|Leonard Cohen|S4175|Contemporary Folk;Singer/Songwriter;Folk|Hotel Chelsea",
 "Fleetwood Mac|The Chain|1977|kBYHwH1Vb-c|Fleetwood Mac|S3408|Pop Rock;Pop;Rock|The Chain",
 "The Smiths|Bigmouth Strikes Again|1986|RvvbCoE4g2E|The Smiths|S371|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Bigmouth Strikes Again",
-"Bryan Adams|Summer of '69|1984|eFjjO_lhf9c|Bryan Adams|S3136|Heartland Rock;Pop Rock;Pop;Rock|Summer of '69",
+"Bryan Adams|Summer of '69|1984|9f06QZCVUHg|Bryan Adams|S3136|Heartland Rock;Pop Rock;Pop;Rock|Summer of '69",
 "Joni Mitchell|Free Man in Paris|1974|wXBba77U1_Y|Joni Mitchell|S748|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Free Man in Paris",
 "The War on Drugs|Under the Pressure|2014|vkLOg252KRE|The War on Drugs (band)|S9591|Indie Rock;Alternative Rock;Rock|",
 "Archie Bell & The Drells|Tighten Up|1968|Wro3bqi4Eb8|Archie Bell & the Drells|S910|Funk;Pop Soul;Pop;R&B;Soul|Tighten Up (Archie Bell & the Drells song)",
