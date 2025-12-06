@@ -851,7 +851,7 @@ const songs = [
 "Billy Joel|Piano Man|1973|gxEPV4kolz0|Billy Joel|S1759|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|Piano Man (song)",
 "Run-D.M.C.|It's Like That|1983|_hN1SKVx31s|Run-DMC|S468|East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|It's Like That (Run-D.M.C. song)",
 "The Ventures|Walk, Don't Run|1960|jg8r4CfoZLI|The Ventures|S1152|Surf Rock;Rock;Surf Music|Walk, Don't Run (instrumental)",
-"George Clinton|Atomic Dog|1982|WOOye9EB7Uo|George Clinton (musician)|S475|P-Funk;Synth Funk;Funk;R&B|Atomic Dog",
+"George Clinton|Atomic Dog|1982|LMVZ36VA0wg|George Clinton (musician)|S475|P-Funk;Synth Funk;Funk;R&B|Atomic Dog",
 "New Radicals|You Get What You Give|1998|DL7-CKirWZE|New Radicals|S279|Pop Rock;Pop;Rock|You Get What You Give (song)",
 "T.I.|What You Know|2006|_Ym7Mg4yTZc|T.I.|S4001|Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|What You Know (T.I. song)",
 "My Bloody Valentine|Only Shallow|1991|FyYMzEplnfU|My Bloody Valentine (band)|S2029|Dream Pop;Noise Pop;Shoegaze;Alternative Rock;Rock|Only Shallow",
