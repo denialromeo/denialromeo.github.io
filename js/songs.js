@@ -4341,7 +4341,7 @@ const songs = [
 "Belle and Sebastian|Get Me Away from Here, I'm Dying|1996|O_r2K3vvbQ0|Belle and Sebastian|S14119|Folk Pop;Twee Pop;Contemporary Folk;Folk;Indie Pop;Pop|If You're Feeling Sinister",
 "Chuck Berry|Carol|1958|QjmQeDQlW1Y|Chuck Berry|S1627|Rock & Roll;Rock|Carol (Chuck Berry song)",
 "Blue Rodeo|Lost Together|1992|xAnJw9Ctqkc|Blue Rodeo|S10212|Alt-Country;Country Rock;Pop Rock;Country;Pop;Rock|",
-"Nancy & Frank Sinatra|Somethin' Stupid|1967|kn-ExYS1Pq0?start=76|Nancy Sinatra|S12960|Traditional Pop;Pop|Somethin' Stupid",
+"Nancy & Frank Sinatra|Somethin' Stupid|1967|Y_t2gNCXYbY|Nancy Sinatra|S12960|Traditional Pop;Pop|Somethin' Stupid",
 "Broken Bells|The High Road|2009|gWBG1j_flrg|Broken Bells|S4893|Indie Pop;Pop|The High Road (Broken Bells song)",
 "Jimmie Rodgers|Blue Yodel No. 9 (Standin' on the Corner)|1930|0nk867uJE_k|Jimmie Rodgers (country singer)|S2739|Country Yodeling;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music;Yodeling|Standing on the Corner (Blue Yodel No. 9)",
 "The Beatles|And I Love Her|1964|5tc0gLSSU1M|The Beatles|S1656|Folk Pop;Contemporary Folk;Folk;Pop|And I Love Her",
