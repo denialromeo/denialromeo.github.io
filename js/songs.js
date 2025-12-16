@@ -7627,7 +7627,7 @@ const songs = [
 "Herb Alpert|Rise|1979|q7O3eYJptTc|Herb Alpert|S11025|Disco;Smooth Jazz;Dance;Jazz|",
 "Scorpions|Still Loving You|1984|7pOr3dBFAeY|Scorpions (band)|S12169|Hard Rock;Rock|Still Loving You",
 "Prince|Black Sweat|2006|vG-e00c6uT0|Prince (musician)|S4027|Contemporary R&B;Dance-Pop;Funk;Dance;Pop;R&B|Black Sweat",
-"Bob Dylan|Sara|1976|rC1-81KMms4|Bob Dylan|S10241|Folk Rock;Singer/Songwriter;Rock|Sara (Bob Dylan song)",
+"Bob Dylan|Sara|1976|Ma7BK2MJNqo|Bob Dylan|S10241|Folk Rock;Singer/Songwriter;Rock|Sara (Bob Dylan song)",
 "Roxette|The Look|1988|LlVI7ZNiFlI|Roxette|S9343|Pop Rock;Pop;Rock|The Look",
 "The Grass Roots|Midnight Confessions|1968|w369aBf5SF4|The Grass Roots|S6635|Pop Rock;Pop;Rock|Midnight Confessions",
 "The Novas|The Crusher|1964|N7WqVSq_QgY|The Novas (Texas band)|S14813|Garage Rock;Surf Rock;Rock;Surf Music|",
