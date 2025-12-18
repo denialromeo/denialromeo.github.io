@@ -4115,7 +4115,7 @@ const songs = [
 "Red Hot Chili Peppers|Otherside|1999|rn_YodiJO6k|Red Hot Chili Peppers|S8124|Alternative Rock;Rock|",
 "The Impressions|It's All Right|1963|KOmd-WkJrSI|The Impressions|S3495|Chicago Soul;R&B;Soul|It's All Right (The Impressions song)",
 "T La Rock & Jazzy Jay|It's Yours|1984|LjiSQDla_Dc|T La Rock|S2349|East Coast Hip Hop;Hip Hop|",
-"Tyrone Davis|Can I Change My Mind|1968|atlfJwaDnsc|Tyrone Davis|S2852|Chicago Soul;R&B;Soul|Can I Change My Mind",
+"Tyrone Davis|Can I Change My Mind|1968|JC3mOkoWzUE|Tyrone Davis|S2852|Chicago Soul;R&B;Soul|Can I Change My Mind",
 "Fairport Convention|A Sailor's Life|1969|Ygi8v7UcNMs|Fairport Convention|S4126|British Folk Rock;Progressive Folk;Contemporary Folk;Folk;Folk Rock;Rock|A Sailor's Life",
 "Sister Sledge|He's The Greatest Dancer|1978|VB4JPQKr9bQ|Sister Sledge|S4438|Disco;Dance|He's the Greatest Dancer",
 "Todd Terje|Strandbar|2013|LHA1rnsewJY|Todd Terje|S9538|Electro-Disco;Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House|",
