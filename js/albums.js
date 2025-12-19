@@ -1266,7 +1266,7 @@ const albums = [
 "Jungle Brothers|Done by the Forces of Nature|1989|OLAK5uy_liLmDWuYPSyAkRm-rIY6AWoDyBX3Z_NeY|A776|Done by the Forces of Nature|Jungle Brothers|Conscious Hip Hop;Hip Hop",
 "The Black Keys|Brothers|2010|OLAK5uy_kPaI45m75MNBWljD7pRf8BH_bZQ9aLj4I|A5103|Brothers (The Black Keys album)|The Black Keys|Blues Rock;Rock",
 "Erykah Badu|New Amerykah Part One (4th World War)|2008|OLAK5uy_ljX4Rg3qr7qW2qe7O_YbsFb1t4KOwh7Sk|A4351|New Amerykah Part One (4th World War)|Erykah Badu|Neo-Soul;R&B;Soul",
-"Cesária Évora|Miss Perfumado|1992|OLAK5uy_kw-dKzK525PWzTRJvuG3yiGlTk-6ZxkeM|A3733|Miss Perfumado|Cesária Évora|Morna;African Music;Cape Verdean Music;Regional Music",
+"Cesária Évora|Miss Perfumado|1992|OLAK5uy_kH6_tHg4s9fInpn14mIR5qqkp7azwgHTU|A3733|Miss Perfumado|Cesária Évora|Morna;African Music;Cape Verdean Music;Regional Music",
 "Kyuss|Welcome to Sky Valley|1994|OLAK5uy_nMgsNlgSfIDPCDgL_FcmVTq8xGeQgSTfI|A3524|Welcome to Sky Valley|Kyuss|Stoner Metal;Stoner Rock;Hard Rock;Metal;Rock",
 "Harry Belafonte|Calypso|1956|OLAK5uy_mgvx37pGZQfyXHjigCo5NTodFq_aYmW5E|A1787|Calypso (album)|Harry Belafonte|Calypso;Caribbean Music;Regional Music",
 "PJ Harvey|White Chalk|2007|OLAK5uy_mm-uoZEsWDq2A8FYVyk7zc3ynF_nWVPGc|A4243|White Chalk|PJ Harvey|Singer/Songwriter",
