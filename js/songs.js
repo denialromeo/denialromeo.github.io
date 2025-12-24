@@ -6375,7 +6375,7 @@ const songs = [
 "Carly Simon|That's the Way I've Always Heard It Should Be|1971|Ux7HgO9QhAc?start=29|Carly Simon|S13714|Pop;Singer/Songwriter|That's the Way I've Always Heard It Should Be",
 "Henri Salvador|Le loup, la biche et le chevalier|1950|ekUQpDDBzY4|Henri Salvador|S11024|Chanson;Regional Music|",
 "Model 500|No UFO's|1985|xcdOBLH_AXs|Juan Atkins|S7583|Detroit Techno;Electro;Dance;Electronic;Electronic Dance Music;Techno|No UFO's",
-"Charlie Rich|Lonely Weekends|1960|blfTPF3Vsc8|Charlie Rich|S3759|Rockabilly;Rock;Rock & Roll|",
+"Charlie Rich|Lonely Weekends|1960|-1YD_Ejb450|Charlie Rich|S3759|Rockabilly;Rock;Rock & Roll|",
 "Wilco|Spiders (Kidsmoke)|2004|Iu6f4dAaXpc|Wilco|S9017|Alternative Rock;Rock|",
 "Amy Winehouse|Tears Dry on Their Own|2006|ojdbDYahiCQ|Amy Winehouse|S9987|Pop Soul;Rhythm & Blues;Pop;R&B;Soul|Tears Dry on Their Own",
 "Erykah Badu|Bag Lady|2000|OqN0jsSeqPo|Erykah Badu|S6304|Neo-Soul;R&B;Soul|Bag Lady",
