@@ -2201,7 +2201,7 @@ const songs = [
 "Silver Apples|Oscillations|1968|7HTOmW-fJ_4|Silver Apples|S4119|Electronic;Experimental Rock;Psychedelic Rock;Rock|",
 "Eagles|Take It Easy|1972|4v8KEbQA8kw|Eagles (band)|S1318|Country Rock;Rock|Take It Easy",
 "Youssou N'Dour|7 Seconds|1994|wqCpjFMvz-k|Youssou N'Dour|S1540|Trip Hop;Downtempo;Electronic|7 Seconds (song)",
-"Charlie Parker|Parker's Mood|1948|xjNhuOuVoa8|Charlie Parker|S10383|Bebop;Jazz|",
+"Charlie Parker|Parker's Mood|1948|xjNhuOuVoa8|Charlie Parker|S10383|Bebop;Jazz|Parker's Mood",
 "David Bowie|I Can't Give Everything Away|2016|sE1Zcngd3VA|David Bowie|S16068|Alternative Dance;Art Rock;Alternative Rock;Dance;Rock|I Can't Give Everything Away",
 "Frank Ocean|Novacane|2011|hgOu8eRJZ3Q|Frank Ocean|S4962|Alternative R&B;Contemporary R&B;R&B|Novacane (song)",
 "Cher|Believe|1998|nZXRV4MezEw|Cher|S300|Dance-Pop;Dance;Pop|Believe (Cher song)",
