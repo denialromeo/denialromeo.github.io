@@ -6313,7 +6313,7 @@ const songs = [
 "The Ink Spots|Into Each Life Some Rain Must Fall|1944|7JtTP2zcIx4|The Ink Spots|S6786|Traditional Pop;Vocal Group;Pop|Into Each Life Some Rain Must Fall",
 "Madonna|Dress You Up|1984|mWtpd8mS5jw|Madonna (entertainer)|S11515|Dance-Pop;Dance;Pop|Dress You Up",
 "Gram Parsons|She|1973|iNw-6L_gsEQ|Gram Parsons|S3687|Country Rock;Rock|",
-"Cocteau Twins|Sugar Hiccup|1983|gbzCUmuI-Bg|Cocteau Twins|S5849|Dream Pop;Ethereal Wave;Alternative Rock;Darkwave;Gothic Rock;Rock|",
+"Cocteau Twins|Sugar Hiccup|1983|gbzCUmuI-Bg|Cocteau Twins|S5849|Dream Pop;Ethereal Wave;Alternative Rock;Darkwave;Gothic Rock;Rock|Head over Heels (Cocteau Twins album)",
 "Bilderbuch|Maschin|2013|9Ocyk0OgyWY|Bilderbuch|S15288|Art Pop;Pop|",
 "Eddy Arnold|Make the World Go Away|1965|lq0Ri9e6SY0|Eddy Arnold|S1669|Nashville Sound;Traditional Pop;Country;Country Pop;Pop|Make the World Go Away",
 "Hugh Masekela|Grazing in the Grass|1968|b_V3mg_7xlE|Hugh Masekela|S4115|Afro-Jazz;Soul Jazz;African Music;Jazz;Regional Music|",
