@@ -4524,7 +4524,7 @@ const songs = [
 "Grimes|Go|2014|vIi57zhDl78|Grimes (musician)|S9586|Electropop;Trap [EDM];Dance;Electronic;Electronic Dance Music;Pop|",
 "Billy Bragg|Sexuality|1991|liNnCKPeEv0|Billy Bragg|S195|Jangle Pop;Singer/Songwriter;Alternative Rock;Pop;Pop Rock;Rock|Sexuality (Billy Bragg song)",
 "KC and the Sunshine Band|Get Down Tonight|1975|9wJLMe2mLoE|KC and the Sunshine Band|S7073|Disco;Funk;Dance;R&B|",
-"Captain and Tennille|Love Will Keep Us Together|1975|_QNEf9oGw8o|Captain & Tennille|S3086|Adult Contemporary;Yacht Rock;Pop;Pop Rock;Rock|Love Will Keep Us Together",
+"Captain and Tennille|Love Will Keep Us Together|1975|ivJq9lmCWkc|Captain & Tennille|S3086|Adult Contemporary;Yacht Rock;Pop;Pop Rock;Rock|Love Will Keep Us Together",
 "Justin Bieber|What Do You Mean?|2015|DK_0jXPuIr0?start=36|Justin Bieber|S9796|Dance-Pop;Tropical House;Dance;Electronic;Electronic Dance Music;House;Pop|What Do You Mean%3F",
 "Dr. Octagon|Blue Flowers|1996|x5xMq-pgKjc|Dr. Octagon|S3356|Abstract Hip Hop;East Coast Hip Hop;Hip Hop|",
 "John Lennon|Mind Games|1973|bVYXWVs0Prc|John Lennon|S6954|Pop Rock;Singer/Songwriter;Pop;Rock|Mind Games (John Lennon song)",
