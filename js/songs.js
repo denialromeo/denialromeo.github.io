@@ -7290,7 +7290,7 @@ const songs = [
 "Joe Venuti|Stringin' the Blues|1926|ZEVCFkbCjTA|Joe Venuti|S13523|Swing;Jazz|",
 "The Jam|All Around the World|1977|qv5gkJ424GE|The Jam|S1557|Mod Revival;New Wave;Mod;Rock|",
 "Propaganda|Dr. Mabuse|1984|px4xHQd9h14|Propaganda (band)|S1914|Synthpop;Electronic;Pop|Dr. Mabuse (Propaganda song)",
-"Duke Ellington|I Got It Bad and That Ain't Good|1941|EjRAa5KFmKU|Duke Ellington|S9209|Big Band;Vocal Jazz;Jazz|",
+"Duke Ellington|I Got It Bad and That Ain't Good|1941|nXQ_6Vwq4XQ|Duke Ellington|S9209|Big Band;Vocal Jazz;Jazz|",
 "Genesis|The Musical Box|1971|tIO-3Zj_QfY|Genesis (band)|S10910|Symphonic Prog;Progressive Rock;Rock|The Musical Box (song)",
 "The National|Sea of Love|2013|yIWmRbHDhGw|The National (band)|S9535|Art Rock;Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|Sea of Love (The National song)",
 "Helmet|In the Meantime|1992|9346rQ1d8ik|Helmet (band)|S6700|Alternative Metal;Metal;Rock|In the Meantime (Helmet song)",
