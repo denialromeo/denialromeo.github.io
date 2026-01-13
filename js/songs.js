@@ -6195,7 +6195,7 @@ const songs = [
 "Sun Ra|Space Is the Place|1973|Hrig-34J4yI|Sun Ra|S12833|Avant-Garde Jazz;Jazz|",
 "Metric|Help I'm Alive|2009|wTJm3_n6kuw|Metric (band)|S7526|Indie Rock;Alternative Rock;Rock|Help I'm Alive",
 "Mumford & Sons|I Will Wait|2012|gqbGHoiKNi4|Mumford & Sons|S7638|Americana;Indie Folk;Contemporary Folk;Country;Folk|I Will Wait",
-"Lalo Schifrin|Mission: Impossible|1967|cSpGbYTZbpk|Lalo Schifrin|S14645|Big Band;Television Music;Jazz;Soundtracks|",
+"Lalo Schifrin|Mission: Impossible|1967|cSpGbYTZbpk|Lalo Schifrin|S14645|Big Band;Television Music;Jazz;Soundtracks|Theme from Mission: Impossible",
 "Michael Kiwanuka|Black Man in a White World|2016|-TYlcVNI2AM|Michael Kiwanuka|S16146|Soul;R&B|",
 "Pavement|Stereo|1997|Z5j4W2Y7RPQ|Pavement (band)|S4521|Indie Rock;Alternative Rock;Rock|",
 "LeAnn Rimes|Blue|1996|GozdIQx1Wow|LeAnn Rimes|S7200|Country Pop;Country;Pop|https://en.wikipedia.org/wiki/Blue_(Bill_Mack_song)#LeAnn_Rimes_versions",
