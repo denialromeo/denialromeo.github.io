@@ -8597,7 +8597,7 @@ const songs = [
 "Cymande|Bra|1972|w52aFwIVldA|Cymande|S13724|Funk;Psychedelic Soul;R&B;Soul|Bra (song)",
 "Pretenders|I'll Stand By You|1994|FoZKgyM98aM|The Pretenders|S9324|Pop Rock;Pop;Rock|I'll Stand by You",
 "Deep Purple|Woman from Tokyo|1973|bvTTsSysmo8|Deep Purple|S6018|Hard Rock;Rock|Woman from Tokyo",
-"John Hiatt|Riding With the King|1983|aGt0uAC9FIE|John Hiatt|S6945|Heartland Rock;Pop Rock;Singer/Songwriter;Pop;Rock|",
+"John Hiatt|Riding With the King|1983|Mpv9jbYg4k0|John Hiatt|S6945|Heartland Rock;Pop Rock;Singer/Songwriter;Pop;Rock|",
 "Terry Riley|A Rainbow in Curved Air|1969|e4IJPA_22rw|Terry Riley|S12706|Minimalism;Progressive Electronic;Classical Music;Electronic;Modern Classical|",
 "Lou Reed|Wild Child|1972|sgfZHn-GWL0|Lou Reed|S7321|Rock|Walk on the Wild Side (Lou Reed song)",
 "Metallica|Orion|1986|TydZ4NAXMic|Metallica|S11606|Progressive Metal;Thrash Metal;Metal;Rock|Orion (Metallica song)",
