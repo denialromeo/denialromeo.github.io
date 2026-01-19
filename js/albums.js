@@ -1439,7 +1439,7 @@ const albums = [
 "Jerry Lee Lewis|Jerry Lee Lewis|1958|PLbqlYXEyLVwbIvkQBVemVtsEsScCiwQ36|A2261|Jerry Lee Lewis (1958 album)|Jerry Lee Lewis|Rock & Roll;Rock",
 "Prince and The Revolution|Around the World in a Day|1985|OLAK5uy_lu_FfvNuX_ze54AgMWA14iM3T9PjuqvSs|A658|Around the World in a Day|Prince (musician)|Neo-Psychedelia;Pop Rock;Psychedelic Soul;Pop;Psychedelic Rock;R&B;Rock;Soul",
 "Rickie Lee Jones|Rickie Lee Jones|1979|OLAK5uy_niC68kZZvH4BX8-lrNDticTwrBmIhHJhA|A474|Rickie Lee Jones (album)|Rickie Lee Jones|Jazz Pop;Singer/Songwriter;Pop",
-"Spacemen 3|Playing with Fire|1989|OLAK5uy_kaxEdgL6oReMlhoyKYDtAMDOySY9cItL8|A1700|Playing with Fire (Spacemen 3 album)|Spacemen 3|Neo-Psychedelia;Space Rock;Psychedelic Rock;Rock",
+"Spacemen 3|Playing with Fire|1989|OLAK5uy_mrI1mxFq8KSliD2ZPkSXnWZNEFp37N1jk|A1700|Playing with Fire (Spacemen 3 album)|Spacemen 3|Neo-Psychedelia;Space Rock;Psychedelic Rock;Rock",
 "Lou Reed and John Cale|Songs for Drella|1990|OLAK5uy_n5222N4VcnWMo9F7YaOoKEnx0fpvFPThQ|A788|Songs for Drella|John Cale|Art Rock;Rock",
 "Muse|Origin of Symmetry|2001|OLAK5uy_nvzLggq9B3yY-aFMJqXUoK7hAVBBw8IiY|A3873|Origin of Symmetry|Muse (band)|Alternative Rock;Rock",
 "Art Pepper|Art Pepper Meets the Rhythm Section|1957|OLAK5uy_mg0-j_Bpk_OmcfBbL1DN_dFICvGnZatEw|A1828|Art Pepper Meets the Rhythm Section|Art Pepper|Cool Jazz;Jazz",

@@ -3358,7 +3358,7 @@ const songs = [
 "Mike Oldfield|Tubular Bells|1973|https://youtube.com/embed/playlist?list=OLAK5uy_ksFjEjClkaUSW0Ko6S1iDQReVtfrgS7dE|Mike Oldfield|S1765|Progressive Rock;Rock|Tubular Bells",
 "Lady Gaga|The Edge of Glory|2011|QeWBS0JBNzQ|Lady Gaga|S4971|Dance-Pop;Electropop;Dance;Electronic;Pop|The Edge of Glory",
 "Peter Gabriel|Shock the Monkey|1982|CnVf1ZoCJSo|Peter Gabriel|S3432|Art Pop;New Wave;Pop;Rock|Shock the Monkey",
-"Spacemen 3|Walkin' with Jesus|1987|3JOwJi6nSGo|Spacemen 3|S4578|Neo-Psychedelia;Space Rock;Psychedelic Rock;Rock|",
+"Spacemen 3|Walkin' with Jesus|1987|z86ulO1NDec|Spacemen 3|S4578|Neo-Psychedelia;Space Rock;Psychedelic Rock;Rock|",
 "Randy Newman|Short People|1977|8bfyS-S-IJs|Randy Newman|S2327|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|Short People",
 "Mano Negra|King Kong Five|1989|sikVd_ISevU|Mano Negra (band)|S7405|Funk Rock;Rap Rock;Alternative Rock;Rock|",
 "Pink Floyd|Echoes|1971|OcDiOUQBFd4|Pink Floyd|S7961|Art Rock;Experimental Rock;Progressive Rock;Rock|Echoes (Pink Floyd song)",
