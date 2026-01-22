@@ -6038,7 +6038,7 @@ const songs = [
 "Loretta Lynn|You Ain't Woman Enough (To Take My Man)|1966|wJJrUqBfH6A|Loretta Lynn|S4098|Honky Tonk;Country|You Ain't Woman Enough (To Take My Man)",
 "Stan Kenton|City of Glass (Suite)|1952|https://youtube.com/embed/playlist?list=OLAK5uy_lx1oqn7Iega_FOUfM4kIeKzFxWpf2X3jA|Stan Kenton|S13251|Experimental Big Band;Progressive Big Band;Avant-Garde Jazz;Big Band;Jazz|",
 "Eric Burdon|Spill the Wine|1970|W77Kwh6f0TE|War (American band)|S2856|Funk;Latin Rock;Psychedelic Rock;Hispanic Music;Latin American Music;R&B;Regional Music;Rock|",
-"Massive Attack|Risingson|1997|85E9Q5Wx210|Massive Attack|S14|Trip Hop;UK Hip Hop;Downtempo;Electronic;Hip Hop|Teardrop (song)",
+"Massive Attack|Risingson|1997|85E9Q5Wx210|Massive Attack|S14|Trip Hop;UK Hip Hop;Downtempo;Electronic;Hip Hop|Risingson",
 "Javiera Mena|Al siguiente nivel|2006|OnEQTFkakvU|Javiera Mena|S6875|Electropop;Synthpop;Electronic;Pop|",
 "The Prisonaires|Just Walkin' in the Rain|1953|tTuAIJBpAT8|The Prisonaires|S4068|Doo-Wop;R&B;Vocal Group|Just Walkin' in the Rain",
 "Rihanna|Diamonds|2012|lWA2pjMjpBs|Rihanna|S12069|Contemporary R&B;Pop;R&B|Diamonds (Rihanna song)",
