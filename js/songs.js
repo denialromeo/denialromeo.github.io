@@ -3503,7 +3503,7 @@ const songs = [
 "Charlie Daniels Band|The Devil Went Down to Georgia|1979|wBjPAqmnvGA?start=23|Charlie Daniels|S1832|Country Rock;Progressive Bluegrass;Country;Progressive Country;Rock|The Devil Went Down to Georgia",
 "Sloan|Coax Me|1994|B563tEpzeLc|Sloan (band)|S8455|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Coax Me",
 "Kris Kross|Jump|1992|010KyIQjkTk|Kris Kross|S174|Pop Rap;Southern Hip Hop;Hip Hop|Jump (Kris Kross song)",
-"Chuck Berry|School Day|1957|DHG5-GxI_Es|Chuck Berry|S1243|Rock & Roll;Rock|School Days (Chuck Berry song)",
+"Chuck Berry|School Day|1957|GRSYFXhAl1A|Chuck Berry|S1243|Rock & Roll;Rock|School Days (Chuck Berry song)",
 "Ethel Merman|I Got Rhythm|1930|0pWug6_RoQA|Ethel Merman|S4868|Show Tunes;Traditional Pop;Musical Theatre and Entertainment;Pop;Soundtracks|I Got Rhythm",
 "Savages|Shut Up|2013|FuIB8HEmnoY|Savages (band)|S9519|Gothic Rock;Post-Punk;Rock|",
 "Manic Street Preachers|Your Love Alone Is Not Enough|2007|XvQ-rWyqzO0|Manic Street Preachers|S4316|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Your Love Alone Is Not Enough",
