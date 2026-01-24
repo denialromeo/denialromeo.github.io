@@ -3,7 +3,7 @@ import os
 
 from PIL import Image
 
-DIR = 'assets/img/comics/here'
+DIR = 'assets/img/comics/double-your-dating'
 TITLE = 'Here'
 AUTHOR = 'Richard McGuire'
 
