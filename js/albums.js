@@ -2870,7 +2870,7 @@ const albums = [
 "The Impressions|Keep On Pushing|1964|OLAK5uy_ltp5u_KJZzfPkmjhl51WQ_s7qpcT7bVkM|A1289|Keep On Pushing|The Impressions|Chicago Soul;R&B;Soul",
 "Skip James|Today!|1966|OLAK5uy_mR93EdF6EVr4t-cNs5yJvW99icAopmUz8|A60|Today! (Skip James album)|Skip James|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music",
 "Oneohtrix Point Never|R Plus Seven|2013|OLAK5uy_lXsrKRsW8Jy7di_px51wCsvIAwtnC-pY0|A5350|R Plus Seven|Oneohtrix Point Never|Progressive Electronic;Vaporwave;Electronic;Experimental;Plunderphonics;Sound Collage;Tape Music",
-"Os Novos Baianos|Acabou Chorare|1972|OLAK5uy_l2OBKh2G9f6_axy9DPeW8WiLb76xwiUek|A4532|Acabou Chorare|Novos Baianos|MPB;Samba;Brazilian Music;Regional Music",
+"Os Novos Baianos|Acabou Chorare|1972|OLAK5uy_mOa5AB0w8arR4zVEe-x1NRRGHAQ3C9mJY|A4532|Acabou Chorare|Novos Baianos|MPB;Samba;Brazilian Music;Regional Music",
 "Earth, Wind & Fire|Gratitude|1975|OLAK5uy_myRbZg7H8rDoOTvBd2zDcYTn4JfnobHSQ|A2568|Gratitude (Earth, Wind & Fire album)|Earth, Wind & Fire|Funk;Soul;R&B",
 "Don McLean|American Pie|1971|OLAK5uy_m8slqV28LWfzsdsQwp0K9IsGuCZyIdlwY|A1361|American Pie (Don McLean album)|Don McLean|Contemporary Folk;Singer/Songwriter;Folk",
 "Sonic Youth|Bad Moon Rising|1985|OLAK5uy_nja-vK2SsXwFXx3xv1YpUGR0dZIeLq3l0|A3057|Bad Moon Rising (album)|Sonic Youth|No Wave;Noise Rock;Experimental Rock;Post-Punk;Rock",
