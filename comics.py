@@ -1,11 +1,12 @@
 import json
 import os
+import sys
 
 from PIL import Image
 
-DIR = 'assets/img/comics/double-your-dating'
-TITLE = 'Here'
-AUTHOR = 'Richard McGuire'
+DIR = f"assets/img/comics/p/{sys.argv[1]}"
+TITLE = ''
+AUTHOR = ''
 
 def get_dim(img):
     im = Image.open(img);
@@ -18,7 +19,7 @@ def first_slide(img_link, title, author):
             f'<img style="border: 1px solid black;" src="{img_link}"/>'
             '</a>'
             '<figcaption itemprop="caption description">'
-            f'<p><i>{title}</i> by {author}</p>'
+            # f'<p><i>{title}</i> by {author}</p>'
             '</figcaption>'
             '</figure>\n')
 
