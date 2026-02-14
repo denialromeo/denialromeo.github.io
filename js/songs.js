@@ -4916,7 +4916,7 @@ const songs = [
 "Green Day|Wake Me Up When September Ends|2004|NU9JoFKlaZ0|Green Day|S6643|Alternative Rock;Pop Rock;Pop;Rock|Wake Me Up When September Ends",
 "R. Kelly|Trapped in the Closet (Chapter 1 of 5)|2005|9mAyscj-NcU|R. Kelly|S3016|Contemporary R&B;R&B|Trapped in the Closet (Chapter 1)",
 "Commodores|Brick House|1977|67xfYARWQjk|Commodores|S2887|Funk;R&B|",
-"The Association|Windy|1967|RsY8l0Jg3lY|The Association|S5259|Sunshine Pop;Pop|Windy (The Association song)",
+"The Association|Windy|1967|Qa9mGMdwv0g|The Association|S5259|Sunshine Pop;Pop|Windy (The Association song)",
 "Matching Mole|O Caroline|1972|wzSDeIp7Nos|Matching Mole|S2862|Canterbury Scene;Progressive Rock;Rock|",
 "Ohio Players|Fire|1974|zqsYNc_M988|Ohio Players|S7798|Funk;R&B|Fire (Ohio Players song)",
 "Suicidal Tendencies|Institutionalized|1983|LoF_a0-7xVQ|Suicidal Tendencies|S3867|Crossover Thrash;Hardcore Punk;Metal;Punk Rock;Rock;Thrash Metal|Institutionalized (song)",
