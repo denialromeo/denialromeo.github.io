@@ -5425,7 +5425,7 @@ const songs = [
 "Marvin Gaye|If I Could Build My Whole World Around You|1967|ptHtmTWT1t8|Marvin Gaye|S1447|Motown Sound;Pop;Pop Soul;R&B;Soul|If I Could Build My Whole World Around You",
 "The Supremes|Reflections|1967|2uwSVDOWh4Y|Diana Ross|S2833|Girl Group;Motown Sound;Psychedelic Soul;Pop;Pop Soul;R&B;Soul|Reflections (The Supremes song)",
 "A$AP Ferg|Shabba|2013|iXZxipry6kE|ASAP Rocky|S9402|East Coast Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|Shabba (song)",
-"Pharoah Sanders|The Creator Has a Masterplan|1969|eZswXa9fbn8|Pharoah Sanders|S12703|Spiritual Jazz;Avant-Garde Jazz;Jazz|",
+"Pharoah Sanders|The Creator Has a Masterplan|1969|ViweO33oo2Y|Pharoah Sanders|S12703|Spiritual Jazz;Avant-Garde Jazz;Jazz|",
 "Rainbow|Stargazer|1976|YmJIccPWnEk|Rainbow (rock band)|S12013|Heavy Metal;Metal;Rock|Stargazer (Rainbow song)",
 "The Rolling Stones|Dandelion|1967|Z9mlVhJQgTw|The Rolling Stones|S12090|Psychedelic Pop;Psychedelic Rock;Pop;Rock|Dandelion (Rolling Stones song)",
 "Gene Pitney|Twenty Four Hours from Tulsa|1963|zugy2rkSM7g?start=6|Gene Pitney|S4087|Brill Building;Pop|Twenty Four Hours from Tulsa",
