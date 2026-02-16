@@ -8702,7 +8702,7 @@ const songs = [
 "The Go-Betweens|Right Here|1987|Q97CRX_vjcg|The Go-Betweens|S6596|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Right Here (The Go-Betweens song)",
 "Danny O'Keefe|Good Time Charlie's Got the Blues|1971|ROXtgjasUQo|Danny O'Keefe|S5945|Country|Good Time Charlie's Got the Blues",
 "Tony Bennett|Stranger in Paradise|1953|YNDfEYMXBZ8|Tony Bennett|S8816|Traditional Pop;Vocal Jazz;Jazz;Pop|Stranger in Paradise (song)",
-"Rihanna, Kanye West, Paul McCartney|FourFiveSeconds|2015|bRz9gc-UKj0|Paul McCartney|S9832|Pop Soul;Pop;R&B;Soul|FourFiveSeconds",
+"Rihanna, Kanye West, Paul McCartney|FourFiveSeconds|2015|kt0g4dWxEBo|Paul McCartney|S9832|Pop Soul;Pop;R&B;Soul|FourFiveSeconds",
 "Marian Anderson|Ave Maria|1936|GksRp42s3S8|Marian Anderson|S15681|Lieder;Classical Music;Western Classical Music|Ave Maria (Schubert)",
 "The Cadillacs|Gloria|1954|KAUQb8TVo2U|The Cadillacs|S9174|Doo-Wop;R&B;Vocal Group|Gloria (Leon René song)",
 "Javiera Mena|Espada|2013|GqNTdNCU2y8|Javiera Mena|S13511|Electropop;Nu-Disco;Synthpop;Dance;Disco;Electronic;Electronic Dance Music;House;Pop|",
