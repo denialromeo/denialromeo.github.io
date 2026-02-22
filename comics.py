@@ -10,7 +10,8 @@ AUTHOR = ''
 
 def get_dim(img):
     im = Image.open(img);
-    return f"{im.size[0]}x{im.size[1]}"
+    # return f"{im.size[0]}x{im.size[1]}"
+    return f"{im.size[0] * 2}x{im.size[1] * 2}"
 
 def first_slide(img_link, title, author):
     return ('<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">\n'
