@@ -912,7 +912,7 @@ const classical = [
 "Olivier Messiaen|Catalogue d’oiseaux|1958|G6Izpdkjrhk|Olivier Messiaen|Catalogue d'oiseaux",
 "Luciano Berio|Sequenzas|1958-2002|P7myJxdhf9Y?start=14|Luciano Berio|Sequenza",
 "Hanns Eisler|Deutsche Sinfonie|1959|jgW_F3hT34Q|Hanns Eisler|",
-"Francis Poulenc|La voix humaine|1959|M2V85r8S_B4|Francis Poulenc|La voix humaine",
+"Francis Poulenc|La voix humaine|1959|fo3Z-4a69FU|Francis Poulenc|La voix humaine",
 "Dmitri Shostakovich|Cello Concerto No. 1|1959|h23WjKXDe4w|Dmitri Shostakovich|Cello Concerto No. 1 (Shostakovich)",
 "Benjamin Britten|A Midsummer Night’s Dream|1960|PLG4v5n-7yNWtZxivGu8kvxnuOs_EvOwsW|Benjamin Britten|A Midsummer Night's Dream (opera)",
 "Dmitri Shostakovich|String Quartet No. 8|1960|lFHmQQ6NqbY?start=485|Dmitri Shostakovich|String Quartet No. 8 (Shostakovich)",
