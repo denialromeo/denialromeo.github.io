@@ -5,6 +5,7 @@ import sys
 from PIL import Image
 
 DIR = f"assets/img/comics/p/{sys.argv[1]}"
+# DIR = f"assets/img/comics/{sys.argv[1]}"
 TITLE = ''
 AUTHOR = ''
 
