@@ -14,7 +14,7 @@ const songs = [
 "Bruce Springsteen|Born to Run|1975|IxuThNgl3YA|Bruce Springsteen|S691|Heartland Rock;Pop Rock;Pop;Rock|Born to Run (Bruce Springsteen song)",
 "The Who|My Generation|1965|MgJ9K7cPRKk|The Who|S993|Mod;Proto-Punk;Rock|My Generation",
 "Joy Division|Love Will Tear Us Apart|1980|zuuObGsB0No|Joy Division|S541|Post-Punk;Rock|Love Will Tear Us Apart",
-"The Beach Boys|God Only Knows|1966|YHdi3zW78pg?start=2331|The Beach Boys|S978|Art Pop;Baroque Pop;Progressive Pop;Sunshine Pop;Pop|God Only Knows",
+"The Beach Boys|God Only Knows|1966|M0lj3WX_5ps|The Beach Boys|S978|Art Pop;Baroque Pop;Progressive Pop;Sunshine Pop;Pop|God Only Knows",
 "Otis Redding|(Sittin' On) The Dock of the Bay|1968|rTVjnBo96Ug|Otis Redding|S902|Southern Soul;R&B;Soul|(Sittin' On) The Dock of the Bay",
 "OutKast|Hey Ya!|2003|PWgvGjAhvIw?start=67|Outkast|S2245|Pop Soul;Pop;R&B;Soul|Hey Ya!",
 "Sex Pistols|Anarchy in the U.K.|1976|cBojbjoMttI|Sex Pistols|S661|Punk Rock;Rock|Anarchy in the U.K.",
