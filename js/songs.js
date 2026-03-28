@@ -6267,7 +6267,7 @@ const songs = [
 "Outlaws|Green Grass and High Tides|1975|WEkJFR69IXw|Outlaws (band)|S11821|Country Rock;Hard Rock;Southern Rock;Rock|Green Grass and High Tides",
 "Radio 4|Dance to the Underground|2002|__uymFDR38s|Radio 4 (band)|S4251|Dance-Punk;Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|6 Underground (song)",
 "Vashti Bunyan|Diamond Day|1970|7-HDcMplduA|Vashti Bunyan|S12554|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk|",
-"Antony and the Johnsons|Fistful of Love|2004|1-524bnuYdM|Antony and the Johnsons|S9132|Chamber Pop;Singer/Songwriter;Soul Jazz;Baroque Pop;Indie Pop;Jazz;Pop|",
+"Antony and the Johnsons|Fistful of Love|2004|mxon4OX8HSA|Antony and the Johnsons|S9132|Chamber Pop;Singer/Songwriter;Soul Jazz;Baroque Pop;Indie Pop;Jazz;Pop|",
 "The New Pornographers|Brill Bruisers|2014|EhhtSXk1c70|The New Pornographers|S9618|Indie Pop;Power Pop;Pop;Pop Rock;Rock|",
 "The Who|You Better You Bet|1981|wqPlb5PLBvg|The Who|S9001|Pop Rock;Pop;Rock|You Better You Bet",
 "Supergrass|Pumping on Your Stereo|1999|dDstq54H4yc|Supergrass|S2965|Britpop;Glam Rock;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|Pumping on Your Stereo",
