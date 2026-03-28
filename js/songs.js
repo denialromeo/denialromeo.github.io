@@ -1936,7 +1936,7 @@ const songs = [
 "Ennio Morricone|The Good, the Bad and the Ugly|1966|ZylbA374VRw|Ennio Morricone|S6287|Film Score;Spaghetti Western;Cinematic Classical;Classical Music;Film Soundtrack;Soundtracks|The Good, the Bad and the Ugly (theme)",
 "Modest Mouse|Dashboard|2007|penvn9VL32Y|Modest Mouse|S4281|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|Dashboard (song)",
 "Crosby, Stills, Nash (& Young)|Helpless|1970|C8LYOyqJE7k|Crosby, Stills, Nash & Young|S862|Folk Rock;Singer/Songwriter;Rock|Helpless (Crosby, Stills, Nash & Young song)",
-"The Beach Boys|Fun, Fun, Fun|1964|5a4YupnT1sM?start=49|The Beach Boys|S1030|Rock & Roll;Vocal Surf;Pop;Pop Rock;Rock;Surf Music|Fun, Fun, Fun",
+"The Beach Boys|Fun, Fun, Fun|1964|CA56EyC0GsY|The Beach Boys|S1030|Rock & Roll;Vocal Surf;Pop;Pop Rock;Rock;Surf Music|Fun, Fun, Fun",
 "The Coasters|Young Blood|1957|MRdRRn-bW4k|The Coasters|S1625|Doo-Wop;Rhythm & Blues;R&B;Vocal Group|Young Blood (The Coasters song)",
 "Rihanna|Bitch Better Have My Money|2015|oQW2FFt3-A8|Rihanna|S9831|Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|Bitch Better Have My Money",
 "Moby|Go|1990|N_Qwo8sT9U0|Moby|S202|Progressive House;Techno;Dance;Electronic;Electronic Dance Music;House|Go (Moby song)",
