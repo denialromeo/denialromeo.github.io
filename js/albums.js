@@ -1892,7 +1892,7 @@ const albums = [
 "The Paul Butterfield Blues Band|East-West|1966|OLAK5uy_nEvJs4Cw9AvtJWfCn7LIzaJFFV3olPo8A|A79|East-West (The Butterfield Blues Band album)|Paul Butterfield|Blues Rock;Rock",
 "Linton Kwesi Johnson|Bass Culture|1980|OLAK5uy_m02VFuX0SZpZMtujRzk5u7vWjEBkk-B9A|A1467|Bass Culture|Linton Kwesi Johnson|Dub Poetry;Caribbean Music;Jamaican Music;Poetry;Reggae;Regional Music;Roots Reggae;Spoken Word",
 "Sarah Vaughan|Swingin' Easy|1954|OLAK5uy_l-fLwoBpRH4Zqrgo6RZ7B_RfSTp9xClJk|A1778|Swingin' Easy|Sarah Vaughan|Vocal Jazz;Jazz",
-"Sturgill Simpson|Metamodern Sounds in Country Music|2014|OLAK5uy_kH3aBarymMyzMwYXZFUdSlONINjcnGftg|A5432|Metamodern Sounds in Country Music|Sturgill Simpson|Outlaw Country;Country;Progressive Country",
+"Sturgill Simpson|Metamodern Sounds in Country Music|2014|OLAK5uy_kF6s-JmrmBY_-mwh9y-wpMFGlO2ZAzDo4|A5432|Metamodern Sounds in Country Music|Sturgill Simpson|Outlaw Country;Country;Progressive Country",
 "Black Dog Productions|Bytes|1993|OLAK5uy_k3ezy-nPr51G_pE8YA5bixBfZtrNnumP0|A3429|Bytes (album)|The Black Dog (band)|IDM;Electronic",
 "Planxty|Planxty|1973|OLAK5uy_nQ2TkzzPR7bxdnEXGU6Tqo1nDZfPo_xzQ|A2448|Planxty (album)|Planxty|Irish Folk Music;Celtic Folk Music;European Folk Music;Folk;Regional Music;Traditional Folk Music",
 "Aaliyah|Aaliyah|2001|OLAK5uy_lhlbmycFBWLVXeVJ1JzEVwcupBmJ8i5DA|A3881|Aaliyah (album)|Aaliyah|Contemporary R&B;Pop;R&B",
