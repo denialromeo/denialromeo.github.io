@@ -7410,7 +7410,7 @@ const songs = [
 "Chagrin d'amour|Chacun fait (c'qui lui plaît)|1981|zmOuZqBb_3Y|https://fr.wikipedia.org/wiki/Chagrin_d%27amour_(groupe)|S5749|Disco Rap;French Hip Hop;French Pop;Pop Rap;Hip Hop;Pop|",
 "Saint Etienne|Avenue|1992|kKIO0HwbFWg|Saint Etienne (band)|S2935|Dream Pop;Indie Pop;Indietronica;Alternative Rock;Electronic;Pop;Rock|Only Love Can Break Your Heart",
 "Bob Marley and the Wailers|Small Axe|1970|b0Tk-FoiX_0|Bob Marley|S9163|Reggae;Caribbean Music;Jamaican Music;Regional Music|",
-"Lionel Richie|Say You, Say Me|1985|gIbw0OkC9po|Lionel Richie|S7274|Adult Contemporary;Pop Soul;Pop;R&B;Soul|Say You, Say Me",
+"Lionel Richie|Say You, Say Me|1985|we0mk_J0zyc|Lionel Richie|S7274|Adult Contemporary;Pop Soul;Pop;R&B;Soul|Say You, Say Me",
 "Scott Walker|Montague Terrace (In Blue)|1967|jLOTAJQF0Fo|Scott Walker (singer)|S15855|Baroque Pop;Pop|",
 "The Marvelettes|Beechwood 4-5789|1962|neuY5AGJPbk|The Marvelettes|S1106|Girl Group;Motown Sound;Pop;Pop Soul;R&B;Soul|Beechwood 4-5789",
 "Reverend Thomas A. Dorsey|Take My Hand, Precious Lord|1932|6oVcgrbeByo|Thomas A. Dorsey|S2675|Traditional Black Gospel;American Folk Music;Folk;Gospel;Regional Music;Traditional Folk Music|Take My Hand, Precious Lord",
