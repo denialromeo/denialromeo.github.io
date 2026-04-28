@@ -7906,7 +7906,7 @@ const songs = [
 "Traffic|Feelin' Alright?|1968|mDVS0tW39E4|Traffic (band)|S8831|Baroque Pop;Psychedelic Pop;Psychedelic Rock;Pop;Rock|Feelin' Alright%3F",
 "James Brown|Think|1960|F7zSPXWDSdE|James Brown|S6844|Rhythm & Blues;R&B|Think (The \"5\" Royales song)",
 "The \"5\" Royales|Think|1957|ikugCjrfcB8|The \"5\" Royales|S3406|Doo-Wop;R&B;Vocal Group|Think (The \"5\" Royales song)",
-"Vess L. Ossman|Yankee Doodle|1897|AFTB1LULy7o|Vess Ossman|S15977|American Folk Music;Folk;Regional Music;Traditional Folk Music|",
+"Vess L. Ossman|Yankee Doodle|1897|6SQIjtOdHhM|Vess Ossman|S15977|American Folk Music;Folk;Regional Music;Traditional Folk Music|",
 "David Ruffin|My Whole World Ended (The Moment You Left Me)|1969|BHEY-QEWmUw|David Ruffin|S3787|Soul;R&B|",
 "The Afghan Whigs|Gentlemen|1993|l6ER2_4q5KQ|The Afghan Whigs|S3143|Grunge;Alternative Rock;Rock|",
 "Bob Dylan|It Takes a Lot to Laugh, It Takes a Train to Cry|1965|SN1ACh8lzHg|Bob Dylan|S5542|Blues Rock;Singer/Songwriter;Rock|It Takes a Lot to Laugh, It Takes a Train to Cry",
