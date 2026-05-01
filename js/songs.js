@@ -5783,7 +5783,7 @@ const songs = [
 "Guns N' Roses|You Could Be Mine|1991|qnFU-DxwpRs|Guns N' Roses|S6663|Film Soundtrack;Hard Rock;Rock;Soundtracks|You Could Be Mine",
 "The Rolling Stones|I'm Free|1965|XZ_7rJ31gI8|The Rolling Stones|S12095|British Rhythm & Blues;R&B;Rhythm & Blues;Rock|I'm Free (Rolling Stones song)",
 "John Lennon|Whatever Gets You Thru the Night|1974|6lFTD9O-XMw|John Lennon|S6956|Pop Rock;Pop;Rock|Whatever Gets You thru the Night",
-"Bob Dylan|This Wheel's on Fire|1975|-mlzUHxNMV8|Bob Dylan|S4854|Folk Rock;Roots Rock;Rock|This Wheel's on Fire",
+"Bob Dylan|This Wheel's on Fire|1975|U-sdVxv8NPk|Bob Dylan|S4854|Folk Rock;Roots Rock;Rock|This Wheel's on Fire",
 "Haim|Forever|2012|YgbEfvcuG3Q|Haim (band)|S6667|Indie Pop;Pop Rock;Pop;Rock|Forever (Haim song)",
 "Daddy Cool|Eagle Rock|1971|XR5IBQeoTPY|Daddy Cool (band)|S4146|Boogie Rock;Blues Rock;Rock|",
 "Pixies|Dig for Fire|1990|n37Bdr559to|Pixies (band)|S7967|Indie Rock;Alternative Rock;Rock|Dig for Fire",
