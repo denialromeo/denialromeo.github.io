@@ -6353,7 +6353,7 @@ const songs = [
 "R.E.M.|Leaving New York|2004|wo6Vh4Uz7Sk|R.E.M.|S8064|Alternative Rock;Pop Rock;Pop;Rock|Leaving New York",
 "Frank Zappa|Valley Girl|1982|Qb21lsCQ3EM|Frank Zappa|S6447|Comedy Rock;New Wave;Satire;Comedy;Musical Comedy;Rock|Valley Girl (song)",
 "Tommy Dorsey|Marie|1937|gBe4EPyv98s|Tommy Dorsey|S8804|Big Band;Swing;Jazz|",
-"Georges Brassens|Chanson pour l'Auvergnat|1954|3GA0ue9F79o|Georges Brassens|S10919|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
+"Georges Brassens|Chanson pour l'Auvergnat|1954|3GA0ue9F79o|Georges Brassens|S10919|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|https://fr.wikipedia.org/wiki/Chanson_pour_l%27Auvergnat",
 "The Partridge Family|I Think I Love You|1970|hV1dQdR6E2M|The Partridge Family|S7850|Bubblegum;Pop|I Think I Love You",
 "Clyde McPhatter|A Lover's Question|1958|XrqW1EBLyJA|Clyde McPhatter|S3611|Rhythm & Blues;R&B|",
 "The Doors|When the Music's Over|1967|pSZ-vSrFhZE|The Doors|S6139|Psychedelic Rock;Rock|When the Music's Over",
