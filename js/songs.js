@@ -6754,7 +6754,7 @@ const songs = [
 "Chairlift|Amanaemonesia|2011|yp2jTsWvH4M|Chairlift (band)|S10369|Indie Pop;Synthpop;Electronic;Pop|",
 "Car Seat Headrest|Fill in the Blank|2016|s_a1hPwXiWw|Car Seat Headrest|S16049|Indie Rock;Alternative Rock;Rock|",
 "Sidney Bechet|Blues in Thirds|1940|CFfmeeFoF7g|Sidney Bechet|S13248|Dixieland;Jazz|",
-"Faith No More|I'm Easy|1992|vPzDTfIb0DU|Faith No More|S10782|Alternative Rock;Pop Rock;Pop;Rock|",
+"Faith No More|I'm Easy|1992|vPzDTfIb0DU|Faith No More|S10782|Alternative Rock;Pop Rock;Pop;Rock|https://en.wikipedia.org/wiki/Easy_(Commodores_song)#Faith_No_More_version",
 "Tom Waits|Martha|1973|4ySwpZdIRyg|Tom Waits|S4550|Piano Blues;Singer/Songwriter;Blues|",
 "Georgia Satellites|Keep Your Hands to Yourself|1986|sWC22NDkBv0?start=124|The Georgia Satellites|S6545|Southern Rock;Rock|Keep Your Hands to Yourself",
 "The Stylistics|You Are Everything|1971|4xaWdcppjbk|The Stylistics|S8617|Philly Soul;Smooth Soul;R&B;Soul|You Are Everything",
