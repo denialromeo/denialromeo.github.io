@@ -6517,7 +6517,7 @@ const songs = [
 "Indochine|J'ai demandé à la lune|2002|KAOmC5qT02w|Indochine (band)|S14504|French Pop;Pop Rock;Pop;Rock|J'ai demandé à la lune",
 "The Flaming Lips|The Yeah Yeah Yeah Song|2006|kjrUOlK2714|The Flaming Lips|S6383|Indie Pop;Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|The Yeah Yeah Yeah Song (With All Your Power)",
 "LaVern Baker|Jim Dandy Got Married|1957|ZGxp2TIm0pg|LaVern Baker|S3164|Pop;Rhythm & Blues;Rock & Roll;R&B;Rock|Jim Dandy (song)",
-"Slim Harpo|Baby Scratch My Back|1966|07q0KNf2vgI|Slim Harpo|S3461|Rhythm & Blues;Swamp Blues;Blues;Electric Blues;R&B|Baby Scratch My Back",
+"Slim Harpo|Baby Scratch My Back|1966|-5x7NIqga8M|Slim Harpo|S3461|Rhythm & Blues;Swamp Blues;Blues;Electric Blues;R&B|Baby Scratch My Back",
 "Band of Horses|Is There a Ghost|2007|JK716RqoUms|Band of Horses|S5312|Indie Rock;Alternative Rock;Rock|",
 "Tina Turner|Private Dancer|1984|d4QnalIHlVc|Tina Turner|S8767|Pop Rock;Pop Soul;Pop;R&B;Rock;Soul|Private Dancer (Tina Turner song)",
 "Young Disciples|Apparently Nothin'|1991|lgWm8o_lE7M|Young Disciples|S210|Acid Jazz;Jazz|Apparently Nothin'",
