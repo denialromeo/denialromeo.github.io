@@ -9952,7 +9952,7 @@ const songs = [
 "Stupeflip|Je fume pu d'shit|2002|ZYEIFIZZXTs|Stupeflip|S15085|French Pop;Pop Reggae;Synthpop;Caribbean Music;Electronic;Jamaican Music;Pop;Reggae;Regional Music|",
 "Led Zeppelin|Thank You|1969|12KbOAc8vmk|Led Zeppelin|S11395|British Folk Rock;Psychedelic Rock;Folk Rock;Rock|Thank You (Led Zeppelin song)",
 "Adam Faith|What Do You Want?|1959|bwUMjwMppWE|Adam Faith|S5098|Teen Pop;Pop|What Do You Want%3F (Adam Faith song)",
-"Thelonious Monk|Thelonious|1948|GxMvmxBzsf8|Thelonious Monk|S13643|Bebop;Jazz|",
+"Thelonious Monk|Thelonious|1948|GxMvmxBzsf8|Thelonious Monk|S13643|Bebop;Jazz|https://en.wikipedia.org/wiki/List_of_compositions_by_Thelonious_Monk#T",
 "Nick Drake|Time of No Reply|1987|QN-glpHDFNA|Nick Drake|S13908|Contemporary Folk;Singer/Songwriter;Folk|Time of No Reply",
 "Jack White|Another Way to Die|2008|hM5UJvnbbuY|Jack White|S6821|Alternative Rock;Film Soundtrack;Rock;Soundtracks|Another Way to Die",
 "Fall Out Boy|This Ain't a Scene, It's an Arms Race|2007|GNm5drtAQXs|Fall Out Boy|S6347|Pop Punk;Pop Rock;Pop;Punk Rock;Rock|This Ain't a Scene, It's an Arms Race",
