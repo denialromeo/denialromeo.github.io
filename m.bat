@@ -2,7 +2,7 @@
 
 git pull origin master
 
-@REM jekyll build
+call jekyll build
 
 git add --all .
 git commit --allow-empty -m "Commit."
@@ -15,6 +15,4 @@ git add --all .
 git commit --allow-empty -m "Commit."
 git push origin master
 
-del /s /q *~
-
-pause
+cd ..
