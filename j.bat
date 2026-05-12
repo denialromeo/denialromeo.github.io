@@ -1,2 +1,2 @@
-@m
+@call m
 cd ..\random-acclaimed-song
