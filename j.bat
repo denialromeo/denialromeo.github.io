@@ -1,2 +1,2 @@
-@make %*
+@m
 cd ..\random-acclaimed-song
