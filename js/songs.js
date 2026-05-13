@@ -1022,7 +1022,7 @@ const songs = [
 "The Chords|Sh-Boom|1954|9jt_q1jM89Y|The Chords (American band)|S1335|Doo-Wop;R&B;Vocal Group|Sh-Boom",
 "Paul McCartney|Live and Let Die|1973|NR0UmZcf89E|Paul McCartney and Wings|S1752|Pop Rock;Progressive Pop;Pop;Rock|Live and Let Die (song)",
 "Ray Charles|I Can't Stop Loving You|1962|HsP1vEfM9do|Ray Charles|S1096|Country Soul;Traditional Pop;Pop;R&B;Soul|I Can't Stop Loving You",
-"Bob Dylan|All Along the Watchtower|1967|X7zQE2NpkZU|Bob Dylan|S1692|Contemporary Folk;Folk Rock;Singer/Songwriter;Folk;Rock|All Along the Watchtower",
+"Bob Dylan|All Along the Watchtower|1967|HyIlDPLDCP0|Bob Dylan|S1692|Contemporary Folk;Folk Rock;Singer/Songwriter;Folk;Rock|All Along the Watchtower",
 "Madonna|Music|2000|Sdz2oW0NMFk|Madonna (entertainer)|S1381|Dance-Pop;Electropop;Dance;Electronic;Pop|Music (Madonna song)",
 "The Turtles|Happy Together|1967|h3x56WQlG_0|The Turtles|S3915|Psychedelic Pop;Sunshine Pop;Pop|Happy Together (song)",
 "Robyn|Honey|2018|Mru9GG3ur9U|Robyn|S16522|Dance-Pop;Electropop;Progressive House;Dance;Electronic;Electronic Dance Music;House;Pop|Honey (Robyn song)",
