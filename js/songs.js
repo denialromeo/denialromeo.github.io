@@ -10267,7 +10267,7 @@ const songs = [
 "The Moody Blues|Question|1970|-wDHvmCVRxU|The Moody Blues|S7603|Pop Rock;Progressive Pop;Pop;Rock|",
 "D.R.A.M.|Cha Cha|2015|jzMhcP7ab3k|DRAM (musician)|S9730|Contemporary R&B;Pop Rap;Hip Hop;R&B|Cha Cha Slide",
 "AC/DC|Sin City|1978|sxGa2NHzhm0|AC/DC|S9920|Hard Rock;Rock|",
-"Smog|Cold Blooded Old Times|1999|hUbBrO_xLXA|Bill Callahan (musician)|S12248|Folk Rock;Indie Rock;Alternative Rock;Rock|Knock Knock (Smog album)",
+"Smog|Cold Blooded Old Times|1999|qXdDfeL2g58|Bill Callahan (musician)|S12248|Folk Rock;Indie Rock;Alternative Rock;Rock|Knock Knock (Smog album)",
 "DJ Shadow|Lost & Found (S.F.L.)|1994|VWY8_Zuu1zM|DJ Shadow|S2077|Instrumental Hip Hop;Trip Hop;Downtempo;Electronic;Hip Hop|",
 "The Fall|I Am Damo Suzuki|1985|ijuJhyUfhDQ|The Fall (band)|S6342|Post-Punk;Rock|I Am Damo Suzuki",
 "Rata Blanca|La leyenda del hada y el mago|1990|4RveUP8fKA4|Rata Blanca|S13608|Heavy Metal;Neoclassical Metal;Metal;Rock|",
