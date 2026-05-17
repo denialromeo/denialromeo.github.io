@@ -25,8 +25,8 @@ wincred:
 	git config --global user.email "hi@danielmoore.us"
 
 l local:
-	jekyll build
-	jekyll serve --incremental --port 5000
+	call jekyll build
+	call jekyll serve --incremental --port 5000
 	
 i init:
 	mkdir _site &&\
