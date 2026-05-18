@@ -5226,7 +5226,7 @@ const songs = [
 "Hüsker Dü|Eight Miles High|1984|iokmbu41qak|Hüsker Dü|S447|Hardcore Punk;Post-Hardcore;Punk Rock;Rock|",
 "Dion|Born to Be with You|1975|3PZ_ySxlSOg|Dion DiMucci|S4427|Baroque Pop;Pop Rock;Pop;Rock|Born to Be with You (song)",
 "Simon and Garfunkel|Cecilia|1970|e5uei2AFEaQ|Simon & Garfunkel|S8417|Folk Pop;Contemporary Folk;Folk;Pop|Cecilia (Simon & Garfunkel song)",
-"Al Green|L-O-V-E (Love)|1975|DpAbAFJ4MJI|Al Green|S5125|Southern Soul;R&B;Soul|L-O-V-E (Love)",
+"Al Green|L-O-V-E (Love)|1975|MssKkD3Ykg8|Al Green|S5125|Southern Soul;R&B;Soul|L-O-V-E (Love)",
 "Berlin|Take My Breath Away|1986|Bx51eegLTY8|Berlin (band)|S5417|Film Soundtrack;Synthpop;Electronic;Pop;Soundtracks|Take My Breath Away",
 "Green Velvet|Flash|1995|l_RfediFJFQ|Green Velvet|S6644|Acid House;Acid Techno;Tech House;Dance;Electronic;Electronic Dance Music;House;Techno|",
 "The Gap Band|Outstanding|1983|xBcpaB8lq44|The Gap Band|S6497|Boogie;Funk;Dance;Disco;R&B|Outstanding",
