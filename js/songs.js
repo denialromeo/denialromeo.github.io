@@ -10612,7 +10612,7 @@ const songs = [
 "Eleanor Friedberger|My Mistakes|2011|MRUOoSKt6Kg|Eleanor Friedberger|S6224|Indie Pop;Pop|My Mistakes (Eleanor Friedberger song)",
 "The Fugs|Boobs a Lot|1965|tL4z-nKmTgI|The Fugs|S3428|Rock & Roll;Rock|",
 "Art of Noise|Close (To the Edit)|1984|-sFK0-lcjGU|Art of Noise|S5242|Electro;Dance;Electronic;Electronic Dance Music|",
-"Danielle Messia|De la main gauche|1982|hbuU9ni6yHs|https://fr.wikipedia.org/wiki/Danielle_Messia|S10501|French Pop;Pop|Canadian Screen Award for Best Original Song",
+"Danielle Messia|De la main gauche|1982|hbuU9ni6yHs|https://fr.wikipedia.org/wiki/Danielle_Messia|S10501|French Pop;Pop|https://fr.wikipedia.org/wiki/De_la_main_gauche",
 "Michael Kiwanuka|Cold Little Heart|2016|nOubjLM9Cbc|Michael Kiwanuka|S16147|Deep Soul;Psychedelic Soul;R&B;Soul;Southern Soul|Love & Hate (Michael Kiwanuka album)",
 "Michel Polnareff|Âme caline|1967|BM3abxfYti8|Michel Polnareff|S13313|Chanson;French Pop;Pop;Regional Music|Soul Coaxing",
 "The Housemartins|Build|1987|IMPMiLddsuE|The Housemartins|S14485|Doo-Wop;Indie Pop;Sophisti-Pop;Pop;R&B;Vocal Group|Build (song)",
