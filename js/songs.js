@@ -7463,7 +7463,7 @@ const songs = [
 "Vince Staples|Señorita|2015|5OAYMMod9Wo|Vince Staples|S9871|Trap;West Coast Hip Hop;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
 "Jewel|Who Will Save Your Soul|1995|0wBDDAZkNtk|Jewel (singer)|S12949|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Who Will Save Your Soul",
 "Björk|New World|2000|UZt8eic_KNw|Björk|S4666|Art Pop;Baroque Pop;Film Soundtrack;Pop;Soundtracks|",
-"Hugo Montenegro|The Good, the Bad and the Ugly|1968|kHfbzoq-grE|Hugo Montenegro|S6751|Easy Listening;Spaghetti Western;Cinematic Classical;Classical Music;Pop|",
+"Hugo Montenegro|The Good, the Bad and the Ugly|1968|kHfbzoq-grE|Hugo Montenegro|S6751|Easy Listening;Spaghetti Western;Cinematic Classical;Classical Music;Pop|https://en.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Ugly_(theme)#Hugo_Montenegro_version",
 "The Rentals|Friends of P.|1995|wi-H6ohY37k|The Rentals|S8137|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Friends of P.",
 "Buckcherry|Lit Up|1999|cABZfkRcQ6A|Buckcherry|S5666|Hard Rock;Rock|",
 "Bobby Bland|Stormy Monday Blues|1962|Y4x_REN5XBk|Bobby Bland|S9168|Electric Blues;Soul Blues;Blues|",
