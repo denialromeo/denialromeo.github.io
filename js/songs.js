@@ -4482,7 +4482,7 @@ const songs = [
 "Michel Polnareff|Le Bal des laze|1968|tPxajzP-2jQ|Michel Polnareff|S7544|Baroque Pop;Chanson;French Pop;Pop;Regional Music|",
 "Bobby Caldwell|What You Won't Do for Love|1978|VFMy1aO_LMU|Bobby Caldwell|S5569|Blue Eyed Soul;Smooth Soul;Pop;R&B;Soul|What You Won't Do for Love (song)",
 "Bob Dylan|Chimes of Freedom|1964|5Q86fhpjENk|Bob Dylan|S5539|Contemporary Folk;Singer/Songwriter;Folk|Chimes of Freedom (song)",
-"Chris Kenner|I Like It Like That, Part 1|1961|S2vpKvkOn04?start=13|Chris Kenner|S5797|New Orleans R&B;Rhythm & Blues;R&B|I Like It Like That (Dave Clark Five album)",
+"Chris Kenner|I Like It Like That, Part 1|1961|S2vpKvkOn04?start=13|Chris Kenner|S5797|New Orleans R&B;Rhythm & Blues;R&B|I Like It Like That (Chris Kenner song)",
 "Don Gibson|Oh Lonesome Me|1958|-Z4kPGcmyPI|Don Gibson|S3448|Nashville Sound;Country;Country Pop;Pop|Oh Lonesome Me",
 "The White Stripes|The Hardest Button to Button|2003|K4dx42YzQCE|The White Stripes|S8991|Alternative Rock;Garage Rock Revival;Garage Rock;Rock|The Hardest Button to Button",
 "Jessie Ware|110%|2012|Y-nsrUoShQQ|Jessie Ware|S5052|Synthpop;UK Bass;Dance;Electronic;Electronic Dance Music;Pop;UK Garage|If You're Never Gonna Move",
