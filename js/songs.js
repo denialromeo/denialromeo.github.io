@@ -8540,7 +8540,7 @@ const songs = [
 "Bruce Springsteen|Blinded by the Light|1973|ku_KhAX3BIA|Bruce Springsteen|S5637|Heartland Rock;Singer/Songwriter;Rock|Blinded by the Light",
 "Sophie Ellis-Bextor|Murder on the Dancefloor|2001|hAx6mYeC6pY|Sophie Ellis-Bextor|S8498|Dance-Pop;Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House;Pop|Murder on the Dancefloor",
 "Delroy Wilson|Dancing Mood|1966|TJtUYdIghXc|Delroy Wilson|S14293|Rocksteady;Caribbean Music;Jamaican Music;Regional Music|",
-"Eric Bogle|And the Band Played Waltzing Matilda|1977|cnFzCmAyOp8?start=58|Eric Bogle|S14368|Contemporary Folk;Folk|And the Band Played Waltzing Matilda",
+"Eric Bogle|And the Band Played Waltzing Matilda|1977|ajPSmnZ2PRY|Eric Bogle|S14368|Contemporary Folk;Folk|And the Band Played Waltzing Matilda",
 "Cat Power feat. Lana Del Rey|Woman|2018|Sd8nU87OCrA|Cat Power|S16605|Americana;Pop Rock;Singer/Songwriter;Country;Pop;Rock|",
 "The Students|I'm So Young|1958|bqGgeNPWS10|The Students|S3864|Doo-Wop;R&B;Vocal Group|I'm So Young",
 "Marmion|Schöneberg|1993|9UK3IiNyfiU|https://de.wikipedia.org/wiki/Mijk_van_Dijk|S15686|Trance;Dance;Electronic;Electronic Dance Music|",
