@@ -2799,7 +2799,7 @@ const albums = [
 "The Residents|Commercial Album|1980|OLAK5uy_mc_ykhhjgEZR1duZlojjp1Ss0F-lAs4vw|A1684|Commercial Album|The Residents|Art Pop;Satire;Comedy;Pop",
 "Pink Floyd|A Saucerful of Secrets|1968|OLAK5uy_l2EinbYoUlRTsRiBI1s8ZNnTIDyoPckR8|A2228|A Saucerful of Secrets|Pink Floyd|Psychedelic Rock;Rock",
 "Maxwell|BLACKsummers'night|2009|OLAK5uy_lZ_3rg5p8synX9hNzsByUI0uXxloRURGQ|A5039|BLACKsummers'night|Maxwell (musician)|Contemporary R&B;Neo-Soul;R&B;Soul",
-"Burial|Kindred|2012|PLeOG4WqZ0saYdGSixH7rv6Vtzynqt8vbo|A6612|Kindred (EP)|Burial (musician)|Future Garage;Dance;Electronic;Electronic Dance Music;UK Garage",
+"Burial|Kindred|2012|OLAK5uy_ntRkgvpk2nWcp_OKZeN6ORic-bPHrfatw|A6612|Kindred (EP)|Burial (musician)|Future Garage;Dance;Electronic;Electronic Dance Music;UK Garage",
 "The Lester Young and Teddy Wilson Quartet|Pres and Teddy|1959|OLAK5uy_m1C5OXIg3RhisijPTfyfzXdevOXCBCfjg|A1808|Pres and Teddy|Teddy Wilson|Swing;Jazz",
 "Ash Ra Tempel|Schwingungen|1972|OLAK5uy_lWDsd6UWJD512lm5tHm03Y9ZpIAxsDq-4|A2445|Schwingungen|Ash Ra Tempel|Krautrock;Psychedelic Rock;Experimental Rock;Progressive Rock;Rock",
 "Marvin Gaye|Trouble Man|1972|OLAK5uy_mcJsc6ToHvNr2rUSAUGlBwOT1jdvoa09g|A1368|Trouble Man (album)|Marvin Gaye|Film Soundtrack;Soul;R&B;Soundtracks",
