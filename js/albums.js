@@ -2669,7 +2669,7 @@ const albums = [
 "The Rolling Stones|Goats Head Soup|1973|OLAK5uy_kFkArzZy556uUptEuCkLaGEy7TShmHuGg|A1388|Goats Head Soup|The Rolling Stones|Rock",
 "Kylie Minogue|Fever|2001|OLAK5uy_kuHvEpYOvqZuJzVz2dMN4kxSRv0Ha9QfU|A3040|Fever (Kylie Minogue album)|Kylie Minogue|Dance-Pop;Electro-Disco;Dance;Disco;Electronic;Electronic Dance Music;Pop",
 "Jim O'Rourke|Simple Songs|2015|PLsPFlJVVDXQn-UfNLafPzYQcBabI3EZE9|A5575|Simple Songs (Jim O'Rourke album)|Jim O'Rourke (musician)|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop",
-"Laurel Halo|Quarantine|2012|PLZqsyBiYZFQ0jdSPTj_PDX1UU8snszbft|A5220|Quarantine (Laurel Halo album)|Laurel Halo|Ambient Pop;Pop",
+"Laurel Halo|Quarantine|2012|OLAK5uy_kZMZw34tTNvJxBcN7Ux6eW2BT6gLpV2RE|A5220|Quarantine (Laurel Halo album)|Laurel Halo|Ambient Pop;Pop",
 "Cabaret Voltaire|Red Mecca|1981|OLAK5uy_m_OPwZcLQeJ09j4CLlJHuArDiIAoxDs78|A4650|Red Mecca|Cabaret Voltaire (band)|Industrial;Post-Punk;Experimental;Industrial Music;Rock",
 "Isolée|We Are Monster|2005|OLAK5uy_laJXih-zgGN3G7n4laZjN-_vaCQ97tz5Y|A4218|We Are Monster|Isolée|Microhouse;Dance;Electronic;Electronic Dance Music;House",
 "Tim Buckley|Dream Letter: Live in London 1968|1990|OLAK5uy_l2shs4pyriFtgLlsAjDquqL8GCr_7f5fY|A4752|Dream Letter: Live in London 1968|Tim Buckley|Contemporary Folk;Singer/Songwriter;Folk",
