@@ -3277,7 +3277,7 @@ const songs = [
 "Primitive Radio Gods|Standing Outside a Broken Phone Booth with Money in My Hand|1996|LTz88cmXie4|Primitive Radio Gods|S31|Downtempo;Electronic|Standing Outside a Broken Phone Booth with Money in My Hand",
 "Thundercat feat. Kenny Loggins & Michael McDonald|Show You the Way|2017|Z-zdIGxOJ4M|Thundercat (musician)|S16505|Neo-Soul;Smooth Soul;R&B;Soul|",
 "Battles|Ice Cream|2011|dFggLJxv9zA|Battles (band)|S4943|Math Rock;Progressive Pop;Alternative Rock;Pop;Rock|Ice Cream (Battles song)",
-"Alice Cooper|Elected!|1972|e_qtQ52eFB0|Alice Cooper|S5156|Glam Rock;Hard Rock;Rock|",
+"Alice Cooper|Elected|1972|e_qtQ52eFB0|Alice Cooper|S5156|Glam Rock;Hard Rock;Rock|Elected (song)",
 "Rufus & Chaka Khan|Tell Me Something Good|1974|cm_cFzVAoo8|Rufus (band)|S724|Funk;Soul;R&B|Tell Me Something Good",
 "The El Dorados|At My Front Door|1955|0s2jvHkYHFY|El Dorado|S1594|Doo-Wop;Rock & Roll;R&B;Rock;Vocal Group|At My Front Door",
 "Pulp|Do You Remember the First Time?|1994|sPGepgWupTw|Pulp (band)|S4507|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Do You Remember the First Time%3F",
