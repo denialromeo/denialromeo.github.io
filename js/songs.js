@@ -1872,7 +1872,7 @@ const songs = [
 "The Isley Brothers|Twist and Shout|1962|cTaqn8_gMR0|The Isley Brothers|S1093|Rhythm & Blues;Rock & Roll;R&B;Rock|Shout (Isley Brothers song)",
 "Nat King Cole|Nature Boy|1947|Iq0XJCJ1Srw|Nat King Cole|S2663|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop|Nature Boy",
 "U2|Bad|1984|LCdltGg4EzM|U2|S4880|Alternative Rock;Rock|Bad (U2 song)",
-"The Drums|Let's Go Surfing|2009|XGyTWvOf8fU|The Drums|S4838|Indie Pop;Post-Punk Revival;Alternative Rock;Indie Rock;Pop;Post-Punk;Rock|",
+"The Drums|Let's Go Surfing|2009|8dBv4i0dXUc|The Drums|S4838|Indie Pop;Post-Punk Revival;Alternative Rock;Indie Rock;Pop;Post-Punk;Rock|",
 "Gavin Bryars|Jesus' Blood Never Failed Me Yet|1975|FmkC_leNM7M|Gavin Bryars|S6511|Minimalism;Classical Music;Modern Classical|",
 "Stone Temple Pilots|Interstate Love Song|1994|yjJL9DGU7Gg|Stone Temple Pilots|S2099|Grunge;Alternative Rock;Rock|Interstate Love Song",
 "The Damned|Neat Neat Neat|1977|VaMU_6sI3j8|The Damned (band)|S2329|Punk Rock;Rock|",
