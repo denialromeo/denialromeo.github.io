@@ -2858,7 +2858,7 @@ const songs = [
 "‘Til Tuesday|Voices Carry|1985|uejh-bHa4To|'Til Tuesday|S3125|New Wave;Pop Rock;Synthpop;Electronic;Pop;Rock|Voices Carry",
 "Commodores|Easy|1977|wn-PuZnhdNo|Commodores|S10452|Pop Soul;Pop;R&B;Soul|Easy (Commodores song)",
 "The Prodigy|Out of Space|1992|a4eav7dFvc8|The Prodigy|S8022|Breakbeat Hardcore;Breakbeat;Dance;Electronic;Electronic Dance Music;Hardcore [EDM]|Out of Space",
-"Pulp|Sorted for E's & Wizz|1995|PbcR0x60WN0|Pulp (band)|S71|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Sorted for E's & Wizz",
+"Pulp|Sorted for E's & Wizz|1995|pxDKjzNKIsM|Pulp (band)|S71|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Sorted for E's & Wizz",
 "The Coral|Dreaming of You|2002|QXt723fN1ss|The Coral|S1524|Indie Pop;Mod Revival;Mod;Pop;Rock|Dreaming of You (The Coral song)",
 "Fred Astaire|Fascinating Rhythm|1926|-iO3p1i3uG0|Fred Astaire|S6474|Show Tunes;Traditional Pop;Musical Theatre and Entertainment;Pop;Soundtracks|Fascinating Rhythm",
 "The Pogues|A Pair of Brown Eyes|1985|zNtQ5AnRlz8|The Pogues|S412|Celtic Rock;Folk Rock;Rock|",
