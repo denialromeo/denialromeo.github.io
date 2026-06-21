@@ -5643,7 +5643,7 @@ const songs = [
 "Björk|I've Seen It All|2000|N8FJyhnC2Eo|Björk|S5477|Art Pop;Film Soundtrack;Trip Hop;Downtempo;Electronic;Pop;Soundtracks|I've Seen It All",
 "Garbage|#1 Crush|1995|shb_bxglEKk|Garbage (band)|S10899|Alternative Rock;Rock|Number 1 Crush",
 "Bright Eyes|Four Winds|2007|br1qcPIkozM|Bright Eyes (band)|S4301|Alt-Country;Indie Folk;Contemporary Folk;Country;Folk|",
-"Miles Davis|Bitches Brew|1970|SbCt-iXIXlQ|Miles Davis|S7556|Avant-Garde Jazz;Jazz Fusion;Jazz|",
+"Miles Davis|Bitches Brew|1970|cwcmT_85Gbs|Miles Davis|S7556|Avant-Garde Jazz;Jazz Fusion;Jazz|",
 "The Mighty Mighty Bosstones|The Impression That I Get|1997|NIGMUAMevH0|The Mighty Mighty Bosstones|S7552|Ska Punk;Punk Rock;Rock;Ska;Third Wave Ska|The Impression That I Get",
 "U2|Even Better Than the Real Thing|1991|vTxrgXWToZA|U2|S2045|Alternative Dance;Alternative Rock;Dance;Rock|Even Better Than the Real Thing",
 "Barbra Streisand|People|1964|g1B-a1M7U58|Barbra Streisand|S3863|Show Tunes;Traditional Pop;Musical Theatre and Entertainment;Pop;Soundtracks|People (Barbra Streisand song)",
