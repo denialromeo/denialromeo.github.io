@@ -606,7 +606,7 @@ const classical = [
 "Ralph Vaughan Williams|Fantasia on a Theme by Thomas Tallis|1910-1919|ihx5LCF1yJY|Ralph Vaughan Williams|Fantasia on a Theme by Thomas Tallis",
 "Igor Stravinsky|The Firebird|1910|kd1xYKGnOEw|Igor Stravinsky|The Firebird",
 "Edward Elgar|Symphony No. 2|1911|CY7vaUhxhDY|Edward Elgar|Symphony No. 2 (Elgar)",
-"Enrique Granados|Goyescas|1911|s0aVTPvYQ4Y|Enrique Granados|",
+"Enrique Granados|Goyescas|1911|vVU_0vL-NbQ|Enrique Granados|",
 "Maurice Ravel|Ma mère l’oye|1911|N_ENSdLOblk?start=3|Maurice Ravel|",
 "Bela Bartok|Bluebeard’s Castle|1911|p9Aq2WWds8k|Béla Bartók|",
 "Jean Sibelius|Symphony No. 4|1911|HjeF99_ocfM|Jean Sibelius|Symphony No. 4 (Sibelius)",

@@ -2536,7 +2536,7 @@ const albums = [
 "Scott Walker|Climate of Hunter|1984|OLAK5uy_nSvCrir8pqpzcwPStaq-MQ7LtJqi3UYJo|A627|Climate of Hunter|Scott Walker (singer)|Art Pop;Art Rock;Pop;Rock",
 "Duke Ellington|Anatomy of a Murder|1959|OLAK5uy_mv3COh9dZ1Jc9fGkF8NZnkJmd1yofNyrk|A2409|Anatomy of a Murder (soundtrack)|Duke Ellington|Big Band;Film Score;Film Soundtrack;Jazz;Soundtracks",
 "Gilberto Gil|Gilberto Gil|1968|OLAK5uy_m-QV_V2jtSY0UbwdN2Nw21rb9cLpuhcd8|A4467|Gilberto Gil (1968 album)|Gilberto Gil|Tropicália;Brazilian Music;MPB;Regional Music",
-"Girl Talk|Night Ripper|2006|OLAK5uy_m_skLgmD7UOM_g5LN8ITKspovVwZiNeQs|A3158|Night Ripper|Girl Talk (musician)|Mashup;Experimental;Plunderphonics;Sound Collage;Tape Music",
+"Girl Talk|Night Ripper|2006|ERROR|A3158|Night Ripper|Girl Talk (musician)|Mashup;Experimental;Plunderphonics;Sound Collage;Tape Music",
 "Tom Waits|Alice|2002|OLAK5uy_nvWWEURYrY4StHAgMHS715a6KO7tQ6OgM|A1646|Alice (Tom Waits album)|Tom Waits|Singer/Songwriter",
 "Sonic Youth|Rather Ripped|2006|OLAK5uy_mZ49fiNbJSgP6AYciMjDcydsvcpOU7j-k|A2137|Rather Ripped|Sonic Youth|Indie Rock;Alternative Rock;Rock",
 "The Louvin Brothers|Tragic Songs of Life|1956|OLAK5uy_mPr9Vnf-IEpJja-Ab6v4gSocvLOkgYpBQ|A2255|Tragic Songs of Life (The Louvin Brothers album)|The Louvin Brothers|Close Harmony;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music",
