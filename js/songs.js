@@ -10318,7 +10318,7 @@ const songs = [
 "Car Seat Headrest|Something Soon|2015|WjnEkJa2Law|Car Seat Headrest|S9718|Lo-Fi / Slacker Rock;Alternative Rock;Indie Rock;Rock|",
 "Alicia Keys|In Common|2016|4HazJhPnrB8|Alicia Keys|S16018|Alternative R&B;Dance-Pop;Contemporary R&B;Dance;Pop;R&B|",
 "The Move|I Can Hear the Grass Grow|1967|1KZfudv0WZY|The Move|S13319|Freakbeat;Psychedelic Pop;Psychedelic Rock;Beat Music;Pop;Pop Rock;Rock|I Can Hear the Grass Grow",
-"Destroyer|Times Square|2015|M7_wL568ts4|Destroyer (band)|S9738|Chamber Pop;Baroque Pop;Indie Pop;Pop|",
+"Destroyer|Times Square|2015|3GgHgc86Jio|Destroyer (band)|S9738|Chamber Pop;Baroque Pop;Indie Pop;Pop|",
 "Jeff Beck|Beck's Bolero|1967|nmO0OZC6Ifk|Jeff Beck|S4102|Hard Rock;Rock|",
 "R.E.M.|Stand|1988|bLaSXpqp__E|R.E.M.|S8057|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Stand (R.E.M. song)",
 "Echo and the Bunnymen|The Back of Love|1982|w1B6LrOmNsg|Echo & the Bunnymen|S6188|Post-Punk;Rock|",
