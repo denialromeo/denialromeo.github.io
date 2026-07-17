@@ -9010,7 +9010,7 @@ const songs = [
 "Bruce Springsteen|My Hometown|1984|77gKSp8WoRg|Bruce Springsteen|S10313|Heartland Rock;Rock|",
 "The Chakachas|Jungle Fever|1972|ammcy3J6dPg|The Chakachas|S12775|Latin Funk;Funk;Hispanic Music;Latin American Music;R&B;Regional Music|",
 "Jerry Butler|Never Give You Up|1968|7KrfocTzANE|Jerry Butler|S6896|Philly Soul;Pop Soul;Pop;R&B;Soul|",
-"Rose Tattoo|Rock 'n' Roll Outlaw|1978|FTXvcF93qk0?start=16|Rose Tattoo|S13344|Blues Rock;Hard Rock;Rock|",
+"Rose Tattoo|Rock 'n' Roll Outlaw|1978|1-1i5mi1uhs|Rose Tattoo|S13344|Blues Rock;Hard Rock;Rock|",
 "Jack Guthrie & His Oklahomans|Oklahoma Hills|1945|9sVBVOmx6Rk|Jack Guthrie|S15558|Cowboy;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|",
 "Tom Jones|Sex Bomb|1999|WZ32gSLNHfA|Tom Jones (singer)|S13986|Dance-Pop;Pop Soul;Dance;Pop;R&B;Soul|Sex Bomb",
 "Van Morrison|It's All in the Game|1979|X1BUsbfXu54|Van Morrison|S8924|Adult Contemporary;Pop Rock;Singer/Songwriter;Pop;Rock|It's All in the Game (song)",
