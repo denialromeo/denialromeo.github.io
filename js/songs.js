@@ -1338,7 +1338,7 @@ const songs = [
 "The Rolling Stones|Happy|1972|fBcFjNUzFJ0|The Rolling Stones|S1320|Blues Rock;Rock|Happy (Rolling Stones song)",
 "The Slits|Typical Girls|1979|brtGLeNR12g?start=74|The Slits|S2889|Art Punk;Post-Punk;Punk Rock;Rock|",
 "The Byrds|I'll Feel a Whole Lot Better|1965|to-RVV_3anw|The Byrds|S2272|Folk Rock;Rock|I'll Feel a Whole Lot Better",
-"The Doors|Break On Through (To the Other Side)|1967|YCohm_CilUY|The Doors|S1492|Blues Rock;Psychedelic Rock;Rock|Break On Through (To the Other Side)",
+"The Doors|Break On Through (To the Other Side)|1967|NFeUko-lQHg|The Doors|S1492|Blues Rock;Psychedelic Rock;Rock|Break On Through (To the Other Side)",
 "Fleetwood Mac|Rhiannon (Will You Ever Win)|1975|jQAK6sVovUk|Fleetwood Mac|S681|Pop Rock;Pop;Rock|Rhiannon (song)",
 "Björk|Army of Me|1995|jPeheoBa2_Y|Björk|S2115|Art Pop;Electronic;Industrial Rock;Industrial Music;Pop;Rock|Army of Me",
 "The O'Jays|Love Train|1972|_BlkTSKqE_8|The O'Jays|S758|Philly Soul;Pop Soul;Pop;R&B;Soul|Love Train",
