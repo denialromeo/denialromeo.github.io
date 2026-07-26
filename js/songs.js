@@ -5937,7 +5937,7 @@ const songs = [
 "Jonathan Richman/The Modern Lovers|I Was Dancing in a Lesbian Bar|1992|XjFU98mEem4|Jonathan Richman|S6993|Pop Rock;Singer/Songwriter;Pop;Rock|",
 "Porno for Pyros|Pets|1993|HE3OuHukrmQ|Porno for Pyros|S3714|Alternative Rock;Rock|",
 "Dexys Midnight Runners|This Is What She's Like|1985|x3OBG8pCMnY|Dexys Midnight Runners|S10584|Blue Eyed Soul;New Wave;Progressive Pop;Pop;Rock|",
-"Don Covay|Mercy, Mercy|1964|pWioaVN9olY|Don Covay|S6121|Southern Soul;R&B;Soul|Mercy, Mercy (Don Covay song)",
+"Don Covay|Mercy, Mercy|1964|8zNhWJEE480|Don Covay|S6121|Southern Soul;R&B;Soul|Mercy, Mercy (Don Covay song)",
 "OutKast|Player's Ball|1993|vFofKGKlWo4|Outkast|S11820|Southern Hip Hop;Hip Hop|",
 "Muse|Uprising|2009|w8KQmps-Sog|Muse (band)|S7647|Alternative Rock;Pop Rock;Pop;Rock|Uprising (song)",
 "Loretta Lynn|One's on the Way|1971|8YDj97txkFE|Loretta Lynn|S1548|Country|One's on the Way",
