@@ -3799,7 +3799,7 @@ const songs = [
 "Dock Boggs|Country Blues|1927|O1BsgDZIEU4|Dock Boggs|S2651|Old-Time;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|",
 "Bob Marley and the Wailers|Waiting in Vain|1977|IWxbhC44p2w|Bob Marley|S1798|Lovers Rock;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
 "The Strokes|New York City Cops|2001|OkLxi4Tsm2E|The Strokes|S8611|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|New York City Cops (song)",
-"Liquid Liquid|Optimo|1983|opl92VGFFRI|Liquid Liquid|S4565|Dance-Punk;Post-Punk;Rock|",
+"Liquid Liquid|Optimo|1983|opl92VGFFRI|Liquid Liquid|S4565|Dance-Punk;Post-Punk;Rock|Optimo (EP)",
 "Paul McCartney|Silly Love Songs|1976|qzNpso_vDaQ|Paul McCartney and Wings|S7883|Pop Rock;Pop;Rock|Silly Love Songs",
 "Björk|Stonemilker|2015|gQEyezu7G20|Björk|S9711|Art Pop;Chamber Pop;Downtempo;Baroque Pop;Electronic;Indie Pop;Pop|Stonemilker",
 "Kasabian|Club Foot|2004|lk5iMgG-WJI|Kasabian|S7054|Alternative Dance;Indie Rock;Alternative Rock;Dance;Rock|Club Foot (song)",
