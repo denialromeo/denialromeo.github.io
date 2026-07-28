@@ -1325,7 +1325,7 @@ const albums = [
 "R.E.M.|Fables of the Reconstruction|1985|OLAK5uy_m7_acldUzfu8QiVCJ7KBY-U-fUBex9DtE|A643|Fables of the Reconstruction|R.E.M.|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Supergrass|In It for the Money|1997|OLAK5uy_mkcad2icTNN7eeNJ4P00V9A5ZXZNV_UKA|A1003|In It for the Money|Supergrass|Britpop;Alternative Rock;Pop;Pop Rock;Rock",
 "Taylor Swift|Red|2012|OLAK5uy_no5mfD2qeVuk8N2T8J3KJ1ji1S9DmoQ4M|A6688|Red (Taylor Swift album)|Taylor Swift|Pop;Singer/Songwriter",
-"Mac DeMarco|Salad Days|2014|OLAK5uy_kUbiMCP3VgMg7FdL9CK3cxT95J5db-Irc|A5402|Salad Days (Mac DeMarco album)|Mac DeMarco|Jangle Pop;Psychedelic Pop;Alternative Rock;Pop;Pop Rock;Rock",
+"Mac DeMarco|Salad Days|2014|OLAK5uy_n_86KjvYeC-4CrCBc-o_v8PAOilUHw7ME|A5402|Salad Days (Mac DeMarco album)|Mac DeMarco|Jangle Pop;Psychedelic Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Vampire Weekend|Contra|2010|OLAK5uy_l8aI12ZBCsNCCZvU_pojqfrVaUyPHbCc0|A5114|Contra (album)|Vampire Weekend|Indie Pop;Pop",
 "Moby|Everything Is Wrong|1995|OLAK5uy_lFm6O1NSX6Hon63mGo3jSPRk11NcXIvXE|A953|Everything Is Wrong (album)|Moby|Electronic",
 "Alice Cooper|Love It to Death|1971|OLAK5uy_l17gtf-RrQTZLHlTN3BPA9RJpJQfYGc_0|A236|Love It to Death|Alice Cooper|Glam Rock;Hard Rock;Rock",
