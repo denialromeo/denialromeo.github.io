@@ -1815,7 +1815,7 @@ const songs = [
 "Björk|Jóga|1997|loB0kmz_0MM|Björk|S4520|Art Pop;Electronic;Pop|Jóga",
 "The Doors|People Are Strange|1967|uCoCNCJFS7A?start=25|The Doors|S3350|Psychedelic Rock;Rock|People Are Strange",
 "Yves Montand|Les Feuilles mortes|1949|JWfsp8kwJto|Yves Montand|S9105|Chanson;Regional Music|",
-"Doug E. Fresh|La-Di-Da-Di|1985|wr6ld9Rt1bM|Doug E. Fresh|S2912|East Coast Hip Hop;Hip Hop|La Di Da Di",
+"Doug E. Fresh|La-Di-Da-Di|1985|taBFnWMSeAc|Doug E. Fresh|S2912|East Coast Hip Hop;Hip Hop|La Di Da Di",
 "Paul McCartney|Jet|1973|ZwRXxtwcJus|Paul McCartney and Wings|S744|Power Pop;Pop;Pop Rock;Rock|Jet (song)",
 "Duke Ellington|Caravan|1937|n28qRrRGJ1M|Duke Ellington|S6168|Big Band;Swing;Jazz|Caravan (Juan Tizol and Duke Ellington song)",
 "Stevie Wonder|Master Blaster (Jammin')|1980|s-zvfdYuPc8|Stevie Wonder|S546|Pop Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|Master Blaster (Jammin')",
