@@ -419,7 +419,7 @@ const albums = [
 "The Police|Reggatta de Blanc|1979|OLAK5uy_kLvrSpKZQdl23lC5fpSnRtVGcjDLl2QbA|A470|Reggatta de Blanc|The Police|New Wave;Pop Rock;Pop;Rock",
 "Prince|Dirty Mind|1980|OLAK5uy_laBLoY9yA3c9leuNqx6MNTnfm2KlxPi5s|A487|Dirty Mind|Prince (musician)|Pop Rock;Synth Funk;Funk;Pop;R&B;Rock",
 "Dexys Midnight Runners|Searching for the Young Soul Rebels|1980|OLAK5uy_nRiD2QvWma9BEbVnoUa_tugOePhlnaIvw|A486|Searching for the Young Soul Rebels|Dexys Midnight Runners|Blue Eyed Soul;New Wave;Pop;Rock",
-"Dead Kennedys|Fresh Fruit for Rotting Vegetables|1980|OLAK5uy_nuOCbXMtg7g20sQk1UOlFpplHQor8jp-Q|A495|Fresh Fruit for Rotting Vegetables|Dead Kennedys|Hardcore Punk;Punk Rock;Rock",
+"Dead Kennedys|Fresh Fruit for Rotting Vegetables|1980|ERROR|A495|Fresh Fruit for Rotting Vegetables|Dead Kennedys|Hardcore Punk;Punk Rock;Rock",
 "Tracy Chapman|Tracy Chapman|1988|OLAK5uy_lJiJ1eSjBfk73-87m_0i9ubOA5RGSiLUs|A724|Tracy Chapman (album)|Tracy Chapman|Folk Rock;Singer/Songwriter;Rock",
 "Yo La Tengo|I Can Hear the Heart Beating As One|1997|OLAK5uy_kVAkSqkN8tqCS2A95aML9FoXitg-N8Y3Y|A1019|I Can Hear the Heart Beating as One|Yo La Tengo|Indie Rock;Noise Pop;Alternative Rock;Rock",
 "Grimes|Visions|2012|OLAK5uy_lUsDgd77iAxl2thSkCvOtx-uSAJ41cz1M|A5218|Visions (Grimes album)|Grimes (musician)|Dream Pop;Synthpop;Alternative Rock;Electronic;Pop;Rock",
