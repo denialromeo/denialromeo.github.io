@@ -22,7 +22,7 @@ r remote g github: wincred
 wincred:
 	git config --global credential.helper wincred
 	git config --global user.name "Daniel Moore"
-	git config --global user.email "hi@danielmoore.us"
+	git config --global user.email "INSERT EMAIL"
 
 l local:
 	call jekyll build
