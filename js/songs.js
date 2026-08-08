@@ -1719,7 +1719,7 @@ const songs = [
 "The Human League|Being Boiled|1978|myzrnWbyz1s|The Human League|S1569|Minimal Synth;Electronic;Minimal Wave|",
 "Fleetwood Mac|Albatross|1968|gjOGaDseKgw|Fleetwood Mac|S1700|Art Rock;Blues Rock;Psychedelic Rock;Rock|",
 "Cut Copy|Hearts on Fire|2007|mgpgkI3eMxM|Cut Copy|S4708|Electropop;Synthpop;Electronic;Pop|Hearts on Fire (Cut Copy song)",
-"The Stranglers|Golden Brown|1981|z-GUjA67mdc|The Stranglers|S4453|Baroque Pop;New Wave;Pop;Rock|Golden Brown",
+"The Stranglers|Golden Brown|1981|7KIHvuMl4Kk|The Stranglers|S4453|Baroque Pop;New Wave;Pop;Rock|Golden Brown",
 "EMF|Unbelievable|1990|K5kr2OBhh4c?start=20|EMF (band)|S225|Alternative Dance;Baggy / Madchester;Alternative Rock;Dance;Rock|Unbelievable (EMF song)",
 "Bright Eyes|First Day of My Life|2005|xUBYzpCNQ1I|Bright Eyes (band)|S5620|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk|First Day of My Life (Bright Eyes song)",
 "Four Tops|Bernadette|1967|Y9l4MGwpQS0|Four Tops|S1448|Motown Sound;Pop;Pop Soul;R&B;Soul|Bernadette (Four Tops song)",
