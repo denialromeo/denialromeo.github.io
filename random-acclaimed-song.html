@@ -125,8 +125,10 @@
     const title = document.querySelector("#song-title");
     const params = new URI(window.location.href).search(true)
     var pool = songs
-    var regex = ""
     try {
+    if ("top" in params) {
+        pool = pool.slice(0, params.top);
+    }
     if ("artist" in params) {
         // Below accounts for accent marks so "Beyonce" matches "Beyoncé"
         const normalizeString = (str) =>
@@ -158,7 +160,7 @@
     } catch (e) { }
     if (pool.length === 0) { pool = songs }
     if (pool.length !== songs.length) {
-        pool.sort()
+        if (!("top" in params)) { pool.sort() }
         console.log(pool.map(s => s.split("|").slice(0,3).concat(s.split("|").slice(6,7))))
     }
     const info = choice(pool).split("|")
