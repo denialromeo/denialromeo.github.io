@@ -3869,7 +3869,7 @@ const songs = [
 "Oasis|(What's the Story) Morning Glory?|1995|Wm54XyLwBAk|Oasis (band)|S7780|Britpop;Alternative Rock;Pop;Pop Rock;Rock|",
 "The Chambers Brothers|Time Has Come Today|1967|MLlown9_G3w|The Chambers Brothers|S3269|Psychedelic Rock;Psychedelic Soul;R&B;Rock;Soul|Time Has Come Today",
 "Johnny and the Hurricanes|Red River Rock|1959|gOuQXckGkrc|Johnny and the Hurricanes|S4381|Rock & Roll;Rock|",
-"of Montreal|The Past Is a Grotesque Animal|2007|Vn-eFXxLXTM|Of Montreal|S4325|Indietronica;Neo-Psychedelia;Electronic;Psychedelic Rock;Rock|",
+"of Montreal|The Past Is a Grotesque Animal|2007|U8Lxjcuty_g|Of Montreal|S4325|Indietronica;Neo-Psychedelia;Electronic;Psychedelic Rock;Rock|",
 "Trust|Antisocial|1980|GhFnGiUCUQ4?start=3|Trust (French band)|S8855|Hard Rock;Heavy Metal;Metal;Rock|Antisocial (Trust song)",
 "Haim|Summer Girl|2019|ZjuA_o6Jzyo|Haim (band)|S16789|Indie Pop;Sophisti-Pop;Pop|Summer Girl (Haim song)",
 "The Left Banke|Pretty Ballerina|1966|BHt7rfySxqk|The Left Banke|S7218|Baroque Pop;Pop|Pretty Ballerina",
