@@ -353,7 +353,7 @@ const songs = [
 "Boston|More Than a Feeling|1976|t4QK8RxCAwo|Boston (band)|S667|AOR;Rock|More Than a Feeling",
 "The Beatles|I Am the Walrus|1967|t1Jm5epJr10|The Beatles|S1450|Art Rock;Psychedelic Pop;Psychedelic Rock;Pop;Rock|I Am the Walrus",
 "Red Hot Chili Peppers|Under the Bridge|1991|GLvohMXgcBo|Red Hot Chili Peppers|S168|Alternative Rock;Rock|Under the Bridge",
-"Daft Punk|Around the World|1997|LKYPYj2XX80|Daft Punk|S18|French House;Dance;Electronic;Electronic Dance Music;House|Around the World (Daft Punk song)",
+"Daft Punk|Around the World|1997|K0HSD_i2DvA|Daft Punk|S18|French House;Dance;Electronic;Electronic Dance Music;House|Around the World (Daft Punk song)",
 "The Kinks|Lola|1970|LemG0cvc4oU|The Kinks|S844|Pop Rock;Pop;Rock|Lola (song)",
 "Ray Charles|Georgia on My Mind|1960|Thls_tMuFkc?start=2|Ray Charles|S1146|Country Soul;R&B;Soul|Georgia on My Mind",
 "The Flaming Lips|Do You Realize??|2002|lPXWt2ESxVY|The Flaming Lips|S1530|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|Do You Realize%3F%3F",
