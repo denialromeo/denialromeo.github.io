@@ -10534,7 +10534,7 @@ const songs = [
 "Dawes|All Your Favorite Bands|2015|I74C2hClAsA|Dawes (band)|S9732|Americana;Pop Rock;Country;Pop;Rock|10533|",
 "Split Enz|Message to My Girl|1983|n0pcM30pjgQ|Split Enz|S8538|Piano Rock;Pop;Pop Rock;Rock|10534|Message to My Girl",
 "The Beatles|I'll Get You|1963|nFEHqFUONHY|The Beatles|S10108|Merseybeat;Beat Music;Pop;Pop Rock;Rock|10535|I'll Get You",
-"Talking Heads|Love &rarr; Building on Fire|1977|9IDfzjC5hsI|Talking Heads|S8674|New Wave;Rock|10536|",
+"Talking Heads|Love &rarr; Building on Fire|1977|9IDfzjC5hsI|Talking Heads|S8674|New Wave;Rock|10536|Love → Building on Fire",
 "Neil Young|Tired Eyes|1975|iPoIRVSLJ2o|Neil Young|S11730|Country Rock;Singer/Songwriter;Rock|10537|Tired Eyes (Neil Young song)",
 "Leonard Cohen|Going Home|2012|sc_J0_WAIuM|Leonard Cohen|S11418|Singer/Songwriter|10538|",
 "Joey Ramone|What a Wonderful World|2002|8IoO5nkxT_4?start=42|Joey Ramone|S14573|Punk Rock;Rock|10539|",
