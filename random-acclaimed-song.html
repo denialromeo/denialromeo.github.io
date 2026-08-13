@@ -168,11 +168,11 @@
     const songLink = info[8] == '' ? `<span title="${info[6].split(';').join(', ')}">${info[1]}</span>` : `<a title="${info[6].split(';').join(', ')}" style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[8])}>${info[1]}</a>`
     title.innerHTML = `${wikiLink} - ${songLink} (${info[2]})`
     document.title  = `${info[0]} - ${info[1]} (${info[2]})`
+    console.log(info.slice(0,3).concat(info.slice(6,8)))
     if (pool.length !== songs.length) {
         if (!("top" in params)) {
             pool.sort()
         }
-        console.log(info.slice(0,3).concat(info.slice(6,8)))
         console.log(pool.map(s => s.split("|").slice(0,3).concat(s.split("|").slice(6,8))))
     }
 </script>
