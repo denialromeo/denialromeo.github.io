@@ -40,7 +40,7 @@ const songs = [
 "R.E.M.|Losing My Religion|1991|xwtdhWltSIg|R.E.M.|S181|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|39|Losing My Religion",
 "Sex Pistols|God Save the Queen|1977|bC4RFY8vtuM|Sex Pistols|S631|Punk Rock;Rock|40|God Save the Queen (Sex Pistols song)",
 "Queen|Bohemian Rhapsody|1975|fJ9rUzIMcZQ|Queen (band)|S710|Art Rock;Rock Opera;Rock|41|Bohemian Rhapsody",
-"New Order|Blue Monday|1983|tJBAVTwUzHU|New Order (band)|S458|Alternative Dance;Synthpop;Alternative Rock;Dance;Electronic;Pop;Rock|42|Blue Monday (New Order song)",
+"New Order|Blue Monday|1983|c1GxjzHm5us|New Order (band)|S458|Alternative Dance;Synthpop;Alternative Rock;Dance;Electronic;Pop;Rock|42|Blue Monday (New Order song)",
 "Jimi Hendrix|Purple Haze|1967|cJunCsrhJjg|Jimi Hendrix|S933|Acid Rock;Hard Rock;Psychedelic Rock;Rock|43|Purple Haze",
 "The Kingsmen|Louie Louie|1963|fvxH64sB4sE|The Kingsmen|S1051|Garage Rock;Proto-Punk;Rhythm & Blues;R&B;Rock|44|Louie Louie",
 "The Jackson 5|I Want You Back|1969|s3Q80mk7bxE|The Jackson 5|S872|Bubblegum;Motown Sound;Pop;Pop Soul;R&B;Soul|45|",
