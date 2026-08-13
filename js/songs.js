@@ -4038,7 +4038,7 @@ const songs = [
 "Vitalic|La Rock 01|2001|NKfDcitWZzg|Vitalic|S9052|Electroclash;Dance;Electronic;Electronic Dance Music|",
 "Aerosmith|Toys in the Attic|1975|C7X8OQ7BEqM|Aerosmith|S2873|Hard Rock;Rock|",
 "Elvis Presley|One Night|1958|SZoC3U9j22Q|Elvis Presley|S1626|Pop;Rock & Roll;Rock|One Night (Elvis Presley song)",
-"Kristin Hersh|Your Ghost|1994|ZfW4-nP2G1Q|Kristin Hersh|S2079|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk|",
+"Kristin Hersh|Your Ghost|1994|ZfW4-nP2G1Q|Kristin Hersh|S2079|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk|Your Ghost",
 "The Velvet Underground|Who Loves the Sun?|1970|DgGuTicdtyg|The Velvet Underground|S8969|Pop Rock;Sunshine Pop;Pop;Rock|",
 "David Bowie|Drive-In Saturday|1973|WABWNOEwC9A|David Bowie|S5966|Glam Rock;Rock|Drive-In Saturday",
 "The Dovells|Bristol Stomp|1961|XCOB5-E4P6Y|The Dovells|S1130|Doo-Wop;R&B;Vocal Group|Bristol Stomp",
