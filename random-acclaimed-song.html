@@ -172,9 +172,7 @@
         if (!("top" in params)) {
             pool.sort()
         }
-        else {
-            console.log(info.slice(0,3).concat(info.slice(6,8)))
-        }
+        console.log(info.slice(0,3).concat(info.slice(6,8)))
         console.log(pool.map(s => s.split("|").slice(0,3).concat(s.split("|").slice(6,8))))
     }
 </script>
