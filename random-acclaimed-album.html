@@ -97,7 +97,7 @@
             <a target="_self" href="?genre=dream+pop">Dream pop albums.</a>
         </li>
     </ul>
-   <p>Also note that each artist's name and most albums' names have links to their Wikipedia pages. To&nbsp;see an album's genres, mouse over the album's name. Clicking the year will take you directly to the full album playlist.</p>
+   <p>Also note that each artist's name and most albums' years have links to their Wikipedia pages. To&nbsp;see an album's genres, mouse over the album's name. Clicking the album title will take you directly to the full album playlist.</p>
 </div>
 
 <script src="/js/URI.js"></script>
@@ -154,9 +154,9 @@
     // const songLink = `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[5])}>${info[1]}</a>`
     const artistLink = `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[6])}>${info[0]}</a>`
     // const songLink = `<a style='text-decoration:none;border-bottom:none;' href='http://acclaimedmusic.net/album/${info[4]}.htm'>${info[1]}</a>`
-    const songLink = info[5] == '' ? `<span title="${info[7].split(';').join(', ')}">${info[1]}</span>` : `<a title="${info[7].split(';').join(', ')}" style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[5])}>${info[1]}</a>`
-    const playlistLink = info[3].startsWith("http") ? info[2] : `<a style='text-decoration:none;border-bottom:none;' href='https://www.youtube.com/playlist?list=${info[3]}'>${info[2]}</a>`
-    title.innerHTML = `${artistLink} - ${songLink} (${playlistLink})`
+    const link1 = info[5] == '' ? `<span title="${info[7].split(';').join(', ')}">${info[1]}</span>` : `<a title="${info[7].split(';').join(', ')}" style='text-decoration:none;border-bottom:none;' href='https://www.youtube.com/playlist?list=${info[3]}'>${info[1]}</a>`
+    const link2 = info[3].startsWith("http") ? info[2] : `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[5])}>${info[2]}</a>`
+    title.innerHTML = `${artistLink} - ${link1} (${link2})`
     document.title  = `${info[0]} - ${info[1]} (${info[2]})`
 </script>
 
