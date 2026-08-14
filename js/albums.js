@@ -2905,7 +2905,7 @@ const albums = [
 "Max Romeo & The Upsetters|War ina Babylon|1976|OLAK5uy_lqtvLgqVGF7jW4kmNiVqKJHyCsHD-DZRk|A4589|War ina Babylon|The Upsetters|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|2904",
 "Tom Verlaine|Dreamtime|1981|OLAK5uy_ndWwmAkzKOZ6nxT3wEXkOogj7VHPZMBv8|A529|Dreamtime (Tom Verlaine album)|Tom Verlaine|Art Punk;Post-Punk;Punk Rock;Rock|2905",
 "John Coltrane|Coltrane Plays the Blues|1962|OLAK5uy_lmWz2DBsFS5SJgIAozt6R50XFVDKj_h2w|A1908|Coltrane Plays the Blues|John Coltrane|Hard Bop;Bebop;Jazz|2906",
-"The Chieftains|The Chieftains 4|1973|PL2BrwDIVl1S_Xdprzm5pLq1IOtTqxYYn1|A2660|The Chieftains 4|The Chieftains|Irish Folk Music;Celtic Folk Music;European Folk Music;Folk;Regional Music;Traditional Folk Music|2907",
+"The Chieftains|The Chieftains 4|1973|OLAK5uy_nTqGDozyTcutHfE6iIRBJhddL8VsVJ66Y|A2660|The Chieftains 4|The Chieftains|Irish Folk Music;Celtic Folk Music;European Folk Music;Folk;Regional Music;Traditional Folk Music|2907",
 "Cheap Trick|Cheap Trick|1977|OLAK5uy_lKeOJ7plGColJi37Br87crcMJFgW8iWOA|A2679|Cheap Trick (1977 album)|Cheap Trick|Hard Rock;Power Pop;Pop;Pop Rock;Rock|2908",
 "Kim Gordon|No Home Record|2019|OLAK5uy_lmOzIUd1a5U60L-TkSQpUsiGyGm_AGm8w|A6285|No Home Record|Kim Gordon|Industrial;Noise Rock;Experimental;Industrial Music;Rock|2909",
 "La Femme|Psycho Tropical Berlin|2013|PLjApp6Lljo-MylWCniAUpuVUCb6enE9Ka|A6745|Psycho Tropical Berlin|La Femme (band)|French Pop;Synthpop;Electronic;Pop|2910",
