@@ -1688,7 +1688,7 @@ const albums = [
 "Randy Newman|Randy Newman|1968|OLAK5uy_k4h0wz3aa8RBQ5rvxDSszEuu3qwRTTzLQ|A2589|Randy Newman (album)|Randy Newman|Baroque Pop;Singer/Songwriter;Pop|1687",
 "Sun Ra|Jazz in Silhouette|1958|OLAK5uy_kCd5gkLXOTUIu55sLUsGz2ehP--_Uuw80|A1854|Jazz in Silhouette|Sun Ra|Post-Bop;Bebop;Jazz|1688",
 "Brigitte Fontaine & Art Ensemble of Chicago|Comme à la Radio|1970|OLAK5uy_l-IX2aZUo_40YzqUzapIJTobIjqTVSTt4|A2640|Comme à la radio|Art Ensemble of Chicago|Chamber Jazz;Jazz|1689",
-"Ani DiFranco|Dilate|1996|PLrGyRrELjIKODGKPEt0lnqwj69LcHnZVd|A3622|Dilate (Ani DiFranco album)|Ani DiFranco|Alternative Singer/Songwriter;Folk Rock;Rock;Singer/Songwriter|1690",
+"Ani DiFranco|Dilate|1996|OLAK5uy_m2uHpFLO9HIzxgyuvoWrlYA7V4Vodw_Hs|A3622|Dilate (Ani DiFranco album)|Ani DiFranco|Alternative Singer/Songwriter;Folk Rock;Rock;Singer/Songwriter|1690",
 "Sonny Clark|Cool Struttin'|1958|OLAK5uy_kiQrlTsACcqqqK7mceaGK7-BPrlK5frdQ|A1836|Cool Struttin'|Sonny Clark|Hard Bop;Bebop;Jazz|1691",
 "Kelela|Take Me Apart|2017|OLAK5uy_n0YCnLhLgsZdJLXjvL7ZZUkKR_MUu7YrU|A5925|Take Me Apart|Kelela|Alternative R&B;UK Bass;Contemporary R&B;Dance;Electronic;Electronic Dance Music;R&B;UK Garage|1692",
 "M83|Dead Cities, Red Seas and Lost Ghosts|2003|OLAK5uy_kTUlAhZfWkT3ltX-LjDslYD9u-_YET4C4|A4033|Dead Cities, Red Seas & Lost Ghosts|M83 (band)|Electronic|1693",
