@@ -2001,7 +2001,7 @@ const albums = [
 "Lee Morgan|Search for the New Land|1966|OLAK5uy_mDQUijgzKgU6RAxMSj-sJqwkrc8Y0cT_w|A1947|Search for the New Land|Lee Morgan|Post-Bop;Bebop;Jazz|2000",
 "Mos Def|The Ecstatic|2009|PL42UUIk_OXjET5TaeOuNcHYLg4jL6HZwj|A5013|The Ecstatic|Mos Def|Hip Hop|2001",
 "UB40|Signing Off|1980|OLAK5uy_k3aWfvT1iIAfRkp7zGuOLY5_rRqEa-lyM|A1175|Signing Off|UB40|Reggae;Caribbean Music;Jamaican Music;Regional Music|2002",
-"Frank Ocean|Nostalgia, Ultra|2011|PL_FEikt9JXtUDjv9xs6sGhtiA9alx4YB7|A5162|Nostalgia, Ultra|Frank Ocean|Alternative R&B;Contemporary R&B;R&B|2003",
+"Frank Ocean|Nostalgia, Ultra|2011|PLkK4EeW6SkCVml8tG3Cij49kYsdWgTwZI|A5162|Nostalgia, Ultra|Frank Ocean|Alternative R&B;Contemporary R&B;R&B|2003",
 "Fugazi|Red Medicine|1995|OLAK5uy_mblHoD6YtHxabYHuQzoWSswWccwii7nCk|A3574|Red Medicine|Fugazi|Post-Hardcore;Punk Rock;Rock|2004",
 "John Coltrane|Ballads|1963|OLAK5uy_lELmp3lItqC6VDTGJLkvFuFBidfOH_WrQ|A1907|Ballads (John Coltrane album)|John Coltrane|Cool Jazz;Modal Jazz;Jazz|2005",
 "Courtney Barnett|Tell Me How You Really Feel|2018|OLAK5uy_mfIomj5yjAqsIWFrxrit7PlK30-EYGGMY|A6032|Tell Me How You Really Feel|Courtney Barnett|Indie Rock;Singer/Songwriter;Alternative Rock;Rock|2006",
