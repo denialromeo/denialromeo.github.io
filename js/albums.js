@@ -2489,7 +2489,7 @@ const albums = [
 "Lil Wayne|Tha Carter II|2005|OLAK5uy_kVje_uw5iLfJil5qgIUtmuEFZ4arrkvwI|A4977|Tha Carter II|Lil Wayne|Gangsta Rap;Hardcore Hip Hop;Hip Hop|2488",
 "Crystal Castles|Crystal Castles (I)|2008|OLAK5uy_kTwkzpGtKTwFX_WKnG4PhBq_0RUFf4_Fg|A4362|Crystal Castles (album)|Crystal Castles|Synthpop;Electronic;Pop|2489",
 "Aimee Mann|Whatever|1993|OLAK5uy_kEitimObm8N7JkgGZFKhwK0YQXuT-vnq0|A1584|Whatever (Aimee Mann album)|Aimee Mann|Pop Rock;Singer/Songwriter;Pop;Rock|2490",
-"Cecil Taylor|Nefertiti, the Beautiful One Has Come|1963|PLlZt7QwlCTXtl_WrgjQroqs3IFCUkt3rV|A1922|Nefertiti, the Beautiful One Has Come|Cecil Taylor|Free Jazz;Avant-Garde Jazz;Jazz|2491",
+"Cecil Taylor|Nefertiti, the Beautiful One Has Come|1963|OLAK5uy_mVMPz6_JzQ_OuS2v22NUvc4zo24gRTHgk|A1922|Nefertiti, the Beautiful One Has Come|Cecil Taylor|Free Jazz;Avant-Garde Jazz;Jazz|2491",
 "Prince|Lovesexy|1988|OLAK5uy_kGgQ0WxbgeEmySpwyCVQvMFSukl_UGXiw|A732|Lovesexy|Prince (musician)|Contemporary R&B;Funk;Pop Rock;Pop;R&B;Rock|2492",
 "Beth Orton|Trailer Park|1996|OLAK5uy_mEP82yFYVANf3cBtJpdwXRp6uT7UJAnnQ|A987|Trailer Park (album)|Beth Orton|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|2493",
 "Angelo Badalamenti|Soundtrack from Twin Peaks|1990|OLAK5uy_kjzgzCowTlBA3NHORpTITf4WKHzKhm3bc|A4751|Soundtrack from Twin Peaks|Angelo Badalamenti|Ambient Pop;Dark Jazz;Television Music;Ambient;Dark Ambient;Jazz;Pop;Soundtracks|2494",
