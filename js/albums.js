@@ -1452,7 +1452,7 @@ const albums = [
 "Elvis Costello and The Attractions|Trust|1981|OLAK5uy_l7e235p62Cxl6MKMDHaK2D6Xh1cjj5hhE|A519|Trust (Elvis Costello album)|Elvis Costello|Pop Rock;Pop;Rock|1451",
 "Joni Mitchell|For the Roses|1972|OLAK5uy_k0J50MQ1hA57IC7NT31Vc404gBneLdlf4|A1143|For the Roses|Joni Mitchell|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|1452",
 "Steve Miller Band|Fly Like an Eagle|1976|OLAK5uy_lRxgtVPfsBuzpgFdYdFi0Ej0J2mNwzz2A|A384|Fly Like an Eagle (album)|Steve Miller Band|Pop Rock;Pop;Rock|1453",
-"Rubén Blades|Buscando América|1984|PLCC9676E8C7EA8ACF|A2040|Buscando América|Rubén Blades|Afro-Cuban Jazz;Salsa;Hispanic Music;Jazz;Latin American Music;Latin Jazz;Regional Music|1454",
+"Rubén Blades|Buscando América|1984|OLAK5uy_mdevK9jFdxyr-iBd0bE2W5fnb7VF733_Y|A2040|Buscando América|Rubén Blades|Afro-Cuban Jazz;Salsa;Hispanic Music;Jazz;Latin American Music;Latin Jazz;Regional Music|1454",
 "Charlie Haden|Liberation Music Orchestra|1970|OLAK5uy_lRvbwhZ-Foi3LGFkZPCVPqsdCRYXJG_rg|A2350|Liberation Music Orchestra (album)|Charlie Haden|Experimental Big Band;Avant-Garde Jazz;Big Band;Jazz|1455",
 "Eurythmics|Touch|1983|OLAK5uy_kvxDW_xtezI07aCQCJwLIwZsTPTk1j3tE|A580|Touch (Eurythmics album)|Eurythmics|New Wave;Synthpop;Electronic;Pop;Rock|1456",
 "Living Colour|Vivid|1988|OLAK5uy_ncQta0Oscy4dznXpMlpw4igahjx0cuXpY|A1534|Vivid (Living Colour album)|Living Colour|Funk Metal;Hard Rock;Alternative Metal;Metal;Rock|1457",
