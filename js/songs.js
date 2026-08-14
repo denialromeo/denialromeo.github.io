@@ -10633,7 +10633,7 @@ const songs = [
 "Barry White|Let the Music Play|1975|tfFjm-6cbu8|Barry White|S14102|Disco;Smooth Soul;Dance;R&B;Soul|10632|",
 "Maxime Le Forestier|Mon frère|1971|tA7Ey1TYEyg|Maxime Le Forestier|S13564|Chanson;Contemporary Folk;Singer/Songwriter;Folk;Regional Music|10633|https://fr.wikipedia.org/wiki/Maxime_Le_Forestier_(album)",
 "Téléphone|Argent trop cher|1980|AZcypfABSzw|Téléphone|S12409|Punk Rock;Rock|10634|",
-"Jo Jo Gunne|Run, Run, Run|1972|AqYYhbDbnsI?start=4|Jo Jo Gunne|S6921|Hard Rock;Rock|10635|",
+"Jo Jo Gunne|Run, Run, Run|1972|cOi0Iv5J45c|Jo Jo Gunne|S6921|Hard Rock;Rock|10635|",
 "Two Door Cinema Club|Something Good Can Work|2009|f0hjjFoId30|Two Door Cinema Club|S8870|Indie Pop;Pop|10636|",
 "Soundgarden|Rusty Cage|1991|pBZs_Py-1_0|Soundgarden|S15050|Alternative Metal;Grunge;Alternative Rock;Metal;Rock|10637|Rusty Cage",
 "Redman & Method Man|How High|1995|VcEJyFjBwrs|Redman (rapper)|S12045|Boom Bap;East Coast Hip Hop;Hip Hop|10638|",
