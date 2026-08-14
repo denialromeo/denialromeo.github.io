@@ -1459,7 +1459,7 @@ const albums = [
 "The Field|From Here We Go Sublime|2007|OLAK5uy_msPRCcORm7jgVgky7beWxIOhvvE7D9uUg|A4268|From Here We Go Sublime|The Field (musician)|Minimal Techno;Dance;Electronic;Electronic Dance Music;Techno|1458",
 "Serge Gainsbourg|L'homme à tête de chou|1976|OLAK5uy_k3cMsvSz16Psxf1Bhawta9aRDmSc4ehC4|A4583|L'Homme à tête de chou|Serge Gainsbourg|Progressive Pop;Pop|1459",
 "Dirty Projectors|Swing Lo Magellan|2012|OLAK5uy_mO20j-Lr-Kp9ISO8i-zJjI5lic7zLVoMI|A5207|Swing Lo Magellan|Dirty Projectors|Art Pop;Indie Pop;Progressive Pop;Pop|1460",
-"King Crimson|Discipline|1981|PLXhfRoiJBIitwly9g1nmx6mWt7yqrG4A8|A1472|Discipline (King Crimson album)|King Crimson|Art Rock;Progressive Rock;Rock|1461",
+"King Crimson|Discipline|1981|OLAK5uy_lHyxZLUJVY_9nviIlc8gSF5b_VB7AthTo|A1472|Discipline (King Crimson album)|King Crimson|Art Rock;Progressive Rock;Rock|1461",
 "Miles Davis|'Round About Midnight|1957|OLAK5uy_lwCE34Hnh717GKvzj6KJU8cZ8CINb1LZ4|A1819|'Round About Midnight|Miles Davis|Hard Bop;Bebop;Jazz|1462",
 "This Mortal Coil|It'll End in Tears|1984|OLAK5uy_n-D2Prh8l5dJKCYH4viXmr0WwvcHOUQ08|A3016|It'll End in Tears|This Mortal Coil|Dream Pop;Ethereal Wave;Alternative Rock;Darkwave;Gothic Rock;Rock|1463",
 "Big Boi|Sir Lucious Left Foot: The Son of Chico Dusty|2010|OLAK5uy_ldhBBvzUqxvtGM1zlbMT2v5Bp9BumgZO0|A5058|Sir Lucious Left Foot: The Son of Chico Dusty|Big Boi|Hip Hop|1464",
