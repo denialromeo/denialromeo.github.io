@@ -1308,7 +1308,7 @@ const albums = [
 "John Coltrane|John Coltrane and Johnny Hartman|1963|OLAK5uy_ngX5UfQV3KBXD2cBpUFU1i4haE6dihe1Q|A1926|John Coltrane and Johnny Hartman|John Coltrane|Vocal Jazz;Jazz|1307",
 "Blood, Sweat & Tears|Blood, Sweat & Tears|1969|OLAK5uy_kpIULUpIpqShx9-3B0qDFcseb2cUyGCpM|A1117|Blood, Sweat & Tears (Blood, Sweat & Tears album)|Blood, Sweat & Tears|Jazz-Rock;Rock|1308",
 "Paul Simon|Still Crazy After All These Years|1975|OLAK5uy_l8G03KMTVvL-erd5UuGfh64ZiBC55jg9k|A352|Still Crazy After All These Years|Paul Simon|Singer/Songwriter|1309",
-"Loretta Lynn|Van Lear Rose|2004|PLkEx8_pFoyQQ9UhoAQyMsMxMTnarg03Wn|A4045|Van Lear Rose|Loretta Lynn|Alt-Country;Country|1310",
+"Loretta Lynn|Van Lear Rose|2004|PLL9efZ7bm67lzcr26cklSQWcZbqk42LjO|A4045|Van Lear Rose|Loretta Lynn|Alt-Country;Country|1310",
 "Burial|Burial|2006|OLAK5uy_nPTTEqEcZvX4NzMlXiaxE8WIBz2N0WLw4|A3146|Burial (Burial album)|Burial (musician)|Dubstep;Future Garage;Dance;Electronic;Electronic Dance Music;UK Garage|1311",
 "James Brown|The Payback|1973|OLAK5uy_kEfri-fD4l3pKEYHurT8YeqPCsuKn3oVA|A1396|The Payback|James Brown|Funk;Soul;R&B|1312",
 "Motörhead|Overkill|1979|OLAK5uy_kvNClvXmLzufgLXW6si0kBAit4vVFbIik|A2773|Overkill (Motörhead album)|Motörhead|Hard Rock;Heavy Metal;Metal;Rock|1313",
