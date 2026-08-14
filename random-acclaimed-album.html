@@ -151,12 +151,12 @@
     } catch (e) { }
     if (pool.length === 0) { pool = albums }
     const info = choice(pool).split("|")
-    console.log(info.slice(0,3).concat(info.slice(6,8)))
+    console.log(info.slice(0,3).concat(info.slice(7,9)))
     if (pool.length !== albums.length) {
         if (!("top" in params)) {
             pool.sort()
         }
-        console.log(pool.map(s => s.split("|").slice(0,3).concat(s.split("|").slice(7,8))))
+        console.log(pool.map(s => s.split("|").slice(0,3).concat(s.split("|").slice(7,9))))
     }
     iframe.src = info[3].startsWith("http") ? info[3] : `https://youtube.com/embed/playlist?list=${info[3]}`
     const wikiLink = `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[0])}>${info[0]}</a>`
