@@ -6626,7 +6626,7 @@ const songs = [
 "Héroes del Silencio|La chispa adecuada|1995|jnDjEHyhFpU|Héroes del Silencio|S13103|Rock|6625|",
 "The Presidents of the United States of America|Peaches|1995|3GCrzjVdmSg|The Presidents of the United States of America (band)|S7999|Indie Rock;Alternative Rock;Rock|6626|Peaches (The Presidents of the United States of America song)",
 "Haddaway|What is Love|1992|HEXWRTEbj1I|Haddaway|S9238|Eurodance;Dance;Dance-Pop;Electronic;Electronic Dance Music;Pop|6627|What Is Love",
-"Kanye West feat. 070 Shake|Ghost Town|2018|qatEUlouf0o|Kanye West|S16564|Neo-Soul;Psychedelic Soul;R&B;Soul|6628|Ghost Town (Kanye West song)",
+"Kanye West feat. 070 Shake|Ghost Town|2018|qAsHVwl-MU4|Kanye West|S16564|Neo-Soul;Psychedelic Soul;R&B;Soul|6628|Ghost Town (Kanye West song)",
 "Taylor Swift|I Knew You Were Trouble|2012|vNoKguSdy4Y|Taylor Swift|S12398|Dance-Pop;Electropop;Dance;Electronic;Pop|6629|I Knew You Were Trouble",
 "Ce Ce Peniston|Finally|1991|xk8mm1Qmt-Y|CeCe Peniston|S3693|Dance-Pop;Garage House;Dance;Electronic;Electronic Dance Music;House;Pop|6630|Finally (CeCe Peniston song)",
 "The Cars|Shake It Up|1981|K3SA5Z-cbC8|The Cars|S3264|New Wave;Rock|6631|Shake It Up (The Cars song)",
