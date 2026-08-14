@@ -96,6 +96,9 @@
         <li>
             <a target="_self" href="?genre=dream+pop">Dream pop albums.</a>
         </li>
+        <li>
+            <a target="_self" href="?top=100">Franzon's top 100 ranked albums.</a>
+        </li>
     </ul>
    <p>Also note that each artist's name and most albums' years have links to their Wikipedia pages. To&nbsp;see an album's genres, mouse over the album's name. Clicking the album title will take you directly to the full album playlist.</p>
 </div>
@@ -124,6 +127,9 @@
     var pool = albums
     var regex = ""
     try {
+    if ("top" in params) {
+        pool = pool.slice(0, params.top);
+    }
     if ("artist" in params) {
         pool = pool.filter(s => new RegExp(params.artist, "i").exec(s.split("|")[0]) !== null)
     }
@@ -144,11 +150,14 @@
     }
     } catch (e) { }
     if (pool.length === 0) { pool = albums }
+    const info = choice(pool).split("|")
+    console.log(info.slice(0,3).concat(info.slice(6,8)))
     if (pool.length !== albums.length) {
-        pool.sort()
+        if (!("top" in params)) {
+            pool.sort()
+        }
         console.log(pool.map(s => s.split("|").slice(0,3).concat(s.split("|").slice(7,8))))
     }
-    const info = choice(pool).split("|")
     iframe.src = info[3].startsWith("http") ? info[3] : `https://youtube.com/embed/playlist?list=${info[3]}`
     const wikiLink = `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[0])}>${info[0]}</a>`
     // const songLink = `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[5])}>${info[1]}</a>`
