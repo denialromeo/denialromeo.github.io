@@ -2015,7 +2015,7 @@ const albums = [
 "Drive-By Truckers|The Dirty South|2004|PL2CFndANM_t0DSSX55nY5se48HeFNAHsN|A4069|The Dirty South (album)|Drive-By Truckers|Southern Rock;Rock|2014",
 "Junior Boys|Last Exit|2004|OLAK5uy_mYoziW0bh4AKPf0YdldiL8RfD72di7DPA|A4056|Last Exit (Junior Boys album)|Junior Boys|Glitch Pop;Synthpop;Electronic;Pop|2015",
 "Wild Beasts|Smother|2011|OLAK5uy_mOIIyomwyrVw_L0a4g6I3aFSSfQPHPET0|A5183|Smother (album)|Wild Beasts|Art Pop;Indie Pop;Pop|2016",
-"Hawkwind|Doremi Fasol Latido|1972|PLWfGw2maX1M6V1QnwZLpoyONhGmW6l5ob|A3283|Doremi Fasol Latido|Hawkwind|Space Rock;Psychedelic Rock;Rock|2017",
+"Hawkwind|Doremi Fasol Latido|1972|OLAK5uy_k4siU6Hi2whcfaBRG2JgqV--vvC1UVs7U|A3283|Doremi Fasol Latido|Hawkwind|Space Rock;Psychedelic Rock;Rock|2017",
 "Roberta Flack|First Take|1969|OLAK5uy_khEQhG8qv_D5A3NIb-i1Vay4QE-JLNUYo|A2282|First Take (album)|Roberta Flack|Soul;R&B|2018",
 "Kings of Leon|Only by the Night|2008|OLAK5uy_kil1pZKWRLBDxadB4Fi8PyiLym2nJkuX4|A4350|Only by the Night|Kings of Leon|Indie Rock;Alternative Rock;Rock|2019",
 "Stan Getz|Focus|1961|OLAK5uy_lbXCm-9eFCDoG5sNmvnkUUmyH-5gZFtPg|A1901|Focus (Stan Getz album)|Stan Getz|Avant-Garde Jazz;Cool Jazz;Jazz|2020",
