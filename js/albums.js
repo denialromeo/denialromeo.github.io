@@ -1798,7 +1798,7 @@ const albums = [
 "Phil Collins|Face Value|1981|OLAK5uy_kqM3PiL8VsxhpWU8RmWtcuQfSUiWTvs2o|A539|Face Value (album)|Phil Collins|Pop Rock;Pop;Rock|1797",
 "Aretha Franklin|Young, Gifted and Black|1972|OLAK5uy_mrXG3N9QIxEMObW6RDtt4WRZErqYH6OtM|A1144|Young, Gifted and Black|Aretha Franklin|Deep Soul;Smooth Soul;R&B;Soul;Southern Soul|1798",
 "Arctic Monkeys|Humbug|2009|OLAK5uy_ncpdjL3_KXOnNliFvCEOTEtXGhme3Jfqo|A5010|Humbug (album)|Arctic Monkeys|Indie Rock;Alternative Rock;Rock|1799",
-"The Housemartins|London 0 Hull 4|1986|PLbjZabFHIUc0wz2mtsuB6LWZ_zD6O2dsC|A683|London 0 Hull 4|The Housemartins|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|1800",
+"The Housemartins|London 0 Hull 4|1986|OLAK5uy_l_4j0YCaDm647lOaDdvKhAxJBZa25kaV4|A683|London 0 Hull 4|The Housemartins|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|1800",
 "Alicia Keys|Songs in A Minor|2001|OLAK5uy_kj902rzLIH1G3mVsmmPrq4KUAxeQ9pfZw|A1213|Songs in A Minor|Alicia Keys|Contemporary R&B;Neo-Soul;R&B;Soul|1801",
 "The The|Infected|1986|OLAK5uy_mVz9QmyWf6MxvQ1yuDqCCt6e7__JUACZ8|A675|Infected (The The album)|The The|Art Pop;Synthpop;Electronic;Pop|1802",
 "Heaven 17|Penthouse and Pavement|1981|OLAK5uy_mOyvt83bLkGyVtb_p1uYDqxL1rqveMI2c|A518|Penthouse and Pavement|Heaven 17|New Wave;Synthpop;Electronic;Pop;Rock|1803",
