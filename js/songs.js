@@ -2861,7 +2861,7 @@ const songs = [
 "Pulp|Sorted for E's & Wizz|1995|pxDKjzNKIsM|Pulp (band)|S71|Britpop;Alternative Rock;Pop;Pop Rock;Rock|2860|Sorted for E's & Wizz",
 "The Coral|Dreaming of You|2002|QXt723fN1ss|The Coral|S1524|Indie Pop;Mod Revival;Mod;Pop;Rock|2861|Dreaming of You (The Coral song)",
 "Fred Astaire|Fascinating Rhythm|1926|-iO3p1i3uG0|Fred Astaire|S6474|Show Tunes;Traditional Pop;Musical Theatre and Entertainment;Pop;Soundtracks|2862|Fascinating Rhythm",
-"The Pogues|A Pair of Brown Eyes|1985|zNtQ5AnRlz8|The Pogues|S412|Celtic Rock;Folk Rock;Rock|2863|",
+"The Pogues|A Pair of Brown Eyes|1985|zNtQ5AnRlz8|The Pogues|S412|Celtic Rock;Folk Rock;Rock|2863|A Pair of Brown Eyes",
 "Cults|Go Outside|2010|eAM9diyVRiM|Cults (band)|S4952|Twee Pop;Indie Pop;Pop|2864|",
 "Beck|Lost Cause|2002|qkNa5xzOe5U|Beck|S4609|Folk Pop;Indie Folk;Singer/Songwriter;Contemporary Folk;Folk;Pop|2865|Lost Cause (Beck song)",
 "The Rolling Stones|Memory Motel|1976|MdpeyQkOK6g|The Rolling Stones|S8232|Blues Rock;Rock|2866|Memory Motel",
