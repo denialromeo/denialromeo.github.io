@@ -2227,7 +2227,7 @@ const albums = [
 "Albert Ayler|Albert Ayler in Greenwich Village|1967|OLAK5uy_nSpj5aNcbSqEyrmiEr2XzQodIigZqy5lw|A1963|Albert Ayler in Greenwich Village|Albert Ayler|Free Jazz;Avant-Garde Jazz;Jazz|2226",
 "Tom Rush|The Circle Game|1968|OLAK5uy_n8o8g06MSARBsJJgv70s7GpnM9fnJo3Cs|A1310|The Circle Game (album)|Tom Rush|Contemporary Folk;Folk|2227",
 "Love|Da Capo|1966|OLAK5uy_mLWdeoGB79dmoKdpjBCxRC3uWuLJS-Oiw|A105|Da Capo (Love album)|Love (band)|Psychedelic Pop;Psychedelic Rock;Pop;Rock|2228",
-"King Crimson|Larks' Tongues in Aspic|1973|PLXhfRoiJBIitfeySfg3M2JpsHofCulKv9|A2475|Larks' Tongues in Aspic|King Crimson|Progressive Rock;Rock|2229",
+"King Crimson|Larks' Tongues in Aspic|1973|OLAK5uy_mvAdnBPcernveulDXx75scAtTu8I0tZ_w|A2475|Larks' Tongues in Aspic|King Crimson|Progressive Rock;Rock|2229",
 "The Olivia Tremor Control|Music from the Unrealized Film Script, Dusk at Cubist Castle|1996|OLAK5uy_k90svNoIvVnE4xA1g0LpBHyoVNCPKp6iI|A1616|Music from the Unrealized Film Script: Dusk at Cubist Castle|The Olivia Tremor Control|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|2230",
 "Palace Music|Viva Last Blues|1995|OLAK5uy_n-oem12WfPtkDcHtustSveL4Hqa_5HLE0|A3570|Viva Last Blues|Will Oldham|Folk Rock;Rock|2231",
 "Michelle Shocked|Short Sharp Shocked|1988|https://www.youtube.com/embed/aBWFhZVhYbM|A727|Short Sharp Shocked|Michelle Shocked|Alt-Country;Folk Rock;Singer/Songwriter;Country;Rock|2232",
