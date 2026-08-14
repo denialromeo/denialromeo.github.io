@@ -2729,7 +2729,7 @@ const albums = [
 "John McLaughlin|Extrapolation|1969|OLAK5uy_mKm4NpG6DQs2o_fM-VCd5NOsejjFAetrg|A1991|Extrapolation (album)|John McLaughlin (musician)|Post-Bop;Bebop;Jazz|2728",
 "Marquis de Sade|Rue De Siam|1981|OLAK5uy_no773Y_CPIJZPGnhH5UREJiYQVs1_CSo4|A4657|Marquis de Sade (band)|Marquis de Sade (band)|Post-Punk;Rock|2729",
 "Cardinal|Cardinal|1994|OLAK5uy_mlJhN-JJW1734K0VLZ2tEepPN5UTk9iRY|A3543|Cardinal (Cardinal album)|Cardinal (band)|Chamber Pop;Baroque Pop;Indie Pop;Pop|2730",
-"Jimmy Reed|Jimmy Reed at Carnegie Hall|1961|PL2bP7EaimoqwPdxQPcREbgiLcRYfq0Bqw|A1278|Jimmy Reed at Carnegie Hall|Jimmy Reed|Chicago Blues;Blues;Electric Blues|2731",
+"Jimmy Reed|Jimmy Reed at Carnegie Hall|1961|PL18aWGdm8Xphmih9mHmLc2hzTcQZmXqak|A1278|Jimmy Reed at Carnegie Hall|Jimmy Reed|Chicago Blues;Blues;Electric Blues|2731",
 "The Animals|Animalisms|1966|PLEditHKlAe03U-ItfBkoL22m_coRb93Um|A85|Animalisms|The Animals|British Blues;Rhythm & Blues;Blues;Electric Blues;R&B|2732",
 "Bob Marley and The Wailers|Kaya|1978|OLAK5uy_lvzphoMpbHOIsTACZbMvLLr4t7dPM733c|A1441|Kaya (album)|Bob Marley and the Wailers|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|2733",
 "Veneno|Veneno|1977|OLAK5uy_npFUNQnjFsnO1fcKhvm6-yaSmdsUsW9PI|A4599|Kiko Veneno|Veneno|Andalusian Rock;Flamenco Nuevo;European Folk Music;Flamenco;Folk;Folk Rock;Hispanic Music;Progressive Rock;Regional Music;Rock;Spanish Folk Music;Spanish Music;Traditional Folk Music|2734",
