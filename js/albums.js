@@ -2897,7 +2897,7 @@ const albums = [
 "Beach House|Depression Cherry|2015|OLAK5uy_mMfEn3pGb4sxTe5RJ64S6mxfmctbYTUU8|A5560|Depression Cherry|Beach House|Dream Pop;Alternative Rock;Rock|2896",
 "June Christy|Something Cool|1954|OLAK5uy_nRCGUUZ77IUd8MsvXcUCmox-EUIR4f0Os|A1775|Something Cool|June Christy|Cool Jazz;Vocal Jazz;Jazz|2897",
 "Don Henley|The End of the Innocence|1989|OLAK5uy_mgqCs-oW21kkAOEIQzTTZcHWMdfX5hFQU|A3257|The End of the Innocence (album)|Don Henley|Pop Rock;Pop;Rock|2898",
-"Freddie King|Let's Hide Away and Dance Away with Freddie King|1961|PLVaZk5DMLikw9r0a4Q4X_BZvfp8-W2HfV|A2073|Let's Hide Away and Dance Away with Freddy King|Freddie King|Electric Texas Blues;Blues;Electric Blues|2899",
+"Freddie King|Let's Hide Away and Dance Away with Freddie King|1961|OLAK5uy_lBtc5MNqZBMNghijbHfrZiYZHrJqLKF_w|A2073|Let's Hide Away and Dance Away with Freddy King|Freddie King|Electric Texas Blues;Blues;Electric Blues|2899",
 "Booker Little|Out Front|1961|PLUJ7V33M1wR3gZURD7DeAsaEePw3au62E|A2508|Out Front (Booker Little album)|Booker Little|Hard Bop;Bebop;Jazz|2900",
 "Betty Davis|They Say I'm Different|1974|OLAK5uy_k-QMXEeg4XfFsJh4GO-qLVgm1fgfLlnKE|A3287|They Say I'm Different|Betty Davis|Funk;R&B|2901",
 "Captain Beefheart|The Spotlight Kid|1972|OLAK5uy_nCEGrhaTStaNNyGaNXukm6JaUINxHJIaY|A1365|The Spotlight Kid|Captain Beefheart|Blues Rock;Experimental Rock;Rock|2902",
