@@ -1639,7 +1639,7 @@ const albums = [
 "Foals|Total Life Forever|2010|OLAK5uy_liQGDYxBk6eUKlG_B1gY0IYV1uWt72bfI|A5066|Total Life Forever|Foals (band)|Indie Rock;Alternative Rock;Rock|1638",
 "Bob Dylan|Another Side of Bob Dylan|1964|OLAK5uy_kSTPNg-P2kLY_AIptDZ4tY4eFNNL9FdYA|A12|Another Side of Bob Dylan|Bob Dylan|Contemporary Folk;Singer/Songwriter;Folk|1639",
 "Joni Mitchell|Ladies of the Canyon|1970|OLAK5uy_lsOZ54A8SgMV77G16sUTyV6q8YTgZIyA4|A1127|Ladies of the Canyon (album)|Joni Mitchell|Contemporary Folk;Singer/Songwriter;Folk|1640",
-"Big Joe Turner|The Boss of the Blues|1956|PLvxWibFr0wiK7YoDjBL2jp63Xl8M3waqy|A1224|The Boss of the Blues|Big Joe Turner|Rhythm & Blues;R&B|1641",
+"Big Joe Turner|The Boss of the Blues|1956|OLAK5uy_nJ7-4R_RWwGwg56hShvAbX9x8WAHAF-aQ|A1224|The Boss of the Blues|Big Joe Turner|Rhythm & Blues;R&B|1641",
 "Sleigh Bells|Treats|2010|OLAK5uy_mQq3cBIJUAxfaU3qAllYKD2vblF2T7WDs|A5096|Treats (album)|Sleigh Bells (band)|Noise Pop;Alternative Rock;Rock|1642",
 "Paul Weller|Wild Wood|1993|OLAK5uy_kxKRYdqHjvpd9-8XP7z0ZtcZ4Crr7N2DM|A884|Wild Wood|Paul Weller|Pop Rock;Singer/Songwriter;Pop;Rock|1643",
 "Peter Gabriel|Security|1982|OLAK5uy_mSvB9XwXxI02PhJI3_ZNdXGIghlKOvWNQ|A558|Peter Gabriel (1982 album)|Peter Gabriel|Art Rock;Rock|1644",
