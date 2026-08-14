@@ -2570,7 +2570,7 @@ const albums = [
 "Black Rebel Motorcycle Club|B.R.M.C.|2001|OLAK5uy_m4qtM2c1mlbS5RDFZAWqR66sPADi4GOzA|A1220|B.R.M.C. (album)|Black Rebel Motorcycle Club|Garage Rock;Indie Rock;Psychedelic Rock;Alternative Rock;Rock|2569",
 "Au Pairs|Playing with a Different Sex|1981|PLZzKsHzifXto6zov_UgnFJh4MKkwR-tnb|A533|Playing with a Different Sex|Au Pairs|Post-Punk;Rock|2570",
 "Fabrizio De André|Crêuza de mä|1984|OLAK5uy_kHNHgtFS_pWVjfFL8udiopzWHRSJWR230|A2834|Crêuza de mä|Fabrizio De André|Contemporary Folk;Folk|2571",
-"Stereolab|Dots and Loops|1997|PLs9zwqXsceUihme7S8Eg8taVw2lTf1naS|A3658|Dots and Loops|Stereolab|Art Pop;Electronic;Pop|2572",
+"Stereolab|Dots and Loops|1997|OLAK5uy_kYVyM7OGNa0iBZkLYokPMO_4xNv2aEHkI|A3658|Dots and Loops|Stereolab|Art Pop;Electronic;Pop|2572",
 "Fleet Foxes|Crack-Up|2017|OLAK5uy_msaqUimFS5VVKlOFe_nrXoWdI_ulIOzfE|A5894|Crack-Up (album)|Fleet Foxes|Chamber Folk;Progressive Folk;Contemporary Folk;Folk|2573",
 "Glenn Branca|The Ascension|1981|https://www.youtube.com/embed/JeYMC8g6pZ4|A2878|The Ascension (Glenn Branca album)|Glenn Branca|No Wave;Noise Rock;Experimental Rock;Post-Punk;Rock|2574",
 "Feist|Metals|2011|OLAK5uy_kUov0C071V3JYmVAsTmAFUM6vhQC_ZKbU|A5141|Metals (album)|Feist (singer)|Art Pop;Indie Pop;Singer/Songwriter;Pop|2575",
