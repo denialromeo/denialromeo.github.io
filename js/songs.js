@@ -257,7 +257,7 @@ const songs = [
 "Frankie Goes to Hollywood|Relax|1983|7WZ33w3B8Hw|Frankie Goes to Hollywood|S462|Dance-Pop;Synthpop;Dance;Electronic;Pop|256|",
 "Kraftwerk|The Model|1978|-s4zRw16tMA|Kraftwerk|S630|Synthpop;Electronic;Pop|257|Das Model",
 "Arcade Fire|Rebellion (Lies)|2004|MQvZ4N1RfS8|Arcade Fire|S3001|Chamber Pop;Indie Rock;Alternative Rock;Baroque Pop;Indie Pop;Pop;Rock|258|Rebellion (Lies)",
-"The Beach Boys|Don't Worry Baby|1964|AG6KU1F8RbI|The Beach Boys|S1660|Doo-Wop;Vocal Surf;Pop;Pop Rock;R&B;Rock;Surf Music;Vocal Group|259|Don't Worry Baby",
+"The Beach Boys|Don't Worry Baby|1964|6embFRuqxa4|The Beach Boys|S1660|Doo-Wop;Vocal Surf;Pop;Pop Rock;R&B;Rock;Surf Music;Vocal Group|259|Don't Worry Baby",
 "Pixies|Debaser|1989|PVyS9JwtFoQ|Pixies (band)|S2433|Indie Rock;Alternative Rock;Rock|260|Debaser",
 "The Velvet Underground|Sweet Jane|1970|uHxLawJONeQ|The Velvet Underground|S838|Pop Rock;Pop;Rock|261|Sweet Jane",
 "Frankie Lymon and the Teenagers|Why Do Fools Fall in Love|1955|jFr89i8SmnI|The Teenagers|S1263|Doo-Wop;R&B;Vocal Group|262|Why Do Fools Fall in Love (song)",
