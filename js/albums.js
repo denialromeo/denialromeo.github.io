@@ -2133,7 +2133,7 @@ const albums = [
 "Lester Young|Lester Young with the Oscar Peterson Trio|1954|OLAK5uy_nb9lftJ-BBZgXciIDt3JUn3-2L-hDu2w8|A2213|Lester Young with the Oscar Peterson Trio|Lester Young|Swing;Jazz|2132",
 "Scritti Politti|Cupid & Psyche 85|1985|OLAK5uy_mPSpdzRuFhnoTnWnms-4PmHTG_YrqeAwQ|A659|Cupid & Psyche 85|Scritti Politti|Sophisti-Pop;Synthpop;Electronic;Pop|2133",
 "You Am I|Hi Fi Way|1995|OLAK5uy_l2rrsRjdsTwZ1y1VXiAe6sUPZ689WWpKg|A3359|Hi Fi Way|You Am I|Power Pop;Pop;Pop Rock;Rock|2134",
-"Jimmy Giuffre 3|Fusion|1961|PL1468A73E3ACFC8DE|A1902|Fusion (Jimmy Giuffre 3 album)|Jimmy Giuffre|Cool Jazz;Third Stream;Jazz|2135",
+"Jimmy Giuffre 3|Fusion|1961|OLAK5uy_nn8kUFzimDEW-Gzn616EnXVrm7QFdKcRY|A1902|Fusion (Jimmy Giuffre 3 album)|Jimmy Giuffre|Cool Jazz;Third Stream;Jazz|2135",
 "Lynyrd Skynyrd|Street Survivors|1977|OLAK5uy_l9lCFFIc0PDhsVUfIi1tSgo_rtzQcisus|A1190|Street Survivors|Lynyrd Skynyrd|Southern Rock;Rock|2136",
 "Rory Gallagher|Live! In Europe|1972|OLAK5uy_mJV9VT42HiwQ2DyIu0gE4Du6JSNiN36o0|A2424|Live in Europe (Rory Gallagher album)|Rory Gallagher|Blues Rock;Rock|2137",
 "The Meters|Rejuvenation|1974|OLAK5uy_m4RyL0Bgny1f3efGjzGhnlORvR_4GQLhs|A2527|Rejuvenation (The Meters album)|The Meters|Funk;New Orleans R&B;R&B|2138",
