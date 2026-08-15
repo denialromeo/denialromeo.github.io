@@ -8687,7 +8687,7 @@ const songs = [
 "Elvis Costello|Tokyo Storm Warning|1986|s_B4x-JrW0s|Elvis Costello|S6249|Pop Rock;Singer/Songwriter;Pop;Rock|8686|",
 "Prince|Paisley Park|1985|1mhL5ynXzB0|Prince (musician)|S8010|Neo-Psychedelia;Pop Rock;Psychedelic Pop;Pop;Psychedelic Rock;Rock|8687|Paisley Park (song)",
 "Father John Misty|Mr. Tillman|2018|j5B5IGqyy2s|Josh Tillman|S16590|Folk Pop;Indie Pop;Contemporary Folk;Folk;Pop|8688|Father John Misty",
-"The Magnetic Fields|100,000 Fireflies|1991|w9bzB3q8prk|The Magnetic Fields|S11519|Twee Pop;Indie Pop;Pop|8689|",
+"The Magnetic Fields|100,000 Fireflies|1991|kRIyX1jf9lQ|The Magnetic Fields|S11519|Twee Pop;Indie Pop;Pop|8689|",
 "King Pleasure|Moody's Mood for Love|1952|Kv55-8EQCf0|King Pleasure|S13534|Bebop;Rhythm & Blues;Vocal Jazz;Jazz;R&B|8690|Moody's Mood for Love",
 "Judas Priest|The Ripper|1976|lriWlHZAy8A|Judas Priest|S13847|Hard Rock;Heavy Metal;Metal;Rock|8691|Tim \"Ripper\" Owens",
 "Cowboy Junkies|Sweet Jane|1988|Fa9nN3G2CSg|Cowboy Junkies|S5877|Dream Pop;Slowcore;Alternative Rock;Indie Rock;Rock|8692|Sweet Jane",
