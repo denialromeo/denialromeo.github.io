@@ -1835,7 +1835,7 @@ const albums = [
 "Phoebe Bridgers|Stranger in the Alps|2017|OLAK5uy_kYhzYWB3Xj1X7gvSd_It-p0xmmEIuT2TU|A5962|Stranger in the Alps|Phoebe Bridgers|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk|1834",
 "The Dream Syndicate|Medicine Show|1984|PL8--pq2FCbFH9LXzWaO5l8MmCLFsijI1H|A612|Medicine Show (album)|The Dream Syndicate|Paisley Underground;Psychedelic Rock;Rock|1835",
 "Beirut|The Flying Club Cup|2007|OLAK5uy_ndu_wdZmQH-JDssl2VRJ7ZW29IjTG-Gs0|A4260|The Flying Club Cup|Beirut (band)|Indie Folk;Contemporary Folk;Folk|1836",
-"Blumfeld|Old Nobody|1999|PLWgwb_bh8piVrhoiUGnmCYPbl2Mgj8ZYM|A3028|Blumfeld|Blumfeld|Indie Pop;Singer/Songwriter;Pop|1837",
+"Blumfeld|Old Nobody|1999|OLAK5uy_mgRYWpNdzWUx0_qA5b4mRdoXRVIhbQ2l0|A3028|Blumfeld|Blumfeld|Indie Pop;Singer/Songwriter;Pop|1837",
 "Toto|IV|1982|OLAK5uy_m2QlEWxtNVMr_UTLBZVvlg1JpHue3wyx8|A1484|Toto IV|Toto (band)|AOR;Pop Rock;Pop;Rock|1838",
 "The 13th Floor Elevators|Easter Everywhere|1967|OLAK5uy_lcWRl-XU4UIQebKkY79bJZrAeGzfJ-CTs|A1299|Easter Everywhere|The 13th Floor Elevators|Psychedelic Rock;Rock|1839",
 "Mark Hollis|Mark Hollis|1998|OLAK5uy_mvyPVsKSatAkP5Q9p70mjKWhSuIKmL1S4|A3704|Mark Hollis (album)|Mark Hollis|Ambient Pop;Singer/Songwriter;Pop|1840",
