@@ -1902,7 +1902,7 @@ const albums = [
 "808 State|Newbuild|1988|PLp5VPWaW11ymmZNovtVzI-DBA8h4tSq_n|A3225|Newbuild (album)|808 State|Acid House;Dance;Electronic;Electronic Dance Music;House|1901",
 "Muddy Waters|Folk Singer|1964|OLAK5uy_lhgXpmLphS_Y4pT17W2J1x5OWnua2M1EI|A1293|Folk Singer (album)|Muddy Waters|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|1902",
 "Emerson, Lake & Palmer|Brain Salad Surgery|1973|OLAK5uy_k0hQMgNN7BQdyXhurRMojLEASGtZlbdGo|A2473|Brain Salad Surgery|Emerson, Lake & Palmer|Progressive Rock;Rock|1903",
-"Jimmy Giuffre 3|Thesis|1961|PLestjaPEwHQ-MKh2EeGeA-kDBKCTOcOZo|A1903|Thesis (Jimmy Giuffre 3 album)|Jimmy Giuffre|Cool Jazz;Third Stream;Jazz|1904",
+"Jimmy Giuffre 3|Thesis|1961|OLAK5uy_nn8kUFzimDEW-Gzn616EnXVrm7QFdKcRY|A1903|Thesis (Jimmy Giuffre 3 album)|Jimmy Giuffre|Cool Jazz;Third Stream;Jazz|1904",
 "Ketama|Songhai|1988|OLAK5uy_nxHzcBymDhz0RaYzFv9i2nbs8uGbN64hs|A2897|Songhai (album)|Ketama|African Folk Music;Flamenco Nuevo;Songhai Music;African Music;European Folk Music;Flamenco;Folk;Hispanic Music;Regional Music;Spanish Folk Music;Spanish Music;Traditional Folk Music;West African Music|1905",
 "Michael Jackson|Dangerous|1991|OLAK5uy_m9zXENU37EA1SQOBMJVncMstQXSntpAXg|A3375|Dangerous (Michael Jackson album)|Michael Jackson|Contemporary R&B;Pop;R&B|1906",
 "Dizzy Gillespie|Groovin' High|1955|OLAK5uy_lmlcbKfTOht3DJWxOyKjr8_SKOrVc_HzU|A1784|Groovin' High (Dizzy Gillespie album)|Dizzy Gillespie|Bebop;Jazz|1907",
