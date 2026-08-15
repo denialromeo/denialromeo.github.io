@@ -1948,7 +1948,7 @@ const albums = [
 "Fleetwood Mac|Tusk|1979|OLAK5uy_l4jG1YrbpjxAqzfy5HgYu0gZEpHBsjr9c|A1455|Tusk (album)|Fleetwood Mac|Pop Rock;Pop;Rock|1947",
 "Kings of Leon|Aha Shake Heartbreak|2004|OLAK5uy_lh9Ejhss2deBBRK1PmLFBYXcwFP_Zln48|A4109|Aha Shake Heartbreak|Kings of Leon|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|1948",
 "Deafheaven|New Bermuda|2015|OLAK5uy_l8XOWXshMf_g8g__gnUsRgIN8uwWiRo0Q|A5561|New Bermuda (album)|Deafheaven|Atmospheric Black Metal;Black Metal;Metal;Rock|1949",
-"Salif Keita|Moffou|2002|PLlnl0mu4jSQ238dX6JM6rI4694en7hT0z|A4896|Moffou|Salif Keita|Mande Music;African Music;Regional Music;West African Music|1950",
+"Salif Keita|Moffou|2002|OLAK5uy_mNo55YaYGxEnlGfFbL3X6m0AU9XujpqN8|A4896|Moffou|Salif Keita|Mande Music;African Music;Regional Music;West African Music|1950",
 "black midi|Schlagenheim|2019|OLAK5uy_kDywRWnE1m9W15HG-N59PnP2rm9rUr_vY|A6222|Schlagenheim|Black Midi|Experimental Rock;Math Rock;Noise Rock;Alternative Rock;Rock|1951",
 "Roy Orbison|Mystery Girl|1989|OLAK5uy_kUO3-mWUW0WZl7YxQPUSCRHddr50j2eg4|A780|Mystery Girl|Roy Orbison|Pop Rock;Pop;Rock|1952",
 "Frank Sinatra and Antonio Carlos Jobim|Francis Albert Sinatra and Antonio Carlos Jobim|1967|OLAK5uy_l_xSuODLAE7NvAcbplR8s9-1GouUeWSoE|A1978|Francis Albert Sinatra & Antônio Carlos Jobim|Antônio Carlos Jobim|Bossa Nova;Standards;Vocal Jazz;Brazilian Music;Jazz;Pop;Regional Music;Traditional Pop|1953",
