@@ -2421,7 +2421,7 @@ const albums = [
 "Ali Farka Touré|Savane|2006|OLAK5uy_muH3Jd2_Fx21IvV2kxe0kfsm8Q4W7JUNM|A2148|Savane (album)|Ali Farka Touré|Blues;Mande Music;Songhai Music;African Music;Regional Music;West African Music|2420",
 "Alaska y Dinarama|Deseo carnal|1984|OLAK5uy_mJosfjyVgGKnXfCpKaryWf6AjZWGorwfw|A4693|https://es.wikipedia.org/wiki/Deseo_carnal|Alaska (singer)|New Wave;Pop Rock;Pop;Rock|2421",
 "Aphex Twin|Drukqs|2001|OLAK5uy_kqtENKafwOg96cqWcB0BVuFCf2iTroYqk|A3859|Drukqs|Aphex Twin|IDM;Electronic|2422",
-"Godspeed You! Black Emperor|Allelujah! Don't Bend! Ascend!|2012|PL2nMsXpW5XVAkP7qkjyUFLulNRYEcdKck|A5217|'Allelujah! Don't Bend! Ascend!|Godspeed You! Black Emperor|Post-Rock;Rock|2423",
+"Godspeed You! Black Emperor|Allelujah! Don't Bend! Ascend!|2012|PL5SMXYhIcZ5KfuXTgVQPdqQRsze4Q-tMA|A5217|'Allelujah! Don't Bend! Ascend!|Godspeed You! Black Emperor|Post-Rock;Rock|2423",
 "Big Country|The Crossing|1983|OLAK5uy_nF3I5yYVL06fMYmGTdPpfj-pCskxnd-qg|A582|The Crossing (Big Country album)|Big Country|Celtic Rock;Pop Rock;Folk Rock;Pop;Rock|2424",
 "Deftones|Around the Fur|1997|OLAK5uy_nRSkRJt8rcj69IxpxI4GP1ilibtxJmoBg|A3675|Around the Fur|Deftones|Nu Metal;Alternative Metal;Metal;Rock|2425",
 "John Talabot|fIN|2012|OLAK5uy_n_ulQXLfHvNPYAQGQY_RI8lj3jtOz2NmA|A5241|Fin (John Talabot album)|John Talabot|Balearic Beat;Dance;Electronic;Electronic Dance Music;House|2426",
