@@ -977,7 +977,7 @@ const albums = [
 "Cowboy Junkies|The Trinity Session|1988|OLAK5uy_nW1S0BjWRFWH95IL0Io9aiRT1TBZmCao0|A750|The Trinity Session|Cowboy Junkies|Alt-Country;Contemporary Folk;Country;Folk|976",
 "Andrew Hill|Point of Departure|1965|OLAK5uy_lulIBVvUlKX7rm-K3araqOoD_MudOiwoY|A1944|Point of Departure (Andrew Hill album)|Andrew Hill (jazz musician)|Avant-Garde Jazz;Jazz|977",
 "Godspeed You! Black Emperor|F♯ A♯ ∞|1997|PLCEE120B54837814D|A3668|F%E2%99%AF_A%E2%99%AF_%E2%88%9E|Godspeed You! Black Emperor|Post-Rock;Rock|978",
-"Blumfeld|L'Etat Et Moi|1994|PLOAgU191bGbwG4TEeWHrYUCKGeQVCk3Ot|A3539|L'Etat Et Moi|Blumfeld|Indie Rock;Alternative Rock;Rock|979",
+"Blumfeld|L'Etat Et Moi|1994|OLAK5uy_lFnInGIWzDJCyQws7Qf-tcpgo7ZGSwWu8|A3539|L'Etat Et Moi|Blumfeld|Indie Rock;Alternative Rock;Rock|979",
 "Fehlfarben|Monarchie und Alltag|1980|OLAK5uy_lz5Q6mivIsOcQnHJ_KEseOiHvu7cCZTok|A2818|Monarchie und Alltag|Fehlfarben|Neue Deutsche Welle;Post-Punk;Rock|980",
 "Chance the Rapper|Coloring Book|2016|OLAK5uy_lonMuZ6Ovr6ZzoOOfbhu9QOAv6bv0hRVA|A5707|Coloring Book (mixtape)|Chance the Rapper|Conscious Hip Hop;Pop Rap;Hip Hop|981",
 "The Ronettes|Presenting the Fabulous Ronettes featuring Veronica|1964|OLAK5uy_lGuN0Rv0vxr-VViatzAcOKcmG3DCjNKEw|A1288|Presenting the Fabulous Ronettes Featuring Veronica|The Ronettes|Brill Building;Girl Group;Pop|982",
