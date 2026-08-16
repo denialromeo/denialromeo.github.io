@@ -1990,7 +1990,7 @@ const albums = [
 "Lionel Richie|Can't Slow Down|1983|OLAK5uy_klrqXyGViTQtl7r7o9zZIpVckWIYA8PLc|A2952|Can't Slow Down (Lionel Richie album)|Lionel Richie|Pop Soul;Pop;R&B;Soul|1989",
 "Minor Threat|Minor Threat|1981|OLAK5uy_nR5qqYxWEFViIO08fo8GhARWjeh0ZspUA|A3013|Minor Threat (album)|Minor Threat|Hardcore Punk;Punk Rock;Rock|1990",
 "Tom Petty|Wildflowers|1994|OLAK5uy_lfYfdBOC83MvlaQe0sIgUIE4fIRN4keZU|A3525|Wildflowers (Tom Petty album)|Tom Petty|Heartland Rock;Pop Rock;Singer/Songwriter;Pop;Rock|1991",
-"Bob Dylan|Bob Dylan|1962|PLYq_mcte9NvCCthOQhYEWbjYMVVseFfqz|A2070|Bob Dylan (album)|Bob Dylan|Contemporary Folk;Country Blues;Acoustic Blues;American Folk Music;Blues;Folk;Regional Music;Traditional Folk Music|1992",
+"Bob Dylan|Bob Dylan|1962|OLAK5uy_l7D9hGX_xs1BU_GR8tYgPI2a9qyeAC7pY|A2070|Bob Dylan (album)|Bob Dylan|Contemporary Folk;Country Blues;Acoustic Blues;American Folk Music;Blues;Folk;Regional Music;Traditional Folk Music|1992",
 "Jim O'Rourke|Eureka|1999|PLialZX_P8Sl0iXkHSIX6AgCm22kzyhXHi|A3759|Eureka (Jim O'Rourke album)|Jim O'Rourke (musician)|Art Pop;Chamber Pop;Jazz Pop;Baroque Pop;Indie Pop;Pop|1993",
 "Gang Starr|Moment of Truth|1998|OLAK5uy_lICp-4Zf-Fg9E_bbj3zty7GPGkKQXjYsw|A1040|Moment of Truth (Gang Starr album)|Gang Starr|Boom Bap;Hip Hop|1994",
 "Thom Yorke|The Eraser|2006|OLAK5uy_mxEj8A2wBMSAmSsynNrkrGp091CzVpag8|A2145|The Eraser|Thom Yorke|Indietronica;Electronic|1995",
