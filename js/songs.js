@@ -2039,7 +2039,7 @@ const songs = [
 "Jan and Dean|Surf City|1963|i0YkeQbn1ao|Jan and Dean|S1070|Surf Rock;Vocal Surf;Pop;Pop Rock;Rock;Surf Music|2038|Surf City (song)",
 "Joey Beltram|Energy Flash|1990|ALsHox5sYCk|Joey Beltram|S240|Techno;Dance;Electronic;Electronic Dance Music|2039|",
 "Neil Young|On the Beach|1974|C9CkvAQkQLs|Neil Young|S7686|Blues Rock;Jazz-Rock;Singer/Songwriter;Rock|2040|",
-"Stiff Little Fingers|Alternative Ulster|1978|PlGmYetiCjA|Stiff Little Fingers|S2334|Punk Rock;Rock|2041|",
+"Stiff Little Fingers|Alternative Ulster|1978|PlGmYetiCjA|Stiff Little Fingers|S2334|Punk Rock;Rock|2041|Alternative Ulster (song)",
 "U2|Mysterious Ways|1991|TxcDTUMLQJI|U2|S2037|Alternative Dance;Pop Rock;Alternative Rock;Dance;Pop;Rock|2042|Mysterious Ways (song)",
 "Spoon|The Underdog|2007|p50JG49loH8|Spoon (band)|S4303|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|2043|The Underdog (song)",
 "Primal Scream|Swastika Eyes|1999|bY6Wqp5UYJE|Primal Scream|S1358|Alternative Dance;Big Beat;Alternative Rock;Breakbeat;Dance;Electronic;Electronic Dance Music;Rock|2044|Swastika Eyes",
