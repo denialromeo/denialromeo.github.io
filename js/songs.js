@@ -3943,7 +3943,7 @@ const songs = [
 "Nine Inch Nails|The Hand That Feeds|2005|xwhBRJStz7w|Nine Inch Nails|S7749|Alternative Rock;Industrial Rock;Industrial Music;Rock|3942|",
 "ABBA|Take a Chance on Me|1978|-crgQGdpZR0|ABBA|S3128|Europop;Pop|3943|Take a Chance on Me",
 "Eddy Grant|Electric Avenue|1982|Yxep-9BQ6Uo|Eddy Grant|S1905|Electro-Disco;Pop Reggae;Synthpop;Caribbean Music;Dance;Disco;Electronic;Electronic Dance Music;Jamaican Music;Pop;Reggae;Regional Music|3944|Electric Avenue (song)",
-"Bob Seger|Against the Wind|1980|r5ZegCEmkN4|Bob Seger|S3798|Heartland Rock;Pop Rock;Pop;Rock|3945|Against the Wind (Bob Seger song)",
+"Bob Seger|Against the Wind|1980|2vRsEC65NTA|Bob Seger|S3798|Heartland Rock;Pop Rock;Pop;Rock|3945|Against the Wind (Bob Seger song)",
 "The Doors|Roadhouse Blues|1970|BgQg3J7xU1k|The Doors|S6141|Blues Rock;Rock|3946|Roadhouse Blues",
 "Barry White|Can't Get Enough of Your Love, Babe|1974|LBf6RErcQM0|Barry White|S1764|Smooth Soul;R&B;Soul|3947|Can't Get Enough of Your Love, Babe",
 "The Go-Betweens|Streets of Your Town|1988|g-TJd2RnWgQ|The Go-Betweens|S6597|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|3948|Streets of Your Town",
