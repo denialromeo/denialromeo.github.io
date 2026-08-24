@@ -10061,7 +10061,7 @@ const songs = [
 "Cat Power|Cherokee|2012|PDbPrOuXq2s|Cat Power|S10363|Art Pop;Singer/Songwriter;Pop|10060|Sun (Cat Power album)",
 "Fleetwood Mac|Little Lies|1987|uCGD9dT12C0|Fleetwood Mac|S10827|Pop Rock;Pop;Rock|10061|Little Lies",
 "Guns N' Roses|Live and Let Die|1991|6D9vAItORgE|Guns N' Roses|S10992|Hard Rock;Rock|10062|Live and Let Die (song)",
-"Robert Miles|Children|1996|DvyCbevQbtI|Robert Miles|S8177|Dream Trance;Dance;Electronic;Electronic Dance Music;Trance|10063|",
+"Robert Miles|Children|1996|DvyCbevQbtI|Robert Miles|S8177|Dream Trance;Dance;Electronic;Electronic Dance Music;Trance|10063|Children (composition)",
 "Wild Nothing|Live in Dreams|2010|DsaH2kGnYvc|Wild Nothing|S9025|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock|10064|",
 "Skrillex|Scary Monsters and Nice Sprites|2010|WSeNSzJ2-Jw|Skrillex|S16297|Brostep;Dance;Dubstep;Electronic;Electronic Dance Music|10065|",
 "Barry Manilow|Copacabana|1978|CrTBRQiQKRw?start=73|Barry Manilow|S12667|Pop|10066|Copacabana (song)",
