@@ -618,7 +618,7 @@ const songs = [
 "Salt 'n' Pepa|Push It|1987|vCadcBR95oU|Salt-N-Pepa|S351|East Coast Hip Hop;Pop Rap;Hip Hop|617|Push It (Salt-n-Pepa song)",
 "Roxy Music|Love Is the Drug|1975|0n3OepDn5GU|Roxy Music|S703|Art Rock;Funk Rock;Glam Rock;Rock|618|Love Is the Drug",
 "Mahalia Jackson|Move On Up a Little Higher|1947|cT1PCN3YKZ8|Mahalia Jackson|S2701|Gospel;American Folk Music;Folk;Regional Music;Traditional Folk Music|619|Move On Up a Little Higher",
-"Japandroids|The House That Heaven Built|2012|YqaEQTi3rew|Japandroids|S5018|Indie Rock;Alternative Rock;Rock|620|",
+"Japandroids|The House That Heaven Built|2012|YqaEQTi3rew|Japandroids|S5018|Indie Rock;Alternative Rock;Rock|620|The House That Heaven Built",
 "Louis Armstrong|What a Wonderful World|1967|CaCSuzR4DwM|Louis Armstrong|S2842|Traditional Pop;Vocal Jazz;Jazz;Pop|621|What a Wonderful World",
 "Wilco|Jesus, Etc.|2002|USMsgVbf8Us|Wilco|S3112|Alt-Country;Chamber Pop;Baroque Pop;Country;Indie Pop;Pop|622|",
 "Julie London|Cry Me a River|1955|9o79K-BUEW8|Julie London|S2778|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop|623|Cry Me a River (Arthur Hamilton song)",
