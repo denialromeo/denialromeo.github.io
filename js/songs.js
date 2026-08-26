@@ -7089,7 +7089,7 @@ const songs = [
 "The Crests|Sixteen Candles|1958|NlXlZb18F20|The Crests|S3308|Doo-Wop;R&B;Vocal Group|7088|16 Candles (song)",
 "Jennifer Holliday|And I Am Telling You I'm Not Going|1982|Yn5zoivCYVg|Jennifer Holliday|S14551|Show Tunes;Soul;Musical Theatre and Entertainment;R&B;Soundtracks|7089|And I Am Telling You I'm Not Going",
 "Bo Diddley|Mona|1957|DIQey99uW5E|Bo Diddley|S3332|Electric Blues;Rhythm & Blues;Rock & Roll;Blues;R&B;Rock|7090|Mona (I Need You Baby)",
-"Tame Impala|Apocalypse Dreams|2012|DmmvZrBnQ4M|Kevin Parker (musician)|S8679|Neo-Psychedelia;Space Rock;Psychedelic Rock;Rock|7091|",
+"Tame Impala|Apocalypse Dreams|2012|DmmvZrBnQ4M|Kevin Parker (musician)|S8679|Neo-Psychedelia;Space Rock;Psychedelic Rock;Rock|7091|Apocalypse Dreams",
 "Christopher Cross|Ride Like the Wind|1979|LpBi1-ts_0k|Christopher Cross|S10408|Yacht Rock;Pop;Pop Rock;Rock|7092|Ride Like the Wind",
 "Bob Dylan|To Ramona|1964|qOD_-5F-sBM|Bob Dylan|S10246|Contemporary Folk;Singer/Songwriter;Folk|7093|To Ramona",
 "Modest Mouse|3rd Planet|2000|epBbuk7x1sI|Modest Mouse|S4668|Art Rock;Indie Rock;Alternative Rock;Rock|7094|",
