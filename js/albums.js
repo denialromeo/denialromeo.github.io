@@ -2005,7 +2005,7 @@ const albums = [
 "Fugazi|Red Medicine|1995|OLAK5uy_mblHoD6YtHxabYHuQzoWSswWccwii7nCk|A3574|Red Medicine|Fugazi|Post-Hardcore;Punk Rock;Rock|2004",
 "John Coltrane|Ballads|1963|OLAK5uy_lELmp3lItqC6VDTGJLkvFuFBidfOH_WrQ|A1907|Ballads (John Coltrane album)|John Coltrane|Cool Jazz;Modal Jazz;Jazz|2005",
 "Courtney Barnett|Tell Me How You Really Feel|2018|OLAK5uy_mfIomj5yjAqsIWFrxrit7PlK30-EYGGMY|A6032|Tell Me How You Really Feel|Courtney Barnett|Indie Rock;Singer/Songwriter;Alternative Rock;Rock|2006",
-"Björk|Utopia|2017|OLAK5uy_mZ0q3J_tFYjz4jGQvEonQFLPzySPl8ABQ|A5864|Utopia (Björk album)|Björk|Art Pop;Glitch Pop;Electronic;Pop|2007",
+"Björk|Utopia|2017|OLAK5uy_mbttpLaxorpyvICaqO4NFkD_9nSeiSuDo|A5864|Utopia (Björk album)|Björk|Art Pop;Glitch Pop;Electronic;Pop|2007",
 "Cheap Trick|In Color|1977|OLAK5uy_nwqkdQSn99j4jITGJAN101bAPUjpV1YLM|A1157|In Color (album)|Cheap Trick|Hard Rock;Power Pop;Pop;Pop Rock;Rock|2008",
 "Scissor Sisters|Scissor Sisters|2004|OLAK5uy_lf3OhfoH_2gwPSITxV7IV8jtWPqSvFark|A4037|Scissor Sisters (album)|Scissor Sisters|Dance-Pop;Pop Rock;Dance;Pop;Rock|2009",
 "War|The World Is a Ghetto|1972|OLAK5uy_mNoDa5G0lNoPHlM-0UWaHCYfTyoGxDREY|A1366|The World Is a Ghetto|War (American band)|Funk;Soul;R&B|2010",
