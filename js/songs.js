@@ -10236,7 +10236,7 @@ const songs = [
 "Adele|When We Were Young|2015|HeYMmrLA9aQ|Adele|S9701|Pop Soul;Pop;R&B;Soul|10235|When We Were Young (Adele song)",
 "N*E*R*D feat. Rihanna|Lemon|2017|L_u97PqWX6g|N.E.R.D.|S16456|Hyphy;Pop Rap;Hip Hop|10236|",
 "Arrested Development|Mr. Wendal|1992|GfxvsHpTZWk|Arrested Development (group)|S15252|Conscious Hip Hop;Southern Hip Hop;Hip Hop|10237|Mr. Wendal",
-"Crime|Hot Wire My Heart|1976|pLeslavEByQ|Crime (band)|S5899|Punk Rock;Rock|10238|",
+"Crime|Hot Wire My Heart|1976|eDqMfKNydVQ|Crime (band)|S5899|Punk Rock;Rock|10238|",
 "The Misunderstood|Children of the Sun|1969|mrRImjZlD38|The Misunderstood|S13314|Garage Rock;Psychedelic Rock;Rock|10239|Children of the Sun",
 "PJ Harvey|A Perfect Day Elise|1998|D3tD9EPOEik|PJ Harvey|S7972|Alternative Rock;Singer/Songwriter;Rock|10240|A Perfect Day Elise",
 "Malcolm McLaren|Soweto|1983|afZ7VCIeSvQ|Malcolm McLaren|S2905|Dance-Pop;New Wave;Dance;Pop;Rock|10241|Buffalo Gals (Malcolm McLaren song)",
