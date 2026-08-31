@@ -3586,7 +3586,7 @@ const songs = [
 "Paul Weller|Wild Wood|1993|A9_ffgwLVCs|Paul Weller|S4497|Singer/Songwriter|3585|Wild Wood (Paul Weller song)",
 "Eagles|Lyin' Eyes|1975|PqccEpqvwPY|Eagles (band)|S3381|Country Rock;Soft Rock;Pop;Pop Rock;Rock|3586|Lyin' Eyes",
 "Barbara Lewis|Hello Stranger|1963|Yupq5dVNHlU|Barbara Lewis|S3560|Soul;R&B|3587|Hello Stranger (song)",
-"Herbie Hancock|Maiden Voyage|1966|hwmRQ0PBtXU|Herbie Hancock|S11027|Modal Jazz;Jazz|3588|",
+"Herbie Hancock|Maiden Voyage|1966|EWC5x9G45yo|Herbie Hancock|S11027|Modal Jazz;Jazz|3588|",
 "John Martyn|Solid Air|1973|PCCWqYfZVi0|John Martyn|S2580|Jazz-Rock;Singer/Songwriter;Rock|3589|Solid Air",
 "Billie Eilish|Bury a Friend|2019|HUHC9tYz8ik|Billie Eilish|S16743|Alternative R&B;Electropop;Contemporary R&B;Electronic;Pop;R&B|3590|Bury a Friend",
 "Raspberries|Overnight Sensation (Hit Record)|1974|B8fdckTDNI8|Raspberries (band)|S728|Power Pop;Pop;Pop Rock;Rock|3591|Overnight Sensation (Hit Record)",
