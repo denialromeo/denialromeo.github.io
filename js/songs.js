@@ -9846,7 +9846,7 @@ const songs = [
 "Leroy Anderson|Blue Tango|1951|MAXNIar0fhY|Leroy Anderson|S7245|Pops Orchestra;Tango;Easy Listening;Hispanic Music;Latin American Music;Pop;Regional Music|9845|",
 "The Gun Club|Mother of Earth|1982|o927nBd1ilM|The Gun Club|S9236|Post-Punk;Rock|9846|Miami (The Gun Club album)",
 "Jacques Dutronc|L'opportuniste|1968|L_ADZYCUkDA|Jacques Dutronc|S11120|Chanson;Regional Music|9847|",
-"Squid|The Cleaner|2019|T3XY6FPrbuM|Squid (band)|S16957|Art Punk;Dance-Punk;Post-Punk;Punk Rock;Rock|9848|",
+"Squid|The Cleaner|2019|T3XY6FPrbuM|Squid (band)|S16957|Art Punk;Dance-Punk;Post-Punk;Punk Rock;Rock|9848|Town Centre (EP)",
 "Daniel Lavoie|Ils s'aiment|1983|qJPxlP3m4DM|Daniel Lavoie|S10500|French Pop;Pop|9849|",
 "Boards of Canada|Dayvan Cowboy|2005|A2zKARkpDW4|Boards of Canada|S13698|Downtempo;Folktronica;Electronic|9850|",
 "Pete Heller|Big Love|1999|416iiYA7wsU|Pete Heller|S2166|French House;Funky House;Dance;Electronic;Electronic Dance Music;House|9851|",
