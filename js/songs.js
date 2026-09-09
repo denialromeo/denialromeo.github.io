@@ -8619,7 +8619,7 @@ const songs = [
 "ESG|You're No Good|1981|TfUvZLxnEvI|ESG (band)|S2897|Dance-Punk;Post-Punk;Rock|8618|",
 "The D.O.C.|It's Funky Enough|1989|UiPbeIXZpD4|The D.O.C.|S5937|Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|8619|",
 "Stereophonics|Just Looking|1999|Xy3T8FmyeE8|Stereophonics|S12307|Britpop;Alternative Rock;Pop;Pop Rock;Rock|8620|Just Looking (song)",
-"Benny Goodman|Avalon|1937|n2iNkh81I-s|Benny Goodman|S13153|Big Band;Dixieland;Jazz|8621|Frankie Avalon",
+"Benny Goodman|Avalon|1937|lc5bwnRT8hw|Benny Goodman|S13153|Big Band;Dixieland;Jazz|8621|Frankie Avalon",
 "Fats Domino|Let the Four Winds Blow|1961|tNTSvy4nDus|Fats Domino|S6360|New Orleans R&B;R&B|8622|",
 "The Romantics|Talking in Your Sleep|1983|JmGMzyajA2U|The Romantics|S12106|New Wave;Power Pop;Pop;Pop Rock;Rock|8623|Talking in Your Sleep (The Romantics song)",
 "Supergrass|Richard III|1997|UnXrrOxzZCE|Supergrass|S2959|Britpop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|8624|Richard III (song)",
