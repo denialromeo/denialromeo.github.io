@@ -1275,7 +1275,7 @@ const songs = [
 "The Guess Who|American Woman|1970|Es8F-mdNVCc|The Guess Who|S2300|Blues Rock;Rock|1274|American Woman",
 "Pulp|This Is Hardcore|1998|JXbLyi5wgeg|Pulp (band)|S284|Art Rock;Chamber Pop;Baroque Pop;Indie Pop;Pop;Rock|1275|This Is Hardcore (song)",
 "Jay-Z|Hard Knock Life (Ghetto Anthem)|1998|lpZgKI97K1M|Jay-Z|S291|East Coast Hip Hop;Pop Rap;Hip Hop|1276|",
-"Donna Summer|Hot Stuff|1979|nYMeJSehCe4|Donna Summer|S581|Disco;Dance|1277|Hot Stuff (Donna Summer song)",
+"Donna Summer|Hot Stuff|1979|KhcaPNuaJNU|Donna Summer|S581|Disco;Dance|1277|Hot Stuff (Donna Summer song)",
 "Green Day|Longview|1994|42BBdzzgPNM|Green Day|S117|Pop Punk;Punk Rock;Rock|1278|",
 "Elvis Presley|Can't Help Falling in Love|1961|vGJTaP6anOU|Elvis Presley|S1640|Blue Eyed Soul;Film Soundtrack;Pop;Soundtracks|1279|Can't Help Falling in Love",
 "Fleetwood Mac|Oh Well|1969|J0ag8DkipmQ|Fleetwood Mac|S1586|Blues Rock;Psychedelic Rock;Rock|1280|Oh Well (song)",
