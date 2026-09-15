@@ -1874,7 +1874,7 @@ const albums = [
 "Inner City|Paradise|1989|OLAK5uy_mZe2gAsXN7WwvZM25W_yZ4vsSBYemxgIQ|A775|Paradise (Inner City album)|Inner City (band)|Detroit Techno;House;Dance;Electronic;Electronic Dance Music;Techno|1873",
 "Rory Gallagher|Irish Tour '74|1974|OLAK5uy_nQLUu-PtJ79m0CSaACSZK36PEf9jQQ_jM|A1670|Irish Tour '74|Rory Gallagher|Blues Rock;Rock|1874",
 "David Bowie|The Man Who Sold the World|1970|OLAK5uy_nFLZQSiLN1Unp7-pgo0ZxmBiSkBFY5DNw|A1126|The Man Who Sold the World (album)|David Bowie|Glam Rock;Rock|1875",
-"Miles Davis|Cookin' with the Miles Davis Quintet|1957|OLAK5uy_lVoJQCYgviJTsWpzZPSVaXhp81UxKmmPo|A1816|Cookin' with the Miles Davis Quintet|Miles Davis|Hard Bop;Bebop;Jazz|1876",
+"Miles Davis|Cookin' with the Miles Davis Quintet|1957|OLAK5uy_ko1in_lDcanFCMZov568Ea8GQF_-nPDgg|A1816|Cookin' with the Miles Davis Quintet|Miles Davis|Hard Bop;Bebop;Jazz|1876",
 "Miles Davis|Steamin' with the Miles Davis Quintet|1961|OLAK5uy_n64ndRrGag05Yuke31lYWnRc9zRpc0tko|A1896|Steamin' with the Miles Davis Quintet|Miles Davis|Hard Bop;Bebop;Jazz|1877",
 "The Fall|The Wonderful and Frightening World Of...|1984|OLAK5uy_n3aaHcMxz4oHlY7YyfaA_dHTjDjfDoNhc|A3015|The Wonderful and Frightening World Of...|The Fall (band)|Post-Punk;Rock|1878",
 "Christine and The Queens|Chris|2018|OLAK5uy_nlY7W6FjetHgURseeuF7kwKb_ZaXvTyZA|A6036|Chris (album)|Christine and the Queens|Art Pop;Synthpop;Electronic;Pop|1879",
