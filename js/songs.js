@@ -9804,7 +9804,7 @@ const songs = [
 "Barbara Acklin|Love Makes a Woman|1968|kNYw26LqnLo|Barbara Acklin|S5320|Chicago Soul;R&B;Soul|9803|",
 "Clyde McPhatter|Lover Please|1962|S2kihVgTx2w|Clyde McPhatter|S5844|Rhythm & Blues;Soul;R&B|9804|",
 "Bruce Springsteen|One Step Up|1987|MkFQHScyti0|Bruce Springsteen|S10315|Heartland Rock;Rock|9805|One Step Up",
-"Violeta Parra|Gracias a la vida|1966|Y5KZSlUxBi8|Violeta Parra|S12910|Andean Folk Music;Neuva canción latinoameric;Singer/Songwriter;Folk;Hispanic Music;Latin American Folk Music;Latin American Music;Regional Music;Traditional Folk Music|9806|Gracias a la Vida",
+"Violeta Parra|Gracias a la vida|1966|w67-hlaUSIs|Violeta Parra|S12910|Andean Folk Music;Neuva canción latinoameric;Singer/Songwriter;Folk;Hispanic Music;Latin American Folk Music;Latin American Music;Regional Music;Traditional Folk Music|9806|Gracias a la Vida",
 "Killing Joke|Eighties|1984|x1U1Ue_5kq8|Killing Joke|S2355|Post-Punk;Rock|9807|Eighties (song)",
 "Hank Williams, Jr.|Family Tradition|1979|xd0TGfZSACI|Hank Williams Jr.|S13805|Outlaw Country;Country;Progressive Country|9808|Family Tradition (Hank Williams Jr. song)",
 "Jim Croce|Operator (That's Not the Way It Feels)|1972|48Kiv8uhL7o|Jim Croce|S13832|Singer/Songwriter|9809|Operator (That's Not the Way It Feels)",
