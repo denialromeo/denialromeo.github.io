@@ -6751,7 +6751,7 @@ const songs = [
 "The Kinks|Where Have All the Good Times Gone?|1965|kGhTS6UTWj4|The Kinks|S7120|Garage Rock;Mod;Rock|6750|Where Have All the Good Times Gone",
 "Nick Gilder|Hot Child in the City|1978|6s2zm_crkVc|Nick Gilder|S7734|Glam Rock;Pop Rock;Pop;Rock|6751|Hot Child in the City",
 "The Righteous Brothers|Little Latin Lupe Lu|1963|_k_Hpx8YiDA|The Righteous Brothers|S1080|Rhythm & Blues;Rock & Roll;R&B;Rock|6752|Little Latin Lupe Lu",
-"Chairlift|Amanaemonesia|2011|yp2jTsWvH4M|Chairlift (band)|S10369|Indie Pop;Synthpop;Electronic;Pop|6753|",
+"Chairlift|Amanaemonesia|2011|98XRKr19jIE|Chairlift (band)|S10369|Indie Pop;Synthpop;Electronic;Pop|6753|",
 "Car Seat Headrest|Fill in the Blank|2016|s_a1hPwXiWw|Car Seat Headrest|S16049|Indie Rock;Alternative Rock;Rock|6754|",
 "Sidney Bechet|Blues in Thirds|1940|CFfmeeFoF7g|Sidney Bechet|S13248|Dixieland;Jazz|6755|",
 "Faith No More|I'm Easy|1992|vPzDTfIb0DU|Faith No More|S10782|Alternative Rock;Pop Rock;Pop;Rock|6756|https://en.wikipedia.org/wiki/Easy_(Commodores_song)#Faith_No_More_version",
