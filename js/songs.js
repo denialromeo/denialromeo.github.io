@@ -4803,7 +4803,7 @@ const songs = [
 "Simple Minds|Promised You a Miracle|1982|tX55HEX0hb0|Simple Minds|S503|New Romantic;Synthpop;Electronic;New Wave;Pop;Rock|4802|Promised You a Miracle",
 "Rosanne Cash|Seven Year Ache|1981|_AmPZFK66UI|Rosanne Cash|S3268|Country Pop;Singer/Songwriter;Country;Pop|4803|Seven Year Ache (song)",
 "The Ting Tings|Great DJ|2008|FH6wpO66J4k|The Ting Tings|S4754|Alternative Dance;Indie Pop;Alternative Rock;Dance;Pop;Rock|4804|",
-"Death Grips|Hacker|2012|uoZgZT4DGSY|Death Grips|S6002|Electro House;Glitch Hop;Hardcore Hip Hop;Industrial Hip Hop;Dance;Electronic;Electronic Dance Music;Experimental Hip Hop;Hip Hop;House;IDM;Industrial Music|4805|",
+"Death Grips|Hacker|2012|uoZgZT4DGSY|Death Grips|S6002|Electro House;Glitch Hop;Hardcore Hip Hop;Industrial Hip Hop;Dance;Electronic;Electronic Dance Music;Experimental Hip Hop;Hip Hop;House;IDM;Industrial Music|4805|The Money Store",
 "Antony and the Johnsons|Cripple And the Starfish|2000|P2IOHGlXMv4|Antony and the Johnsons|S4664|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop|4806|Cripple and the Starfish",
 "Led Zeppelin|Trampled Under Foot|1975|vamReLUOlrA|Led Zeppelin|S7210|Funk Rock;Hard Rock;Rock|4807|Trampled Under Foot",
 "Röyksopp|What Else Is There?|2005|ADBKdSCbmiM|Röyksopp|S8291|Art Pop;Downtempo;Electronic;Pop|4808|",
