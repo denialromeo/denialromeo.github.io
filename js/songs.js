@@ -7492,7 +7492,7 @@ const songs = [
 "New Order|Everything's Gone Green|1981|M4qFoKu-Po0|New Order (band)|S11742|Post-Punk;Synthpop;Electronic;Pop;Rock|7491|",
 "Joyce Sims|Come into My Life|1987|Opc1YmoXnNg|Joyce Sims|S7013|Contemporary R&B;Pop Soul;Pop;R&B;Soul|7492|Come into My Life (Joyce Sims song)",
 "The Four Seasons|Let's Hang On (To What We've Got)|1965|ukstBybSmos|The Four Seasons (band)|S6427|Blue Eyed Soul;Pop|7493|",
-"The Long Blondes|Giddy Stratospheres|2004|56tjK3HRFjU?start=11|The Long Blondes|S7297|Indie Pop;Indie Rock;New Wave;Alternative Rock;Pop;Rock|7494|",
+"The Long Blondes|Giddy Stratospheres|2004|56tjK3HRFjU?start=11|The Long Blondes|S7297|Indie Pop;Indie Rock;New Wave;Alternative Rock;Pop;Rock|7494|Giddy Stratospheres",
 "Pérez Prado|Patricia|1958|X5JoD2QMuW0|Pérez Prado|S7931|Mambo;Cuban Music;Hispanic Music;Latin American Music;Regional Music|7495|Patricia (Perez Prado song)",
 "The Walkmen|Angela Surf City|2010|l8r-T5KourM|The Walkmen|S8912|Indie Rock;Alternative Rock;Rock|7496|",
 "Gil Scott-Heron & Brian Jackson|We Almost Lost Detroit|1977|cpNUqNe0U5g|Gil Scott-Heron|S10937|Funk;Soul;R&B|7497|",
