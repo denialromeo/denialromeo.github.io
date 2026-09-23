@@ -2646,7 +2646,7 @@ const songs = [
 "Manu Chao|Bongo Bong|1998|cfLIlP-GAmg|Manu Chao|S7412|Latin Alternative;Hispanic Music;Latin American Music;Regional Music|2645|",
 "Eck Robertson|Sallie Gooden|1922|bt8ZQwYx-0o|Eck Robertson|S2737|Appalachian Folk Music;Old-Time;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|2646|",
 "The Vines|Get Free|2002|asOvnGHwtDU|The Vines (band)|S1506|Garage Punk;Garage Rock Revival;Garage Rock;Punk Rock;Rock|2647|Get Free (The Vines song)",
-"Smokey Robinson|Cruisin'|1979|WlzY6cWpoMQ|Smokey Robinson|S1572|Pop Soul;Smooth Soul;Pop;R&B;Soul|2648|Cruisin' (Smokey Robinson song)",
+"Smokey Robinson|Cruisin'|1979|cGsOCUaJlDE|Smokey Robinson|S1572|Pop Soul;Smooth Soul;Pop;R&B;Soul|2648|Cruisin' (Smokey Robinson song)",
 "Slade|Mama Weer All Crazee Now|1972|eEv6jy_7PQQ|Slade|S1555|Glam Rock;Hard Rock;Rock|2649|Mama Weer All Crazee Now",
 "The Congos|Fisherman|1977|mFTxmDy74LI|The Congos|S4552|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|2650|",
 "The Allman Brothers Band|Jessica|1973|1ToMMcQ3O3Q|The Allman Brothers Band|S735|Southern Rock;Rock|2651|Jessica (instrumental)",
