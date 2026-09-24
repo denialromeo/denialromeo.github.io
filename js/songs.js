@@ -7453,7 +7453,7 @@ const songs = [
 "Truth Hurts|Addictive|2002|OUJOjoDIbKk|Truth Hurts (singer)|S1522|Contemporary R&B;R&B|7452|Addictive (song)",
 "Gene Vincent|Blue Jean Bop|1956|b07HVaUtHss|Gene Vincent|S6519|Rockabilly;Rock;Rock & Roll|7453|",
 "Édith Piaf|L'Accordéoniste|1940|Vhu-0IBZm5s|Édith Piaf|S10683|Chanson;Regional Music|7454|L'Accordéoniste",
-"La Revolución De Emiliano Zapata|Nasty Sex|1970|iIFdv_WG-PA|La Revolución de Emiliano Zapata|S13537|Psychedelic Rock;Rock|7455|",
+"La Revolución De Emiliano Zapata|Nasty Sex|1970||La Revolución de Emiliano Zapata|S13537|Psychedelic Rock;Rock|7455|",
 "Nilsson|Jump Into the Fire|1971|CfjNpgZ4C5Q|Harry Nilsson|S11761|Acid Rock;Psychedelic Rock;Rock|7456|Jump into the Fire",
 "Electric Light Orchestra|Telephone Line|1976|cVvncz95yHc|Electric Light Orchestra|S6228|Baroque Pop;Pop Rock;Symphonic Rock;Pop;Rock|7457|Telephone Line (song)",
 "Jonathan Richman & The Modern Lovers|Egyptian Reggae|1977|2ZyMPToh9Yg|Jonathan Richman|S6994|Pop Rock;Pop;Rock|7458|",
